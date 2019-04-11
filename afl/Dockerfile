@@ -47,7 +47,7 @@ RUN make -C coreutils install
 
 FROM alpine
 
-# Install required pacakges
+# Install required packages
 RUN apk add --no-cache \
   acl \
   attr \ 

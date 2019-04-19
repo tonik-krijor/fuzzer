@@ -1,0 +1,13 @@
+-a
+-c
+-d 2000-01-01
+-f
+-h
+-m
+-r file/file1
+-t 201901010000.00
+--time=access
+--time=atime
+--time=use
+--help
+--version

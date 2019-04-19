@@ -1,0 +1,12 @@
+-d
+-u
+-q
+--suffix 1337
+-p
+-t
+--help
+--version
+--backup=none
+--backup=simple
+--backup=existing
+--backup=numbered

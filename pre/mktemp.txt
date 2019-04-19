@@ -297,302 +297,302 @@
  --backup=none --backup=simple --backup=numbered 
  --backup=none --backup=existing --backup=numbered 
  --backup=simple --backup=existing --backup=numbered 
- files/d2
- -d files/d2
- -u files/d2
- -q files/d2
- --suffix 1337 files/d2
- -p files/d2
- -t files/d2
- --help files/d2
- --version files/d2
- --backup=none files/d2
- --backup=simple files/d2
- --backup=existing files/d2
- --backup=numbered files/d2
- -d -u files/d2
- -d -q files/d2
- -d --suffix 1337 files/d2
- -d -p files/d2
- -d -t files/d2
- -d --help files/d2
- -d --version files/d2
- -d --backup=none files/d2
- -d --backup=simple files/d2
- -d --backup=existing files/d2
- -d --backup=numbered files/d2
- -u -q files/d2
- -u --suffix 1337 files/d2
- -u -p files/d2
- -u -t files/d2
- -u --help files/d2
- -u --version files/d2
- -u --backup=none files/d2
- -u --backup=simple files/d2
- -u --backup=existing files/d2
- -u --backup=numbered files/d2
- -q --suffix 1337 files/d2
- -q -p files/d2
- -q -t files/d2
- -q --help files/d2
- -q --version files/d2
- -q --backup=none files/d2
- -q --backup=simple files/d2
- -q --backup=existing files/d2
- -q --backup=numbered files/d2
- --suffix 1337 -p files/d2
- --suffix 1337 -t files/d2
- --suffix 1337 --help files/d2
- --suffix 1337 --version files/d2
- --suffix 1337 --backup=none files/d2
- --suffix 1337 --backup=simple files/d2
- --suffix 1337 --backup=existing files/d2
- --suffix 1337 --backup=numbered files/d2
- -p -t files/d2
- -p --help files/d2
- -p --version files/d2
- -p --backup=none files/d2
- -p --backup=simple files/d2
- -p --backup=existing files/d2
- -p --backup=numbered files/d2
- -t --help files/d2
- -t --version files/d2
- -t --backup=none files/d2
- -t --backup=simple files/d2
- -t --backup=existing files/d2
- -t --backup=numbered files/d2
- --help --version files/d2
- --help --backup=none files/d2
- --help --backup=simple files/d2
- --help --backup=existing files/d2
- --help --backup=numbered files/d2
- --version --backup=none files/d2
- --version --backup=simple files/d2
- --version --backup=existing files/d2
- --version --backup=numbered files/d2
- --backup=none --backup=simple files/d2
- --backup=none --backup=existing files/d2
- --backup=none --backup=numbered files/d2
- --backup=simple --backup=existing files/d2
- --backup=simple --backup=numbered files/d2
- --backup=existing --backup=numbered files/d2
- -d -u -q files/d2
- -d -u --suffix 1337 files/d2
- -d -u -p files/d2
- -d -u -t files/d2
- -d -u --help files/d2
- -d -u --version files/d2
- -d -u --backup=none files/d2
- -d -u --backup=simple files/d2
- -d -u --backup=existing files/d2
- -d -u --backup=numbered files/d2
- -d -q --suffix 1337 files/d2
- -d -q -p files/d2
- -d -q -t files/d2
- -d -q --help files/d2
- -d -q --version files/d2
- -d -q --backup=none files/d2
- -d -q --backup=simple files/d2
- -d -q --backup=existing files/d2
- -d -q --backup=numbered files/d2
- -d --suffix 1337 -p files/d2
- -d --suffix 1337 -t files/d2
- -d --suffix 1337 --help files/d2
- -d --suffix 1337 --version files/d2
- -d --suffix 1337 --backup=none files/d2
- -d --suffix 1337 --backup=simple files/d2
- -d --suffix 1337 --backup=existing files/d2
- -d --suffix 1337 --backup=numbered files/d2
- -d -p -t files/d2
- -d -p --help files/d2
- -d -p --version files/d2
- -d -p --backup=none files/d2
- -d -p --backup=simple files/d2
- -d -p --backup=existing files/d2
- -d -p --backup=numbered files/d2
- -d -t --help files/d2
- -d -t --version files/d2
- -d -t --backup=none files/d2
- -d -t --backup=simple files/d2
- -d -t --backup=existing files/d2
- -d -t --backup=numbered files/d2
- -d --help --version files/d2
- -d --help --backup=none files/d2
- -d --help --backup=simple files/d2
- -d --help --backup=existing files/d2
- -d --help --backup=numbered files/d2
- -d --version --backup=none files/d2
- -d --version --backup=simple files/d2
- -d --version --backup=existing files/d2
- -d --version --backup=numbered files/d2
- -d --backup=none --backup=simple files/d2
- -d --backup=none --backup=existing files/d2
- -d --backup=none --backup=numbered files/d2
- -d --backup=simple --backup=existing files/d2
- -d --backup=simple --backup=numbered files/d2
- -d --backup=existing --backup=numbered files/d2
- -u -q --suffix 1337 files/d2
- -u -q -p files/d2
- -u -q -t files/d2
- -u -q --help files/d2
- -u -q --version files/d2
- -u -q --backup=none files/d2
- -u -q --backup=simple files/d2
- -u -q --backup=existing files/d2
- -u -q --backup=numbered files/d2
- -u --suffix 1337 -p files/d2
- -u --suffix 1337 -t files/d2
- -u --suffix 1337 --help files/d2
- -u --suffix 1337 --version files/d2
- -u --suffix 1337 --backup=none files/d2
- -u --suffix 1337 --backup=simple files/d2
- -u --suffix 1337 --backup=existing files/d2
- -u --suffix 1337 --backup=numbered files/d2
- -u -p -t files/d2
- -u -p --help files/d2
- -u -p --version files/d2
- -u -p --backup=none files/d2
- -u -p --backup=simple files/d2
- -u -p --backup=existing files/d2
- -u -p --backup=numbered files/d2
- -u -t --help files/d2
- -u -t --version files/d2
- -u -t --backup=none files/d2
- -u -t --backup=simple files/d2
- -u -t --backup=existing files/d2
- -u -t --backup=numbered files/d2
- -u --help --version files/d2
- -u --help --backup=none files/d2
- -u --help --backup=simple files/d2
- -u --help --backup=existing files/d2
- -u --help --backup=numbered files/d2
- -u --version --backup=none files/d2
- -u --version --backup=simple files/d2
- -u --version --backup=existing files/d2
- -u --version --backup=numbered files/d2
- -u --backup=none --backup=simple files/d2
- -u --backup=none --backup=existing files/d2
- -u --backup=none --backup=numbered files/d2
- -u --backup=simple --backup=existing files/d2
- -u --backup=simple --backup=numbered files/d2
- -u --backup=existing --backup=numbered files/d2
- -q --suffix 1337 -p files/d2
- -q --suffix 1337 -t files/d2
- -q --suffix 1337 --help files/d2
- -q --suffix 1337 --version files/d2
- -q --suffix 1337 --backup=none files/d2
- -q --suffix 1337 --backup=simple files/d2
- -q --suffix 1337 --backup=existing files/d2
- -q --suffix 1337 --backup=numbered files/d2
- -q -p -t files/d2
- -q -p --help files/d2
- -q -p --version files/d2
- -q -p --backup=none files/d2
- -q -p --backup=simple files/d2
- -q -p --backup=existing files/d2
- -q -p --backup=numbered files/d2
- -q -t --help files/d2
- -q -t --version files/d2
- -q -t --backup=none files/d2
- -q -t --backup=simple files/d2
- -q -t --backup=existing files/d2
- -q -t --backup=numbered files/d2
- -q --help --version files/d2
- -q --help --backup=none files/d2
- -q --help --backup=simple files/d2
- -q --help --backup=existing files/d2
- -q --help --backup=numbered files/d2
- -q --version --backup=none files/d2
- -q --version --backup=simple files/d2
- -q --version --backup=existing files/d2
- -q --version --backup=numbered files/d2
- -q --backup=none --backup=simple files/d2
- -q --backup=none --backup=existing files/d2
- -q --backup=none --backup=numbered files/d2
- -q --backup=simple --backup=existing files/d2
- -q --backup=simple --backup=numbered files/d2
- -q --backup=existing --backup=numbered files/d2
- --suffix 1337 -p -t files/d2
- --suffix 1337 -p --help files/d2
- --suffix 1337 -p --version files/d2
- --suffix 1337 -p --backup=none files/d2
- --suffix 1337 -p --backup=simple files/d2
- --suffix 1337 -p --backup=existing files/d2
- --suffix 1337 -p --backup=numbered files/d2
- --suffix 1337 -t --help files/d2
- --suffix 1337 -t --version files/d2
- --suffix 1337 -t --backup=none files/d2
- --suffix 1337 -t --backup=simple files/d2
- --suffix 1337 -t --backup=existing files/d2
- --suffix 1337 -t --backup=numbered files/d2
- --suffix 1337 --help --version files/d2
- --suffix 1337 --help --backup=none files/d2
- --suffix 1337 --help --backup=simple files/d2
- --suffix 1337 --help --backup=existing files/d2
- --suffix 1337 --help --backup=numbered files/d2
- --suffix 1337 --version --backup=none files/d2
- --suffix 1337 --version --backup=simple files/d2
- --suffix 1337 --version --backup=existing files/d2
- --suffix 1337 --version --backup=numbered files/d2
- --suffix 1337 --backup=none --backup=simple files/d2
- --suffix 1337 --backup=none --backup=existing files/d2
- --suffix 1337 --backup=none --backup=numbered files/d2
- --suffix 1337 --backup=simple --backup=existing files/d2
- --suffix 1337 --backup=simple --backup=numbered files/d2
- --suffix 1337 --backup=existing --backup=numbered files/d2
- -p -t --help files/d2
- -p -t --version files/d2
- -p -t --backup=none files/d2
- -p -t --backup=simple files/d2
- -p -t --backup=existing files/d2
- -p -t --backup=numbered files/d2
- -p --help --version files/d2
- -p --help --backup=none files/d2
- -p --help --backup=simple files/d2
- -p --help --backup=existing files/d2
- -p --help --backup=numbered files/d2
- -p --version --backup=none files/d2
- -p --version --backup=simple files/d2
- -p --version --backup=existing files/d2
- -p --version --backup=numbered files/d2
- -p --backup=none --backup=simple files/d2
- -p --backup=none --backup=existing files/d2
- -p --backup=none --backup=numbered files/d2
- -p --backup=simple --backup=existing files/d2
- -p --backup=simple --backup=numbered files/d2
- -p --backup=existing --backup=numbered files/d2
- -t --help --version files/d2
- -t --help --backup=none files/d2
- -t --help --backup=simple files/d2
- -t --help --backup=existing files/d2
- -t --help --backup=numbered files/d2
- -t --version --backup=none files/d2
- -t --version --backup=simple files/d2
- -t --version --backup=existing files/d2
- -t --version --backup=numbered files/d2
- -t --backup=none --backup=simple files/d2
- -t --backup=none --backup=existing files/d2
- -t --backup=none --backup=numbered files/d2
- -t --backup=simple --backup=existing files/d2
- -t --backup=simple --backup=numbered files/d2
- -t --backup=existing --backup=numbered files/d2
- --help --version --backup=none files/d2
- --help --version --backup=simple files/d2
- --help --version --backup=existing files/d2
- --help --version --backup=numbered files/d2
- --help --backup=none --backup=simple files/d2
- --help --backup=none --backup=existing files/d2
- --help --backup=none --backup=numbered files/d2
- --help --backup=simple --backup=existing files/d2
- --help --backup=simple --backup=numbered files/d2
- --help --backup=existing --backup=numbered files/d2
- --version --backup=none --backup=simple files/d2
- --version --backup=none --backup=existing files/d2
- --version --backup=none --backup=numbered files/d2
- --version --backup=simple --backup=existing files/d2
- --version --backup=simple --backup=numbered files/d2
- --version --backup=existing --backup=numbered files/d2
- --backup=none --backup=simple --backup=existing files/d2
- --backup=none --backup=simple --backup=numbered files/d2
- --backup=none --backup=existing --backup=numbered files/d2
- --backup=simple --backup=existing --backup=numbered files/d2
+ helloXXXXXX
+ -d helloXXXXXX
+ -u helloXXXXXX
+ -q helloXXXXXX
+ --suffix 1337 helloXXXXXX
+ -p helloXXXXXX
+ -t helloXXXXXX
+ --help helloXXXXXX
+ --version helloXXXXXX
+ --backup=none helloXXXXXX
+ --backup=simple helloXXXXXX
+ --backup=existing helloXXXXXX
+ --backup=numbered helloXXXXXX
+ -d -u helloXXXXXX
+ -d -q helloXXXXXX
+ -d --suffix 1337 helloXXXXXX
+ -d -p helloXXXXXX
+ -d -t helloXXXXXX
+ -d --help helloXXXXXX
+ -d --version helloXXXXXX
+ -d --backup=none helloXXXXXX
+ -d --backup=simple helloXXXXXX
+ -d --backup=existing helloXXXXXX
+ -d --backup=numbered helloXXXXXX
+ -u -q helloXXXXXX
+ -u --suffix 1337 helloXXXXXX
+ -u -p helloXXXXXX
+ -u -t helloXXXXXX
+ -u --help helloXXXXXX
+ -u --version helloXXXXXX
+ -u --backup=none helloXXXXXX
+ -u --backup=simple helloXXXXXX
+ -u --backup=existing helloXXXXXX
+ -u --backup=numbered helloXXXXXX
+ -q --suffix 1337 helloXXXXXX
+ -q -p helloXXXXXX
+ -q -t helloXXXXXX
+ -q --help helloXXXXXX
+ -q --version helloXXXXXX
+ -q --backup=none helloXXXXXX
+ -q --backup=simple helloXXXXXX
+ -q --backup=existing helloXXXXXX
+ -q --backup=numbered helloXXXXXX
+ --suffix 1337 -p helloXXXXXX
+ --suffix 1337 -t helloXXXXXX
+ --suffix 1337 --help helloXXXXXX
+ --suffix 1337 --version helloXXXXXX
+ --suffix 1337 --backup=none helloXXXXXX
+ --suffix 1337 --backup=simple helloXXXXXX
+ --suffix 1337 --backup=existing helloXXXXXX
+ --suffix 1337 --backup=numbered helloXXXXXX
+ -p -t helloXXXXXX
+ -p --help helloXXXXXX
+ -p --version helloXXXXXX
+ -p --backup=none helloXXXXXX
+ -p --backup=simple helloXXXXXX
+ -p --backup=existing helloXXXXXX
+ -p --backup=numbered helloXXXXXX
+ -t --help helloXXXXXX
+ -t --version helloXXXXXX
+ -t --backup=none helloXXXXXX
+ -t --backup=simple helloXXXXXX
+ -t --backup=existing helloXXXXXX
+ -t --backup=numbered helloXXXXXX
+ --help --version helloXXXXXX
+ --help --backup=none helloXXXXXX
+ --help --backup=simple helloXXXXXX
+ --help --backup=existing helloXXXXXX
+ --help --backup=numbered helloXXXXXX
+ --version --backup=none helloXXXXXX
+ --version --backup=simple helloXXXXXX
+ --version --backup=existing helloXXXXXX
+ --version --backup=numbered helloXXXXXX
+ --backup=none --backup=simple helloXXXXXX
+ --backup=none --backup=existing helloXXXXXX
+ --backup=none --backup=numbered helloXXXXXX
+ --backup=simple --backup=existing helloXXXXXX
+ --backup=simple --backup=numbered helloXXXXXX
+ --backup=existing --backup=numbered helloXXXXXX
+ -d -u -q helloXXXXXX
+ -d -u --suffix 1337 helloXXXXXX
+ -d -u -p helloXXXXXX
+ -d -u -t helloXXXXXX
+ -d -u --help helloXXXXXX
+ -d -u --version helloXXXXXX
+ -d -u --backup=none helloXXXXXX
+ -d -u --backup=simple helloXXXXXX
+ -d -u --backup=existing helloXXXXXX
+ -d -u --backup=numbered helloXXXXXX
+ -d -q --suffix 1337 helloXXXXXX
+ -d -q -p helloXXXXXX
+ -d -q -t helloXXXXXX
+ -d -q --help helloXXXXXX
+ -d -q --version helloXXXXXX
+ -d -q --backup=none helloXXXXXX
+ -d -q --backup=simple helloXXXXXX
+ -d -q --backup=existing helloXXXXXX
+ -d -q --backup=numbered helloXXXXXX
+ -d --suffix 1337 -p helloXXXXXX
+ -d --suffix 1337 -t helloXXXXXX
+ -d --suffix 1337 --help helloXXXXXX
+ -d --suffix 1337 --version helloXXXXXX
+ -d --suffix 1337 --backup=none helloXXXXXX
+ -d --suffix 1337 --backup=simple helloXXXXXX
+ -d --suffix 1337 --backup=existing helloXXXXXX
+ -d --suffix 1337 --backup=numbered helloXXXXXX
+ -d -p -t helloXXXXXX
+ -d -p --help helloXXXXXX
+ -d -p --version helloXXXXXX
+ -d -p --backup=none helloXXXXXX
+ -d -p --backup=simple helloXXXXXX
+ -d -p --backup=existing helloXXXXXX
+ -d -p --backup=numbered helloXXXXXX
+ -d -t --help helloXXXXXX
+ -d -t --version helloXXXXXX
+ -d -t --backup=none helloXXXXXX
+ -d -t --backup=simple helloXXXXXX
+ -d -t --backup=existing helloXXXXXX
+ -d -t --backup=numbered helloXXXXXX
+ -d --help --version helloXXXXXX
+ -d --help --backup=none helloXXXXXX
+ -d --help --backup=simple helloXXXXXX
+ -d --help --backup=existing helloXXXXXX
+ -d --help --backup=numbered helloXXXXXX
+ -d --version --backup=none helloXXXXXX
+ -d --version --backup=simple helloXXXXXX
+ -d --version --backup=existing helloXXXXXX
+ -d --version --backup=numbered helloXXXXXX
+ -d --backup=none --backup=simple helloXXXXXX
+ -d --backup=none --backup=existing helloXXXXXX
+ -d --backup=none --backup=numbered helloXXXXXX
+ -d --backup=simple --backup=existing helloXXXXXX
+ -d --backup=simple --backup=numbered helloXXXXXX
+ -d --backup=existing --backup=numbered helloXXXXXX
+ -u -q --suffix 1337 helloXXXXXX
+ -u -q -p helloXXXXXX
+ -u -q -t helloXXXXXX
+ -u -q --help helloXXXXXX
+ -u -q --version helloXXXXXX
+ -u -q --backup=none helloXXXXXX
+ -u -q --backup=simple helloXXXXXX
+ -u -q --backup=existing helloXXXXXX
+ -u -q --backup=numbered helloXXXXXX
+ -u --suffix 1337 -p helloXXXXXX
+ -u --suffix 1337 -t helloXXXXXX
+ -u --suffix 1337 --help helloXXXXXX
+ -u --suffix 1337 --version helloXXXXXX
+ -u --suffix 1337 --backup=none helloXXXXXX
+ -u --suffix 1337 --backup=simple helloXXXXXX
+ -u --suffix 1337 --backup=existing helloXXXXXX
+ -u --suffix 1337 --backup=numbered helloXXXXXX
+ -u -p -t helloXXXXXX
+ -u -p --help helloXXXXXX
+ -u -p --version helloXXXXXX
+ -u -p --backup=none helloXXXXXX
+ -u -p --backup=simple helloXXXXXX
+ -u -p --backup=existing helloXXXXXX
+ -u -p --backup=numbered helloXXXXXX
+ -u -t --help helloXXXXXX
+ -u -t --version helloXXXXXX
+ -u -t --backup=none helloXXXXXX
+ -u -t --backup=simple helloXXXXXX
+ -u -t --backup=existing helloXXXXXX
+ -u -t --backup=numbered helloXXXXXX
+ -u --help --version helloXXXXXX
+ -u --help --backup=none helloXXXXXX
+ -u --help --backup=simple helloXXXXXX
+ -u --help --backup=existing helloXXXXXX
+ -u --help --backup=numbered helloXXXXXX
+ -u --version --backup=none helloXXXXXX
+ -u --version --backup=simple helloXXXXXX
+ -u --version --backup=existing helloXXXXXX
+ -u --version --backup=numbered helloXXXXXX
+ -u --backup=none --backup=simple helloXXXXXX
+ -u --backup=none --backup=existing helloXXXXXX
+ -u --backup=none --backup=numbered helloXXXXXX
+ -u --backup=simple --backup=existing helloXXXXXX
+ -u --backup=simple --backup=numbered helloXXXXXX
+ -u --backup=existing --backup=numbered helloXXXXXX
+ -q --suffix 1337 -p helloXXXXXX
+ -q --suffix 1337 -t helloXXXXXX
+ -q --suffix 1337 --help helloXXXXXX
+ -q --suffix 1337 --version helloXXXXXX
+ -q --suffix 1337 --backup=none helloXXXXXX
+ -q --suffix 1337 --backup=simple helloXXXXXX
+ -q --suffix 1337 --backup=existing helloXXXXXX
+ -q --suffix 1337 --backup=numbered helloXXXXXX
+ -q -p -t helloXXXXXX
+ -q -p --help helloXXXXXX
+ -q -p --version helloXXXXXX
+ -q -p --backup=none helloXXXXXX
+ -q -p --backup=simple helloXXXXXX
+ -q -p --backup=existing helloXXXXXX
+ -q -p --backup=numbered helloXXXXXX
+ -q -t --help helloXXXXXX
+ -q -t --version helloXXXXXX
+ -q -t --backup=none helloXXXXXX
+ -q -t --backup=simple helloXXXXXX
+ -q -t --backup=existing helloXXXXXX
+ -q -t --backup=numbered helloXXXXXX
+ -q --help --version helloXXXXXX
+ -q --help --backup=none helloXXXXXX
+ -q --help --backup=simple helloXXXXXX
+ -q --help --backup=existing helloXXXXXX
+ -q --help --backup=numbered helloXXXXXX
+ -q --version --backup=none helloXXXXXX
+ -q --version --backup=simple helloXXXXXX
+ -q --version --backup=existing helloXXXXXX
+ -q --version --backup=numbered helloXXXXXX
+ -q --backup=none --backup=simple helloXXXXXX
+ -q --backup=none --backup=existing helloXXXXXX
+ -q --backup=none --backup=numbered helloXXXXXX
+ -q --backup=simple --backup=existing helloXXXXXX
+ -q --backup=simple --backup=numbered helloXXXXXX
+ -q --backup=existing --backup=numbered helloXXXXXX
+ --suffix 1337 -p -t helloXXXXXX
+ --suffix 1337 -p --help helloXXXXXX
+ --suffix 1337 -p --version helloXXXXXX
+ --suffix 1337 -p --backup=none helloXXXXXX
+ --suffix 1337 -p --backup=simple helloXXXXXX
+ --suffix 1337 -p --backup=existing helloXXXXXX
+ --suffix 1337 -p --backup=numbered helloXXXXXX
+ --suffix 1337 -t --help helloXXXXXX
+ --suffix 1337 -t --version helloXXXXXX
+ --suffix 1337 -t --backup=none helloXXXXXX
+ --suffix 1337 -t --backup=simple helloXXXXXX
+ --suffix 1337 -t --backup=existing helloXXXXXX
+ --suffix 1337 -t --backup=numbered helloXXXXXX
+ --suffix 1337 --help --version helloXXXXXX
+ --suffix 1337 --help --backup=none helloXXXXXX
+ --suffix 1337 --help --backup=simple helloXXXXXX
+ --suffix 1337 --help --backup=existing helloXXXXXX
+ --suffix 1337 --help --backup=numbered helloXXXXXX
+ --suffix 1337 --version --backup=none helloXXXXXX
+ --suffix 1337 --version --backup=simple helloXXXXXX
+ --suffix 1337 --version --backup=existing helloXXXXXX
+ --suffix 1337 --version --backup=numbered helloXXXXXX
+ --suffix 1337 --backup=none --backup=simple helloXXXXXX
+ --suffix 1337 --backup=none --backup=existing helloXXXXXX
+ --suffix 1337 --backup=none --backup=numbered helloXXXXXX
+ --suffix 1337 --backup=simple --backup=existing helloXXXXXX
+ --suffix 1337 --backup=simple --backup=numbered helloXXXXXX
+ --suffix 1337 --backup=existing --backup=numbered helloXXXXXX
+ -p -t --help helloXXXXXX
+ -p -t --version helloXXXXXX
+ -p -t --backup=none helloXXXXXX
+ -p -t --backup=simple helloXXXXXX
+ -p -t --backup=existing helloXXXXXX
+ -p -t --backup=numbered helloXXXXXX
+ -p --help --version helloXXXXXX
+ -p --help --backup=none helloXXXXXX
+ -p --help --backup=simple helloXXXXXX
+ -p --help --backup=existing helloXXXXXX
+ -p --help --backup=numbered helloXXXXXX
+ -p --version --backup=none helloXXXXXX
+ -p --version --backup=simple helloXXXXXX
+ -p --version --backup=existing helloXXXXXX
+ -p --version --backup=numbered helloXXXXXX
+ -p --backup=none --backup=simple helloXXXXXX
+ -p --backup=none --backup=existing helloXXXXXX
+ -p --backup=none --backup=numbered helloXXXXXX
+ -p --backup=simple --backup=existing helloXXXXXX
+ -p --backup=simple --backup=numbered helloXXXXXX
+ -p --backup=existing --backup=numbered helloXXXXXX
+ -t --help --version helloXXXXXX
+ -t --help --backup=none helloXXXXXX
+ -t --help --backup=simple helloXXXXXX
+ -t --help --backup=existing helloXXXXXX
+ -t --help --backup=numbered helloXXXXXX
+ -t --version --backup=none helloXXXXXX
+ -t --version --backup=simple helloXXXXXX
+ -t --version --backup=existing helloXXXXXX
+ -t --version --backup=numbered helloXXXXXX
+ -t --backup=none --backup=simple helloXXXXXX
+ -t --backup=none --backup=existing helloXXXXXX
+ -t --backup=none --backup=numbered helloXXXXXX
+ -t --backup=simple --backup=existing helloXXXXXX
+ -t --backup=simple --backup=numbered helloXXXXXX
+ -t --backup=existing --backup=numbered helloXXXXXX
+ --help --version --backup=none helloXXXXXX
+ --help --version --backup=simple helloXXXXXX
+ --help --version --backup=existing helloXXXXXX
+ --help --version --backup=numbered helloXXXXXX
+ --help --backup=none --backup=simple helloXXXXXX
+ --help --backup=none --backup=existing helloXXXXXX
+ --help --backup=none --backup=numbered helloXXXXXX
+ --help --backup=simple --backup=existing helloXXXXXX
+ --help --backup=simple --backup=numbered helloXXXXXX
+ --help --backup=existing --backup=numbered helloXXXXXX
+ --version --backup=none --backup=simple helloXXXXXX
+ --version --backup=none --backup=existing helloXXXXXX
+ --version --backup=none --backup=numbered helloXXXXXX
+ --version --backup=simple --backup=existing helloXXXXXX
+ --version --backup=simple --backup=numbered helloXXXXXX
+ --version --backup=existing --backup=numbered helloXXXXXX
+ --backup=none --backup=simple --backup=existing helloXXXXXX
+ --backup=none --backup=simple --backup=numbered helloXXXXXX
+ --backup=none --backup=existing --backup=numbered helloXXXXXX
+ --backup=simple --backup=existing --backup=numbered helloXXXXXX

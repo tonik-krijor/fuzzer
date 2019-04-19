@@ -13,7 +13,7 @@ mktemp_in_dir="args/mktemp.txt"
 mktemp_out_dir="pre/mktemp.txt"
 { 
   mixemup $mktemp_in_dir --max-args 3 &&
-  mixemup $mktemp_in_dir --postfix files/d2 --max-args 3;
+  mixemup $mktemp_in_dir --postfix helloXXXXXX --max-args 3;
 } > $mktemp_out_dir
 
 # Creates pre-files for the `mv` command.

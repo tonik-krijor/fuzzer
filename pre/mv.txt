@@ -1,0 +1,1976 @@
+ 
+ --backup=none 
+ --backup=simple 
+ --backup=existing 
+ --backup=numbered 
+ --backup=foo 
+ -b 
+ -f 
+ -i 
+ -n 
+ --strip-trailing-slashes 
+ -S=q 
+ -t=files 
+ -T 
+ -u 
+ -v 
+ -Z 
+ --help 
+ --version 
+ --backup=none --backup=simple 
+ --backup=none --backup=existing 
+ --backup=none --backup=numbered 
+ --backup=none --backup=foo 
+ --backup=none -b 
+ --backup=none -f 
+ --backup=none -i 
+ --backup=none -n 
+ --backup=none --strip-trailing-slashes 
+ --backup=none -S=q 
+ --backup=none -t=files 
+ --backup=none -T 
+ --backup=none -u 
+ --backup=none -v 
+ --backup=none -Z 
+ --backup=none --help 
+ --backup=none --version 
+ --backup=simple --backup=existing 
+ --backup=simple --backup=numbered 
+ --backup=simple --backup=foo 
+ --backup=simple -b 
+ --backup=simple -f 
+ --backup=simple -i 
+ --backup=simple -n 
+ --backup=simple --strip-trailing-slashes 
+ --backup=simple -S=q 
+ --backup=simple -t=files 
+ --backup=simple -T 
+ --backup=simple -u 
+ --backup=simple -v 
+ --backup=simple -Z 
+ --backup=simple --help 
+ --backup=simple --version 
+ --backup=existing --backup=numbered 
+ --backup=existing --backup=foo 
+ --backup=existing -b 
+ --backup=existing -f 
+ --backup=existing -i 
+ --backup=existing -n 
+ --backup=existing --strip-trailing-slashes 
+ --backup=existing -S=q 
+ --backup=existing -t=files 
+ --backup=existing -T 
+ --backup=existing -u 
+ --backup=existing -v 
+ --backup=existing -Z 
+ --backup=existing --help 
+ --backup=existing --version 
+ --backup=numbered --backup=foo 
+ --backup=numbered -b 
+ --backup=numbered -f 
+ --backup=numbered -i 
+ --backup=numbered -n 
+ --backup=numbered --strip-trailing-slashes 
+ --backup=numbered -S=q 
+ --backup=numbered -t=files 
+ --backup=numbered -T 
+ --backup=numbered -u 
+ --backup=numbered -v 
+ --backup=numbered -Z 
+ --backup=numbered --help 
+ --backup=numbered --version 
+ --backup=foo -b 
+ --backup=foo -f 
+ --backup=foo -i 
+ --backup=foo -n 
+ --backup=foo --strip-trailing-slashes 
+ --backup=foo -S=q 
+ --backup=foo -t=files 
+ --backup=foo -T 
+ --backup=foo -u 
+ --backup=foo -v 
+ --backup=foo -Z 
+ --backup=foo --help 
+ --backup=foo --version 
+ -b -f 
+ -b -i 
+ -b -n 
+ -b --strip-trailing-slashes 
+ -b -S=q 
+ -b -t=files 
+ -b -T 
+ -b -u 
+ -b -v 
+ -b -Z 
+ -b --help 
+ -b --version 
+ -f -i 
+ -f -n 
+ -f --strip-trailing-slashes 
+ -f -S=q 
+ -f -t=files 
+ -f -T 
+ -f -u 
+ -f -v 
+ -f -Z 
+ -f --help 
+ -f --version 
+ -i -n 
+ -i --strip-trailing-slashes 
+ -i -S=q 
+ -i -t=files 
+ -i -T 
+ -i -u 
+ -i -v 
+ -i -Z 
+ -i --help 
+ -i --version 
+ -n --strip-trailing-slashes 
+ -n -S=q 
+ -n -t=files 
+ -n -T 
+ -n -u 
+ -n -v 
+ -n -Z 
+ -n --help 
+ -n --version 
+ --strip-trailing-slashes -S=q 
+ --strip-trailing-slashes -t=files 
+ --strip-trailing-slashes -T 
+ --strip-trailing-slashes -u 
+ --strip-trailing-slashes -v 
+ --strip-trailing-slashes -Z 
+ --strip-trailing-slashes --help 
+ --strip-trailing-slashes --version 
+ -S=q -t=files 
+ -S=q -T 
+ -S=q -u 
+ -S=q -v 
+ -S=q -Z 
+ -S=q --help 
+ -S=q --version 
+ -t=files -T 
+ -t=files -u 
+ -t=files -v 
+ -t=files -Z 
+ -t=files --help 
+ -t=files --version 
+ -T -u 
+ -T -v 
+ -T -Z 
+ -T --help 
+ -T --version 
+ -u -v 
+ -u -Z 
+ -u --help 
+ -u --version 
+ -v -Z 
+ -v --help 
+ -v --version 
+ -Z --help 
+ -Z --version 
+ --help --version 
+ --backup=none --backup=simple --backup=existing 
+ --backup=none --backup=simple --backup=numbered 
+ --backup=none --backup=simple --backup=foo 
+ --backup=none --backup=simple -b 
+ --backup=none --backup=simple -f 
+ --backup=none --backup=simple -i 
+ --backup=none --backup=simple -n 
+ --backup=none --backup=simple --strip-trailing-slashes 
+ --backup=none --backup=simple -S=q 
+ --backup=none --backup=simple -t=files 
+ --backup=none --backup=simple -T 
+ --backup=none --backup=simple -u 
+ --backup=none --backup=simple -v 
+ --backup=none --backup=simple -Z 
+ --backup=none --backup=simple --help 
+ --backup=none --backup=simple --version 
+ --backup=none --backup=existing --backup=numbered 
+ --backup=none --backup=existing --backup=foo 
+ --backup=none --backup=existing -b 
+ --backup=none --backup=existing -f 
+ --backup=none --backup=existing -i 
+ --backup=none --backup=existing -n 
+ --backup=none --backup=existing --strip-trailing-slashes 
+ --backup=none --backup=existing -S=q 
+ --backup=none --backup=existing -t=files 
+ --backup=none --backup=existing -T 
+ --backup=none --backup=existing -u 
+ --backup=none --backup=existing -v 
+ --backup=none --backup=existing -Z 
+ --backup=none --backup=existing --help 
+ --backup=none --backup=existing --version 
+ --backup=none --backup=numbered --backup=foo 
+ --backup=none --backup=numbered -b 
+ --backup=none --backup=numbered -f 
+ --backup=none --backup=numbered -i 
+ --backup=none --backup=numbered -n 
+ --backup=none --backup=numbered --strip-trailing-slashes 
+ --backup=none --backup=numbered -S=q 
+ --backup=none --backup=numbered -t=files 
+ --backup=none --backup=numbered -T 
+ --backup=none --backup=numbered -u 
+ --backup=none --backup=numbered -v 
+ --backup=none --backup=numbered -Z 
+ --backup=none --backup=numbered --help 
+ --backup=none --backup=numbered --version 
+ --backup=none --backup=foo -b 
+ --backup=none --backup=foo -f 
+ --backup=none --backup=foo -i 
+ --backup=none --backup=foo -n 
+ --backup=none --backup=foo --strip-trailing-slashes 
+ --backup=none --backup=foo -S=q 
+ --backup=none --backup=foo -t=files 
+ --backup=none --backup=foo -T 
+ --backup=none --backup=foo -u 
+ --backup=none --backup=foo -v 
+ --backup=none --backup=foo -Z 
+ --backup=none --backup=foo --help 
+ --backup=none --backup=foo --version 
+ --backup=none -b -f 
+ --backup=none -b -i 
+ --backup=none -b -n 
+ --backup=none -b --strip-trailing-slashes 
+ --backup=none -b -S=q 
+ --backup=none -b -t=files 
+ --backup=none -b -T 
+ --backup=none -b -u 
+ --backup=none -b -v 
+ --backup=none -b -Z 
+ --backup=none -b --help 
+ --backup=none -b --version 
+ --backup=none -f -i 
+ --backup=none -f -n 
+ --backup=none -f --strip-trailing-slashes 
+ --backup=none -f -S=q 
+ --backup=none -f -t=files 
+ --backup=none -f -T 
+ --backup=none -f -u 
+ --backup=none -f -v 
+ --backup=none -f -Z 
+ --backup=none -f --help 
+ --backup=none -f --version 
+ --backup=none -i -n 
+ --backup=none -i --strip-trailing-slashes 
+ --backup=none -i -S=q 
+ --backup=none -i -t=files 
+ --backup=none -i -T 
+ --backup=none -i -u 
+ --backup=none -i -v 
+ --backup=none -i -Z 
+ --backup=none -i --help 
+ --backup=none -i --version 
+ --backup=none -n --strip-trailing-slashes 
+ --backup=none -n -S=q 
+ --backup=none -n -t=files 
+ --backup=none -n -T 
+ --backup=none -n -u 
+ --backup=none -n -v 
+ --backup=none -n -Z 
+ --backup=none -n --help 
+ --backup=none -n --version 
+ --backup=none --strip-trailing-slashes -S=q 
+ --backup=none --strip-trailing-slashes -t=files 
+ --backup=none --strip-trailing-slashes -T 
+ --backup=none --strip-trailing-slashes -u 
+ --backup=none --strip-trailing-slashes -v 
+ --backup=none --strip-trailing-slashes -Z 
+ --backup=none --strip-trailing-slashes --help 
+ --backup=none --strip-trailing-slashes --version 
+ --backup=none -S=q -t=files 
+ --backup=none -S=q -T 
+ --backup=none -S=q -u 
+ --backup=none -S=q -v 
+ --backup=none -S=q -Z 
+ --backup=none -S=q --help 
+ --backup=none -S=q --version 
+ --backup=none -t=files -T 
+ --backup=none -t=files -u 
+ --backup=none -t=files -v 
+ --backup=none -t=files -Z 
+ --backup=none -t=files --help 
+ --backup=none -t=files --version 
+ --backup=none -T -u 
+ --backup=none -T -v 
+ --backup=none -T -Z 
+ --backup=none -T --help 
+ --backup=none -T --version 
+ --backup=none -u -v 
+ --backup=none -u -Z 
+ --backup=none -u --help 
+ --backup=none -u --version 
+ --backup=none -v -Z 
+ --backup=none -v --help 
+ --backup=none -v --version 
+ --backup=none -Z --help 
+ --backup=none -Z --version 
+ --backup=none --help --version 
+ --backup=simple --backup=existing --backup=numbered 
+ --backup=simple --backup=existing --backup=foo 
+ --backup=simple --backup=existing -b 
+ --backup=simple --backup=existing -f 
+ --backup=simple --backup=existing -i 
+ --backup=simple --backup=existing -n 
+ --backup=simple --backup=existing --strip-trailing-slashes 
+ --backup=simple --backup=existing -S=q 
+ --backup=simple --backup=existing -t=files 
+ --backup=simple --backup=existing -T 
+ --backup=simple --backup=existing -u 
+ --backup=simple --backup=existing -v 
+ --backup=simple --backup=existing -Z 
+ --backup=simple --backup=existing --help 
+ --backup=simple --backup=existing --version 
+ --backup=simple --backup=numbered --backup=foo 
+ --backup=simple --backup=numbered -b 
+ --backup=simple --backup=numbered -f 
+ --backup=simple --backup=numbered -i 
+ --backup=simple --backup=numbered -n 
+ --backup=simple --backup=numbered --strip-trailing-slashes 
+ --backup=simple --backup=numbered -S=q 
+ --backup=simple --backup=numbered -t=files 
+ --backup=simple --backup=numbered -T 
+ --backup=simple --backup=numbered -u 
+ --backup=simple --backup=numbered -v 
+ --backup=simple --backup=numbered -Z 
+ --backup=simple --backup=numbered --help 
+ --backup=simple --backup=numbered --version 
+ --backup=simple --backup=foo -b 
+ --backup=simple --backup=foo -f 
+ --backup=simple --backup=foo -i 
+ --backup=simple --backup=foo -n 
+ --backup=simple --backup=foo --strip-trailing-slashes 
+ --backup=simple --backup=foo -S=q 
+ --backup=simple --backup=foo -t=files 
+ --backup=simple --backup=foo -T 
+ --backup=simple --backup=foo -u 
+ --backup=simple --backup=foo -v 
+ --backup=simple --backup=foo -Z 
+ --backup=simple --backup=foo --help 
+ --backup=simple --backup=foo --version 
+ --backup=simple -b -f 
+ --backup=simple -b -i 
+ --backup=simple -b -n 
+ --backup=simple -b --strip-trailing-slashes 
+ --backup=simple -b -S=q 
+ --backup=simple -b -t=files 
+ --backup=simple -b -T 
+ --backup=simple -b -u 
+ --backup=simple -b -v 
+ --backup=simple -b -Z 
+ --backup=simple -b --help 
+ --backup=simple -b --version 
+ --backup=simple -f -i 
+ --backup=simple -f -n 
+ --backup=simple -f --strip-trailing-slashes 
+ --backup=simple -f -S=q 
+ --backup=simple -f -t=files 
+ --backup=simple -f -T 
+ --backup=simple -f -u 
+ --backup=simple -f -v 
+ --backup=simple -f -Z 
+ --backup=simple -f --help 
+ --backup=simple -f --version 
+ --backup=simple -i -n 
+ --backup=simple -i --strip-trailing-slashes 
+ --backup=simple -i -S=q 
+ --backup=simple -i -t=files 
+ --backup=simple -i -T 
+ --backup=simple -i -u 
+ --backup=simple -i -v 
+ --backup=simple -i -Z 
+ --backup=simple -i --help 
+ --backup=simple -i --version 
+ --backup=simple -n --strip-trailing-slashes 
+ --backup=simple -n -S=q 
+ --backup=simple -n -t=files 
+ --backup=simple -n -T 
+ --backup=simple -n -u 
+ --backup=simple -n -v 
+ --backup=simple -n -Z 
+ --backup=simple -n --help 
+ --backup=simple -n --version 
+ --backup=simple --strip-trailing-slashes -S=q 
+ --backup=simple --strip-trailing-slashes -t=files 
+ --backup=simple --strip-trailing-slashes -T 
+ --backup=simple --strip-trailing-slashes -u 
+ --backup=simple --strip-trailing-slashes -v 
+ --backup=simple --strip-trailing-slashes -Z 
+ --backup=simple --strip-trailing-slashes --help 
+ --backup=simple --strip-trailing-slashes --version 
+ --backup=simple -S=q -t=files 
+ --backup=simple -S=q -T 
+ --backup=simple -S=q -u 
+ --backup=simple -S=q -v 
+ --backup=simple -S=q -Z 
+ --backup=simple -S=q --help 
+ --backup=simple -S=q --version 
+ --backup=simple -t=files -T 
+ --backup=simple -t=files -u 
+ --backup=simple -t=files -v 
+ --backup=simple -t=files -Z 
+ --backup=simple -t=files --help 
+ --backup=simple -t=files --version 
+ --backup=simple -T -u 
+ --backup=simple -T -v 
+ --backup=simple -T -Z 
+ --backup=simple -T --help 
+ --backup=simple -T --version 
+ --backup=simple -u -v 
+ --backup=simple -u -Z 
+ --backup=simple -u --help 
+ --backup=simple -u --version 
+ --backup=simple -v -Z 
+ --backup=simple -v --help 
+ --backup=simple -v --version 
+ --backup=simple -Z --help 
+ --backup=simple -Z --version 
+ --backup=simple --help --version 
+ --backup=existing --backup=numbered --backup=foo 
+ --backup=existing --backup=numbered -b 
+ --backup=existing --backup=numbered -f 
+ --backup=existing --backup=numbered -i 
+ --backup=existing --backup=numbered -n 
+ --backup=existing --backup=numbered --strip-trailing-slashes 
+ --backup=existing --backup=numbered -S=q 
+ --backup=existing --backup=numbered -t=files 
+ --backup=existing --backup=numbered -T 
+ --backup=existing --backup=numbered -u 
+ --backup=existing --backup=numbered -v 
+ --backup=existing --backup=numbered -Z 
+ --backup=existing --backup=numbered --help 
+ --backup=existing --backup=numbered --version 
+ --backup=existing --backup=foo -b 
+ --backup=existing --backup=foo -f 
+ --backup=existing --backup=foo -i 
+ --backup=existing --backup=foo -n 
+ --backup=existing --backup=foo --strip-trailing-slashes 
+ --backup=existing --backup=foo -S=q 
+ --backup=existing --backup=foo -t=files 
+ --backup=existing --backup=foo -T 
+ --backup=existing --backup=foo -u 
+ --backup=existing --backup=foo -v 
+ --backup=existing --backup=foo -Z 
+ --backup=existing --backup=foo --help 
+ --backup=existing --backup=foo --version 
+ --backup=existing -b -f 
+ --backup=existing -b -i 
+ --backup=existing -b -n 
+ --backup=existing -b --strip-trailing-slashes 
+ --backup=existing -b -S=q 
+ --backup=existing -b -t=files 
+ --backup=existing -b -T 
+ --backup=existing -b -u 
+ --backup=existing -b -v 
+ --backup=existing -b -Z 
+ --backup=existing -b --help 
+ --backup=existing -b --version 
+ --backup=existing -f -i 
+ --backup=existing -f -n 
+ --backup=existing -f --strip-trailing-slashes 
+ --backup=existing -f -S=q 
+ --backup=existing -f -t=files 
+ --backup=existing -f -T 
+ --backup=existing -f -u 
+ --backup=existing -f -v 
+ --backup=existing -f -Z 
+ --backup=existing -f --help 
+ --backup=existing -f --version 
+ --backup=existing -i -n 
+ --backup=existing -i --strip-trailing-slashes 
+ --backup=existing -i -S=q 
+ --backup=existing -i -t=files 
+ --backup=existing -i -T 
+ --backup=existing -i -u 
+ --backup=existing -i -v 
+ --backup=existing -i -Z 
+ --backup=existing -i --help 
+ --backup=existing -i --version 
+ --backup=existing -n --strip-trailing-slashes 
+ --backup=existing -n -S=q 
+ --backup=existing -n -t=files 
+ --backup=existing -n -T 
+ --backup=existing -n -u 
+ --backup=existing -n -v 
+ --backup=existing -n -Z 
+ --backup=existing -n --help 
+ --backup=existing -n --version 
+ --backup=existing --strip-trailing-slashes -S=q 
+ --backup=existing --strip-trailing-slashes -t=files 
+ --backup=existing --strip-trailing-slashes -T 
+ --backup=existing --strip-trailing-slashes -u 
+ --backup=existing --strip-trailing-slashes -v 
+ --backup=existing --strip-trailing-slashes -Z 
+ --backup=existing --strip-trailing-slashes --help 
+ --backup=existing --strip-trailing-slashes --version 
+ --backup=existing -S=q -t=files 
+ --backup=existing -S=q -T 
+ --backup=existing -S=q -u 
+ --backup=existing -S=q -v 
+ --backup=existing -S=q -Z 
+ --backup=existing -S=q --help 
+ --backup=existing -S=q --version 
+ --backup=existing -t=files -T 
+ --backup=existing -t=files -u 
+ --backup=existing -t=files -v 
+ --backup=existing -t=files -Z 
+ --backup=existing -t=files --help 
+ --backup=existing -t=files --version 
+ --backup=existing -T -u 
+ --backup=existing -T -v 
+ --backup=existing -T -Z 
+ --backup=existing -T --help 
+ --backup=existing -T --version 
+ --backup=existing -u -v 
+ --backup=existing -u -Z 
+ --backup=existing -u --help 
+ --backup=existing -u --version 
+ --backup=existing -v -Z 
+ --backup=existing -v --help 
+ --backup=existing -v --version 
+ --backup=existing -Z --help 
+ --backup=existing -Z --version 
+ --backup=existing --help --version 
+ --backup=numbered --backup=foo -b 
+ --backup=numbered --backup=foo -f 
+ --backup=numbered --backup=foo -i 
+ --backup=numbered --backup=foo -n 
+ --backup=numbered --backup=foo --strip-trailing-slashes 
+ --backup=numbered --backup=foo -S=q 
+ --backup=numbered --backup=foo -t=files 
+ --backup=numbered --backup=foo -T 
+ --backup=numbered --backup=foo -u 
+ --backup=numbered --backup=foo -v 
+ --backup=numbered --backup=foo -Z 
+ --backup=numbered --backup=foo --help 
+ --backup=numbered --backup=foo --version 
+ --backup=numbered -b -f 
+ --backup=numbered -b -i 
+ --backup=numbered -b -n 
+ --backup=numbered -b --strip-trailing-slashes 
+ --backup=numbered -b -S=q 
+ --backup=numbered -b -t=files 
+ --backup=numbered -b -T 
+ --backup=numbered -b -u 
+ --backup=numbered -b -v 
+ --backup=numbered -b -Z 
+ --backup=numbered -b --help 
+ --backup=numbered -b --version 
+ --backup=numbered -f -i 
+ --backup=numbered -f -n 
+ --backup=numbered -f --strip-trailing-slashes 
+ --backup=numbered -f -S=q 
+ --backup=numbered -f -t=files 
+ --backup=numbered -f -T 
+ --backup=numbered -f -u 
+ --backup=numbered -f -v 
+ --backup=numbered -f -Z 
+ --backup=numbered -f --help 
+ --backup=numbered -f --version 
+ --backup=numbered -i -n 
+ --backup=numbered -i --strip-trailing-slashes 
+ --backup=numbered -i -S=q 
+ --backup=numbered -i -t=files 
+ --backup=numbered -i -T 
+ --backup=numbered -i -u 
+ --backup=numbered -i -v 
+ --backup=numbered -i -Z 
+ --backup=numbered -i --help 
+ --backup=numbered -i --version 
+ --backup=numbered -n --strip-trailing-slashes 
+ --backup=numbered -n -S=q 
+ --backup=numbered -n -t=files 
+ --backup=numbered -n -T 
+ --backup=numbered -n -u 
+ --backup=numbered -n -v 
+ --backup=numbered -n -Z 
+ --backup=numbered -n --help 
+ --backup=numbered -n --version 
+ --backup=numbered --strip-trailing-slashes -S=q 
+ --backup=numbered --strip-trailing-slashes -t=files 
+ --backup=numbered --strip-trailing-slashes -T 
+ --backup=numbered --strip-trailing-slashes -u 
+ --backup=numbered --strip-trailing-slashes -v 
+ --backup=numbered --strip-trailing-slashes -Z 
+ --backup=numbered --strip-trailing-slashes --help 
+ --backup=numbered --strip-trailing-slashes --version 
+ --backup=numbered -S=q -t=files 
+ --backup=numbered -S=q -T 
+ --backup=numbered -S=q -u 
+ --backup=numbered -S=q -v 
+ --backup=numbered -S=q -Z 
+ --backup=numbered -S=q --help 
+ --backup=numbered -S=q --version 
+ --backup=numbered -t=files -T 
+ --backup=numbered -t=files -u 
+ --backup=numbered -t=files -v 
+ --backup=numbered -t=files -Z 
+ --backup=numbered -t=files --help 
+ --backup=numbered -t=files --version 
+ --backup=numbered -T -u 
+ --backup=numbered -T -v 
+ --backup=numbered -T -Z 
+ --backup=numbered -T --help 
+ --backup=numbered -T --version 
+ --backup=numbered -u -v 
+ --backup=numbered -u -Z 
+ --backup=numbered -u --help 
+ --backup=numbered -u --version 
+ --backup=numbered -v -Z 
+ --backup=numbered -v --help 
+ --backup=numbered -v --version 
+ --backup=numbered -Z --help 
+ --backup=numbered -Z --version 
+ --backup=numbered --help --version 
+ --backup=foo -b -f 
+ --backup=foo -b -i 
+ --backup=foo -b -n 
+ --backup=foo -b --strip-trailing-slashes 
+ --backup=foo -b -S=q 
+ --backup=foo -b -t=files 
+ --backup=foo -b -T 
+ --backup=foo -b -u 
+ --backup=foo -b -v 
+ --backup=foo -b -Z 
+ --backup=foo -b --help 
+ --backup=foo -b --version 
+ --backup=foo -f -i 
+ --backup=foo -f -n 
+ --backup=foo -f --strip-trailing-slashes 
+ --backup=foo -f -S=q 
+ --backup=foo -f -t=files 
+ --backup=foo -f -T 
+ --backup=foo -f -u 
+ --backup=foo -f -v 
+ --backup=foo -f -Z 
+ --backup=foo -f --help 
+ --backup=foo -f --version 
+ --backup=foo -i -n 
+ --backup=foo -i --strip-trailing-slashes 
+ --backup=foo -i -S=q 
+ --backup=foo -i -t=files 
+ --backup=foo -i -T 
+ --backup=foo -i -u 
+ --backup=foo -i -v 
+ --backup=foo -i -Z 
+ --backup=foo -i --help 
+ --backup=foo -i --version 
+ --backup=foo -n --strip-trailing-slashes 
+ --backup=foo -n -S=q 
+ --backup=foo -n -t=files 
+ --backup=foo -n -T 
+ --backup=foo -n -u 
+ --backup=foo -n -v 
+ --backup=foo -n -Z 
+ --backup=foo -n --help 
+ --backup=foo -n --version 
+ --backup=foo --strip-trailing-slashes -S=q 
+ --backup=foo --strip-trailing-slashes -t=files 
+ --backup=foo --strip-trailing-slashes -T 
+ --backup=foo --strip-trailing-slashes -u 
+ --backup=foo --strip-trailing-slashes -v 
+ --backup=foo --strip-trailing-slashes -Z 
+ --backup=foo --strip-trailing-slashes --help 
+ --backup=foo --strip-trailing-slashes --version 
+ --backup=foo -S=q -t=files 
+ --backup=foo -S=q -T 
+ --backup=foo -S=q -u 
+ --backup=foo -S=q -v 
+ --backup=foo -S=q -Z 
+ --backup=foo -S=q --help 
+ --backup=foo -S=q --version 
+ --backup=foo -t=files -T 
+ --backup=foo -t=files -u 
+ --backup=foo -t=files -v 
+ --backup=foo -t=files -Z 
+ --backup=foo -t=files --help 
+ --backup=foo -t=files --version 
+ --backup=foo -T -u 
+ --backup=foo -T -v 
+ --backup=foo -T -Z 
+ --backup=foo -T --help 
+ --backup=foo -T --version 
+ --backup=foo -u -v 
+ --backup=foo -u -Z 
+ --backup=foo -u --help 
+ --backup=foo -u --version 
+ --backup=foo -v -Z 
+ --backup=foo -v --help 
+ --backup=foo -v --version 
+ --backup=foo -Z --help 
+ --backup=foo -Z --version 
+ --backup=foo --help --version 
+ -b -f -i 
+ -b -f -n 
+ -b -f --strip-trailing-slashes 
+ -b -f -S=q 
+ -b -f -t=files 
+ -b -f -T 
+ -b -f -u 
+ -b -f -v 
+ -b -f -Z 
+ -b -f --help 
+ -b -f --version 
+ -b -i -n 
+ -b -i --strip-trailing-slashes 
+ -b -i -S=q 
+ -b -i -t=files 
+ -b -i -T 
+ -b -i -u 
+ -b -i -v 
+ -b -i -Z 
+ -b -i --help 
+ -b -i --version 
+ -b -n --strip-trailing-slashes 
+ -b -n -S=q 
+ -b -n -t=files 
+ -b -n -T 
+ -b -n -u 
+ -b -n -v 
+ -b -n -Z 
+ -b -n --help 
+ -b -n --version 
+ -b --strip-trailing-slashes -S=q 
+ -b --strip-trailing-slashes -t=files 
+ -b --strip-trailing-slashes -T 
+ -b --strip-trailing-slashes -u 
+ -b --strip-trailing-slashes -v 
+ -b --strip-trailing-slashes -Z 
+ -b --strip-trailing-slashes --help 
+ -b --strip-trailing-slashes --version 
+ -b -S=q -t=files 
+ -b -S=q -T 
+ -b -S=q -u 
+ -b -S=q -v 
+ -b -S=q -Z 
+ -b -S=q --help 
+ -b -S=q --version 
+ -b -t=files -T 
+ -b -t=files -u 
+ -b -t=files -v 
+ -b -t=files -Z 
+ -b -t=files --help 
+ -b -t=files --version 
+ -b -T -u 
+ -b -T -v 
+ -b -T -Z 
+ -b -T --help 
+ -b -T --version 
+ -b -u -v 
+ -b -u -Z 
+ -b -u --help 
+ -b -u --version 
+ -b -v -Z 
+ -b -v --help 
+ -b -v --version 
+ -b -Z --help 
+ -b -Z --version 
+ -b --help --version 
+ -f -i -n 
+ -f -i --strip-trailing-slashes 
+ -f -i -S=q 
+ -f -i -t=files 
+ -f -i -T 
+ -f -i -u 
+ -f -i -v 
+ -f -i -Z 
+ -f -i --help 
+ -f -i --version 
+ -f -n --strip-trailing-slashes 
+ -f -n -S=q 
+ -f -n -t=files 
+ -f -n -T 
+ -f -n -u 
+ -f -n -v 
+ -f -n -Z 
+ -f -n --help 
+ -f -n --version 
+ -f --strip-trailing-slashes -S=q 
+ -f --strip-trailing-slashes -t=files 
+ -f --strip-trailing-slashes -T 
+ -f --strip-trailing-slashes -u 
+ -f --strip-trailing-slashes -v 
+ -f --strip-trailing-slashes -Z 
+ -f --strip-trailing-slashes --help 
+ -f --strip-trailing-slashes --version 
+ -f -S=q -t=files 
+ -f -S=q -T 
+ -f -S=q -u 
+ -f -S=q -v 
+ -f -S=q -Z 
+ -f -S=q --help 
+ -f -S=q --version 
+ -f -t=files -T 
+ -f -t=files -u 
+ -f -t=files -v 
+ -f -t=files -Z 
+ -f -t=files --help 
+ -f -t=files --version 
+ -f -T -u 
+ -f -T -v 
+ -f -T -Z 
+ -f -T --help 
+ -f -T --version 
+ -f -u -v 
+ -f -u -Z 
+ -f -u --help 
+ -f -u --version 
+ -f -v -Z 
+ -f -v --help 
+ -f -v --version 
+ -f -Z --help 
+ -f -Z --version 
+ -f --help --version 
+ -i -n --strip-trailing-slashes 
+ -i -n -S=q 
+ -i -n -t=files 
+ -i -n -T 
+ -i -n -u 
+ -i -n -v 
+ -i -n -Z 
+ -i -n --help 
+ -i -n --version 
+ -i --strip-trailing-slashes -S=q 
+ -i --strip-trailing-slashes -t=files 
+ -i --strip-trailing-slashes -T 
+ -i --strip-trailing-slashes -u 
+ -i --strip-trailing-slashes -v 
+ -i --strip-trailing-slashes -Z 
+ -i --strip-trailing-slashes --help 
+ -i --strip-trailing-slashes --version 
+ -i -S=q -t=files 
+ -i -S=q -T 
+ -i -S=q -u 
+ -i -S=q -v 
+ -i -S=q -Z 
+ -i -S=q --help 
+ -i -S=q --version 
+ -i -t=files -T 
+ -i -t=files -u 
+ -i -t=files -v 
+ -i -t=files -Z 
+ -i -t=files --help 
+ -i -t=files --version 
+ -i -T -u 
+ -i -T -v 
+ -i -T -Z 
+ -i -T --help 
+ -i -T --version 
+ -i -u -v 
+ -i -u -Z 
+ -i -u --help 
+ -i -u --version 
+ -i -v -Z 
+ -i -v --help 
+ -i -v --version 
+ -i -Z --help 
+ -i -Z --version 
+ -i --help --version 
+ -n --strip-trailing-slashes -S=q 
+ -n --strip-trailing-slashes -t=files 
+ -n --strip-trailing-slashes -T 
+ -n --strip-trailing-slashes -u 
+ -n --strip-trailing-slashes -v 
+ -n --strip-trailing-slashes -Z 
+ -n --strip-trailing-slashes --help 
+ -n --strip-trailing-slashes --version 
+ -n -S=q -t=files 
+ -n -S=q -T 
+ -n -S=q -u 
+ -n -S=q -v 
+ -n -S=q -Z 
+ -n -S=q --help 
+ -n -S=q --version 
+ -n -t=files -T 
+ -n -t=files -u 
+ -n -t=files -v 
+ -n -t=files -Z 
+ -n -t=files --help 
+ -n -t=files --version 
+ -n -T -u 
+ -n -T -v 
+ -n -T -Z 
+ -n -T --help 
+ -n -T --version 
+ -n -u -v 
+ -n -u -Z 
+ -n -u --help 
+ -n -u --version 
+ -n -v -Z 
+ -n -v --help 
+ -n -v --version 
+ -n -Z --help 
+ -n -Z --version 
+ -n --help --version 
+ --strip-trailing-slashes -S=q -t=files 
+ --strip-trailing-slashes -S=q -T 
+ --strip-trailing-slashes -S=q -u 
+ --strip-trailing-slashes -S=q -v 
+ --strip-trailing-slashes -S=q -Z 
+ --strip-trailing-slashes -S=q --help 
+ --strip-trailing-slashes -S=q --version 
+ --strip-trailing-slashes -t=files -T 
+ --strip-trailing-slashes -t=files -u 
+ --strip-trailing-slashes -t=files -v 
+ --strip-trailing-slashes -t=files -Z 
+ --strip-trailing-slashes -t=files --help 
+ --strip-trailing-slashes -t=files --version 
+ --strip-trailing-slashes -T -u 
+ --strip-trailing-slashes -T -v 
+ --strip-trailing-slashes -T -Z 
+ --strip-trailing-slashes -T --help 
+ --strip-trailing-slashes -T --version 
+ --strip-trailing-slashes -u -v 
+ --strip-trailing-slashes -u -Z 
+ --strip-trailing-slashes -u --help 
+ --strip-trailing-slashes -u --version 
+ --strip-trailing-slashes -v -Z 
+ --strip-trailing-slashes -v --help 
+ --strip-trailing-slashes -v --version 
+ --strip-trailing-slashes -Z --help 
+ --strip-trailing-slashes -Z --version 
+ --strip-trailing-slashes --help --version 
+ -S=q -t=files -T 
+ -S=q -t=files -u 
+ -S=q -t=files -v 
+ -S=q -t=files -Z 
+ -S=q -t=files --help 
+ -S=q -t=files --version 
+ -S=q -T -u 
+ -S=q -T -v 
+ -S=q -T -Z 
+ -S=q -T --help 
+ -S=q -T --version 
+ -S=q -u -v 
+ -S=q -u -Z 
+ -S=q -u --help 
+ -S=q -u --version 
+ -S=q -v -Z 
+ -S=q -v --help 
+ -S=q -v --version 
+ -S=q -Z --help 
+ -S=q -Z --version 
+ -S=q --help --version 
+ -t=files -T -u 
+ -t=files -T -v 
+ -t=files -T -Z 
+ -t=files -T --help 
+ -t=files -T --version 
+ -t=files -u -v 
+ -t=files -u -Z 
+ -t=files -u --help 
+ -t=files -u --version 
+ -t=files -v -Z 
+ -t=files -v --help 
+ -t=files -v --version 
+ -t=files -Z --help 
+ -t=files -Z --version 
+ -t=files --help --version 
+ -T -u -v 
+ -T -u -Z 
+ -T -u --help 
+ -T -u --version 
+ -T -v -Z 
+ -T -v --help 
+ -T -v --version 
+ -T -Z --help 
+ -T -Z --version 
+ -T --help --version 
+ -u -v -Z 
+ -u -v --help 
+ -u -v --version 
+ -u -Z --help 
+ -u -Z --version 
+ -u --help --version 
+ -v -Z --help 
+ -v -Z --version 
+ -v --help --version 
+ -Z --help --version 
+ files/d3
+ --backup=none files/d3
+ --backup=simple files/d3
+ --backup=existing files/d3
+ --backup=numbered files/d3
+ --backup=foo files/d3
+ -b files/d3
+ -f files/d3
+ -i files/d3
+ -n files/d3
+ --strip-trailing-slashes files/d3
+ -S=q files/d3
+ -t=files files/d3
+ -T files/d3
+ -u files/d3
+ -v files/d3
+ -Z files/d3
+ --help files/d3
+ --version files/d3
+ --backup=none --backup=simple files/d3
+ --backup=none --backup=existing files/d3
+ --backup=none --backup=numbered files/d3
+ --backup=none --backup=foo files/d3
+ --backup=none -b files/d3
+ --backup=none -f files/d3
+ --backup=none -i files/d3
+ --backup=none -n files/d3
+ --backup=none --strip-trailing-slashes files/d3
+ --backup=none -S=q files/d3
+ --backup=none -t=files files/d3
+ --backup=none -T files/d3
+ --backup=none -u files/d3
+ --backup=none -v files/d3
+ --backup=none -Z files/d3
+ --backup=none --help files/d3
+ --backup=none --version files/d3
+ --backup=simple --backup=existing files/d3
+ --backup=simple --backup=numbered files/d3
+ --backup=simple --backup=foo files/d3
+ --backup=simple -b files/d3
+ --backup=simple -f files/d3
+ --backup=simple -i files/d3
+ --backup=simple -n files/d3
+ --backup=simple --strip-trailing-slashes files/d3
+ --backup=simple -S=q files/d3
+ --backup=simple -t=files files/d3
+ --backup=simple -T files/d3
+ --backup=simple -u files/d3
+ --backup=simple -v files/d3
+ --backup=simple -Z files/d3
+ --backup=simple --help files/d3
+ --backup=simple --version files/d3
+ --backup=existing --backup=numbered files/d3
+ --backup=existing --backup=foo files/d3
+ --backup=existing -b files/d3
+ --backup=existing -f files/d3
+ --backup=existing -i files/d3
+ --backup=existing -n files/d3
+ --backup=existing --strip-trailing-slashes files/d3
+ --backup=existing -S=q files/d3
+ --backup=existing -t=files files/d3
+ --backup=existing -T files/d3
+ --backup=existing -u files/d3
+ --backup=existing -v files/d3
+ --backup=existing -Z files/d3
+ --backup=existing --help files/d3
+ --backup=existing --version files/d3
+ --backup=numbered --backup=foo files/d3
+ --backup=numbered -b files/d3
+ --backup=numbered -f files/d3
+ --backup=numbered -i files/d3
+ --backup=numbered -n files/d3
+ --backup=numbered --strip-trailing-slashes files/d3
+ --backup=numbered -S=q files/d3
+ --backup=numbered -t=files files/d3
+ --backup=numbered -T files/d3
+ --backup=numbered -u files/d3
+ --backup=numbered -v files/d3
+ --backup=numbered -Z files/d3
+ --backup=numbered --help files/d3
+ --backup=numbered --version files/d3
+ --backup=foo -b files/d3
+ --backup=foo -f files/d3
+ --backup=foo -i files/d3
+ --backup=foo -n files/d3
+ --backup=foo --strip-trailing-slashes files/d3
+ --backup=foo -S=q files/d3
+ --backup=foo -t=files files/d3
+ --backup=foo -T files/d3
+ --backup=foo -u files/d3
+ --backup=foo -v files/d3
+ --backup=foo -Z files/d3
+ --backup=foo --help files/d3
+ --backup=foo --version files/d3
+ -b -f files/d3
+ -b -i files/d3
+ -b -n files/d3
+ -b --strip-trailing-slashes files/d3
+ -b -S=q files/d3
+ -b -t=files files/d3
+ -b -T files/d3
+ -b -u files/d3
+ -b -v files/d3
+ -b -Z files/d3
+ -b --help files/d3
+ -b --version files/d3
+ -f -i files/d3
+ -f -n files/d3
+ -f --strip-trailing-slashes files/d3
+ -f -S=q files/d3
+ -f -t=files files/d3
+ -f -T files/d3
+ -f -u files/d3
+ -f -v files/d3
+ -f -Z files/d3
+ -f --help files/d3
+ -f --version files/d3
+ -i -n files/d3
+ -i --strip-trailing-slashes files/d3
+ -i -S=q files/d3
+ -i -t=files files/d3
+ -i -T files/d3
+ -i -u files/d3
+ -i -v files/d3
+ -i -Z files/d3
+ -i --help files/d3
+ -i --version files/d3
+ -n --strip-trailing-slashes files/d3
+ -n -S=q files/d3
+ -n -t=files files/d3
+ -n -T files/d3
+ -n -u files/d3
+ -n -v files/d3
+ -n -Z files/d3
+ -n --help files/d3
+ -n --version files/d3
+ --strip-trailing-slashes -S=q files/d3
+ --strip-trailing-slashes -t=files files/d3
+ --strip-trailing-slashes -T files/d3
+ --strip-trailing-slashes -u files/d3
+ --strip-trailing-slashes -v files/d3
+ --strip-trailing-slashes -Z files/d3
+ --strip-trailing-slashes --help files/d3
+ --strip-trailing-slashes --version files/d3
+ -S=q -t=files files/d3
+ -S=q -T files/d3
+ -S=q -u files/d3
+ -S=q -v files/d3
+ -S=q -Z files/d3
+ -S=q --help files/d3
+ -S=q --version files/d3
+ -t=files -T files/d3
+ -t=files -u files/d3
+ -t=files -v files/d3
+ -t=files -Z files/d3
+ -t=files --help files/d3
+ -t=files --version files/d3
+ -T -u files/d3
+ -T -v files/d3
+ -T -Z files/d3
+ -T --help files/d3
+ -T --version files/d3
+ -u -v files/d3
+ -u -Z files/d3
+ -u --help files/d3
+ -u --version files/d3
+ -v -Z files/d3
+ -v --help files/d3
+ -v --version files/d3
+ -Z --help files/d3
+ -Z --version files/d3
+ --help --version files/d3
+ --backup=none --backup=simple --backup=existing files/d3
+ --backup=none --backup=simple --backup=numbered files/d3
+ --backup=none --backup=simple --backup=foo files/d3
+ --backup=none --backup=simple -b files/d3
+ --backup=none --backup=simple -f files/d3
+ --backup=none --backup=simple -i files/d3
+ --backup=none --backup=simple -n files/d3
+ --backup=none --backup=simple --strip-trailing-slashes files/d3
+ --backup=none --backup=simple -S=q files/d3
+ --backup=none --backup=simple -t=files files/d3
+ --backup=none --backup=simple -T files/d3
+ --backup=none --backup=simple -u files/d3
+ --backup=none --backup=simple -v files/d3
+ --backup=none --backup=simple -Z files/d3
+ --backup=none --backup=simple --help files/d3
+ --backup=none --backup=simple --version files/d3
+ --backup=none --backup=existing --backup=numbered files/d3
+ --backup=none --backup=existing --backup=foo files/d3
+ --backup=none --backup=existing -b files/d3
+ --backup=none --backup=existing -f files/d3
+ --backup=none --backup=existing -i files/d3
+ --backup=none --backup=existing -n files/d3
+ --backup=none --backup=existing --strip-trailing-slashes files/d3
+ --backup=none --backup=existing -S=q files/d3
+ --backup=none --backup=existing -t=files files/d3
+ --backup=none --backup=existing -T files/d3
+ --backup=none --backup=existing -u files/d3
+ --backup=none --backup=existing -v files/d3
+ --backup=none --backup=existing -Z files/d3
+ --backup=none --backup=existing --help files/d3
+ --backup=none --backup=existing --version files/d3
+ --backup=none --backup=numbered --backup=foo files/d3
+ --backup=none --backup=numbered -b files/d3
+ --backup=none --backup=numbered -f files/d3
+ --backup=none --backup=numbered -i files/d3
+ --backup=none --backup=numbered -n files/d3
+ --backup=none --backup=numbered --strip-trailing-slashes files/d3
+ --backup=none --backup=numbered -S=q files/d3
+ --backup=none --backup=numbered -t=files files/d3
+ --backup=none --backup=numbered -T files/d3
+ --backup=none --backup=numbered -u files/d3
+ --backup=none --backup=numbered -v files/d3
+ --backup=none --backup=numbered -Z files/d3
+ --backup=none --backup=numbered --help files/d3
+ --backup=none --backup=numbered --version files/d3
+ --backup=none --backup=foo -b files/d3
+ --backup=none --backup=foo -f files/d3
+ --backup=none --backup=foo -i files/d3
+ --backup=none --backup=foo -n files/d3
+ --backup=none --backup=foo --strip-trailing-slashes files/d3
+ --backup=none --backup=foo -S=q files/d3
+ --backup=none --backup=foo -t=files files/d3
+ --backup=none --backup=foo -T files/d3
+ --backup=none --backup=foo -u files/d3
+ --backup=none --backup=foo -v files/d3
+ --backup=none --backup=foo -Z files/d3
+ --backup=none --backup=foo --help files/d3
+ --backup=none --backup=foo --version files/d3
+ --backup=none -b -f files/d3
+ --backup=none -b -i files/d3
+ --backup=none -b -n files/d3
+ --backup=none -b --strip-trailing-slashes files/d3
+ --backup=none -b -S=q files/d3
+ --backup=none -b -t=files files/d3
+ --backup=none -b -T files/d3
+ --backup=none -b -u files/d3
+ --backup=none -b -v files/d3
+ --backup=none -b -Z files/d3
+ --backup=none -b --help files/d3
+ --backup=none -b --version files/d3
+ --backup=none -f -i files/d3
+ --backup=none -f -n files/d3
+ --backup=none -f --strip-trailing-slashes files/d3
+ --backup=none -f -S=q files/d3
+ --backup=none -f -t=files files/d3
+ --backup=none -f -T files/d3
+ --backup=none -f -u files/d3
+ --backup=none -f -v files/d3
+ --backup=none -f -Z files/d3
+ --backup=none -f --help files/d3
+ --backup=none -f --version files/d3
+ --backup=none -i -n files/d3
+ --backup=none -i --strip-trailing-slashes files/d3
+ --backup=none -i -S=q files/d3
+ --backup=none -i -t=files files/d3
+ --backup=none -i -T files/d3
+ --backup=none -i -u files/d3
+ --backup=none -i -v files/d3
+ --backup=none -i -Z files/d3
+ --backup=none -i --help files/d3
+ --backup=none -i --version files/d3
+ --backup=none -n --strip-trailing-slashes files/d3
+ --backup=none -n -S=q files/d3
+ --backup=none -n -t=files files/d3
+ --backup=none -n -T files/d3
+ --backup=none -n -u files/d3
+ --backup=none -n -v files/d3
+ --backup=none -n -Z files/d3
+ --backup=none -n --help files/d3
+ --backup=none -n --version files/d3
+ --backup=none --strip-trailing-slashes -S=q files/d3
+ --backup=none --strip-trailing-slashes -t=files files/d3
+ --backup=none --strip-trailing-slashes -T files/d3
+ --backup=none --strip-trailing-slashes -u files/d3
+ --backup=none --strip-trailing-slashes -v files/d3
+ --backup=none --strip-trailing-slashes -Z files/d3
+ --backup=none --strip-trailing-slashes --help files/d3
+ --backup=none --strip-trailing-slashes --version files/d3
+ --backup=none -S=q -t=files files/d3
+ --backup=none -S=q -T files/d3
+ --backup=none -S=q -u files/d3
+ --backup=none -S=q -v files/d3
+ --backup=none -S=q -Z files/d3
+ --backup=none -S=q --help files/d3
+ --backup=none -S=q --version files/d3
+ --backup=none -t=files -T files/d3
+ --backup=none -t=files -u files/d3
+ --backup=none -t=files -v files/d3
+ --backup=none -t=files -Z files/d3
+ --backup=none -t=files --help files/d3
+ --backup=none -t=files --version files/d3
+ --backup=none -T -u files/d3
+ --backup=none -T -v files/d3
+ --backup=none -T -Z files/d3
+ --backup=none -T --help files/d3
+ --backup=none -T --version files/d3
+ --backup=none -u -v files/d3
+ --backup=none -u -Z files/d3
+ --backup=none -u --help files/d3
+ --backup=none -u --version files/d3
+ --backup=none -v -Z files/d3
+ --backup=none -v --help files/d3
+ --backup=none -v --version files/d3
+ --backup=none -Z --help files/d3
+ --backup=none -Z --version files/d3
+ --backup=none --help --version files/d3
+ --backup=simple --backup=existing --backup=numbered files/d3
+ --backup=simple --backup=existing --backup=foo files/d3
+ --backup=simple --backup=existing -b files/d3
+ --backup=simple --backup=existing -f files/d3
+ --backup=simple --backup=existing -i files/d3
+ --backup=simple --backup=existing -n files/d3
+ --backup=simple --backup=existing --strip-trailing-slashes files/d3
+ --backup=simple --backup=existing -S=q files/d3
+ --backup=simple --backup=existing -t=files files/d3
+ --backup=simple --backup=existing -T files/d3
+ --backup=simple --backup=existing -u files/d3
+ --backup=simple --backup=existing -v files/d3
+ --backup=simple --backup=existing -Z files/d3
+ --backup=simple --backup=existing --help files/d3
+ --backup=simple --backup=existing --version files/d3
+ --backup=simple --backup=numbered --backup=foo files/d3
+ --backup=simple --backup=numbered -b files/d3
+ --backup=simple --backup=numbered -f files/d3
+ --backup=simple --backup=numbered -i files/d3
+ --backup=simple --backup=numbered -n files/d3
+ --backup=simple --backup=numbered --strip-trailing-slashes files/d3
+ --backup=simple --backup=numbered -S=q files/d3
+ --backup=simple --backup=numbered -t=files files/d3
+ --backup=simple --backup=numbered -T files/d3
+ --backup=simple --backup=numbered -u files/d3
+ --backup=simple --backup=numbered -v files/d3
+ --backup=simple --backup=numbered -Z files/d3
+ --backup=simple --backup=numbered --help files/d3
+ --backup=simple --backup=numbered --version files/d3
+ --backup=simple --backup=foo -b files/d3
+ --backup=simple --backup=foo -f files/d3
+ --backup=simple --backup=foo -i files/d3
+ --backup=simple --backup=foo -n files/d3
+ --backup=simple --backup=foo --strip-trailing-slashes files/d3
+ --backup=simple --backup=foo -S=q files/d3
+ --backup=simple --backup=foo -t=files files/d3
+ --backup=simple --backup=foo -T files/d3
+ --backup=simple --backup=foo -u files/d3
+ --backup=simple --backup=foo -v files/d3
+ --backup=simple --backup=foo -Z files/d3
+ --backup=simple --backup=foo --help files/d3
+ --backup=simple --backup=foo --version files/d3
+ --backup=simple -b -f files/d3
+ --backup=simple -b -i files/d3
+ --backup=simple -b -n files/d3
+ --backup=simple -b --strip-trailing-slashes files/d3
+ --backup=simple -b -S=q files/d3
+ --backup=simple -b -t=files files/d3
+ --backup=simple -b -T files/d3
+ --backup=simple -b -u files/d3
+ --backup=simple -b -v files/d3
+ --backup=simple -b -Z files/d3
+ --backup=simple -b --help files/d3
+ --backup=simple -b --version files/d3
+ --backup=simple -f -i files/d3
+ --backup=simple -f -n files/d3
+ --backup=simple -f --strip-trailing-slashes files/d3
+ --backup=simple -f -S=q files/d3
+ --backup=simple -f -t=files files/d3
+ --backup=simple -f -T files/d3
+ --backup=simple -f -u files/d3
+ --backup=simple -f -v files/d3
+ --backup=simple -f -Z files/d3
+ --backup=simple -f --help files/d3
+ --backup=simple -f --version files/d3
+ --backup=simple -i -n files/d3
+ --backup=simple -i --strip-trailing-slashes files/d3
+ --backup=simple -i -S=q files/d3
+ --backup=simple -i -t=files files/d3
+ --backup=simple -i -T files/d3
+ --backup=simple -i -u files/d3
+ --backup=simple -i -v files/d3
+ --backup=simple -i -Z files/d3
+ --backup=simple -i --help files/d3
+ --backup=simple -i --version files/d3
+ --backup=simple -n --strip-trailing-slashes files/d3
+ --backup=simple -n -S=q files/d3
+ --backup=simple -n -t=files files/d3
+ --backup=simple -n -T files/d3
+ --backup=simple -n -u files/d3
+ --backup=simple -n -v files/d3
+ --backup=simple -n -Z files/d3
+ --backup=simple -n --help files/d3
+ --backup=simple -n --version files/d3
+ --backup=simple --strip-trailing-slashes -S=q files/d3
+ --backup=simple --strip-trailing-slashes -t=files files/d3
+ --backup=simple --strip-trailing-slashes -T files/d3
+ --backup=simple --strip-trailing-slashes -u files/d3
+ --backup=simple --strip-trailing-slashes -v files/d3
+ --backup=simple --strip-trailing-slashes -Z files/d3
+ --backup=simple --strip-trailing-slashes --help files/d3
+ --backup=simple --strip-trailing-slashes --version files/d3
+ --backup=simple -S=q -t=files files/d3
+ --backup=simple -S=q -T files/d3
+ --backup=simple -S=q -u files/d3
+ --backup=simple -S=q -v files/d3
+ --backup=simple -S=q -Z files/d3
+ --backup=simple -S=q --help files/d3
+ --backup=simple -S=q --version files/d3
+ --backup=simple -t=files -T files/d3
+ --backup=simple -t=files -u files/d3
+ --backup=simple -t=files -v files/d3
+ --backup=simple -t=files -Z files/d3
+ --backup=simple -t=files --help files/d3
+ --backup=simple -t=files --version files/d3
+ --backup=simple -T -u files/d3
+ --backup=simple -T -v files/d3
+ --backup=simple -T -Z files/d3
+ --backup=simple -T --help files/d3
+ --backup=simple -T --version files/d3
+ --backup=simple -u -v files/d3
+ --backup=simple -u -Z files/d3
+ --backup=simple -u --help files/d3
+ --backup=simple -u --version files/d3
+ --backup=simple -v -Z files/d3
+ --backup=simple -v --help files/d3
+ --backup=simple -v --version files/d3
+ --backup=simple -Z --help files/d3
+ --backup=simple -Z --version files/d3
+ --backup=simple --help --version files/d3
+ --backup=existing --backup=numbered --backup=foo files/d3
+ --backup=existing --backup=numbered -b files/d3
+ --backup=existing --backup=numbered -f files/d3
+ --backup=existing --backup=numbered -i files/d3
+ --backup=existing --backup=numbered -n files/d3
+ --backup=existing --backup=numbered --strip-trailing-slashes files/d3
+ --backup=existing --backup=numbered -S=q files/d3
+ --backup=existing --backup=numbered -t=files files/d3
+ --backup=existing --backup=numbered -T files/d3
+ --backup=existing --backup=numbered -u files/d3
+ --backup=existing --backup=numbered -v files/d3
+ --backup=existing --backup=numbered -Z files/d3
+ --backup=existing --backup=numbered --help files/d3
+ --backup=existing --backup=numbered --version files/d3
+ --backup=existing --backup=foo -b files/d3
+ --backup=existing --backup=foo -f files/d3
+ --backup=existing --backup=foo -i files/d3
+ --backup=existing --backup=foo -n files/d3
+ --backup=existing --backup=foo --strip-trailing-slashes files/d3
+ --backup=existing --backup=foo -S=q files/d3
+ --backup=existing --backup=foo -t=files files/d3
+ --backup=existing --backup=foo -T files/d3
+ --backup=existing --backup=foo -u files/d3
+ --backup=existing --backup=foo -v files/d3
+ --backup=existing --backup=foo -Z files/d3
+ --backup=existing --backup=foo --help files/d3
+ --backup=existing --backup=foo --version files/d3
+ --backup=existing -b -f files/d3
+ --backup=existing -b -i files/d3
+ --backup=existing -b -n files/d3
+ --backup=existing -b --strip-trailing-slashes files/d3
+ --backup=existing -b -S=q files/d3
+ --backup=existing -b -t=files files/d3
+ --backup=existing -b -T files/d3
+ --backup=existing -b -u files/d3
+ --backup=existing -b -v files/d3
+ --backup=existing -b -Z files/d3
+ --backup=existing -b --help files/d3
+ --backup=existing -b --version files/d3
+ --backup=existing -f -i files/d3
+ --backup=existing -f -n files/d3
+ --backup=existing -f --strip-trailing-slashes files/d3
+ --backup=existing -f -S=q files/d3
+ --backup=existing -f -t=files files/d3
+ --backup=existing -f -T files/d3
+ --backup=existing -f -u files/d3
+ --backup=existing -f -v files/d3
+ --backup=existing -f -Z files/d3
+ --backup=existing -f --help files/d3
+ --backup=existing -f --version files/d3
+ --backup=existing -i -n files/d3
+ --backup=existing -i --strip-trailing-slashes files/d3
+ --backup=existing -i -S=q files/d3
+ --backup=existing -i -t=files files/d3
+ --backup=existing -i -T files/d3
+ --backup=existing -i -u files/d3
+ --backup=existing -i -v files/d3
+ --backup=existing -i -Z files/d3
+ --backup=existing -i --help files/d3
+ --backup=existing -i --version files/d3
+ --backup=existing -n --strip-trailing-slashes files/d3
+ --backup=existing -n -S=q files/d3
+ --backup=existing -n -t=files files/d3
+ --backup=existing -n -T files/d3
+ --backup=existing -n -u files/d3
+ --backup=existing -n -v files/d3
+ --backup=existing -n -Z files/d3
+ --backup=existing -n --help files/d3
+ --backup=existing -n --version files/d3
+ --backup=existing --strip-trailing-slashes -S=q files/d3
+ --backup=existing --strip-trailing-slashes -t=files files/d3
+ --backup=existing --strip-trailing-slashes -T files/d3
+ --backup=existing --strip-trailing-slashes -u files/d3
+ --backup=existing --strip-trailing-slashes -v files/d3
+ --backup=existing --strip-trailing-slashes -Z files/d3
+ --backup=existing --strip-trailing-slashes --help files/d3
+ --backup=existing --strip-trailing-slashes --version files/d3
+ --backup=existing -S=q -t=files files/d3
+ --backup=existing -S=q -T files/d3
+ --backup=existing -S=q -u files/d3
+ --backup=existing -S=q -v files/d3
+ --backup=existing -S=q -Z files/d3
+ --backup=existing -S=q --help files/d3
+ --backup=existing -S=q --version files/d3
+ --backup=existing -t=files -T files/d3
+ --backup=existing -t=files -u files/d3
+ --backup=existing -t=files -v files/d3
+ --backup=existing -t=files -Z files/d3
+ --backup=existing -t=files --help files/d3
+ --backup=existing -t=files --version files/d3
+ --backup=existing -T -u files/d3
+ --backup=existing -T -v files/d3
+ --backup=existing -T -Z files/d3
+ --backup=existing -T --help files/d3
+ --backup=existing -T --version files/d3
+ --backup=existing -u -v files/d3
+ --backup=existing -u -Z files/d3
+ --backup=existing -u --help files/d3
+ --backup=existing -u --version files/d3
+ --backup=existing -v -Z files/d3
+ --backup=existing -v --help files/d3
+ --backup=existing -v --version files/d3
+ --backup=existing -Z --help files/d3
+ --backup=existing -Z --version files/d3
+ --backup=existing --help --version files/d3
+ --backup=numbered --backup=foo -b files/d3
+ --backup=numbered --backup=foo -f files/d3
+ --backup=numbered --backup=foo -i files/d3
+ --backup=numbered --backup=foo -n files/d3
+ --backup=numbered --backup=foo --strip-trailing-slashes files/d3
+ --backup=numbered --backup=foo -S=q files/d3
+ --backup=numbered --backup=foo -t=files files/d3
+ --backup=numbered --backup=foo -T files/d3
+ --backup=numbered --backup=foo -u files/d3
+ --backup=numbered --backup=foo -v files/d3
+ --backup=numbered --backup=foo -Z files/d3
+ --backup=numbered --backup=foo --help files/d3
+ --backup=numbered --backup=foo --version files/d3
+ --backup=numbered -b -f files/d3
+ --backup=numbered -b -i files/d3
+ --backup=numbered -b -n files/d3
+ --backup=numbered -b --strip-trailing-slashes files/d3
+ --backup=numbered -b -S=q files/d3
+ --backup=numbered -b -t=files files/d3
+ --backup=numbered -b -T files/d3
+ --backup=numbered -b -u files/d3
+ --backup=numbered -b -v files/d3
+ --backup=numbered -b -Z files/d3
+ --backup=numbered -b --help files/d3
+ --backup=numbered -b --version files/d3
+ --backup=numbered -f -i files/d3
+ --backup=numbered -f -n files/d3
+ --backup=numbered -f --strip-trailing-slashes files/d3
+ --backup=numbered -f -S=q files/d3
+ --backup=numbered -f -t=files files/d3
+ --backup=numbered -f -T files/d3
+ --backup=numbered -f -u files/d3
+ --backup=numbered -f -v files/d3
+ --backup=numbered -f -Z files/d3
+ --backup=numbered -f --help files/d3
+ --backup=numbered -f --version files/d3
+ --backup=numbered -i -n files/d3
+ --backup=numbered -i --strip-trailing-slashes files/d3
+ --backup=numbered -i -S=q files/d3
+ --backup=numbered -i -t=files files/d3
+ --backup=numbered -i -T files/d3
+ --backup=numbered -i -u files/d3
+ --backup=numbered -i -v files/d3
+ --backup=numbered -i -Z files/d3
+ --backup=numbered -i --help files/d3
+ --backup=numbered -i --version files/d3
+ --backup=numbered -n --strip-trailing-slashes files/d3
+ --backup=numbered -n -S=q files/d3
+ --backup=numbered -n -t=files files/d3
+ --backup=numbered -n -T files/d3
+ --backup=numbered -n -u files/d3
+ --backup=numbered -n -v files/d3
+ --backup=numbered -n -Z files/d3
+ --backup=numbered -n --help files/d3
+ --backup=numbered -n --version files/d3
+ --backup=numbered --strip-trailing-slashes -S=q files/d3
+ --backup=numbered --strip-trailing-slashes -t=files files/d3
+ --backup=numbered --strip-trailing-slashes -T files/d3
+ --backup=numbered --strip-trailing-slashes -u files/d3
+ --backup=numbered --strip-trailing-slashes -v files/d3
+ --backup=numbered --strip-trailing-slashes -Z files/d3
+ --backup=numbered --strip-trailing-slashes --help files/d3
+ --backup=numbered --strip-trailing-slashes --version files/d3
+ --backup=numbered -S=q -t=files files/d3
+ --backup=numbered -S=q -T files/d3
+ --backup=numbered -S=q -u files/d3
+ --backup=numbered -S=q -v files/d3
+ --backup=numbered -S=q -Z files/d3
+ --backup=numbered -S=q --help files/d3
+ --backup=numbered -S=q --version files/d3
+ --backup=numbered -t=files -T files/d3
+ --backup=numbered -t=files -u files/d3
+ --backup=numbered -t=files -v files/d3
+ --backup=numbered -t=files -Z files/d3
+ --backup=numbered -t=files --help files/d3
+ --backup=numbered -t=files --version files/d3
+ --backup=numbered -T -u files/d3
+ --backup=numbered -T -v files/d3
+ --backup=numbered -T -Z files/d3
+ --backup=numbered -T --help files/d3
+ --backup=numbered -T --version files/d3
+ --backup=numbered -u -v files/d3
+ --backup=numbered -u -Z files/d3
+ --backup=numbered -u --help files/d3
+ --backup=numbered -u --version files/d3
+ --backup=numbered -v -Z files/d3
+ --backup=numbered -v --help files/d3
+ --backup=numbered -v --version files/d3
+ --backup=numbered -Z --help files/d3
+ --backup=numbered -Z --version files/d3
+ --backup=numbered --help --version files/d3
+ --backup=foo -b -f files/d3
+ --backup=foo -b -i files/d3
+ --backup=foo -b -n files/d3
+ --backup=foo -b --strip-trailing-slashes files/d3
+ --backup=foo -b -S=q files/d3
+ --backup=foo -b -t=files files/d3
+ --backup=foo -b -T files/d3
+ --backup=foo -b -u files/d3
+ --backup=foo -b -v files/d3
+ --backup=foo -b -Z files/d3
+ --backup=foo -b --help files/d3
+ --backup=foo -b --version files/d3
+ --backup=foo -f -i files/d3
+ --backup=foo -f -n files/d3
+ --backup=foo -f --strip-trailing-slashes files/d3
+ --backup=foo -f -S=q files/d3
+ --backup=foo -f -t=files files/d3
+ --backup=foo -f -T files/d3
+ --backup=foo -f -u files/d3
+ --backup=foo -f -v files/d3
+ --backup=foo -f -Z files/d3
+ --backup=foo -f --help files/d3
+ --backup=foo -f --version files/d3
+ --backup=foo -i -n files/d3
+ --backup=foo -i --strip-trailing-slashes files/d3
+ --backup=foo -i -S=q files/d3
+ --backup=foo -i -t=files files/d3
+ --backup=foo -i -T files/d3
+ --backup=foo -i -u files/d3
+ --backup=foo -i -v files/d3
+ --backup=foo -i -Z files/d3
+ --backup=foo -i --help files/d3
+ --backup=foo -i --version files/d3
+ --backup=foo -n --strip-trailing-slashes files/d3
+ --backup=foo -n -S=q files/d3
+ --backup=foo -n -t=files files/d3
+ --backup=foo -n -T files/d3
+ --backup=foo -n -u files/d3
+ --backup=foo -n -v files/d3
+ --backup=foo -n -Z files/d3
+ --backup=foo -n --help files/d3
+ --backup=foo -n --version files/d3
+ --backup=foo --strip-trailing-slashes -S=q files/d3
+ --backup=foo --strip-trailing-slashes -t=files files/d3
+ --backup=foo --strip-trailing-slashes -T files/d3
+ --backup=foo --strip-trailing-slashes -u files/d3
+ --backup=foo --strip-trailing-slashes -v files/d3
+ --backup=foo --strip-trailing-slashes -Z files/d3
+ --backup=foo --strip-trailing-slashes --help files/d3
+ --backup=foo --strip-trailing-slashes --version files/d3
+ --backup=foo -S=q -t=files files/d3
+ --backup=foo -S=q -T files/d3
+ --backup=foo -S=q -u files/d3
+ --backup=foo -S=q -v files/d3
+ --backup=foo -S=q -Z files/d3
+ --backup=foo -S=q --help files/d3
+ --backup=foo -S=q --version files/d3
+ --backup=foo -t=files -T files/d3
+ --backup=foo -t=files -u files/d3
+ --backup=foo -t=files -v files/d3
+ --backup=foo -t=files -Z files/d3
+ --backup=foo -t=files --help files/d3
+ --backup=foo -t=files --version files/d3
+ --backup=foo -T -u files/d3
+ --backup=foo -T -v files/d3
+ --backup=foo -T -Z files/d3
+ --backup=foo -T --help files/d3
+ --backup=foo -T --version files/d3
+ --backup=foo -u -v files/d3
+ --backup=foo -u -Z files/d3
+ --backup=foo -u --help files/d3
+ --backup=foo -u --version files/d3
+ --backup=foo -v -Z files/d3
+ --backup=foo -v --help files/d3
+ --backup=foo -v --version files/d3
+ --backup=foo -Z --help files/d3
+ --backup=foo -Z --version files/d3
+ --backup=foo --help --version files/d3
+ -b -f -i files/d3
+ -b -f -n files/d3
+ -b -f --strip-trailing-slashes files/d3
+ -b -f -S=q files/d3
+ -b -f -t=files files/d3
+ -b -f -T files/d3
+ -b -f -u files/d3
+ -b -f -v files/d3
+ -b -f -Z files/d3
+ -b -f --help files/d3
+ -b -f --version files/d3
+ -b -i -n files/d3
+ -b -i --strip-trailing-slashes files/d3
+ -b -i -S=q files/d3
+ -b -i -t=files files/d3
+ -b -i -T files/d3
+ -b -i -u files/d3
+ -b -i -v files/d3
+ -b -i -Z files/d3
+ -b -i --help files/d3
+ -b -i --version files/d3
+ -b -n --strip-trailing-slashes files/d3
+ -b -n -S=q files/d3
+ -b -n -t=files files/d3
+ -b -n -T files/d3
+ -b -n -u files/d3
+ -b -n -v files/d3
+ -b -n -Z files/d3
+ -b -n --help files/d3
+ -b -n --version files/d3
+ -b --strip-trailing-slashes -S=q files/d3
+ -b --strip-trailing-slashes -t=files files/d3
+ -b --strip-trailing-slashes -T files/d3
+ -b --strip-trailing-slashes -u files/d3
+ -b --strip-trailing-slashes -v files/d3
+ -b --strip-trailing-slashes -Z files/d3
+ -b --strip-trailing-slashes --help files/d3
+ -b --strip-trailing-slashes --version files/d3
+ -b -S=q -t=files files/d3
+ -b -S=q -T files/d3
+ -b -S=q -u files/d3
+ -b -S=q -v files/d3
+ -b -S=q -Z files/d3
+ -b -S=q --help files/d3
+ -b -S=q --version files/d3
+ -b -t=files -T files/d3
+ -b -t=files -u files/d3
+ -b -t=files -v files/d3
+ -b -t=files -Z files/d3
+ -b -t=files --help files/d3
+ -b -t=files --version files/d3
+ -b -T -u files/d3
+ -b -T -v files/d3
+ -b -T -Z files/d3
+ -b -T --help files/d3
+ -b -T --version files/d3
+ -b -u -v files/d3
+ -b -u -Z files/d3
+ -b -u --help files/d3
+ -b -u --version files/d3
+ -b -v -Z files/d3
+ -b -v --help files/d3
+ -b -v --version files/d3
+ -b -Z --help files/d3
+ -b -Z --version files/d3
+ -b --help --version files/d3
+ -f -i -n files/d3
+ -f -i --strip-trailing-slashes files/d3
+ -f -i -S=q files/d3
+ -f -i -t=files files/d3
+ -f -i -T files/d3
+ -f -i -u files/d3
+ -f -i -v files/d3
+ -f -i -Z files/d3
+ -f -i --help files/d3
+ -f -i --version files/d3
+ -f -n --strip-trailing-slashes files/d3
+ -f -n -S=q files/d3
+ -f -n -t=files files/d3
+ -f -n -T files/d3
+ -f -n -u files/d3
+ -f -n -v files/d3
+ -f -n -Z files/d3
+ -f -n --help files/d3
+ -f -n --version files/d3
+ -f --strip-trailing-slashes -S=q files/d3
+ -f --strip-trailing-slashes -t=files files/d3
+ -f --strip-trailing-slashes -T files/d3
+ -f --strip-trailing-slashes -u files/d3
+ -f --strip-trailing-slashes -v files/d3
+ -f --strip-trailing-slashes -Z files/d3
+ -f --strip-trailing-slashes --help files/d3
+ -f --strip-trailing-slashes --version files/d3
+ -f -S=q -t=files files/d3
+ -f -S=q -T files/d3
+ -f -S=q -u files/d3
+ -f -S=q -v files/d3
+ -f -S=q -Z files/d3
+ -f -S=q --help files/d3
+ -f -S=q --version files/d3
+ -f -t=files -T files/d3
+ -f -t=files -u files/d3
+ -f -t=files -v files/d3
+ -f -t=files -Z files/d3
+ -f -t=files --help files/d3
+ -f -t=files --version files/d3
+ -f -T -u files/d3
+ -f -T -v files/d3
+ -f -T -Z files/d3
+ -f -T --help files/d3
+ -f -T --version files/d3
+ -f -u -v files/d3
+ -f -u -Z files/d3
+ -f -u --help files/d3
+ -f -u --version files/d3
+ -f -v -Z files/d3
+ -f -v --help files/d3
+ -f -v --version files/d3
+ -f -Z --help files/d3
+ -f -Z --version files/d3
+ -f --help --version files/d3
+ -i -n --strip-trailing-slashes files/d3
+ -i -n -S=q files/d3
+ -i -n -t=files files/d3
+ -i -n -T files/d3
+ -i -n -u files/d3
+ -i -n -v files/d3
+ -i -n -Z files/d3
+ -i -n --help files/d3
+ -i -n --version files/d3
+ -i --strip-trailing-slashes -S=q files/d3
+ -i --strip-trailing-slashes -t=files files/d3
+ -i --strip-trailing-slashes -T files/d3
+ -i --strip-trailing-slashes -u files/d3
+ -i --strip-trailing-slashes -v files/d3
+ -i --strip-trailing-slashes -Z files/d3
+ -i --strip-trailing-slashes --help files/d3
+ -i --strip-trailing-slashes --version files/d3
+ -i -S=q -t=files files/d3
+ -i -S=q -T files/d3
+ -i -S=q -u files/d3
+ -i -S=q -v files/d3
+ -i -S=q -Z files/d3
+ -i -S=q --help files/d3
+ -i -S=q --version files/d3
+ -i -t=files -T files/d3
+ -i -t=files -u files/d3
+ -i -t=files -v files/d3
+ -i -t=files -Z files/d3
+ -i -t=files --help files/d3
+ -i -t=files --version files/d3
+ -i -T -u files/d3
+ -i -T -v files/d3
+ -i -T -Z files/d3
+ -i -T --help files/d3
+ -i -T --version files/d3
+ -i -u -v files/d3
+ -i -u -Z files/d3
+ -i -u --help files/d3
+ -i -u --version files/d3
+ -i -v -Z files/d3
+ -i -v --help files/d3
+ -i -v --version files/d3
+ -i -Z --help files/d3
+ -i -Z --version files/d3
+ -i --help --version files/d3
+ -n --strip-trailing-slashes -S=q files/d3
+ -n --strip-trailing-slashes -t=files files/d3
+ -n --strip-trailing-slashes -T files/d3
+ -n --strip-trailing-slashes -u files/d3
+ -n --strip-trailing-slashes -v files/d3
+ -n --strip-trailing-slashes -Z files/d3
+ -n --strip-trailing-slashes --help files/d3
+ -n --strip-trailing-slashes --version files/d3
+ -n -S=q -t=files files/d3
+ -n -S=q -T files/d3
+ -n -S=q -u files/d3
+ -n -S=q -v files/d3
+ -n -S=q -Z files/d3
+ -n -S=q --help files/d3
+ -n -S=q --version files/d3
+ -n -t=files -T files/d3
+ -n -t=files -u files/d3
+ -n -t=files -v files/d3
+ -n -t=files -Z files/d3
+ -n -t=files --help files/d3
+ -n -t=files --version files/d3
+ -n -T -u files/d3
+ -n -T -v files/d3
+ -n -T -Z files/d3
+ -n -T --help files/d3
+ -n -T --version files/d3
+ -n -u -v files/d3
+ -n -u -Z files/d3
+ -n -u --help files/d3
+ -n -u --version files/d3
+ -n -v -Z files/d3
+ -n -v --help files/d3
+ -n -v --version files/d3
+ -n -Z --help files/d3
+ -n -Z --version files/d3
+ -n --help --version files/d3
+ --strip-trailing-slashes -S=q -t=files files/d3
+ --strip-trailing-slashes -S=q -T files/d3
+ --strip-trailing-slashes -S=q -u files/d3
+ --strip-trailing-slashes -S=q -v files/d3
+ --strip-trailing-slashes -S=q -Z files/d3
+ --strip-trailing-slashes -S=q --help files/d3
+ --strip-trailing-slashes -S=q --version files/d3
+ --strip-trailing-slashes -t=files -T files/d3
+ --strip-trailing-slashes -t=files -u files/d3
+ --strip-trailing-slashes -t=files -v files/d3
+ --strip-trailing-slashes -t=files -Z files/d3
+ --strip-trailing-slashes -t=files --help files/d3
+ --strip-trailing-slashes -t=files --version files/d3
+ --strip-trailing-slashes -T -u files/d3
+ --strip-trailing-slashes -T -v files/d3
+ --strip-trailing-slashes -T -Z files/d3
+ --strip-trailing-slashes -T --help files/d3
+ --strip-trailing-slashes -T --version files/d3
+ --strip-trailing-slashes -u -v files/d3
+ --strip-trailing-slashes -u -Z files/d3
+ --strip-trailing-slashes -u --help files/d3
+ --strip-trailing-slashes -u --version files/d3
+ --strip-trailing-slashes -v -Z files/d3
+ --strip-trailing-slashes -v --help files/d3
+ --strip-trailing-slashes -v --version files/d3
+ --strip-trailing-slashes -Z --help files/d3
+ --strip-trailing-slashes -Z --version files/d3
+ --strip-trailing-slashes --help --version files/d3
+ -S=q -t=files -T files/d3
+ -S=q -t=files -u files/d3
+ -S=q -t=files -v files/d3
+ -S=q -t=files -Z files/d3
+ -S=q -t=files --help files/d3
+ -S=q -t=files --version files/d3
+ -S=q -T -u files/d3
+ -S=q -T -v files/d3
+ -S=q -T -Z files/d3
+ -S=q -T --help files/d3
+ -S=q -T --version files/d3
+ -S=q -u -v files/d3
+ -S=q -u -Z files/d3
+ -S=q -u --help files/d3
+ -S=q -u --version files/d3
+ -S=q -v -Z files/d3
+ -S=q -v --help files/d3
+ -S=q -v --version files/d3
+ -S=q -Z --help files/d3
+ -S=q -Z --version files/d3
+ -S=q --help --version files/d3
+ -t=files -T -u files/d3
+ -t=files -T -v files/d3
+ -t=files -T -Z files/d3
+ -t=files -T --help files/d3
+ -t=files -T --version files/d3
+ -t=files -u -v files/d3
+ -t=files -u -Z files/d3
+ -t=files -u --help files/d3
+ -t=files -u --version files/d3
+ -t=files -v -Z files/d3
+ -t=files -v --help files/d3
+ -t=files -v --version files/d3
+ -t=files -Z --help files/d3
+ -t=files -Z --version files/d3
+ -t=files --help --version files/d3
+ -T -u -v files/d3
+ -T -u -Z files/d3
+ -T -u --help files/d3
+ -T -u --version files/d3
+ -T -v -Z files/d3
+ -T -v --help files/d3
+ -T -v --version files/d3
+ -T -Z --help files/d3
+ -T -Z --version files/d3
+ -T --help --version files/d3
+ -u -v -Z files/d3
+ -u -v --help files/d3
+ -u -v --version files/d3
+ -u -Z --help files/d3
+ -u -Z --version files/d3
+ -u --help --version files/d3
+ -v -Z --help files/d3
+ -v -Z --version files/d3
+ -v --help --version files/d3
+ -Z --help --version files/d3

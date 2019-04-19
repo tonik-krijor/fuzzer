@@ -1,0 +1,12 @@
+ 
+ --help 
+ --version 
+ --help --version 
+ 0.01
+ --help 0.01
+ --version 0.01
+ --help --version 0.01
+ 0
+ --help 0
+ --version 0
+ --help --version 0

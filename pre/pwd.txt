@@ -1,0 +1,30 @@
+ 
+ -L 
+ -P 
+ --help 
+ --version 
+ -L -P 
+ -L --help 
+ -L --version 
+ -P --help 
+ -P --version 
+ --help --version 
+ -L -P --help 
+ -L -P --version 
+ -L --help --version 
+ -P --help --version 
+ helloworld
+ -L helloworld
+ -P helloworld
+ --help helloworld
+ --version helloworld
+ -L -P helloworld
+ -L --help helloworld
+ -L --version helloworld
+ -P --help helloworld
+ -P --version helloworld
+ --help --version helloworld
+ -L -P --help helloworld
+ -L -P --version helloworld
+ -L --help --version helloworld
+ -P --help --version helloworld

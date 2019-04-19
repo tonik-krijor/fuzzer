@@ -1,0 +1,756 @@
+ 
+ -a 
+ -c 
+ -d 2000-01-01 
+ -f 
+ -h 
+ -m 
+ -r file/file1 
+ -t 201901010000.00 
+ --time=access 
+ --time=atime 
+ --time=use 
+ --help 
+ --version 
+ -a -c 
+ -a -d 2000-01-01 
+ -a -f 
+ -a -h 
+ -a -m 
+ -a -r file/file1 
+ -a -t 201901010000.00 
+ -a --time=access 
+ -a --time=atime 
+ -a --time=use 
+ -a --help 
+ -a --version 
+ -c -d 2000-01-01 
+ -c -f 
+ -c -h 
+ -c -m 
+ -c -r file/file1 
+ -c -t 201901010000.00 
+ -c --time=access 
+ -c --time=atime 
+ -c --time=use 
+ -c --help 
+ -c --version 
+ -d 2000-01-01 -f 
+ -d 2000-01-01 -h 
+ -d 2000-01-01 -m 
+ -d 2000-01-01 -r file/file1 
+ -d 2000-01-01 -t 201901010000.00 
+ -d 2000-01-01 --time=access 
+ -d 2000-01-01 --time=atime 
+ -d 2000-01-01 --time=use 
+ -d 2000-01-01 --help 
+ -d 2000-01-01 --version 
+ -f -h 
+ -f -m 
+ -f -r file/file1 
+ -f -t 201901010000.00 
+ -f --time=access 
+ -f --time=atime 
+ -f --time=use 
+ -f --help 
+ -f --version 
+ -h -m 
+ -h -r file/file1 
+ -h -t 201901010000.00 
+ -h --time=access 
+ -h --time=atime 
+ -h --time=use 
+ -h --help 
+ -h --version 
+ -m -r file/file1 
+ -m -t 201901010000.00 
+ -m --time=access 
+ -m --time=atime 
+ -m --time=use 
+ -m --help 
+ -m --version 
+ -r file/file1 -t 201901010000.00 
+ -r file/file1 --time=access 
+ -r file/file1 --time=atime 
+ -r file/file1 --time=use 
+ -r file/file1 --help 
+ -r file/file1 --version 
+ -t 201901010000.00 --time=access 
+ -t 201901010000.00 --time=atime 
+ -t 201901010000.00 --time=use 
+ -t 201901010000.00 --help 
+ -t 201901010000.00 --version 
+ --time=access --time=atime 
+ --time=access --time=use 
+ --time=access --help 
+ --time=access --version 
+ --time=atime --time=use 
+ --time=atime --help 
+ --time=atime --version 
+ --time=use --help 
+ --time=use --version 
+ --help --version 
+ -a -c -d 2000-01-01 
+ -a -c -f 
+ -a -c -h 
+ -a -c -m 
+ -a -c -r file/file1 
+ -a -c -t 201901010000.00 
+ -a -c --time=access 
+ -a -c --time=atime 
+ -a -c --time=use 
+ -a -c --help 
+ -a -c --version 
+ -a -d 2000-01-01 -f 
+ -a -d 2000-01-01 -h 
+ -a -d 2000-01-01 -m 
+ -a -d 2000-01-01 -r file/file1 
+ -a -d 2000-01-01 -t 201901010000.00 
+ -a -d 2000-01-01 --time=access 
+ -a -d 2000-01-01 --time=atime 
+ -a -d 2000-01-01 --time=use 
+ -a -d 2000-01-01 --help 
+ -a -d 2000-01-01 --version 
+ -a -f -h 
+ -a -f -m 
+ -a -f -r file/file1 
+ -a -f -t 201901010000.00 
+ -a -f --time=access 
+ -a -f --time=atime 
+ -a -f --time=use 
+ -a -f --help 
+ -a -f --version 
+ -a -h -m 
+ -a -h -r file/file1 
+ -a -h -t 201901010000.00 
+ -a -h --time=access 
+ -a -h --time=atime 
+ -a -h --time=use 
+ -a -h --help 
+ -a -h --version 
+ -a -m -r file/file1 
+ -a -m -t 201901010000.00 
+ -a -m --time=access 
+ -a -m --time=atime 
+ -a -m --time=use 
+ -a -m --help 
+ -a -m --version 
+ -a -r file/file1 -t 201901010000.00 
+ -a -r file/file1 --time=access 
+ -a -r file/file1 --time=atime 
+ -a -r file/file1 --time=use 
+ -a -r file/file1 --help 
+ -a -r file/file1 --version 
+ -a -t 201901010000.00 --time=access 
+ -a -t 201901010000.00 --time=atime 
+ -a -t 201901010000.00 --time=use 
+ -a -t 201901010000.00 --help 
+ -a -t 201901010000.00 --version 
+ -a --time=access --time=atime 
+ -a --time=access --time=use 
+ -a --time=access --help 
+ -a --time=access --version 
+ -a --time=atime --time=use 
+ -a --time=atime --help 
+ -a --time=atime --version 
+ -a --time=use --help 
+ -a --time=use --version 
+ -a --help --version 
+ -c -d 2000-01-01 -f 
+ -c -d 2000-01-01 -h 
+ -c -d 2000-01-01 -m 
+ -c -d 2000-01-01 -r file/file1 
+ -c -d 2000-01-01 -t 201901010000.00 
+ -c -d 2000-01-01 --time=access 
+ -c -d 2000-01-01 --time=atime 
+ -c -d 2000-01-01 --time=use 
+ -c -d 2000-01-01 --help 
+ -c -d 2000-01-01 --version 
+ -c -f -h 
+ -c -f -m 
+ -c -f -r file/file1 
+ -c -f -t 201901010000.00 
+ -c -f --time=access 
+ -c -f --time=atime 
+ -c -f --time=use 
+ -c -f --help 
+ -c -f --version 
+ -c -h -m 
+ -c -h -r file/file1 
+ -c -h -t 201901010000.00 
+ -c -h --time=access 
+ -c -h --time=atime 
+ -c -h --time=use 
+ -c -h --help 
+ -c -h --version 
+ -c -m -r file/file1 
+ -c -m -t 201901010000.00 
+ -c -m --time=access 
+ -c -m --time=atime 
+ -c -m --time=use 
+ -c -m --help 
+ -c -m --version 
+ -c -r file/file1 -t 201901010000.00 
+ -c -r file/file1 --time=access 
+ -c -r file/file1 --time=atime 
+ -c -r file/file1 --time=use 
+ -c -r file/file1 --help 
+ -c -r file/file1 --version 
+ -c -t 201901010000.00 --time=access 
+ -c -t 201901010000.00 --time=atime 
+ -c -t 201901010000.00 --time=use 
+ -c -t 201901010000.00 --help 
+ -c -t 201901010000.00 --version 
+ -c --time=access --time=atime 
+ -c --time=access --time=use 
+ -c --time=access --help 
+ -c --time=access --version 
+ -c --time=atime --time=use 
+ -c --time=atime --help 
+ -c --time=atime --version 
+ -c --time=use --help 
+ -c --time=use --version 
+ -c --help --version 
+ -d 2000-01-01 -f -h 
+ -d 2000-01-01 -f -m 
+ -d 2000-01-01 -f -r file/file1 
+ -d 2000-01-01 -f -t 201901010000.00 
+ -d 2000-01-01 -f --time=access 
+ -d 2000-01-01 -f --time=atime 
+ -d 2000-01-01 -f --time=use 
+ -d 2000-01-01 -f --help 
+ -d 2000-01-01 -f --version 
+ -d 2000-01-01 -h -m 
+ -d 2000-01-01 -h -r file/file1 
+ -d 2000-01-01 -h -t 201901010000.00 
+ -d 2000-01-01 -h --time=access 
+ -d 2000-01-01 -h --time=atime 
+ -d 2000-01-01 -h --time=use 
+ -d 2000-01-01 -h --help 
+ -d 2000-01-01 -h --version 
+ -d 2000-01-01 -m -r file/file1 
+ -d 2000-01-01 -m -t 201901010000.00 
+ -d 2000-01-01 -m --time=access 
+ -d 2000-01-01 -m --time=atime 
+ -d 2000-01-01 -m --time=use 
+ -d 2000-01-01 -m --help 
+ -d 2000-01-01 -m --version 
+ -d 2000-01-01 -r file/file1 -t 201901010000.00 
+ -d 2000-01-01 -r file/file1 --time=access 
+ -d 2000-01-01 -r file/file1 --time=atime 
+ -d 2000-01-01 -r file/file1 --time=use 
+ -d 2000-01-01 -r file/file1 --help 
+ -d 2000-01-01 -r file/file1 --version 
+ -d 2000-01-01 -t 201901010000.00 --time=access 
+ -d 2000-01-01 -t 201901010000.00 --time=atime 
+ -d 2000-01-01 -t 201901010000.00 --time=use 
+ -d 2000-01-01 -t 201901010000.00 --help 
+ -d 2000-01-01 -t 201901010000.00 --version 
+ -d 2000-01-01 --time=access --time=atime 
+ -d 2000-01-01 --time=access --time=use 
+ -d 2000-01-01 --time=access --help 
+ -d 2000-01-01 --time=access --version 
+ -d 2000-01-01 --time=atime --time=use 
+ -d 2000-01-01 --time=atime --help 
+ -d 2000-01-01 --time=atime --version 
+ -d 2000-01-01 --time=use --help 
+ -d 2000-01-01 --time=use --version 
+ -d 2000-01-01 --help --version 
+ -f -h -m 
+ -f -h -r file/file1 
+ -f -h -t 201901010000.00 
+ -f -h --time=access 
+ -f -h --time=atime 
+ -f -h --time=use 
+ -f -h --help 
+ -f -h --version 
+ -f -m -r file/file1 
+ -f -m -t 201901010000.00 
+ -f -m --time=access 
+ -f -m --time=atime 
+ -f -m --time=use 
+ -f -m --help 
+ -f -m --version 
+ -f -r file/file1 -t 201901010000.00 
+ -f -r file/file1 --time=access 
+ -f -r file/file1 --time=atime 
+ -f -r file/file1 --time=use 
+ -f -r file/file1 --help 
+ -f -r file/file1 --version 
+ -f -t 201901010000.00 --time=access 
+ -f -t 201901010000.00 --time=atime 
+ -f -t 201901010000.00 --time=use 
+ -f -t 201901010000.00 --help 
+ -f -t 201901010000.00 --version 
+ -f --time=access --time=atime 
+ -f --time=access --time=use 
+ -f --time=access --help 
+ -f --time=access --version 
+ -f --time=atime --time=use 
+ -f --time=atime --help 
+ -f --time=atime --version 
+ -f --time=use --help 
+ -f --time=use --version 
+ -f --help --version 
+ -h -m -r file/file1 
+ -h -m -t 201901010000.00 
+ -h -m --time=access 
+ -h -m --time=atime 
+ -h -m --time=use 
+ -h -m --help 
+ -h -m --version 
+ -h -r file/file1 -t 201901010000.00 
+ -h -r file/file1 --time=access 
+ -h -r file/file1 --time=atime 
+ -h -r file/file1 --time=use 
+ -h -r file/file1 --help 
+ -h -r file/file1 --version 
+ -h -t 201901010000.00 --time=access 
+ -h -t 201901010000.00 --time=atime 
+ -h -t 201901010000.00 --time=use 
+ -h -t 201901010000.00 --help 
+ -h -t 201901010000.00 --version 
+ -h --time=access --time=atime 
+ -h --time=access --time=use 
+ -h --time=access --help 
+ -h --time=access --version 
+ -h --time=atime --time=use 
+ -h --time=atime --help 
+ -h --time=atime --version 
+ -h --time=use --help 
+ -h --time=use --version 
+ -h --help --version 
+ -m -r file/file1 -t 201901010000.00 
+ -m -r file/file1 --time=access 
+ -m -r file/file1 --time=atime 
+ -m -r file/file1 --time=use 
+ -m -r file/file1 --help 
+ -m -r file/file1 --version 
+ -m -t 201901010000.00 --time=access 
+ -m -t 201901010000.00 --time=atime 
+ -m -t 201901010000.00 --time=use 
+ -m -t 201901010000.00 --help 
+ -m -t 201901010000.00 --version 
+ -m --time=access --time=atime 
+ -m --time=access --time=use 
+ -m --time=access --help 
+ -m --time=access --version 
+ -m --time=atime --time=use 
+ -m --time=atime --help 
+ -m --time=atime --version 
+ -m --time=use --help 
+ -m --time=use --version 
+ -m --help --version 
+ -r file/file1 -t 201901010000.00 --time=access 
+ -r file/file1 -t 201901010000.00 --time=atime 
+ -r file/file1 -t 201901010000.00 --time=use 
+ -r file/file1 -t 201901010000.00 --help 
+ -r file/file1 -t 201901010000.00 --version 
+ -r file/file1 --time=access --time=atime 
+ -r file/file1 --time=access --time=use 
+ -r file/file1 --time=access --help 
+ -r file/file1 --time=access --version 
+ -r file/file1 --time=atime --time=use 
+ -r file/file1 --time=atime --help 
+ -r file/file1 --time=atime --version 
+ -r file/file1 --time=use --help 
+ -r file/file1 --time=use --version 
+ -r file/file1 --help --version 
+ -t 201901010000.00 --time=access --time=atime 
+ -t 201901010000.00 --time=access --time=use 
+ -t 201901010000.00 --time=access --help 
+ -t 201901010000.00 --time=access --version 
+ -t 201901010000.00 --time=atime --time=use 
+ -t 201901010000.00 --time=atime --help 
+ -t 201901010000.00 --time=atime --version 
+ -t 201901010000.00 --time=use --help 
+ -t 201901010000.00 --time=use --version 
+ -t 201901010000.00 --help --version 
+ --time=access --time=atime --time=use 
+ --time=access --time=atime --help 
+ --time=access --time=atime --version 
+ --time=access --time=use --help 
+ --time=access --time=use --version 
+ --time=access --help --version 
+ --time=atime --time=use --help 
+ --time=atime --time=use --version 
+ --time=atime --help --version 
+ --time=use --help --version 
+ files/f1
+ -a files/f1
+ -c files/f1
+ -d 2000-01-01 files/f1
+ -f files/f1
+ -h files/f1
+ -m files/f1
+ -r file/file1 files/f1
+ -t 201901010000.00 files/f1
+ --time=access files/f1
+ --time=atime files/f1
+ --time=use files/f1
+ --help files/f1
+ --version files/f1
+ -a -c files/f1
+ -a -d 2000-01-01 files/f1
+ -a -f files/f1
+ -a -h files/f1
+ -a -m files/f1
+ -a -r file/file1 files/f1
+ -a -t 201901010000.00 files/f1
+ -a --time=access files/f1
+ -a --time=atime files/f1
+ -a --time=use files/f1
+ -a --help files/f1
+ -a --version files/f1
+ -c -d 2000-01-01 files/f1
+ -c -f files/f1
+ -c -h files/f1
+ -c -m files/f1
+ -c -r file/file1 files/f1
+ -c -t 201901010000.00 files/f1
+ -c --time=access files/f1
+ -c --time=atime files/f1
+ -c --time=use files/f1
+ -c --help files/f1
+ -c --version files/f1
+ -d 2000-01-01 -f files/f1
+ -d 2000-01-01 -h files/f1
+ -d 2000-01-01 -m files/f1
+ -d 2000-01-01 -r file/file1 files/f1
+ -d 2000-01-01 -t 201901010000.00 files/f1
+ -d 2000-01-01 --time=access files/f1
+ -d 2000-01-01 --time=atime files/f1
+ -d 2000-01-01 --time=use files/f1
+ -d 2000-01-01 --help files/f1
+ -d 2000-01-01 --version files/f1
+ -f -h files/f1
+ -f -m files/f1
+ -f -r file/file1 files/f1
+ -f -t 201901010000.00 files/f1
+ -f --time=access files/f1
+ -f --time=atime files/f1
+ -f --time=use files/f1
+ -f --help files/f1
+ -f --version files/f1
+ -h -m files/f1
+ -h -r file/file1 files/f1
+ -h -t 201901010000.00 files/f1
+ -h --time=access files/f1
+ -h --time=atime files/f1
+ -h --time=use files/f1
+ -h --help files/f1
+ -h --version files/f1
+ -m -r file/file1 files/f1
+ -m -t 201901010000.00 files/f1
+ -m --time=access files/f1
+ -m --time=atime files/f1
+ -m --time=use files/f1
+ -m --help files/f1
+ -m --version files/f1
+ -r file/file1 -t 201901010000.00 files/f1
+ -r file/file1 --time=access files/f1
+ -r file/file1 --time=atime files/f1
+ -r file/file1 --time=use files/f1
+ -r file/file1 --help files/f1
+ -r file/file1 --version files/f1
+ -t 201901010000.00 --time=access files/f1
+ -t 201901010000.00 --time=atime files/f1
+ -t 201901010000.00 --time=use files/f1
+ -t 201901010000.00 --help files/f1
+ -t 201901010000.00 --version files/f1
+ --time=access --time=atime files/f1
+ --time=access --time=use files/f1
+ --time=access --help files/f1
+ --time=access --version files/f1
+ --time=atime --time=use files/f1
+ --time=atime --help files/f1
+ --time=atime --version files/f1
+ --time=use --help files/f1
+ --time=use --version files/f1
+ --help --version files/f1
+ -a -c -d 2000-01-01 files/f1
+ -a -c -f files/f1
+ -a -c -h files/f1
+ -a -c -m files/f1
+ -a -c -r file/file1 files/f1
+ -a -c -t 201901010000.00 files/f1
+ -a -c --time=access files/f1
+ -a -c --time=atime files/f1
+ -a -c --time=use files/f1
+ -a -c --help files/f1
+ -a -c --version files/f1
+ -a -d 2000-01-01 -f files/f1
+ -a -d 2000-01-01 -h files/f1
+ -a -d 2000-01-01 -m files/f1
+ -a -d 2000-01-01 -r file/file1 files/f1
+ -a -d 2000-01-01 -t 201901010000.00 files/f1
+ -a -d 2000-01-01 --time=access files/f1
+ -a -d 2000-01-01 --time=atime files/f1
+ -a -d 2000-01-01 --time=use files/f1
+ -a -d 2000-01-01 --help files/f1
+ -a -d 2000-01-01 --version files/f1
+ -a -f -h files/f1
+ -a -f -m files/f1
+ -a -f -r file/file1 files/f1
+ -a -f -t 201901010000.00 files/f1
+ -a -f --time=access files/f1
+ -a -f --time=atime files/f1
+ -a -f --time=use files/f1
+ -a -f --help files/f1
+ -a -f --version files/f1
+ -a -h -m files/f1
+ -a -h -r file/file1 files/f1
+ -a -h -t 201901010000.00 files/f1
+ -a -h --time=access files/f1
+ -a -h --time=atime files/f1
+ -a -h --time=use files/f1
+ -a -h --help files/f1
+ -a -h --version files/f1
+ -a -m -r file/file1 files/f1
+ -a -m -t 201901010000.00 files/f1
+ -a -m --time=access files/f1
+ -a -m --time=atime files/f1
+ -a -m --time=use files/f1
+ -a -m --help files/f1
+ -a -m --version files/f1
+ -a -r file/file1 -t 201901010000.00 files/f1
+ -a -r file/file1 --time=access files/f1
+ -a -r file/file1 --time=atime files/f1
+ -a -r file/file1 --time=use files/f1
+ -a -r file/file1 --help files/f1
+ -a -r file/file1 --version files/f1
+ -a -t 201901010000.00 --time=access files/f1
+ -a -t 201901010000.00 --time=atime files/f1
+ -a -t 201901010000.00 --time=use files/f1
+ -a -t 201901010000.00 --help files/f1
+ -a -t 201901010000.00 --version files/f1
+ -a --time=access --time=atime files/f1
+ -a --time=access --time=use files/f1
+ -a --time=access --help files/f1
+ -a --time=access --version files/f1
+ -a --time=atime --time=use files/f1
+ -a --time=atime --help files/f1
+ -a --time=atime --version files/f1
+ -a --time=use --help files/f1
+ -a --time=use --version files/f1
+ -a --help --version files/f1
+ -c -d 2000-01-01 -f files/f1
+ -c -d 2000-01-01 -h files/f1
+ -c -d 2000-01-01 -m files/f1
+ -c -d 2000-01-01 -r file/file1 files/f1
+ -c -d 2000-01-01 -t 201901010000.00 files/f1
+ -c -d 2000-01-01 --time=access files/f1
+ -c -d 2000-01-01 --time=atime files/f1
+ -c -d 2000-01-01 --time=use files/f1
+ -c -d 2000-01-01 --help files/f1
+ -c -d 2000-01-01 --version files/f1
+ -c -f -h files/f1
+ -c -f -m files/f1
+ -c -f -r file/file1 files/f1
+ -c -f -t 201901010000.00 files/f1
+ -c -f --time=access files/f1
+ -c -f --time=atime files/f1
+ -c -f --time=use files/f1
+ -c -f --help files/f1
+ -c -f --version files/f1
+ -c -h -m files/f1
+ -c -h -r file/file1 files/f1
+ -c -h -t 201901010000.00 files/f1
+ -c -h --time=access files/f1
+ -c -h --time=atime files/f1
+ -c -h --time=use files/f1
+ -c -h --help files/f1
+ -c -h --version files/f1
+ -c -m -r file/file1 files/f1
+ -c -m -t 201901010000.00 files/f1
+ -c -m --time=access files/f1
+ -c -m --time=atime files/f1
+ -c -m --time=use files/f1
+ -c -m --help files/f1
+ -c -m --version files/f1
+ -c -r file/file1 -t 201901010000.00 files/f1
+ -c -r file/file1 --time=access files/f1
+ -c -r file/file1 --time=atime files/f1
+ -c -r file/file1 --time=use files/f1
+ -c -r file/file1 --help files/f1
+ -c -r file/file1 --version files/f1
+ -c -t 201901010000.00 --time=access files/f1
+ -c -t 201901010000.00 --time=atime files/f1
+ -c -t 201901010000.00 --time=use files/f1
+ -c -t 201901010000.00 --help files/f1
+ -c -t 201901010000.00 --version files/f1
+ -c --time=access --time=atime files/f1
+ -c --time=access --time=use files/f1
+ -c --time=access --help files/f1
+ -c --time=access --version files/f1
+ -c --time=atime --time=use files/f1
+ -c --time=atime --help files/f1
+ -c --time=atime --version files/f1
+ -c --time=use --help files/f1
+ -c --time=use --version files/f1
+ -c --help --version files/f1
+ -d 2000-01-01 -f -h files/f1
+ -d 2000-01-01 -f -m files/f1
+ -d 2000-01-01 -f -r file/file1 files/f1
+ -d 2000-01-01 -f -t 201901010000.00 files/f1
+ -d 2000-01-01 -f --time=access files/f1
+ -d 2000-01-01 -f --time=atime files/f1
+ -d 2000-01-01 -f --time=use files/f1
+ -d 2000-01-01 -f --help files/f1
+ -d 2000-01-01 -f --version files/f1
+ -d 2000-01-01 -h -m files/f1
+ -d 2000-01-01 -h -r file/file1 files/f1
+ -d 2000-01-01 -h -t 201901010000.00 files/f1
+ -d 2000-01-01 -h --time=access files/f1
+ -d 2000-01-01 -h --time=atime files/f1
+ -d 2000-01-01 -h --time=use files/f1
+ -d 2000-01-01 -h --help files/f1
+ -d 2000-01-01 -h --version files/f1
+ -d 2000-01-01 -m -r file/file1 files/f1
+ -d 2000-01-01 -m -t 201901010000.00 files/f1
+ -d 2000-01-01 -m --time=access files/f1
+ -d 2000-01-01 -m --time=atime files/f1
+ -d 2000-01-01 -m --time=use files/f1
+ -d 2000-01-01 -m --help files/f1
+ -d 2000-01-01 -m --version files/f1
+ -d 2000-01-01 -r file/file1 -t 201901010000.00 files/f1
+ -d 2000-01-01 -r file/file1 --time=access files/f1
+ -d 2000-01-01 -r file/file1 --time=atime files/f1
+ -d 2000-01-01 -r file/file1 --time=use files/f1
+ -d 2000-01-01 -r file/file1 --help files/f1
+ -d 2000-01-01 -r file/file1 --version files/f1
+ -d 2000-01-01 -t 201901010000.00 --time=access files/f1
+ -d 2000-01-01 -t 201901010000.00 --time=atime files/f1
+ -d 2000-01-01 -t 201901010000.00 --time=use files/f1
+ -d 2000-01-01 -t 201901010000.00 --help files/f1
+ -d 2000-01-01 -t 201901010000.00 --version files/f1
+ -d 2000-01-01 --time=access --time=atime files/f1
+ -d 2000-01-01 --time=access --time=use files/f1
+ -d 2000-01-01 --time=access --help files/f1
+ -d 2000-01-01 --time=access --version files/f1
+ -d 2000-01-01 --time=atime --time=use files/f1
+ -d 2000-01-01 --time=atime --help files/f1
+ -d 2000-01-01 --time=atime --version files/f1
+ -d 2000-01-01 --time=use --help files/f1
+ -d 2000-01-01 --time=use --version files/f1
+ -d 2000-01-01 --help --version files/f1
+ -f -h -m files/f1
+ -f -h -r file/file1 files/f1
+ -f -h -t 201901010000.00 files/f1
+ -f -h --time=access files/f1
+ -f -h --time=atime files/f1
+ -f -h --time=use files/f1
+ -f -h --help files/f1
+ -f -h --version files/f1
+ -f -m -r file/file1 files/f1
+ -f -m -t 201901010000.00 files/f1
+ -f -m --time=access files/f1
+ -f -m --time=atime files/f1
+ -f -m --time=use files/f1
+ -f -m --help files/f1
+ -f -m --version files/f1
+ -f -r file/file1 -t 201901010000.00 files/f1
+ -f -r file/file1 --time=access files/f1
+ -f -r file/file1 --time=atime files/f1
+ -f -r file/file1 --time=use files/f1
+ -f -r file/file1 --help files/f1
+ -f -r file/file1 --version files/f1
+ -f -t 201901010000.00 --time=access files/f1
+ -f -t 201901010000.00 --time=atime files/f1
+ -f -t 201901010000.00 --time=use files/f1
+ -f -t 201901010000.00 --help files/f1
+ -f -t 201901010000.00 --version files/f1
+ -f --time=access --time=atime files/f1
+ -f --time=access --time=use files/f1
+ -f --time=access --help files/f1
+ -f --time=access --version files/f1
+ -f --time=atime --time=use files/f1
+ -f --time=atime --help files/f1
+ -f --time=atime --version files/f1
+ -f --time=use --help files/f1
+ -f --time=use --version files/f1
+ -f --help --version files/f1
+ -h -m -r file/file1 files/f1
+ -h -m -t 201901010000.00 files/f1
+ -h -m --time=access files/f1
+ -h -m --time=atime files/f1
+ -h -m --time=use files/f1
+ -h -m --help files/f1
+ -h -m --version files/f1
+ -h -r file/file1 -t 201901010000.00 files/f1
+ -h -r file/file1 --time=access files/f1
+ -h -r file/file1 --time=atime files/f1
+ -h -r file/file1 --time=use files/f1
+ -h -r file/file1 --help files/f1
+ -h -r file/file1 --version files/f1
+ -h -t 201901010000.00 --time=access files/f1
+ -h -t 201901010000.00 --time=atime files/f1
+ -h -t 201901010000.00 --time=use files/f1
+ -h -t 201901010000.00 --help files/f1
+ -h -t 201901010000.00 --version files/f1
+ -h --time=access --time=atime files/f1
+ -h --time=access --time=use files/f1
+ -h --time=access --help files/f1
+ -h --time=access --version files/f1
+ -h --time=atime --time=use files/f1
+ -h --time=atime --help files/f1
+ -h --time=atime --version files/f1
+ -h --time=use --help files/f1
+ -h --time=use --version files/f1
+ -h --help --version files/f1
+ -m -r file/file1 -t 201901010000.00 files/f1
+ -m -r file/file1 --time=access files/f1
+ -m -r file/file1 --time=atime files/f1
+ -m -r file/file1 --time=use files/f1
+ -m -r file/file1 --help files/f1
+ -m -r file/file1 --version files/f1
+ -m -t 201901010000.00 --time=access files/f1
+ -m -t 201901010000.00 --time=atime files/f1
+ -m -t 201901010000.00 --time=use files/f1
+ -m -t 201901010000.00 --help files/f1
+ -m -t 201901010000.00 --version files/f1
+ -m --time=access --time=atime files/f1
+ -m --time=access --time=use files/f1
+ -m --time=access --help files/f1
+ -m --time=access --version files/f1
+ -m --time=atime --time=use files/f1
+ -m --time=atime --help files/f1
+ -m --time=atime --version files/f1
+ -m --time=use --help files/f1
+ -m --time=use --version files/f1
+ -m --help --version files/f1
+ -r file/file1 -t 201901010000.00 --time=access files/f1
+ -r file/file1 -t 201901010000.00 --time=atime files/f1
+ -r file/file1 -t 201901010000.00 --time=use files/f1
+ -r file/file1 -t 201901010000.00 --help files/f1
+ -r file/file1 -t 201901010000.00 --version files/f1
+ -r file/file1 --time=access --time=atime files/f1
+ -r file/file1 --time=access --time=use files/f1
+ -r file/file1 --time=access --help files/f1
+ -r file/file1 --time=access --version files/f1
+ -r file/file1 --time=atime --time=use files/f1
+ -r file/file1 --time=atime --help files/f1
+ -r file/file1 --time=atime --version files/f1
+ -r file/file1 --time=use --help files/f1
+ -r file/file1 --time=use --version files/f1
+ -r file/file1 --help --version files/f1
+ -t 201901010000.00 --time=access --time=atime files/f1
+ -t 201901010000.00 --time=access --time=use files/f1
+ -t 201901010000.00 --time=access --help files/f1
+ -t 201901010000.00 --time=access --version files/f1
+ -t 201901010000.00 --time=atime --time=use files/f1
+ -t 201901010000.00 --time=atime --help files/f1
+ -t 201901010000.00 --time=atime --version files/f1
+ -t 201901010000.00 --time=use --help files/f1
+ -t 201901010000.00 --time=use --version files/f1
+ -t 201901010000.00 --help --version files/f1
+ --time=access --time=atime --time=use files/f1
+ --time=access --time=atime --help files/f1
+ --time=access --time=atime --version files/f1
+ --time=access --time=use --help files/f1
+ --time=access --time=use --version files/f1
+ --time=access --help --version files/f1
+ --time=atime --time=use --help files/f1
+ --time=atime --time=use --version files/f1
+ --time=atime --help --version files/f1
+ --time=use --help --version files/f1

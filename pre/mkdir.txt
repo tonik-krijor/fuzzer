@@ -1,0 +1,128 @@
+ 
+ -m 666 
+ -p 
+ -v 
+ -Z 
+ --context CTX 
+ --help 
+ --version 
+ -m 666 -p 
+ -m 666 -v 
+ -m 666 -Z 
+ -m 666 --context CTX 
+ -m 666 --help 
+ -m 666 --version 
+ -p -v 
+ -p -Z 
+ -p --context CTX 
+ -p --help 
+ -p --version 
+ -v -Z 
+ -v --context CTX 
+ -v --help 
+ -v --version 
+ -Z --context CTX 
+ -Z --help 
+ -Z --version 
+ --context CTX --help 
+ --context CTX --version 
+ --help --version 
+ -m 666 -p -v 
+ -m 666 -p -Z 
+ -m 666 -p --context CTX 
+ -m 666 -p --help 
+ -m 666 -p --version 
+ -m 666 -v -Z 
+ -m 666 -v --context CTX 
+ -m 666 -v --help 
+ -m 666 -v --version 
+ -m 666 -Z --context CTX 
+ -m 666 -Z --help 
+ -m 666 -Z --version 
+ -m 666 --context CTX --help 
+ -m 666 --context CTX --version 
+ -m 666 --help --version 
+ -p -v -Z 
+ -p -v --context CTX 
+ -p -v --help 
+ -p -v --version 
+ -p -Z --context CTX 
+ -p -Z --help 
+ -p -Z --version 
+ -p --context CTX --help 
+ -p --context CTX --version 
+ -p --help --version 
+ -v -Z --context CTX 
+ -v -Z --help 
+ -v -Z --version 
+ -v --context CTX --help 
+ -v --context CTX --version 
+ -v --help --version 
+ -Z --context CTX --help 
+ -Z --context CTX --version 
+ -Z --help --version 
+ --context CTX --help --version 
+ files/d1
+ -m 666 files/d1
+ -p files/d1
+ -v files/d1
+ -Z files/d1
+ --context CTX files/d1
+ --help files/d1
+ --version files/d1
+ -m 666 -p files/d1
+ -m 666 -v files/d1
+ -m 666 -Z files/d1
+ -m 666 --context CTX files/d1
+ -m 666 --help files/d1
+ -m 666 --version files/d1
+ -p -v files/d1
+ -p -Z files/d1
+ -p --context CTX files/d1
+ -p --help files/d1
+ -p --version files/d1
+ -v -Z files/d1
+ -v --context CTX files/d1
+ -v --help files/d1
+ -v --version files/d1
+ -Z --context CTX files/d1
+ -Z --help files/d1
+ -Z --version files/d1
+ --context CTX --help files/d1
+ --context CTX --version files/d1
+ --help --version files/d1
+ -m 666 -p -v files/d1
+ -m 666 -p -Z files/d1
+ -m 666 -p --context CTX files/d1
+ -m 666 -p --help files/d1
+ -m 666 -p --version files/d1
+ -m 666 -v -Z files/d1
+ -m 666 -v --context CTX files/d1
+ -m 666 -v --help files/d1
+ -m 666 -v --version files/d1
+ -m 666 -Z --context CTX files/d1
+ -m 666 -Z --help files/d1
+ -m 666 -Z --version files/d1
+ -m 666 --context CTX --help files/d1
+ -m 666 --context CTX --version files/d1
+ -m 666 --help --version files/d1
+ -p -v -Z files/d1
+ -p -v --context CTX files/d1
+ -p -v --help files/d1
+ -p -v --version files/d1
+ -p -Z --context CTX files/d1
+ -p -Z --help files/d1
+ -p -Z --version files/d1
+ -p --context CTX --help files/d1
+ -p --context CTX --version files/d1
+ -p --help --version files/d1
+ -v -Z --context CTX files/d1
+ -v -Z --help files/d1
+ -v -Z --version files/d1
+ -v --context CTX --help files/d1
+ -v --context CTX --version files/d1
+ -v --help --version files/d1
+ -Z --context CTX --help files/d1
+ -Z --context CTX --version files/d1
+ -Z --help --version files/d1
+ --context CTX --help --version files/d1

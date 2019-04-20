@@ -2,7 +2,6 @@ FROM alpine
 
 # Install required packages
 RUN apk add --no-cache \
-  wget \
   build-base \
   acl-dev \
   attr-dev \ 

@@ -8,8 +8,11 @@ else
     while read line
     do
         # Prune the results - remove stuff that doesn't increase coverage
-        output=`$1 $line 2> /dev/null`
+        output=`timeout -t 1 $1 $line 2> /dev/null`
         retVal=$?
+        if [[ $retVal == 143 ]]; then # Command timed out
+            continue
+        fi
         cov=`gcov $1 2>/dev/null | grep $PRG -A 1 | grep -Eo '[0-9]+\.[0-9]+'`
         tmp=`echo -e "$cov\n$cov_max" | sort -n | tail -n 1`
         if [ "$cov" = "$tmp" ] && [ "$cov" != "$cov_max" ]; then

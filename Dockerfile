@@ -29,7 +29,8 @@ RUN wget -qO- https://ftp.gnu.org/gnu/coreutils/coreutils-8.25.tar.xz | tar --st
 
 # Build coreutils
 RUN cd coreutils && ./configure CFLAGS=--coverage
-RUN make -C coreutils 
+RUN make -C coreutils
+ENV SRC /app/coreutils/src
 
 # Download radamsa
 RUN mkdir radamsa

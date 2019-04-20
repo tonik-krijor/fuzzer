@@ -1,0 +1,4096 @@
+ 
+ --backup=none 
+ --backup=off 
+ --backup=simple 
+ --backup=never 
+ --backup=existing 
+ --backup=nil 
+ --backup=numbered 
+ --backup=t 
+ -b 
+ -d 
+ -f 
+ -i 
+ -L 
+ -n 
+ -P 
+ -r 
+ -s 
+ -S x 
+ -t files 
+ -T 
+ -v 
+ --help 
+ --version 
+ --backup=none --backup=off 
+ --backup=none --backup=simple 
+ --backup=none --backup=never 
+ --backup=none --backup=existing 
+ --backup=none --backup=nil 
+ --backup=none --backup=numbered 
+ --backup=none --backup=t 
+ --backup=none -b 
+ --backup=none -d 
+ --backup=none -f 
+ --backup=none -i 
+ --backup=none -L 
+ --backup=none -n 
+ --backup=none -P 
+ --backup=none -r 
+ --backup=none -s 
+ --backup=none -S x 
+ --backup=none -t files 
+ --backup=none -T 
+ --backup=none -v 
+ --backup=none --help 
+ --backup=none --version 
+ --backup=off --backup=simple 
+ --backup=off --backup=never 
+ --backup=off --backup=existing 
+ --backup=off --backup=nil 
+ --backup=off --backup=numbered 
+ --backup=off --backup=t 
+ --backup=off -b 
+ --backup=off -d 
+ --backup=off -f 
+ --backup=off -i 
+ --backup=off -L 
+ --backup=off -n 
+ --backup=off -P 
+ --backup=off -r 
+ --backup=off -s 
+ --backup=off -S x 
+ --backup=off -t files 
+ --backup=off -T 
+ --backup=off -v 
+ --backup=off --help 
+ --backup=off --version 
+ --backup=simple --backup=never 
+ --backup=simple --backup=existing 
+ --backup=simple --backup=nil 
+ --backup=simple --backup=numbered 
+ --backup=simple --backup=t 
+ --backup=simple -b 
+ --backup=simple -d 
+ --backup=simple -f 
+ --backup=simple -i 
+ --backup=simple -L 
+ --backup=simple -n 
+ --backup=simple -P 
+ --backup=simple -r 
+ --backup=simple -s 
+ --backup=simple -S x 
+ --backup=simple -t files 
+ --backup=simple -T 
+ --backup=simple -v 
+ --backup=simple --help 
+ --backup=simple --version 
+ --backup=never --backup=existing 
+ --backup=never --backup=nil 
+ --backup=never --backup=numbered 
+ --backup=never --backup=t 
+ --backup=never -b 
+ --backup=never -d 
+ --backup=never -f 
+ --backup=never -i 
+ --backup=never -L 
+ --backup=never -n 
+ --backup=never -P 
+ --backup=never -r 
+ --backup=never -s 
+ --backup=never -S x 
+ --backup=never -t files 
+ --backup=never -T 
+ --backup=never -v 
+ --backup=never --help 
+ --backup=never --version 
+ --backup=existing --backup=nil 
+ --backup=existing --backup=numbered 
+ --backup=existing --backup=t 
+ --backup=existing -b 
+ --backup=existing -d 
+ --backup=existing -f 
+ --backup=existing -i 
+ --backup=existing -L 
+ --backup=existing -n 
+ --backup=existing -P 
+ --backup=existing -r 
+ --backup=existing -s 
+ --backup=existing -S x 
+ --backup=existing -t files 
+ --backup=existing -T 
+ --backup=existing -v 
+ --backup=existing --help 
+ --backup=existing --version 
+ --backup=nil --backup=numbered 
+ --backup=nil --backup=t 
+ --backup=nil -b 
+ --backup=nil -d 
+ --backup=nil -f 
+ --backup=nil -i 
+ --backup=nil -L 
+ --backup=nil -n 
+ --backup=nil -P 
+ --backup=nil -r 
+ --backup=nil -s 
+ --backup=nil -S x 
+ --backup=nil -t files 
+ --backup=nil -T 
+ --backup=nil -v 
+ --backup=nil --help 
+ --backup=nil --version 
+ --backup=numbered --backup=t 
+ --backup=numbered -b 
+ --backup=numbered -d 
+ --backup=numbered -f 
+ --backup=numbered -i 
+ --backup=numbered -L 
+ --backup=numbered -n 
+ --backup=numbered -P 
+ --backup=numbered -r 
+ --backup=numbered -s 
+ --backup=numbered -S x 
+ --backup=numbered -t files 
+ --backup=numbered -T 
+ --backup=numbered -v 
+ --backup=numbered --help 
+ --backup=numbered --version 
+ --backup=t -b 
+ --backup=t -d 
+ --backup=t -f 
+ --backup=t -i 
+ --backup=t -L 
+ --backup=t -n 
+ --backup=t -P 
+ --backup=t -r 
+ --backup=t -s 
+ --backup=t -S x 
+ --backup=t -t files 
+ --backup=t -T 
+ --backup=t -v 
+ --backup=t --help 
+ --backup=t --version 
+ -b -d 
+ -b -f 
+ -b -i 
+ -b -L 
+ -b -n 
+ -b -P 
+ -b -r 
+ -b -s 
+ -b -S x 
+ -b -t files 
+ -b -T 
+ -b -v 
+ -b --help 
+ -b --version 
+ -d -f 
+ -d -i 
+ -d -L 
+ -d -n 
+ -d -P 
+ -d -r 
+ -d -s 
+ -d -S x 
+ -d -t files 
+ -d -T 
+ -d -v 
+ -d --help 
+ -d --version 
+ -f -i 
+ -f -L 
+ -f -n 
+ -f -P 
+ -f -r 
+ -f -s 
+ -f -S x 
+ -f -t files 
+ -f -T 
+ -f -v 
+ -f --help 
+ -f --version 
+ -i -L 
+ -i -n 
+ -i -P 
+ -i -r 
+ -i -s 
+ -i -S x 
+ -i -t files 
+ -i -T 
+ -i -v 
+ -i --help 
+ -i --version 
+ -L -n 
+ -L -P 
+ -L -r 
+ -L -s 
+ -L -S x 
+ -L -t files 
+ -L -T 
+ -L -v 
+ -L --help 
+ -L --version 
+ -n -P 
+ -n -r 
+ -n -s 
+ -n -S x 
+ -n -t files 
+ -n -T 
+ -n -v 
+ -n --help 
+ -n --version 
+ -P -r 
+ -P -s 
+ -P -S x 
+ -P -t files 
+ -P -T 
+ -P -v 
+ -P --help 
+ -P --version 
+ -r -s 
+ -r -S x 
+ -r -t files 
+ -r -T 
+ -r -v 
+ -r --help 
+ -r --version 
+ -s -S x 
+ -s -t files 
+ -s -T 
+ -s -v 
+ -s --help 
+ -s --version 
+ -S x -t files 
+ -S x -T 
+ -S x -v 
+ -S x --help 
+ -S x --version 
+ -t files -T 
+ -t files -v 
+ -t files --help 
+ -t files --version 
+ -T -v 
+ -T --help 
+ -T --version 
+ -v --help 
+ -v --version 
+ --help --version 
+ --backup=none --backup=off --backup=simple 
+ --backup=none --backup=off --backup=never 
+ --backup=none --backup=off --backup=existing 
+ --backup=none --backup=off --backup=nil 
+ --backup=none --backup=off --backup=numbered 
+ --backup=none --backup=off --backup=t 
+ --backup=none --backup=off -b 
+ --backup=none --backup=off -d 
+ --backup=none --backup=off -f 
+ --backup=none --backup=off -i 
+ --backup=none --backup=off -L 
+ --backup=none --backup=off -n 
+ --backup=none --backup=off -P 
+ --backup=none --backup=off -r 
+ --backup=none --backup=off -s 
+ --backup=none --backup=off -S x 
+ --backup=none --backup=off -t files 
+ --backup=none --backup=off -T 
+ --backup=none --backup=off -v 
+ --backup=none --backup=off --help 
+ --backup=none --backup=off --version 
+ --backup=none --backup=simple --backup=never 
+ --backup=none --backup=simple --backup=existing 
+ --backup=none --backup=simple --backup=nil 
+ --backup=none --backup=simple --backup=numbered 
+ --backup=none --backup=simple --backup=t 
+ --backup=none --backup=simple -b 
+ --backup=none --backup=simple -d 
+ --backup=none --backup=simple -f 
+ --backup=none --backup=simple -i 
+ --backup=none --backup=simple -L 
+ --backup=none --backup=simple -n 
+ --backup=none --backup=simple -P 
+ --backup=none --backup=simple -r 
+ --backup=none --backup=simple -s 
+ --backup=none --backup=simple -S x 
+ --backup=none --backup=simple -t files 
+ --backup=none --backup=simple -T 
+ --backup=none --backup=simple -v 
+ --backup=none --backup=simple --help 
+ --backup=none --backup=simple --version 
+ --backup=none --backup=never --backup=existing 
+ --backup=none --backup=never --backup=nil 
+ --backup=none --backup=never --backup=numbered 
+ --backup=none --backup=never --backup=t 
+ --backup=none --backup=never -b 
+ --backup=none --backup=never -d 
+ --backup=none --backup=never -f 
+ --backup=none --backup=never -i 
+ --backup=none --backup=never -L 
+ --backup=none --backup=never -n 
+ --backup=none --backup=never -P 
+ --backup=none --backup=never -r 
+ --backup=none --backup=never -s 
+ --backup=none --backup=never -S x 
+ --backup=none --backup=never -t files 
+ --backup=none --backup=never -T 
+ --backup=none --backup=never -v 
+ --backup=none --backup=never --help 
+ --backup=none --backup=never --version 
+ --backup=none --backup=existing --backup=nil 
+ --backup=none --backup=existing --backup=numbered 
+ --backup=none --backup=existing --backup=t 
+ --backup=none --backup=existing -b 
+ --backup=none --backup=existing -d 
+ --backup=none --backup=existing -f 
+ --backup=none --backup=existing -i 
+ --backup=none --backup=existing -L 
+ --backup=none --backup=existing -n 
+ --backup=none --backup=existing -P 
+ --backup=none --backup=existing -r 
+ --backup=none --backup=existing -s 
+ --backup=none --backup=existing -S x 
+ --backup=none --backup=existing -t files 
+ --backup=none --backup=existing -T 
+ --backup=none --backup=existing -v 
+ --backup=none --backup=existing --help 
+ --backup=none --backup=existing --version 
+ --backup=none --backup=nil --backup=numbered 
+ --backup=none --backup=nil --backup=t 
+ --backup=none --backup=nil -b 
+ --backup=none --backup=nil -d 
+ --backup=none --backup=nil -f 
+ --backup=none --backup=nil -i 
+ --backup=none --backup=nil -L 
+ --backup=none --backup=nil -n 
+ --backup=none --backup=nil -P 
+ --backup=none --backup=nil -r 
+ --backup=none --backup=nil -s 
+ --backup=none --backup=nil -S x 
+ --backup=none --backup=nil -t files 
+ --backup=none --backup=nil -T 
+ --backup=none --backup=nil -v 
+ --backup=none --backup=nil --help 
+ --backup=none --backup=nil --version 
+ --backup=none --backup=numbered --backup=t 
+ --backup=none --backup=numbered -b 
+ --backup=none --backup=numbered -d 
+ --backup=none --backup=numbered -f 
+ --backup=none --backup=numbered -i 
+ --backup=none --backup=numbered -L 
+ --backup=none --backup=numbered -n 
+ --backup=none --backup=numbered -P 
+ --backup=none --backup=numbered -r 
+ --backup=none --backup=numbered -s 
+ --backup=none --backup=numbered -S x 
+ --backup=none --backup=numbered -t files 
+ --backup=none --backup=numbered -T 
+ --backup=none --backup=numbered -v 
+ --backup=none --backup=numbered --help 
+ --backup=none --backup=numbered --version 
+ --backup=none --backup=t -b 
+ --backup=none --backup=t -d 
+ --backup=none --backup=t -f 
+ --backup=none --backup=t -i 
+ --backup=none --backup=t -L 
+ --backup=none --backup=t -n 
+ --backup=none --backup=t -P 
+ --backup=none --backup=t -r 
+ --backup=none --backup=t -s 
+ --backup=none --backup=t -S x 
+ --backup=none --backup=t -t files 
+ --backup=none --backup=t -T 
+ --backup=none --backup=t -v 
+ --backup=none --backup=t --help 
+ --backup=none --backup=t --version 
+ --backup=none -b -d 
+ --backup=none -b -f 
+ --backup=none -b -i 
+ --backup=none -b -L 
+ --backup=none -b -n 
+ --backup=none -b -P 
+ --backup=none -b -r 
+ --backup=none -b -s 
+ --backup=none -b -S x 
+ --backup=none -b -t files 
+ --backup=none -b -T 
+ --backup=none -b -v 
+ --backup=none -b --help 
+ --backup=none -b --version 
+ --backup=none -d -f 
+ --backup=none -d -i 
+ --backup=none -d -L 
+ --backup=none -d -n 
+ --backup=none -d -P 
+ --backup=none -d -r 
+ --backup=none -d -s 
+ --backup=none -d -S x 
+ --backup=none -d -t files 
+ --backup=none -d -T 
+ --backup=none -d -v 
+ --backup=none -d --help 
+ --backup=none -d --version 
+ --backup=none -f -i 
+ --backup=none -f -L 
+ --backup=none -f -n 
+ --backup=none -f -P 
+ --backup=none -f -r 
+ --backup=none -f -s 
+ --backup=none -f -S x 
+ --backup=none -f -t files 
+ --backup=none -f -T 
+ --backup=none -f -v 
+ --backup=none -f --help 
+ --backup=none -f --version 
+ --backup=none -i -L 
+ --backup=none -i -n 
+ --backup=none -i -P 
+ --backup=none -i -r 
+ --backup=none -i -s 
+ --backup=none -i -S x 
+ --backup=none -i -t files 
+ --backup=none -i -T 
+ --backup=none -i -v 
+ --backup=none -i --help 
+ --backup=none -i --version 
+ --backup=none -L -n 
+ --backup=none -L -P 
+ --backup=none -L -r 
+ --backup=none -L -s 
+ --backup=none -L -S x 
+ --backup=none -L -t files 
+ --backup=none -L -T 
+ --backup=none -L -v 
+ --backup=none -L --help 
+ --backup=none -L --version 
+ --backup=none -n -P 
+ --backup=none -n -r 
+ --backup=none -n -s 
+ --backup=none -n -S x 
+ --backup=none -n -t files 
+ --backup=none -n -T 
+ --backup=none -n -v 
+ --backup=none -n --help 
+ --backup=none -n --version 
+ --backup=none -P -r 
+ --backup=none -P -s 
+ --backup=none -P -S x 
+ --backup=none -P -t files 
+ --backup=none -P -T 
+ --backup=none -P -v 
+ --backup=none -P --help 
+ --backup=none -P --version 
+ --backup=none -r -s 
+ --backup=none -r -S x 
+ --backup=none -r -t files 
+ --backup=none -r -T 
+ --backup=none -r -v 
+ --backup=none -r --help 
+ --backup=none -r --version 
+ --backup=none -s -S x 
+ --backup=none -s -t files 
+ --backup=none -s -T 
+ --backup=none -s -v 
+ --backup=none -s --help 
+ --backup=none -s --version 
+ --backup=none -S x -t files 
+ --backup=none -S x -T 
+ --backup=none -S x -v 
+ --backup=none -S x --help 
+ --backup=none -S x --version 
+ --backup=none -t files -T 
+ --backup=none -t files -v 
+ --backup=none -t files --help 
+ --backup=none -t files --version 
+ --backup=none -T -v 
+ --backup=none -T --help 
+ --backup=none -T --version 
+ --backup=none -v --help 
+ --backup=none -v --version 
+ --backup=none --help --version 
+ --backup=off --backup=simple --backup=never 
+ --backup=off --backup=simple --backup=existing 
+ --backup=off --backup=simple --backup=nil 
+ --backup=off --backup=simple --backup=numbered 
+ --backup=off --backup=simple --backup=t 
+ --backup=off --backup=simple -b 
+ --backup=off --backup=simple -d 
+ --backup=off --backup=simple -f 
+ --backup=off --backup=simple -i 
+ --backup=off --backup=simple -L 
+ --backup=off --backup=simple -n 
+ --backup=off --backup=simple -P 
+ --backup=off --backup=simple -r 
+ --backup=off --backup=simple -s 
+ --backup=off --backup=simple -S x 
+ --backup=off --backup=simple -t files 
+ --backup=off --backup=simple -T 
+ --backup=off --backup=simple -v 
+ --backup=off --backup=simple --help 
+ --backup=off --backup=simple --version 
+ --backup=off --backup=never --backup=existing 
+ --backup=off --backup=never --backup=nil 
+ --backup=off --backup=never --backup=numbered 
+ --backup=off --backup=never --backup=t 
+ --backup=off --backup=never -b 
+ --backup=off --backup=never -d 
+ --backup=off --backup=never -f 
+ --backup=off --backup=never -i 
+ --backup=off --backup=never -L 
+ --backup=off --backup=never -n 
+ --backup=off --backup=never -P 
+ --backup=off --backup=never -r 
+ --backup=off --backup=never -s 
+ --backup=off --backup=never -S x 
+ --backup=off --backup=never -t files 
+ --backup=off --backup=never -T 
+ --backup=off --backup=never -v 
+ --backup=off --backup=never --help 
+ --backup=off --backup=never --version 
+ --backup=off --backup=existing --backup=nil 
+ --backup=off --backup=existing --backup=numbered 
+ --backup=off --backup=existing --backup=t 
+ --backup=off --backup=existing -b 
+ --backup=off --backup=existing -d 
+ --backup=off --backup=existing -f 
+ --backup=off --backup=existing -i 
+ --backup=off --backup=existing -L 
+ --backup=off --backup=existing -n 
+ --backup=off --backup=existing -P 
+ --backup=off --backup=existing -r 
+ --backup=off --backup=existing -s 
+ --backup=off --backup=existing -S x 
+ --backup=off --backup=existing -t files 
+ --backup=off --backup=existing -T 
+ --backup=off --backup=existing -v 
+ --backup=off --backup=existing --help 
+ --backup=off --backup=existing --version 
+ --backup=off --backup=nil --backup=numbered 
+ --backup=off --backup=nil --backup=t 
+ --backup=off --backup=nil -b 
+ --backup=off --backup=nil -d 
+ --backup=off --backup=nil -f 
+ --backup=off --backup=nil -i 
+ --backup=off --backup=nil -L 
+ --backup=off --backup=nil -n 
+ --backup=off --backup=nil -P 
+ --backup=off --backup=nil -r 
+ --backup=off --backup=nil -s 
+ --backup=off --backup=nil -S x 
+ --backup=off --backup=nil -t files 
+ --backup=off --backup=nil -T 
+ --backup=off --backup=nil -v 
+ --backup=off --backup=nil --help 
+ --backup=off --backup=nil --version 
+ --backup=off --backup=numbered --backup=t 
+ --backup=off --backup=numbered -b 
+ --backup=off --backup=numbered -d 
+ --backup=off --backup=numbered -f 
+ --backup=off --backup=numbered -i 
+ --backup=off --backup=numbered -L 
+ --backup=off --backup=numbered -n 
+ --backup=off --backup=numbered -P 
+ --backup=off --backup=numbered -r 
+ --backup=off --backup=numbered -s 
+ --backup=off --backup=numbered -S x 
+ --backup=off --backup=numbered -t files 
+ --backup=off --backup=numbered -T 
+ --backup=off --backup=numbered -v 
+ --backup=off --backup=numbered --help 
+ --backup=off --backup=numbered --version 
+ --backup=off --backup=t -b 
+ --backup=off --backup=t -d 
+ --backup=off --backup=t -f 
+ --backup=off --backup=t -i 
+ --backup=off --backup=t -L 
+ --backup=off --backup=t -n 
+ --backup=off --backup=t -P 
+ --backup=off --backup=t -r 
+ --backup=off --backup=t -s 
+ --backup=off --backup=t -S x 
+ --backup=off --backup=t -t files 
+ --backup=off --backup=t -T 
+ --backup=off --backup=t -v 
+ --backup=off --backup=t --help 
+ --backup=off --backup=t --version 
+ --backup=off -b -d 
+ --backup=off -b -f 
+ --backup=off -b -i 
+ --backup=off -b -L 
+ --backup=off -b -n 
+ --backup=off -b -P 
+ --backup=off -b -r 
+ --backup=off -b -s 
+ --backup=off -b -S x 
+ --backup=off -b -t files 
+ --backup=off -b -T 
+ --backup=off -b -v 
+ --backup=off -b --help 
+ --backup=off -b --version 
+ --backup=off -d -f 
+ --backup=off -d -i 
+ --backup=off -d -L 
+ --backup=off -d -n 
+ --backup=off -d -P 
+ --backup=off -d -r 
+ --backup=off -d -s 
+ --backup=off -d -S x 
+ --backup=off -d -t files 
+ --backup=off -d -T 
+ --backup=off -d -v 
+ --backup=off -d --help 
+ --backup=off -d --version 
+ --backup=off -f -i 
+ --backup=off -f -L 
+ --backup=off -f -n 
+ --backup=off -f -P 
+ --backup=off -f -r 
+ --backup=off -f -s 
+ --backup=off -f -S x 
+ --backup=off -f -t files 
+ --backup=off -f -T 
+ --backup=off -f -v 
+ --backup=off -f --help 
+ --backup=off -f --version 
+ --backup=off -i -L 
+ --backup=off -i -n 
+ --backup=off -i -P 
+ --backup=off -i -r 
+ --backup=off -i -s 
+ --backup=off -i -S x 
+ --backup=off -i -t files 
+ --backup=off -i -T 
+ --backup=off -i -v 
+ --backup=off -i --help 
+ --backup=off -i --version 
+ --backup=off -L -n 
+ --backup=off -L -P 
+ --backup=off -L -r 
+ --backup=off -L -s 
+ --backup=off -L -S x 
+ --backup=off -L -t files 
+ --backup=off -L -T 
+ --backup=off -L -v 
+ --backup=off -L --help 
+ --backup=off -L --version 
+ --backup=off -n -P 
+ --backup=off -n -r 
+ --backup=off -n -s 
+ --backup=off -n -S x 
+ --backup=off -n -t files 
+ --backup=off -n -T 
+ --backup=off -n -v 
+ --backup=off -n --help 
+ --backup=off -n --version 
+ --backup=off -P -r 
+ --backup=off -P -s 
+ --backup=off -P -S x 
+ --backup=off -P -t files 
+ --backup=off -P -T 
+ --backup=off -P -v 
+ --backup=off -P --help 
+ --backup=off -P --version 
+ --backup=off -r -s 
+ --backup=off -r -S x 
+ --backup=off -r -t files 
+ --backup=off -r -T 
+ --backup=off -r -v 
+ --backup=off -r --help 
+ --backup=off -r --version 
+ --backup=off -s -S x 
+ --backup=off -s -t files 
+ --backup=off -s -T 
+ --backup=off -s -v 
+ --backup=off -s --help 
+ --backup=off -s --version 
+ --backup=off -S x -t files 
+ --backup=off -S x -T 
+ --backup=off -S x -v 
+ --backup=off -S x --help 
+ --backup=off -S x --version 
+ --backup=off -t files -T 
+ --backup=off -t files -v 
+ --backup=off -t files --help 
+ --backup=off -t files --version 
+ --backup=off -T -v 
+ --backup=off -T --help 
+ --backup=off -T --version 
+ --backup=off -v --help 
+ --backup=off -v --version 
+ --backup=off --help --version 
+ --backup=simple --backup=never --backup=existing 
+ --backup=simple --backup=never --backup=nil 
+ --backup=simple --backup=never --backup=numbered 
+ --backup=simple --backup=never --backup=t 
+ --backup=simple --backup=never -b 
+ --backup=simple --backup=never -d 
+ --backup=simple --backup=never -f 
+ --backup=simple --backup=never -i 
+ --backup=simple --backup=never -L 
+ --backup=simple --backup=never -n 
+ --backup=simple --backup=never -P 
+ --backup=simple --backup=never -r 
+ --backup=simple --backup=never -s 
+ --backup=simple --backup=never -S x 
+ --backup=simple --backup=never -t files 
+ --backup=simple --backup=never -T 
+ --backup=simple --backup=never -v 
+ --backup=simple --backup=never --help 
+ --backup=simple --backup=never --version 
+ --backup=simple --backup=existing --backup=nil 
+ --backup=simple --backup=existing --backup=numbered 
+ --backup=simple --backup=existing --backup=t 
+ --backup=simple --backup=existing -b 
+ --backup=simple --backup=existing -d 
+ --backup=simple --backup=existing -f 
+ --backup=simple --backup=existing -i 
+ --backup=simple --backup=existing -L 
+ --backup=simple --backup=existing -n 
+ --backup=simple --backup=existing -P 
+ --backup=simple --backup=existing -r 
+ --backup=simple --backup=existing -s 
+ --backup=simple --backup=existing -S x 
+ --backup=simple --backup=existing -t files 
+ --backup=simple --backup=existing -T 
+ --backup=simple --backup=existing -v 
+ --backup=simple --backup=existing --help 
+ --backup=simple --backup=existing --version 
+ --backup=simple --backup=nil --backup=numbered 
+ --backup=simple --backup=nil --backup=t 
+ --backup=simple --backup=nil -b 
+ --backup=simple --backup=nil -d 
+ --backup=simple --backup=nil -f 
+ --backup=simple --backup=nil -i 
+ --backup=simple --backup=nil -L 
+ --backup=simple --backup=nil -n 
+ --backup=simple --backup=nil -P 
+ --backup=simple --backup=nil -r 
+ --backup=simple --backup=nil -s 
+ --backup=simple --backup=nil -S x 
+ --backup=simple --backup=nil -t files 
+ --backup=simple --backup=nil -T 
+ --backup=simple --backup=nil -v 
+ --backup=simple --backup=nil --help 
+ --backup=simple --backup=nil --version 
+ --backup=simple --backup=numbered --backup=t 
+ --backup=simple --backup=numbered -b 
+ --backup=simple --backup=numbered -d 
+ --backup=simple --backup=numbered -f 
+ --backup=simple --backup=numbered -i 
+ --backup=simple --backup=numbered -L 
+ --backup=simple --backup=numbered -n 
+ --backup=simple --backup=numbered -P 
+ --backup=simple --backup=numbered -r 
+ --backup=simple --backup=numbered -s 
+ --backup=simple --backup=numbered -S x 
+ --backup=simple --backup=numbered -t files 
+ --backup=simple --backup=numbered -T 
+ --backup=simple --backup=numbered -v 
+ --backup=simple --backup=numbered --help 
+ --backup=simple --backup=numbered --version 
+ --backup=simple --backup=t -b 
+ --backup=simple --backup=t -d 
+ --backup=simple --backup=t -f 
+ --backup=simple --backup=t -i 
+ --backup=simple --backup=t -L 
+ --backup=simple --backup=t -n 
+ --backup=simple --backup=t -P 
+ --backup=simple --backup=t -r 
+ --backup=simple --backup=t -s 
+ --backup=simple --backup=t -S x 
+ --backup=simple --backup=t -t files 
+ --backup=simple --backup=t -T 
+ --backup=simple --backup=t -v 
+ --backup=simple --backup=t --help 
+ --backup=simple --backup=t --version 
+ --backup=simple -b -d 
+ --backup=simple -b -f 
+ --backup=simple -b -i 
+ --backup=simple -b -L 
+ --backup=simple -b -n 
+ --backup=simple -b -P 
+ --backup=simple -b -r 
+ --backup=simple -b -s 
+ --backup=simple -b -S x 
+ --backup=simple -b -t files 
+ --backup=simple -b -T 
+ --backup=simple -b -v 
+ --backup=simple -b --help 
+ --backup=simple -b --version 
+ --backup=simple -d -f 
+ --backup=simple -d -i 
+ --backup=simple -d -L 
+ --backup=simple -d -n 
+ --backup=simple -d -P 
+ --backup=simple -d -r 
+ --backup=simple -d -s 
+ --backup=simple -d -S x 
+ --backup=simple -d -t files 
+ --backup=simple -d -T 
+ --backup=simple -d -v 
+ --backup=simple -d --help 
+ --backup=simple -d --version 
+ --backup=simple -f -i 
+ --backup=simple -f -L 
+ --backup=simple -f -n 
+ --backup=simple -f -P 
+ --backup=simple -f -r 
+ --backup=simple -f -s 
+ --backup=simple -f -S x 
+ --backup=simple -f -t files 
+ --backup=simple -f -T 
+ --backup=simple -f -v 
+ --backup=simple -f --help 
+ --backup=simple -f --version 
+ --backup=simple -i -L 
+ --backup=simple -i -n 
+ --backup=simple -i -P 
+ --backup=simple -i -r 
+ --backup=simple -i -s 
+ --backup=simple -i -S x 
+ --backup=simple -i -t files 
+ --backup=simple -i -T 
+ --backup=simple -i -v 
+ --backup=simple -i --help 
+ --backup=simple -i --version 
+ --backup=simple -L -n 
+ --backup=simple -L -P 
+ --backup=simple -L -r 
+ --backup=simple -L -s 
+ --backup=simple -L -S x 
+ --backup=simple -L -t files 
+ --backup=simple -L -T 
+ --backup=simple -L -v 
+ --backup=simple -L --help 
+ --backup=simple -L --version 
+ --backup=simple -n -P 
+ --backup=simple -n -r 
+ --backup=simple -n -s 
+ --backup=simple -n -S x 
+ --backup=simple -n -t files 
+ --backup=simple -n -T 
+ --backup=simple -n -v 
+ --backup=simple -n --help 
+ --backup=simple -n --version 
+ --backup=simple -P -r 
+ --backup=simple -P -s 
+ --backup=simple -P -S x 
+ --backup=simple -P -t files 
+ --backup=simple -P -T 
+ --backup=simple -P -v 
+ --backup=simple -P --help 
+ --backup=simple -P --version 
+ --backup=simple -r -s 
+ --backup=simple -r -S x 
+ --backup=simple -r -t files 
+ --backup=simple -r -T 
+ --backup=simple -r -v 
+ --backup=simple -r --help 
+ --backup=simple -r --version 
+ --backup=simple -s -S x 
+ --backup=simple -s -t files 
+ --backup=simple -s -T 
+ --backup=simple -s -v 
+ --backup=simple -s --help 
+ --backup=simple -s --version 
+ --backup=simple -S x -t files 
+ --backup=simple -S x -T 
+ --backup=simple -S x -v 
+ --backup=simple -S x --help 
+ --backup=simple -S x --version 
+ --backup=simple -t files -T 
+ --backup=simple -t files -v 
+ --backup=simple -t files --help 
+ --backup=simple -t files --version 
+ --backup=simple -T -v 
+ --backup=simple -T --help 
+ --backup=simple -T --version 
+ --backup=simple -v --help 
+ --backup=simple -v --version 
+ --backup=simple --help --version 
+ --backup=never --backup=existing --backup=nil 
+ --backup=never --backup=existing --backup=numbered 
+ --backup=never --backup=existing --backup=t 
+ --backup=never --backup=existing -b 
+ --backup=never --backup=existing -d 
+ --backup=never --backup=existing -f 
+ --backup=never --backup=existing -i 
+ --backup=never --backup=existing -L 
+ --backup=never --backup=existing -n 
+ --backup=never --backup=existing -P 
+ --backup=never --backup=existing -r 
+ --backup=never --backup=existing -s 
+ --backup=never --backup=existing -S x 
+ --backup=never --backup=existing -t files 
+ --backup=never --backup=existing -T 
+ --backup=never --backup=existing -v 
+ --backup=never --backup=existing --help 
+ --backup=never --backup=existing --version 
+ --backup=never --backup=nil --backup=numbered 
+ --backup=never --backup=nil --backup=t 
+ --backup=never --backup=nil -b 
+ --backup=never --backup=nil -d 
+ --backup=never --backup=nil -f 
+ --backup=never --backup=nil -i 
+ --backup=never --backup=nil -L 
+ --backup=never --backup=nil -n 
+ --backup=never --backup=nil -P 
+ --backup=never --backup=nil -r 
+ --backup=never --backup=nil -s 
+ --backup=never --backup=nil -S x 
+ --backup=never --backup=nil -t files 
+ --backup=never --backup=nil -T 
+ --backup=never --backup=nil -v 
+ --backup=never --backup=nil --help 
+ --backup=never --backup=nil --version 
+ --backup=never --backup=numbered --backup=t 
+ --backup=never --backup=numbered -b 
+ --backup=never --backup=numbered -d 
+ --backup=never --backup=numbered -f 
+ --backup=never --backup=numbered -i 
+ --backup=never --backup=numbered -L 
+ --backup=never --backup=numbered -n 
+ --backup=never --backup=numbered -P 
+ --backup=never --backup=numbered -r 
+ --backup=never --backup=numbered -s 
+ --backup=never --backup=numbered -S x 
+ --backup=never --backup=numbered -t files 
+ --backup=never --backup=numbered -T 
+ --backup=never --backup=numbered -v 
+ --backup=never --backup=numbered --help 
+ --backup=never --backup=numbered --version 
+ --backup=never --backup=t -b 
+ --backup=never --backup=t -d 
+ --backup=never --backup=t -f 
+ --backup=never --backup=t -i 
+ --backup=never --backup=t -L 
+ --backup=never --backup=t -n 
+ --backup=never --backup=t -P 
+ --backup=never --backup=t -r 
+ --backup=never --backup=t -s 
+ --backup=never --backup=t -S x 
+ --backup=never --backup=t -t files 
+ --backup=never --backup=t -T 
+ --backup=never --backup=t -v 
+ --backup=never --backup=t --help 
+ --backup=never --backup=t --version 
+ --backup=never -b -d 
+ --backup=never -b -f 
+ --backup=never -b -i 
+ --backup=never -b -L 
+ --backup=never -b -n 
+ --backup=never -b -P 
+ --backup=never -b -r 
+ --backup=never -b -s 
+ --backup=never -b -S x 
+ --backup=never -b -t files 
+ --backup=never -b -T 
+ --backup=never -b -v 
+ --backup=never -b --help 
+ --backup=never -b --version 
+ --backup=never -d -f 
+ --backup=never -d -i 
+ --backup=never -d -L 
+ --backup=never -d -n 
+ --backup=never -d -P 
+ --backup=never -d -r 
+ --backup=never -d -s 
+ --backup=never -d -S x 
+ --backup=never -d -t files 
+ --backup=never -d -T 
+ --backup=never -d -v 
+ --backup=never -d --help 
+ --backup=never -d --version 
+ --backup=never -f -i 
+ --backup=never -f -L 
+ --backup=never -f -n 
+ --backup=never -f -P 
+ --backup=never -f -r 
+ --backup=never -f -s 
+ --backup=never -f -S x 
+ --backup=never -f -t files 
+ --backup=never -f -T 
+ --backup=never -f -v 
+ --backup=never -f --help 
+ --backup=never -f --version 
+ --backup=never -i -L 
+ --backup=never -i -n 
+ --backup=never -i -P 
+ --backup=never -i -r 
+ --backup=never -i -s 
+ --backup=never -i -S x 
+ --backup=never -i -t files 
+ --backup=never -i -T 
+ --backup=never -i -v 
+ --backup=never -i --help 
+ --backup=never -i --version 
+ --backup=never -L -n 
+ --backup=never -L -P 
+ --backup=never -L -r 
+ --backup=never -L -s 
+ --backup=never -L -S x 
+ --backup=never -L -t files 
+ --backup=never -L -T 
+ --backup=never -L -v 
+ --backup=never -L --help 
+ --backup=never -L --version 
+ --backup=never -n -P 
+ --backup=never -n -r 
+ --backup=never -n -s 
+ --backup=never -n -S x 
+ --backup=never -n -t files 
+ --backup=never -n -T 
+ --backup=never -n -v 
+ --backup=never -n --help 
+ --backup=never -n --version 
+ --backup=never -P -r 
+ --backup=never -P -s 
+ --backup=never -P -S x 
+ --backup=never -P -t files 
+ --backup=never -P -T 
+ --backup=never -P -v 
+ --backup=never -P --help 
+ --backup=never -P --version 
+ --backup=never -r -s 
+ --backup=never -r -S x 
+ --backup=never -r -t files 
+ --backup=never -r -T 
+ --backup=never -r -v 
+ --backup=never -r --help 
+ --backup=never -r --version 
+ --backup=never -s -S x 
+ --backup=never -s -t files 
+ --backup=never -s -T 
+ --backup=never -s -v 
+ --backup=never -s --help 
+ --backup=never -s --version 
+ --backup=never -S x -t files 
+ --backup=never -S x -T 
+ --backup=never -S x -v 
+ --backup=never -S x --help 
+ --backup=never -S x --version 
+ --backup=never -t files -T 
+ --backup=never -t files -v 
+ --backup=never -t files --help 
+ --backup=never -t files --version 
+ --backup=never -T -v 
+ --backup=never -T --help 
+ --backup=never -T --version 
+ --backup=never -v --help 
+ --backup=never -v --version 
+ --backup=never --help --version 
+ --backup=existing --backup=nil --backup=numbered 
+ --backup=existing --backup=nil --backup=t 
+ --backup=existing --backup=nil -b 
+ --backup=existing --backup=nil -d 
+ --backup=existing --backup=nil -f 
+ --backup=existing --backup=nil -i 
+ --backup=existing --backup=nil -L 
+ --backup=existing --backup=nil -n 
+ --backup=existing --backup=nil -P 
+ --backup=existing --backup=nil -r 
+ --backup=existing --backup=nil -s 
+ --backup=existing --backup=nil -S x 
+ --backup=existing --backup=nil -t files 
+ --backup=existing --backup=nil -T 
+ --backup=existing --backup=nil -v 
+ --backup=existing --backup=nil --help 
+ --backup=existing --backup=nil --version 
+ --backup=existing --backup=numbered --backup=t 
+ --backup=existing --backup=numbered -b 
+ --backup=existing --backup=numbered -d 
+ --backup=existing --backup=numbered -f 
+ --backup=existing --backup=numbered -i 
+ --backup=existing --backup=numbered -L 
+ --backup=existing --backup=numbered -n 
+ --backup=existing --backup=numbered -P 
+ --backup=existing --backup=numbered -r 
+ --backup=existing --backup=numbered -s 
+ --backup=existing --backup=numbered -S x 
+ --backup=existing --backup=numbered -t files 
+ --backup=existing --backup=numbered -T 
+ --backup=existing --backup=numbered -v 
+ --backup=existing --backup=numbered --help 
+ --backup=existing --backup=numbered --version 
+ --backup=existing --backup=t -b 
+ --backup=existing --backup=t -d 
+ --backup=existing --backup=t -f 
+ --backup=existing --backup=t -i 
+ --backup=existing --backup=t -L 
+ --backup=existing --backup=t -n 
+ --backup=existing --backup=t -P 
+ --backup=existing --backup=t -r 
+ --backup=existing --backup=t -s 
+ --backup=existing --backup=t -S x 
+ --backup=existing --backup=t -t files 
+ --backup=existing --backup=t -T 
+ --backup=existing --backup=t -v 
+ --backup=existing --backup=t --help 
+ --backup=existing --backup=t --version 
+ --backup=existing -b -d 
+ --backup=existing -b -f 
+ --backup=existing -b -i 
+ --backup=existing -b -L 
+ --backup=existing -b -n 
+ --backup=existing -b -P 
+ --backup=existing -b -r 
+ --backup=existing -b -s 
+ --backup=existing -b -S x 
+ --backup=existing -b -t files 
+ --backup=existing -b -T 
+ --backup=existing -b -v 
+ --backup=existing -b --help 
+ --backup=existing -b --version 
+ --backup=existing -d -f 
+ --backup=existing -d -i 
+ --backup=existing -d -L 
+ --backup=existing -d -n 
+ --backup=existing -d -P 
+ --backup=existing -d -r 
+ --backup=existing -d -s 
+ --backup=existing -d -S x 
+ --backup=existing -d -t files 
+ --backup=existing -d -T 
+ --backup=existing -d -v 
+ --backup=existing -d --help 
+ --backup=existing -d --version 
+ --backup=existing -f -i 
+ --backup=existing -f -L 
+ --backup=existing -f -n 
+ --backup=existing -f -P 
+ --backup=existing -f -r 
+ --backup=existing -f -s 
+ --backup=existing -f -S x 
+ --backup=existing -f -t files 
+ --backup=existing -f -T 
+ --backup=existing -f -v 
+ --backup=existing -f --help 
+ --backup=existing -f --version 
+ --backup=existing -i -L 
+ --backup=existing -i -n 
+ --backup=existing -i -P 
+ --backup=existing -i -r 
+ --backup=existing -i -s 
+ --backup=existing -i -S x 
+ --backup=existing -i -t files 
+ --backup=existing -i -T 
+ --backup=existing -i -v 
+ --backup=existing -i --help 
+ --backup=existing -i --version 
+ --backup=existing -L -n 
+ --backup=existing -L -P 
+ --backup=existing -L -r 
+ --backup=existing -L -s 
+ --backup=existing -L -S x 
+ --backup=existing -L -t files 
+ --backup=existing -L -T 
+ --backup=existing -L -v 
+ --backup=existing -L --help 
+ --backup=existing -L --version 
+ --backup=existing -n -P 
+ --backup=existing -n -r 
+ --backup=existing -n -s 
+ --backup=existing -n -S x 
+ --backup=existing -n -t files 
+ --backup=existing -n -T 
+ --backup=existing -n -v 
+ --backup=existing -n --help 
+ --backup=existing -n --version 
+ --backup=existing -P -r 
+ --backup=existing -P -s 
+ --backup=existing -P -S x 
+ --backup=existing -P -t files 
+ --backup=existing -P -T 
+ --backup=existing -P -v 
+ --backup=existing -P --help 
+ --backup=existing -P --version 
+ --backup=existing -r -s 
+ --backup=existing -r -S x 
+ --backup=existing -r -t files 
+ --backup=existing -r -T 
+ --backup=existing -r -v 
+ --backup=existing -r --help 
+ --backup=existing -r --version 
+ --backup=existing -s -S x 
+ --backup=existing -s -t files 
+ --backup=existing -s -T 
+ --backup=existing -s -v 
+ --backup=existing -s --help 
+ --backup=existing -s --version 
+ --backup=existing -S x -t files 
+ --backup=existing -S x -T 
+ --backup=existing -S x -v 
+ --backup=existing -S x --help 
+ --backup=existing -S x --version 
+ --backup=existing -t files -T 
+ --backup=existing -t files -v 
+ --backup=existing -t files --help 
+ --backup=existing -t files --version 
+ --backup=existing -T -v 
+ --backup=existing -T --help 
+ --backup=existing -T --version 
+ --backup=existing -v --help 
+ --backup=existing -v --version 
+ --backup=existing --help --version 
+ --backup=nil --backup=numbered --backup=t 
+ --backup=nil --backup=numbered -b 
+ --backup=nil --backup=numbered -d 
+ --backup=nil --backup=numbered -f 
+ --backup=nil --backup=numbered -i 
+ --backup=nil --backup=numbered -L 
+ --backup=nil --backup=numbered -n 
+ --backup=nil --backup=numbered -P 
+ --backup=nil --backup=numbered -r 
+ --backup=nil --backup=numbered -s 
+ --backup=nil --backup=numbered -S x 
+ --backup=nil --backup=numbered -t files 
+ --backup=nil --backup=numbered -T 
+ --backup=nil --backup=numbered -v 
+ --backup=nil --backup=numbered --help 
+ --backup=nil --backup=numbered --version 
+ --backup=nil --backup=t -b 
+ --backup=nil --backup=t -d 
+ --backup=nil --backup=t -f 
+ --backup=nil --backup=t -i 
+ --backup=nil --backup=t -L 
+ --backup=nil --backup=t -n 
+ --backup=nil --backup=t -P 
+ --backup=nil --backup=t -r 
+ --backup=nil --backup=t -s 
+ --backup=nil --backup=t -S x 
+ --backup=nil --backup=t -t files 
+ --backup=nil --backup=t -T 
+ --backup=nil --backup=t -v 
+ --backup=nil --backup=t --help 
+ --backup=nil --backup=t --version 
+ --backup=nil -b -d 
+ --backup=nil -b -f 
+ --backup=nil -b -i 
+ --backup=nil -b -L 
+ --backup=nil -b -n 
+ --backup=nil -b -P 
+ --backup=nil -b -r 
+ --backup=nil -b -s 
+ --backup=nil -b -S x 
+ --backup=nil -b -t files 
+ --backup=nil -b -T 
+ --backup=nil -b -v 
+ --backup=nil -b --help 
+ --backup=nil -b --version 
+ --backup=nil -d -f 
+ --backup=nil -d -i 
+ --backup=nil -d -L 
+ --backup=nil -d -n 
+ --backup=nil -d -P 
+ --backup=nil -d -r 
+ --backup=nil -d -s 
+ --backup=nil -d -S x 
+ --backup=nil -d -t files 
+ --backup=nil -d -T 
+ --backup=nil -d -v 
+ --backup=nil -d --help 
+ --backup=nil -d --version 
+ --backup=nil -f -i 
+ --backup=nil -f -L 
+ --backup=nil -f -n 
+ --backup=nil -f -P 
+ --backup=nil -f -r 
+ --backup=nil -f -s 
+ --backup=nil -f -S x 
+ --backup=nil -f -t files 
+ --backup=nil -f -T 
+ --backup=nil -f -v 
+ --backup=nil -f --help 
+ --backup=nil -f --version 
+ --backup=nil -i -L 
+ --backup=nil -i -n 
+ --backup=nil -i -P 
+ --backup=nil -i -r 
+ --backup=nil -i -s 
+ --backup=nil -i -S x 
+ --backup=nil -i -t files 
+ --backup=nil -i -T 
+ --backup=nil -i -v 
+ --backup=nil -i --help 
+ --backup=nil -i --version 
+ --backup=nil -L -n 
+ --backup=nil -L -P 
+ --backup=nil -L -r 
+ --backup=nil -L -s 
+ --backup=nil -L -S x 
+ --backup=nil -L -t files 
+ --backup=nil -L -T 
+ --backup=nil -L -v 
+ --backup=nil -L --help 
+ --backup=nil -L --version 
+ --backup=nil -n -P 
+ --backup=nil -n -r 
+ --backup=nil -n -s 
+ --backup=nil -n -S x 
+ --backup=nil -n -t files 
+ --backup=nil -n -T 
+ --backup=nil -n -v 
+ --backup=nil -n --help 
+ --backup=nil -n --version 
+ --backup=nil -P -r 
+ --backup=nil -P -s 
+ --backup=nil -P -S x 
+ --backup=nil -P -t files 
+ --backup=nil -P -T 
+ --backup=nil -P -v 
+ --backup=nil -P --help 
+ --backup=nil -P --version 
+ --backup=nil -r -s 
+ --backup=nil -r -S x 
+ --backup=nil -r -t files 
+ --backup=nil -r -T 
+ --backup=nil -r -v 
+ --backup=nil -r --help 
+ --backup=nil -r --version 
+ --backup=nil -s -S x 
+ --backup=nil -s -t files 
+ --backup=nil -s -T 
+ --backup=nil -s -v 
+ --backup=nil -s --help 
+ --backup=nil -s --version 
+ --backup=nil -S x -t files 
+ --backup=nil -S x -T 
+ --backup=nil -S x -v 
+ --backup=nil -S x --help 
+ --backup=nil -S x --version 
+ --backup=nil -t files -T 
+ --backup=nil -t files -v 
+ --backup=nil -t files --help 
+ --backup=nil -t files --version 
+ --backup=nil -T -v 
+ --backup=nil -T --help 
+ --backup=nil -T --version 
+ --backup=nil -v --help 
+ --backup=nil -v --version 
+ --backup=nil --help --version 
+ --backup=numbered --backup=t -b 
+ --backup=numbered --backup=t -d 
+ --backup=numbered --backup=t -f 
+ --backup=numbered --backup=t -i 
+ --backup=numbered --backup=t -L 
+ --backup=numbered --backup=t -n 
+ --backup=numbered --backup=t -P 
+ --backup=numbered --backup=t -r 
+ --backup=numbered --backup=t -s 
+ --backup=numbered --backup=t -S x 
+ --backup=numbered --backup=t -t files 
+ --backup=numbered --backup=t -T 
+ --backup=numbered --backup=t -v 
+ --backup=numbered --backup=t --help 
+ --backup=numbered --backup=t --version 
+ --backup=numbered -b -d 
+ --backup=numbered -b -f 
+ --backup=numbered -b -i 
+ --backup=numbered -b -L 
+ --backup=numbered -b -n 
+ --backup=numbered -b -P 
+ --backup=numbered -b -r 
+ --backup=numbered -b -s 
+ --backup=numbered -b -S x 
+ --backup=numbered -b -t files 
+ --backup=numbered -b -T 
+ --backup=numbered -b -v 
+ --backup=numbered -b --help 
+ --backup=numbered -b --version 
+ --backup=numbered -d -f 
+ --backup=numbered -d -i 
+ --backup=numbered -d -L 
+ --backup=numbered -d -n 
+ --backup=numbered -d -P 
+ --backup=numbered -d -r 
+ --backup=numbered -d -s 
+ --backup=numbered -d -S x 
+ --backup=numbered -d -t files 
+ --backup=numbered -d -T 
+ --backup=numbered -d -v 
+ --backup=numbered -d --help 
+ --backup=numbered -d --version 
+ --backup=numbered -f -i 
+ --backup=numbered -f -L 
+ --backup=numbered -f -n 
+ --backup=numbered -f -P 
+ --backup=numbered -f -r 
+ --backup=numbered -f -s 
+ --backup=numbered -f -S x 
+ --backup=numbered -f -t files 
+ --backup=numbered -f -T 
+ --backup=numbered -f -v 
+ --backup=numbered -f --help 
+ --backup=numbered -f --version 
+ --backup=numbered -i -L 
+ --backup=numbered -i -n 
+ --backup=numbered -i -P 
+ --backup=numbered -i -r 
+ --backup=numbered -i -s 
+ --backup=numbered -i -S x 
+ --backup=numbered -i -t files 
+ --backup=numbered -i -T 
+ --backup=numbered -i -v 
+ --backup=numbered -i --help 
+ --backup=numbered -i --version 
+ --backup=numbered -L -n 
+ --backup=numbered -L -P 
+ --backup=numbered -L -r 
+ --backup=numbered -L -s 
+ --backup=numbered -L -S x 
+ --backup=numbered -L -t files 
+ --backup=numbered -L -T 
+ --backup=numbered -L -v 
+ --backup=numbered -L --help 
+ --backup=numbered -L --version 
+ --backup=numbered -n -P 
+ --backup=numbered -n -r 
+ --backup=numbered -n -s 
+ --backup=numbered -n -S x 
+ --backup=numbered -n -t files 
+ --backup=numbered -n -T 
+ --backup=numbered -n -v 
+ --backup=numbered -n --help 
+ --backup=numbered -n --version 
+ --backup=numbered -P -r 
+ --backup=numbered -P -s 
+ --backup=numbered -P -S x 
+ --backup=numbered -P -t files 
+ --backup=numbered -P -T 
+ --backup=numbered -P -v 
+ --backup=numbered -P --help 
+ --backup=numbered -P --version 
+ --backup=numbered -r -s 
+ --backup=numbered -r -S x 
+ --backup=numbered -r -t files 
+ --backup=numbered -r -T 
+ --backup=numbered -r -v 
+ --backup=numbered -r --help 
+ --backup=numbered -r --version 
+ --backup=numbered -s -S x 
+ --backup=numbered -s -t files 
+ --backup=numbered -s -T 
+ --backup=numbered -s -v 
+ --backup=numbered -s --help 
+ --backup=numbered -s --version 
+ --backup=numbered -S x -t files 
+ --backup=numbered -S x -T 
+ --backup=numbered -S x -v 
+ --backup=numbered -S x --help 
+ --backup=numbered -S x --version 
+ --backup=numbered -t files -T 
+ --backup=numbered -t files -v 
+ --backup=numbered -t files --help 
+ --backup=numbered -t files --version 
+ --backup=numbered -T -v 
+ --backup=numbered -T --help 
+ --backup=numbered -T --version 
+ --backup=numbered -v --help 
+ --backup=numbered -v --version 
+ --backup=numbered --help --version 
+ --backup=t -b -d 
+ --backup=t -b -f 
+ --backup=t -b -i 
+ --backup=t -b -L 
+ --backup=t -b -n 
+ --backup=t -b -P 
+ --backup=t -b -r 
+ --backup=t -b -s 
+ --backup=t -b -S x 
+ --backup=t -b -t files 
+ --backup=t -b -T 
+ --backup=t -b -v 
+ --backup=t -b --help 
+ --backup=t -b --version 
+ --backup=t -d -f 
+ --backup=t -d -i 
+ --backup=t -d -L 
+ --backup=t -d -n 
+ --backup=t -d -P 
+ --backup=t -d -r 
+ --backup=t -d -s 
+ --backup=t -d -S x 
+ --backup=t -d -t files 
+ --backup=t -d -T 
+ --backup=t -d -v 
+ --backup=t -d --help 
+ --backup=t -d --version 
+ --backup=t -f -i 
+ --backup=t -f -L 
+ --backup=t -f -n 
+ --backup=t -f -P 
+ --backup=t -f -r 
+ --backup=t -f -s 
+ --backup=t -f -S x 
+ --backup=t -f -t files 
+ --backup=t -f -T 
+ --backup=t -f -v 
+ --backup=t -f --help 
+ --backup=t -f --version 
+ --backup=t -i -L 
+ --backup=t -i -n 
+ --backup=t -i -P 
+ --backup=t -i -r 
+ --backup=t -i -s 
+ --backup=t -i -S x 
+ --backup=t -i -t files 
+ --backup=t -i -T 
+ --backup=t -i -v 
+ --backup=t -i --help 
+ --backup=t -i --version 
+ --backup=t -L -n 
+ --backup=t -L -P 
+ --backup=t -L -r 
+ --backup=t -L -s 
+ --backup=t -L -S x 
+ --backup=t -L -t files 
+ --backup=t -L -T 
+ --backup=t -L -v 
+ --backup=t -L --help 
+ --backup=t -L --version 
+ --backup=t -n -P 
+ --backup=t -n -r 
+ --backup=t -n -s 
+ --backup=t -n -S x 
+ --backup=t -n -t files 
+ --backup=t -n -T 
+ --backup=t -n -v 
+ --backup=t -n --help 
+ --backup=t -n --version 
+ --backup=t -P -r 
+ --backup=t -P -s 
+ --backup=t -P -S x 
+ --backup=t -P -t files 
+ --backup=t -P -T 
+ --backup=t -P -v 
+ --backup=t -P --help 
+ --backup=t -P --version 
+ --backup=t -r -s 
+ --backup=t -r -S x 
+ --backup=t -r -t files 
+ --backup=t -r -T 
+ --backup=t -r -v 
+ --backup=t -r --help 
+ --backup=t -r --version 
+ --backup=t -s -S x 
+ --backup=t -s -t files 
+ --backup=t -s -T 
+ --backup=t -s -v 
+ --backup=t -s --help 
+ --backup=t -s --version 
+ --backup=t -S x -t files 
+ --backup=t -S x -T 
+ --backup=t -S x -v 
+ --backup=t -S x --help 
+ --backup=t -S x --version 
+ --backup=t -t files -T 
+ --backup=t -t files -v 
+ --backup=t -t files --help 
+ --backup=t -t files --version 
+ --backup=t -T -v 
+ --backup=t -T --help 
+ --backup=t -T --version 
+ --backup=t -v --help 
+ --backup=t -v --version 
+ --backup=t --help --version 
+ -b -d -f 
+ -b -d -i 
+ -b -d -L 
+ -b -d -n 
+ -b -d -P 
+ -b -d -r 
+ -b -d -s 
+ -b -d -S x 
+ -b -d -t files 
+ -b -d -T 
+ -b -d -v 
+ -b -d --help 
+ -b -d --version 
+ -b -f -i 
+ -b -f -L 
+ -b -f -n 
+ -b -f -P 
+ -b -f -r 
+ -b -f -s 
+ -b -f -S x 
+ -b -f -t files 
+ -b -f -T 
+ -b -f -v 
+ -b -f --help 
+ -b -f --version 
+ -b -i -L 
+ -b -i -n 
+ -b -i -P 
+ -b -i -r 
+ -b -i -s 
+ -b -i -S x 
+ -b -i -t files 
+ -b -i -T 
+ -b -i -v 
+ -b -i --help 
+ -b -i --version 
+ -b -L -n 
+ -b -L -P 
+ -b -L -r 
+ -b -L -s 
+ -b -L -S x 
+ -b -L -t files 
+ -b -L -T 
+ -b -L -v 
+ -b -L --help 
+ -b -L --version 
+ -b -n -P 
+ -b -n -r 
+ -b -n -s 
+ -b -n -S x 
+ -b -n -t files 
+ -b -n -T 
+ -b -n -v 
+ -b -n --help 
+ -b -n --version 
+ -b -P -r 
+ -b -P -s 
+ -b -P -S x 
+ -b -P -t files 
+ -b -P -T 
+ -b -P -v 
+ -b -P --help 
+ -b -P --version 
+ -b -r -s 
+ -b -r -S x 
+ -b -r -t files 
+ -b -r -T 
+ -b -r -v 
+ -b -r --help 
+ -b -r --version 
+ -b -s -S x 
+ -b -s -t files 
+ -b -s -T 
+ -b -s -v 
+ -b -s --help 
+ -b -s --version 
+ -b -S x -t files 
+ -b -S x -T 
+ -b -S x -v 
+ -b -S x --help 
+ -b -S x --version 
+ -b -t files -T 
+ -b -t files -v 
+ -b -t files --help 
+ -b -t files --version 
+ -b -T -v 
+ -b -T --help 
+ -b -T --version 
+ -b -v --help 
+ -b -v --version 
+ -b --help --version 
+ -d -f -i 
+ -d -f -L 
+ -d -f -n 
+ -d -f -P 
+ -d -f -r 
+ -d -f -s 
+ -d -f -S x 
+ -d -f -t files 
+ -d -f -T 
+ -d -f -v 
+ -d -f --help 
+ -d -f --version 
+ -d -i -L 
+ -d -i -n 
+ -d -i -P 
+ -d -i -r 
+ -d -i -s 
+ -d -i -S x 
+ -d -i -t files 
+ -d -i -T 
+ -d -i -v 
+ -d -i --help 
+ -d -i --version 
+ -d -L -n 
+ -d -L -P 
+ -d -L -r 
+ -d -L -s 
+ -d -L -S x 
+ -d -L -t files 
+ -d -L -T 
+ -d -L -v 
+ -d -L --help 
+ -d -L --version 
+ -d -n -P 
+ -d -n -r 
+ -d -n -s 
+ -d -n -S x 
+ -d -n -t files 
+ -d -n -T 
+ -d -n -v 
+ -d -n --help 
+ -d -n --version 
+ -d -P -r 
+ -d -P -s 
+ -d -P -S x 
+ -d -P -t files 
+ -d -P -T 
+ -d -P -v 
+ -d -P --help 
+ -d -P --version 
+ -d -r -s 
+ -d -r -S x 
+ -d -r -t files 
+ -d -r -T 
+ -d -r -v 
+ -d -r --help 
+ -d -r --version 
+ -d -s -S x 
+ -d -s -t files 
+ -d -s -T 
+ -d -s -v 
+ -d -s --help 
+ -d -s --version 
+ -d -S x -t files 
+ -d -S x -T 
+ -d -S x -v 
+ -d -S x --help 
+ -d -S x --version 
+ -d -t files -T 
+ -d -t files -v 
+ -d -t files --help 
+ -d -t files --version 
+ -d -T -v 
+ -d -T --help 
+ -d -T --version 
+ -d -v --help 
+ -d -v --version 
+ -d --help --version 
+ -f -i -L 
+ -f -i -n 
+ -f -i -P 
+ -f -i -r 
+ -f -i -s 
+ -f -i -S x 
+ -f -i -t files 
+ -f -i -T 
+ -f -i -v 
+ -f -i --help 
+ -f -i --version 
+ -f -L -n 
+ -f -L -P 
+ -f -L -r 
+ -f -L -s 
+ -f -L -S x 
+ -f -L -t files 
+ -f -L -T 
+ -f -L -v 
+ -f -L --help 
+ -f -L --version 
+ -f -n -P 
+ -f -n -r 
+ -f -n -s 
+ -f -n -S x 
+ -f -n -t files 
+ -f -n -T 
+ -f -n -v 
+ -f -n --help 
+ -f -n --version 
+ -f -P -r 
+ -f -P -s 
+ -f -P -S x 
+ -f -P -t files 
+ -f -P -T 
+ -f -P -v 
+ -f -P --help 
+ -f -P --version 
+ -f -r -s 
+ -f -r -S x 
+ -f -r -t files 
+ -f -r -T 
+ -f -r -v 
+ -f -r --help 
+ -f -r --version 
+ -f -s -S x 
+ -f -s -t files 
+ -f -s -T 
+ -f -s -v 
+ -f -s --help 
+ -f -s --version 
+ -f -S x -t files 
+ -f -S x -T 
+ -f -S x -v 
+ -f -S x --help 
+ -f -S x --version 
+ -f -t files -T 
+ -f -t files -v 
+ -f -t files --help 
+ -f -t files --version 
+ -f -T -v 
+ -f -T --help 
+ -f -T --version 
+ -f -v --help 
+ -f -v --version 
+ -f --help --version 
+ -i -L -n 
+ -i -L -P 
+ -i -L -r 
+ -i -L -s 
+ -i -L -S x 
+ -i -L -t files 
+ -i -L -T 
+ -i -L -v 
+ -i -L --help 
+ -i -L --version 
+ -i -n -P 
+ -i -n -r 
+ -i -n -s 
+ -i -n -S x 
+ -i -n -t files 
+ -i -n -T 
+ -i -n -v 
+ -i -n --help 
+ -i -n --version 
+ -i -P -r 
+ -i -P -s 
+ -i -P -S x 
+ -i -P -t files 
+ -i -P -T 
+ -i -P -v 
+ -i -P --help 
+ -i -P --version 
+ -i -r -s 
+ -i -r -S x 
+ -i -r -t files 
+ -i -r -T 
+ -i -r -v 
+ -i -r --help 
+ -i -r --version 
+ -i -s -S x 
+ -i -s -t files 
+ -i -s -T 
+ -i -s -v 
+ -i -s --help 
+ -i -s --version 
+ -i -S x -t files 
+ -i -S x -T 
+ -i -S x -v 
+ -i -S x --help 
+ -i -S x --version 
+ -i -t files -T 
+ -i -t files -v 
+ -i -t files --help 
+ -i -t files --version 
+ -i -T -v 
+ -i -T --help 
+ -i -T --version 
+ -i -v --help 
+ -i -v --version 
+ -i --help --version 
+ -L -n -P 
+ -L -n -r 
+ -L -n -s 
+ -L -n -S x 
+ -L -n -t files 
+ -L -n -T 
+ -L -n -v 
+ -L -n --help 
+ -L -n --version 
+ -L -P -r 
+ -L -P -s 
+ -L -P -S x 
+ -L -P -t files 
+ -L -P -T 
+ -L -P -v 
+ -L -P --help 
+ -L -P --version 
+ -L -r -s 
+ -L -r -S x 
+ -L -r -t files 
+ -L -r -T 
+ -L -r -v 
+ -L -r --help 
+ -L -r --version 
+ -L -s -S x 
+ -L -s -t files 
+ -L -s -T 
+ -L -s -v 
+ -L -s --help 
+ -L -s --version 
+ -L -S x -t files 
+ -L -S x -T 
+ -L -S x -v 
+ -L -S x --help 
+ -L -S x --version 
+ -L -t files -T 
+ -L -t files -v 
+ -L -t files --help 
+ -L -t files --version 
+ -L -T -v 
+ -L -T --help 
+ -L -T --version 
+ -L -v --help 
+ -L -v --version 
+ -L --help --version 
+ -n -P -r 
+ -n -P -s 
+ -n -P -S x 
+ -n -P -t files 
+ -n -P -T 
+ -n -P -v 
+ -n -P --help 
+ -n -P --version 
+ -n -r -s 
+ -n -r -S x 
+ -n -r -t files 
+ -n -r -T 
+ -n -r -v 
+ -n -r --help 
+ -n -r --version 
+ -n -s -S x 
+ -n -s -t files 
+ -n -s -T 
+ -n -s -v 
+ -n -s --help 
+ -n -s --version 
+ -n -S x -t files 
+ -n -S x -T 
+ -n -S x -v 
+ -n -S x --help 
+ -n -S x --version 
+ -n -t files -T 
+ -n -t files -v 
+ -n -t files --help 
+ -n -t files --version 
+ -n -T -v 
+ -n -T --help 
+ -n -T --version 
+ -n -v --help 
+ -n -v --version 
+ -n --help --version 
+ -P -r -s 
+ -P -r -S x 
+ -P -r -t files 
+ -P -r -T 
+ -P -r -v 
+ -P -r --help 
+ -P -r --version 
+ -P -s -S x 
+ -P -s -t files 
+ -P -s -T 
+ -P -s -v 
+ -P -s --help 
+ -P -s --version 
+ -P -S x -t files 
+ -P -S x -T 
+ -P -S x -v 
+ -P -S x --help 
+ -P -S x --version 
+ -P -t files -T 
+ -P -t files -v 
+ -P -t files --help 
+ -P -t files --version 
+ -P -T -v 
+ -P -T --help 
+ -P -T --version 
+ -P -v --help 
+ -P -v --version 
+ -P --help --version 
+ -r -s -S x 
+ -r -s -t files 
+ -r -s -T 
+ -r -s -v 
+ -r -s --help 
+ -r -s --version 
+ -r -S x -t files 
+ -r -S x -T 
+ -r -S x -v 
+ -r -S x --help 
+ -r -S x --version 
+ -r -t files -T 
+ -r -t files -v 
+ -r -t files --help 
+ -r -t files --version 
+ -r -T -v 
+ -r -T --help 
+ -r -T --version 
+ -r -v --help 
+ -r -v --version 
+ -r --help --version 
+ -s -S x -t files 
+ -s -S x -T 
+ -s -S x -v 
+ -s -S x --help 
+ -s -S x --version 
+ -s -t files -T 
+ -s -t files -v 
+ -s -t files --help 
+ -s -t files --version 
+ -s -T -v 
+ -s -T --help 
+ -s -T --version 
+ -s -v --help 
+ -s -v --version 
+ -s --help --version 
+ -S x -t files -T 
+ -S x -t files -v 
+ -S x -t files --help 
+ -S x -t files --version 
+ -S x -T -v 
+ -S x -T --help 
+ -S x -T --version 
+ -S x -v --help 
+ -S x -v --version 
+ -S x --help --version 
+ -t files -T -v 
+ -t files -T --help 
+ -t files -T --version 
+ -t files -v --help 
+ -t files -v --version 
+ -t files --help --version 
+ -T -v --help 
+ -T -v --version 
+ -T --help --version 
+ -v --help --version 
+ files/f1 files/f2
+ --backup=none files/f1 files/f2
+ --backup=off files/f1 files/f2
+ --backup=simple files/f1 files/f2
+ --backup=never files/f1 files/f2
+ --backup=existing files/f1 files/f2
+ --backup=nil files/f1 files/f2
+ --backup=numbered files/f1 files/f2
+ --backup=t files/f1 files/f2
+ -b files/f1 files/f2
+ -d files/f1 files/f2
+ -f files/f1 files/f2
+ -i files/f1 files/f2
+ -L files/f1 files/f2
+ -n files/f1 files/f2
+ -P files/f1 files/f2
+ -r files/f1 files/f2
+ -s files/f1 files/f2
+ -S x files/f1 files/f2
+ -t files files/f1 files/f2
+ -T files/f1 files/f2
+ -v files/f1 files/f2
+ --help files/f1 files/f2
+ --version files/f1 files/f2
+ --backup=none --backup=off files/f1 files/f2
+ --backup=none --backup=simple files/f1 files/f2
+ --backup=none --backup=never files/f1 files/f2
+ --backup=none --backup=existing files/f1 files/f2
+ --backup=none --backup=nil files/f1 files/f2
+ --backup=none --backup=numbered files/f1 files/f2
+ --backup=none --backup=t files/f1 files/f2
+ --backup=none -b files/f1 files/f2
+ --backup=none -d files/f1 files/f2
+ --backup=none -f files/f1 files/f2
+ --backup=none -i files/f1 files/f2
+ --backup=none -L files/f1 files/f2
+ --backup=none -n files/f1 files/f2
+ --backup=none -P files/f1 files/f2
+ --backup=none -r files/f1 files/f2
+ --backup=none -s files/f1 files/f2
+ --backup=none -S x files/f1 files/f2
+ --backup=none -t files files/f1 files/f2
+ --backup=none -T files/f1 files/f2
+ --backup=none -v files/f1 files/f2
+ --backup=none --help files/f1 files/f2
+ --backup=none --version files/f1 files/f2
+ --backup=off --backup=simple files/f1 files/f2
+ --backup=off --backup=never files/f1 files/f2
+ --backup=off --backup=existing files/f1 files/f2
+ --backup=off --backup=nil files/f1 files/f2
+ --backup=off --backup=numbered files/f1 files/f2
+ --backup=off --backup=t files/f1 files/f2
+ --backup=off -b files/f1 files/f2
+ --backup=off -d files/f1 files/f2
+ --backup=off -f files/f1 files/f2
+ --backup=off -i files/f1 files/f2
+ --backup=off -L files/f1 files/f2
+ --backup=off -n files/f1 files/f2
+ --backup=off -P files/f1 files/f2
+ --backup=off -r files/f1 files/f2
+ --backup=off -s files/f1 files/f2
+ --backup=off -S x files/f1 files/f2
+ --backup=off -t files files/f1 files/f2
+ --backup=off -T files/f1 files/f2
+ --backup=off -v files/f1 files/f2
+ --backup=off --help files/f1 files/f2
+ --backup=off --version files/f1 files/f2
+ --backup=simple --backup=never files/f1 files/f2
+ --backup=simple --backup=existing files/f1 files/f2
+ --backup=simple --backup=nil files/f1 files/f2
+ --backup=simple --backup=numbered files/f1 files/f2
+ --backup=simple --backup=t files/f1 files/f2
+ --backup=simple -b files/f1 files/f2
+ --backup=simple -d files/f1 files/f2
+ --backup=simple -f files/f1 files/f2
+ --backup=simple -i files/f1 files/f2
+ --backup=simple -L files/f1 files/f2
+ --backup=simple -n files/f1 files/f2
+ --backup=simple -P files/f1 files/f2
+ --backup=simple -r files/f1 files/f2
+ --backup=simple -s files/f1 files/f2
+ --backup=simple -S x files/f1 files/f2
+ --backup=simple -t files files/f1 files/f2
+ --backup=simple -T files/f1 files/f2
+ --backup=simple -v files/f1 files/f2
+ --backup=simple --help files/f1 files/f2
+ --backup=simple --version files/f1 files/f2
+ --backup=never --backup=existing files/f1 files/f2
+ --backup=never --backup=nil files/f1 files/f2
+ --backup=never --backup=numbered files/f1 files/f2
+ --backup=never --backup=t files/f1 files/f2
+ --backup=never -b files/f1 files/f2
+ --backup=never -d files/f1 files/f2
+ --backup=never -f files/f1 files/f2
+ --backup=never -i files/f1 files/f2
+ --backup=never -L files/f1 files/f2
+ --backup=never -n files/f1 files/f2
+ --backup=never -P files/f1 files/f2
+ --backup=never -r files/f1 files/f2
+ --backup=never -s files/f1 files/f2
+ --backup=never -S x files/f1 files/f2
+ --backup=never -t files files/f1 files/f2
+ --backup=never -T files/f1 files/f2
+ --backup=never -v files/f1 files/f2
+ --backup=never --help files/f1 files/f2
+ --backup=never --version files/f1 files/f2
+ --backup=existing --backup=nil files/f1 files/f2
+ --backup=existing --backup=numbered files/f1 files/f2
+ --backup=existing --backup=t files/f1 files/f2
+ --backup=existing -b files/f1 files/f2
+ --backup=existing -d files/f1 files/f2
+ --backup=existing -f files/f1 files/f2
+ --backup=existing -i files/f1 files/f2
+ --backup=existing -L files/f1 files/f2
+ --backup=existing -n files/f1 files/f2
+ --backup=existing -P files/f1 files/f2
+ --backup=existing -r files/f1 files/f2
+ --backup=existing -s files/f1 files/f2
+ --backup=existing -S x files/f1 files/f2
+ --backup=existing -t files files/f1 files/f2
+ --backup=existing -T files/f1 files/f2
+ --backup=existing -v files/f1 files/f2
+ --backup=existing --help files/f1 files/f2
+ --backup=existing --version files/f1 files/f2
+ --backup=nil --backup=numbered files/f1 files/f2
+ --backup=nil --backup=t files/f1 files/f2
+ --backup=nil -b files/f1 files/f2
+ --backup=nil -d files/f1 files/f2
+ --backup=nil -f files/f1 files/f2
+ --backup=nil -i files/f1 files/f2
+ --backup=nil -L files/f1 files/f2
+ --backup=nil -n files/f1 files/f2
+ --backup=nil -P files/f1 files/f2
+ --backup=nil -r files/f1 files/f2
+ --backup=nil -s files/f1 files/f2
+ --backup=nil -S x files/f1 files/f2
+ --backup=nil -t files files/f1 files/f2
+ --backup=nil -T files/f1 files/f2
+ --backup=nil -v files/f1 files/f2
+ --backup=nil --help files/f1 files/f2
+ --backup=nil --version files/f1 files/f2
+ --backup=numbered --backup=t files/f1 files/f2
+ --backup=numbered -b files/f1 files/f2
+ --backup=numbered -d files/f1 files/f2
+ --backup=numbered -f files/f1 files/f2
+ --backup=numbered -i files/f1 files/f2
+ --backup=numbered -L files/f1 files/f2
+ --backup=numbered -n files/f1 files/f2
+ --backup=numbered -P files/f1 files/f2
+ --backup=numbered -r files/f1 files/f2
+ --backup=numbered -s files/f1 files/f2
+ --backup=numbered -S x files/f1 files/f2
+ --backup=numbered -t files files/f1 files/f2
+ --backup=numbered -T files/f1 files/f2
+ --backup=numbered -v files/f1 files/f2
+ --backup=numbered --help files/f1 files/f2
+ --backup=numbered --version files/f1 files/f2
+ --backup=t -b files/f1 files/f2
+ --backup=t -d files/f1 files/f2
+ --backup=t -f files/f1 files/f2
+ --backup=t -i files/f1 files/f2
+ --backup=t -L files/f1 files/f2
+ --backup=t -n files/f1 files/f2
+ --backup=t -P files/f1 files/f2
+ --backup=t -r files/f1 files/f2
+ --backup=t -s files/f1 files/f2
+ --backup=t -S x files/f1 files/f2
+ --backup=t -t files files/f1 files/f2
+ --backup=t -T files/f1 files/f2
+ --backup=t -v files/f1 files/f2
+ --backup=t --help files/f1 files/f2
+ --backup=t --version files/f1 files/f2
+ -b -d files/f1 files/f2
+ -b -f files/f1 files/f2
+ -b -i files/f1 files/f2
+ -b -L files/f1 files/f2
+ -b -n files/f1 files/f2
+ -b -P files/f1 files/f2
+ -b -r files/f1 files/f2
+ -b -s files/f1 files/f2
+ -b -S x files/f1 files/f2
+ -b -t files files/f1 files/f2
+ -b -T files/f1 files/f2
+ -b -v files/f1 files/f2
+ -b --help files/f1 files/f2
+ -b --version files/f1 files/f2
+ -d -f files/f1 files/f2
+ -d -i files/f1 files/f2
+ -d -L files/f1 files/f2
+ -d -n files/f1 files/f2
+ -d -P files/f1 files/f2
+ -d -r files/f1 files/f2
+ -d -s files/f1 files/f2
+ -d -S x files/f1 files/f2
+ -d -t files files/f1 files/f2
+ -d -T files/f1 files/f2
+ -d -v files/f1 files/f2
+ -d --help files/f1 files/f2
+ -d --version files/f1 files/f2
+ -f -i files/f1 files/f2
+ -f -L files/f1 files/f2
+ -f -n files/f1 files/f2
+ -f -P files/f1 files/f2
+ -f -r files/f1 files/f2
+ -f -s files/f1 files/f2
+ -f -S x files/f1 files/f2
+ -f -t files files/f1 files/f2
+ -f -T files/f1 files/f2
+ -f -v files/f1 files/f2
+ -f --help files/f1 files/f2
+ -f --version files/f1 files/f2
+ -i -L files/f1 files/f2
+ -i -n files/f1 files/f2
+ -i -P files/f1 files/f2
+ -i -r files/f1 files/f2
+ -i -s files/f1 files/f2
+ -i -S x files/f1 files/f2
+ -i -t files files/f1 files/f2
+ -i -T files/f1 files/f2
+ -i -v files/f1 files/f2
+ -i --help files/f1 files/f2
+ -i --version files/f1 files/f2
+ -L -n files/f1 files/f2
+ -L -P files/f1 files/f2
+ -L -r files/f1 files/f2
+ -L -s files/f1 files/f2
+ -L -S x files/f1 files/f2
+ -L -t files files/f1 files/f2
+ -L -T files/f1 files/f2
+ -L -v files/f1 files/f2
+ -L --help files/f1 files/f2
+ -L --version files/f1 files/f2
+ -n -P files/f1 files/f2
+ -n -r files/f1 files/f2
+ -n -s files/f1 files/f2
+ -n -S x files/f1 files/f2
+ -n -t files files/f1 files/f2
+ -n -T files/f1 files/f2
+ -n -v files/f1 files/f2
+ -n --help files/f1 files/f2
+ -n --version files/f1 files/f2
+ -P -r files/f1 files/f2
+ -P -s files/f1 files/f2
+ -P -S x files/f1 files/f2
+ -P -t files files/f1 files/f2
+ -P -T files/f1 files/f2
+ -P -v files/f1 files/f2
+ -P --help files/f1 files/f2
+ -P --version files/f1 files/f2
+ -r -s files/f1 files/f2
+ -r -S x files/f1 files/f2
+ -r -t files files/f1 files/f2
+ -r -T files/f1 files/f2
+ -r -v files/f1 files/f2
+ -r --help files/f1 files/f2
+ -r --version files/f1 files/f2
+ -s -S x files/f1 files/f2
+ -s -t files files/f1 files/f2
+ -s -T files/f1 files/f2
+ -s -v files/f1 files/f2
+ -s --help files/f1 files/f2
+ -s --version files/f1 files/f2
+ -S x -t files files/f1 files/f2
+ -S x -T files/f1 files/f2
+ -S x -v files/f1 files/f2
+ -S x --help files/f1 files/f2
+ -S x --version files/f1 files/f2
+ -t files -T files/f1 files/f2
+ -t files -v files/f1 files/f2
+ -t files --help files/f1 files/f2
+ -t files --version files/f1 files/f2
+ -T -v files/f1 files/f2
+ -T --help files/f1 files/f2
+ -T --version files/f1 files/f2
+ -v --help files/f1 files/f2
+ -v --version files/f1 files/f2
+ --help --version files/f1 files/f2
+ --backup=none --backup=off --backup=simple files/f1 files/f2
+ --backup=none --backup=off --backup=never files/f1 files/f2
+ --backup=none --backup=off --backup=existing files/f1 files/f2
+ --backup=none --backup=off --backup=nil files/f1 files/f2
+ --backup=none --backup=off --backup=numbered files/f1 files/f2
+ --backup=none --backup=off --backup=t files/f1 files/f2
+ --backup=none --backup=off -b files/f1 files/f2
+ --backup=none --backup=off -d files/f1 files/f2
+ --backup=none --backup=off -f files/f1 files/f2
+ --backup=none --backup=off -i files/f1 files/f2
+ --backup=none --backup=off -L files/f1 files/f2
+ --backup=none --backup=off -n files/f1 files/f2
+ --backup=none --backup=off -P files/f1 files/f2
+ --backup=none --backup=off -r files/f1 files/f2
+ --backup=none --backup=off -s files/f1 files/f2
+ --backup=none --backup=off -S x files/f1 files/f2
+ --backup=none --backup=off -t files files/f1 files/f2
+ --backup=none --backup=off -T files/f1 files/f2
+ --backup=none --backup=off -v files/f1 files/f2
+ --backup=none --backup=off --help files/f1 files/f2
+ --backup=none --backup=off --version files/f1 files/f2
+ --backup=none --backup=simple --backup=never files/f1 files/f2
+ --backup=none --backup=simple --backup=existing files/f1 files/f2
+ --backup=none --backup=simple --backup=nil files/f1 files/f2
+ --backup=none --backup=simple --backup=numbered files/f1 files/f2
+ --backup=none --backup=simple --backup=t files/f1 files/f2
+ --backup=none --backup=simple -b files/f1 files/f2
+ --backup=none --backup=simple -d files/f1 files/f2
+ --backup=none --backup=simple -f files/f1 files/f2
+ --backup=none --backup=simple -i files/f1 files/f2
+ --backup=none --backup=simple -L files/f1 files/f2
+ --backup=none --backup=simple -n files/f1 files/f2
+ --backup=none --backup=simple -P files/f1 files/f2
+ --backup=none --backup=simple -r files/f1 files/f2
+ --backup=none --backup=simple -s files/f1 files/f2
+ --backup=none --backup=simple -S x files/f1 files/f2
+ --backup=none --backup=simple -t files files/f1 files/f2
+ --backup=none --backup=simple -T files/f1 files/f2
+ --backup=none --backup=simple -v files/f1 files/f2
+ --backup=none --backup=simple --help files/f1 files/f2
+ --backup=none --backup=simple --version files/f1 files/f2
+ --backup=none --backup=never --backup=existing files/f1 files/f2
+ --backup=none --backup=never --backup=nil files/f1 files/f2
+ --backup=none --backup=never --backup=numbered files/f1 files/f2
+ --backup=none --backup=never --backup=t files/f1 files/f2
+ --backup=none --backup=never -b files/f1 files/f2
+ --backup=none --backup=never -d files/f1 files/f2
+ --backup=none --backup=never -f files/f1 files/f2
+ --backup=none --backup=never -i files/f1 files/f2
+ --backup=none --backup=never -L files/f1 files/f2
+ --backup=none --backup=never -n files/f1 files/f2
+ --backup=none --backup=never -P files/f1 files/f2
+ --backup=none --backup=never -r files/f1 files/f2
+ --backup=none --backup=never -s files/f1 files/f2
+ --backup=none --backup=never -S x files/f1 files/f2
+ --backup=none --backup=never -t files files/f1 files/f2
+ --backup=none --backup=never -T files/f1 files/f2
+ --backup=none --backup=never -v files/f1 files/f2
+ --backup=none --backup=never --help files/f1 files/f2
+ --backup=none --backup=never --version files/f1 files/f2
+ --backup=none --backup=existing --backup=nil files/f1 files/f2
+ --backup=none --backup=existing --backup=numbered files/f1 files/f2
+ --backup=none --backup=existing --backup=t files/f1 files/f2
+ --backup=none --backup=existing -b files/f1 files/f2
+ --backup=none --backup=existing -d files/f1 files/f2
+ --backup=none --backup=existing -f files/f1 files/f2
+ --backup=none --backup=existing -i files/f1 files/f2
+ --backup=none --backup=existing -L files/f1 files/f2
+ --backup=none --backup=existing -n files/f1 files/f2
+ --backup=none --backup=existing -P files/f1 files/f2
+ --backup=none --backup=existing -r files/f1 files/f2
+ --backup=none --backup=existing -s files/f1 files/f2
+ --backup=none --backup=existing -S x files/f1 files/f2
+ --backup=none --backup=existing -t files files/f1 files/f2
+ --backup=none --backup=existing -T files/f1 files/f2
+ --backup=none --backup=existing -v files/f1 files/f2
+ --backup=none --backup=existing --help files/f1 files/f2
+ --backup=none --backup=existing --version files/f1 files/f2
+ --backup=none --backup=nil --backup=numbered files/f1 files/f2
+ --backup=none --backup=nil --backup=t files/f1 files/f2
+ --backup=none --backup=nil -b files/f1 files/f2
+ --backup=none --backup=nil -d files/f1 files/f2
+ --backup=none --backup=nil -f files/f1 files/f2
+ --backup=none --backup=nil -i files/f1 files/f2
+ --backup=none --backup=nil -L files/f1 files/f2
+ --backup=none --backup=nil -n files/f1 files/f2
+ --backup=none --backup=nil -P files/f1 files/f2
+ --backup=none --backup=nil -r files/f1 files/f2
+ --backup=none --backup=nil -s files/f1 files/f2
+ --backup=none --backup=nil -S x files/f1 files/f2
+ --backup=none --backup=nil -t files files/f1 files/f2
+ --backup=none --backup=nil -T files/f1 files/f2
+ --backup=none --backup=nil -v files/f1 files/f2
+ --backup=none --backup=nil --help files/f1 files/f2
+ --backup=none --backup=nil --version files/f1 files/f2
+ --backup=none --backup=numbered --backup=t files/f1 files/f2
+ --backup=none --backup=numbered -b files/f1 files/f2
+ --backup=none --backup=numbered -d files/f1 files/f2
+ --backup=none --backup=numbered -f files/f1 files/f2
+ --backup=none --backup=numbered -i files/f1 files/f2
+ --backup=none --backup=numbered -L files/f1 files/f2
+ --backup=none --backup=numbered -n files/f1 files/f2
+ --backup=none --backup=numbered -P files/f1 files/f2
+ --backup=none --backup=numbered -r files/f1 files/f2
+ --backup=none --backup=numbered -s files/f1 files/f2
+ --backup=none --backup=numbered -S x files/f1 files/f2
+ --backup=none --backup=numbered -t files files/f1 files/f2
+ --backup=none --backup=numbered -T files/f1 files/f2
+ --backup=none --backup=numbered -v files/f1 files/f2
+ --backup=none --backup=numbered --help files/f1 files/f2
+ --backup=none --backup=numbered --version files/f1 files/f2
+ --backup=none --backup=t -b files/f1 files/f2
+ --backup=none --backup=t -d files/f1 files/f2
+ --backup=none --backup=t -f files/f1 files/f2
+ --backup=none --backup=t -i files/f1 files/f2
+ --backup=none --backup=t -L files/f1 files/f2
+ --backup=none --backup=t -n files/f1 files/f2
+ --backup=none --backup=t -P files/f1 files/f2
+ --backup=none --backup=t -r files/f1 files/f2
+ --backup=none --backup=t -s files/f1 files/f2
+ --backup=none --backup=t -S x files/f1 files/f2
+ --backup=none --backup=t -t files files/f1 files/f2
+ --backup=none --backup=t -T files/f1 files/f2
+ --backup=none --backup=t -v files/f1 files/f2
+ --backup=none --backup=t --help files/f1 files/f2
+ --backup=none --backup=t --version files/f1 files/f2
+ --backup=none -b -d files/f1 files/f2
+ --backup=none -b -f files/f1 files/f2
+ --backup=none -b -i files/f1 files/f2
+ --backup=none -b -L files/f1 files/f2
+ --backup=none -b -n files/f1 files/f2
+ --backup=none -b -P files/f1 files/f2
+ --backup=none -b -r files/f1 files/f2
+ --backup=none -b -s files/f1 files/f2
+ --backup=none -b -S x files/f1 files/f2
+ --backup=none -b -t files files/f1 files/f2
+ --backup=none -b -T files/f1 files/f2
+ --backup=none -b -v files/f1 files/f2
+ --backup=none -b --help files/f1 files/f2
+ --backup=none -b --version files/f1 files/f2
+ --backup=none -d -f files/f1 files/f2
+ --backup=none -d -i files/f1 files/f2
+ --backup=none -d -L files/f1 files/f2
+ --backup=none -d -n files/f1 files/f2
+ --backup=none -d -P files/f1 files/f2
+ --backup=none -d -r files/f1 files/f2
+ --backup=none -d -s files/f1 files/f2
+ --backup=none -d -S x files/f1 files/f2
+ --backup=none -d -t files files/f1 files/f2
+ --backup=none -d -T files/f1 files/f2
+ --backup=none -d -v files/f1 files/f2
+ --backup=none -d --help files/f1 files/f2
+ --backup=none -d --version files/f1 files/f2
+ --backup=none -f -i files/f1 files/f2
+ --backup=none -f -L files/f1 files/f2
+ --backup=none -f -n files/f1 files/f2
+ --backup=none -f -P files/f1 files/f2
+ --backup=none -f -r files/f1 files/f2
+ --backup=none -f -s files/f1 files/f2
+ --backup=none -f -S x files/f1 files/f2
+ --backup=none -f -t files files/f1 files/f2
+ --backup=none -f -T files/f1 files/f2
+ --backup=none -f -v files/f1 files/f2
+ --backup=none -f --help files/f1 files/f2
+ --backup=none -f --version files/f1 files/f2
+ --backup=none -i -L files/f1 files/f2
+ --backup=none -i -n files/f1 files/f2
+ --backup=none -i -P files/f1 files/f2
+ --backup=none -i -r files/f1 files/f2
+ --backup=none -i -s files/f1 files/f2
+ --backup=none -i -S x files/f1 files/f2
+ --backup=none -i -t files files/f1 files/f2
+ --backup=none -i -T files/f1 files/f2
+ --backup=none -i -v files/f1 files/f2
+ --backup=none -i --help files/f1 files/f2
+ --backup=none -i --version files/f1 files/f2
+ --backup=none -L -n files/f1 files/f2
+ --backup=none -L -P files/f1 files/f2
+ --backup=none -L -r files/f1 files/f2
+ --backup=none -L -s files/f1 files/f2
+ --backup=none -L -S x files/f1 files/f2
+ --backup=none -L -t files files/f1 files/f2
+ --backup=none -L -T files/f1 files/f2
+ --backup=none -L -v files/f1 files/f2
+ --backup=none -L --help files/f1 files/f2
+ --backup=none -L --version files/f1 files/f2
+ --backup=none -n -P files/f1 files/f2
+ --backup=none -n -r files/f1 files/f2
+ --backup=none -n -s files/f1 files/f2
+ --backup=none -n -S x files/f1 files/f2
+ --backup=none -n -t files files/f1 files/f2
+ --backup=none -n -T files/f1 files/f2
+ --backup=none -n -v files/f1 files/f2
+ --backup=none -n --help files/f1 files/f2
+ --backup=none -n --version files/f1 files/f2
+ --backup=none -P -r files/f1 files/f2
+ --backup=none -P -s files/f1 files/f2
+ --backup=none -P -S x files/f1 files/f2
+ --backup=none -P -t files files/f1 files/f2
+ --backup=none -P -T files/f1 files/f2
+ --backup=none -P -v files/f1 files/f2
+ --backup=none -P --help files/f1 files/f2
+ --backup=none -P --version files/f1 files/f2
+ --backup=none -r -s files/f1 files/f2
+ --backup=none -r -S x files/f1 files/f2
+ --backup=none -r -t files files/f1 files/f2
+ --backup=none -r -T files/f1 files/f2
+ --backup=none -r -v files/f1 files/f2
+ --backup=none -r --help files/f1 files/f2
+ --backup=none -r --version files/f1 files/f2
+ --backup=none -s -S x files/f1 files/f2
+ --backup=none -s -t files files/f1 files/f2
+ --backup=none -s -T files/f1 files/f2
+ --backup=none -s -v files/f1 files/f2
+ --backup=none -s --help files/f1 files/f2
+ --backup=none -s --version files/f1 files/f2
+ --backup=none -S x -t files files/f1 files/f2
+ --backup=none -S x -T files/f1 files/f2
+ --backup=none -S x -v files/f1 files/f2
+ --backup=none -S x --help files/f1 files/f2
+ --backup=none -S x --version files/f1 files/f2
+ --backup=none -t files -T files/f1 files/f2
+ --backup=none -t files -v files/f1 files/f2
+ --backup=none -t files --help files/f1 files/f2
+ --backup=none -t files --version files/f1 files/f2
+ --backup=none -T -v files/f1 files/f2
+ --backup=none -T --help files/f1 files/f2
+ --backup=none -T --version files/f1 files/f2
+ --backup=none -v --help files/f1 files/f2
+ --backup=none -v --version files/f1 files/f2
+ --backup=none --help --version files/f1 files/f2
+ --backup=off --backup=simple --backup=never files/f1 files/f2
+ --backup=off --backup=simple --backup=existing files/f1 files/f2
+ --backup=off --backup=simple --backup=nil files/f1 files/f2
+ --backup=off --backup=simple --backup=numbered files/f1 files/f2
+ --backup=off --backup=simple --backup=t files/f1 files/f2
+ --backup=off --backup=simple -b files/f1 files/f2
+ --backup=off --backup=simple -d files/f1 files/f2
+ --backup=off --backup=simple -f files/f1 files/f2
+ --backup=off --backup=simple -i files/f1 files/f2
+ --backup=off --backup=simple -L files/f1 files/f2
+ --backup=off --backup=simple -n files/f1 files/f2
+ --backup=off --backup=simple -P files/f1 files/f2
+ --backup=off --backup=simple -r files/f1 files/f2
+ --backup=off --backup=simple -s files/f1 files/f2
+ --backup=off --backup=simple -S x files/f1 files/f2
+ --backup=off --backup=simple -t files files/f1 files/f2
+ --backup=off --backup=simple -T files/f1 files/f2
+ --backup=off --backup=simple -v files/f1 files/f2
+ --backup=off --backup=simple --help files/f1 files/f2
+ --backup=off --backup=simple --version files/f1 files/f2
+ --backup=off --backup=never --backup=existing files/f1 files/f2
+ --backup=off --backup=never --backup=nil files/f1 files/f2
+ --backup=off --backup=never --backup=numbered files/f1 files/f2
+ --backup=off --backup=never --backup=t files/f1 files/f2
+ --backup=off --backup=never -b files/f1 files/f2
+ --backup=off --backup=never -d files/f1 files/f2
+ --backup=off --backup=never -f files/f1 files/f2
+ --backup=off --backup=never -i files/f1 files/f2
+ --backup=off --backup=never -L files/f1 files/f2
+ --backup=off --backup=never -n files/f1 files/f2
+ --backup=off --backup=never -P files/f1 files/f2
+ --backup=off --backup=never -r files/f1 files/f2
+ --backup=off --backup=never -s files/f1 files/f2
+ --backup=off --backup=never -S x files/f1 files/f2
+ --backup=off --backup=never -t files files/f1 files/f2
+ --backup=off --backup=never -T files/f1 files/f2
+ --backup=off --backup=never -v files/f1 files/f2
+ --backup=off --backup=never --help files/f1 files/f2
+ --backup=off --backup=never --version files/f1 files/f2
+ --backup=off --backup=existing --backup=nil files/f1 files/f2
+ --backup=off --backup=existing --backup=numbered files/f1 files/f2
+ --backup=off --backup=existing --backup=t files/f1 files/f2
+ --backup=off --backup=existing -b files/f1 files/f2
+ --backup=off --backup=existing -d files/f1 files/f2
+ --backup=off --backup=existing -f files/f1 files/f2
+ --backup=off --backup=existing -i files/f1 files/f2
+ --backup=off --backup=existing -L files/f1 files/f2
+ --backup=off --backup=existing -n files/f1 files/f2
+ --backup=off --backup=existing -P files/f1 files/f2
+ --backup=off --backup=existing -r files/f1 files/f2
+ --backup=off --backup=existing -s files/f1 files/f2
+ --backup=off --backup=existing -S x files/f1 files/f2
+ --backup=off --backup=existing -t files files/f1 files/f2
+ --backup=off --backup=existing -T files/f1 files/f2
+ --backup=off --backup=existing -v files/f1 files/f2
+ --backup=off --backup=existing --help files/f1 files/f2
+ --backup=off --backup=existing --version files/f1 files/f2
+ --backup=off --backup=nil --backup=numbered files/f1 files/f2
+ --backup=off --backup=nil --backup=t files/f1 files/f2
+ --backup=off --backup=nil -b files/f1 files/f2
+ --backup=off --backup=nil -d files/f1 files/f2
+ --backup=off --backup=nil -f files/f1 files/f2
+ --backup=off --backup=nil -i files/f1 files/f2
+ --backup=off --backup=nil -L files/f1 files/f2
+ --backup=off --backup=nil -n files/f1 files/f2
+ --backup=off --backup=nil -P files/f1 files/f2
+ --backup=off --backup=nil -r files/f1 files/f2
+ --backup=off --backup=nil -s files/f1 files/f2
+ --backup=off --backup=nil -S x files/f1 files/f2
+ --backup=off --backup=nil -t files files/f1 files/f2
+ --backup=off --backup=nil -T files/f1 files/f2
+ --backup=off --backup=nil -v files/f1 files/f2
+ --backup=off --backup=nil --help files/f1 files/f2
+ --backup=off --backup=nil --version files/f1 files/f2
+ --backup=off --backup=numbered --backup=t files/f1 files/f2
+ --backup=off --backup=numbered -b files/f1 files/f2
+ --backup=off --backup=numbered -d files/f1 files/f2
+ --backup=off --backup=numbered -f files/f1 files/f2
+ --backup=off --backup=numbered -i files/f1 files/f2
+ --backup=off --backup=numbered -L files/f1 files/f2
+ --backup=off --backup=numbered -n files/f1 files/f2
+ --backup=off --backup=numbered -P files/f1 files/f2
+ --backup=off --backup=numbered -r files/f1 files/f2
+ --backup=off --backup=numbered -s files/f1 files/f2
+ --backup=off --backup=numbered -S x files/f1 files/f2
+ --backup=off --backup=numbered -t files files/f1 files/f2
+ --backup=off --backup=numbered -T files/f1 files/f2
+ --backup=off --backup=numbered -v files/f1 files/f2
+ --backup=off --backup=numbered --help files/f1 files/f2
+ --backup=off --backup=numbered --version files/f1 files/f2
+ --backup=off --backup=t -b files/f1 files/f2
+ --backup=off --backup=t -d files/f1 files/f2
+ --backup=off --backup=t -f files/f1 files/f2
+ --backup=off --backup=t -i files/f1 files/f2
+ --backup=off --backup=t -L files/f1 files/f2
+ --backup=off --backup=t -n files/f1 files/f2
+ --backup=off --backup=t -P files/f1 files/f2
+ --backup=off --backup=t -r files/f1 files/f2
+ --backup=off --backup=t -s files/f1 files/f2
+ --backup=off --backup=t -S x files/f1 files/f2
+ --backup=off --backup=t -t files files/f1 files/f2
+ --backup=off --backup=t -T files/f1 files/f2
+ --backup=off --backup=t -v files/f1 files/f2
+ --backup=off --backup=t --help files/f1 files/f2
+ --backup=off --backup=t --version files/f1 files/f2
+ --backup=off -b -d files/f1 files/f2
+ --backup=off -b -f files/f1 files/f2
+ --backup=off -b -i files/f1 files/f2
+ --backup=off -b -L files/f1 files/f2
+ --backup=off -b -n files/f1 files/f2
+ --backup=off -b -P files/f1 files/f2
+ --backup=off -b -r files/f1 files/f2
+ --backup=off -b -s files/f1 files/f2
+ --backup=off -b -S x files/f1 files/f2
+ --backup=off -b -t files files/f1 files/f2
+ --backup=off -b -T files/f1 files/f2
+ --backup=off -b -v files/f1 files/f2
+ --backup=off -b --help files/f1 files/f2
+ --backup=off -b --version files/f1 files/f2
+ --backup=off -d -f files/f1 files/f2
+ --backup=off -d -i files/f1 files/f2
+ --backup=off -d -L files/f1 files/f2
+ --backup=off -d -n files/f1 files/f2
+ --backup=off -d -P files/f1 files/f2
+ --backup=off -d -r files/f1 files/f2
+ --backup=off -d -s files/f1 files/f2
+ --backup=off -d -S x files/f1 files/f2
+ --backup=off -d -t files files/f1 files/f2
+ --backup=off -d -T files/f1 files/f2
+ --backup=off -d -v files/f1 files/f2
+ --backup=off -d --help files/f1 files/f2
+ --backup=off -d --version files/f1 files/f2
+ --backup=off -f -i files/f1 files/f2
+ --backup=off -f -L files/f1 files/f2
+ --backup=off -f -n files/f1 files/f2
+ --backup=off -f -P files/f1 files/f2
+ --backup=off -f -r files/f1 files/f2
+ --backup=off -f -s files/f1 files/f2
+ --backup=off -f -S x files/f1 files/f2
+ --backup=off -f -t files files/f1 files/f2
+ --backup=off -f -T files/f1 files/f2
+ --backup=off -f -v files/f1 files/f2
+ --backup=off -f --help files/f1 files/f2
+ --backup=off -f --version files/f1 files/f2
+ --backup=off -i -L files/f1 files/f2
+ --backup=off -i -n files/f1 files/f2
+ --backup=off -i -P files/f1 files/f2
+ --backup=off -i -r files/f1 files/f2
+ --backup=off -i -s files/f1 files/f2
+ --backup=off -i -S x files/f1 files/f2
+ --backup=off -i -t files files/f1 files/f2
+ --backup=off -i -T files/f1 files/f2
+ --backup=off -i -v files/f1 files/f2
+ --backup=off -i --help files/f1 files/f2
+ --backup=off -i --version files/f1 files/f2
+ --backup=off -L -n files/f1 files/f2
+ --backup=off -L -P files/f1 files/f2
+ --backup=off -L -r files/f1 files/f2
+ --backup=off -L -s files/f1 files/f2
+ --backup=off -L -S x files/f1 files/f2
+ --backup=off -L -t files files/f1 files/f2
+ --backup=off -L -T files/f1 files/f2
+ --backup=off -L -v files/f1 files/f2
+ --backup=off -L --help files/f1 files/f2
+ --backup=off -L --version files/f1 files/f2
+ --backup=off -n -P files/f1 files/f2
+ --backup=off -n -r files/f1 files/f2
+ --backup=off -n -s files/f1 files/f2
+ --backup=off -n -S x files/f1 files/f2
+ --backup=off -n -t files files/f1 files/f2
+ --backup=off -n -T files/f1 files/f2
+ --backup=off -n -v files/f1 files/f2
+ --backup=off -n --help files/f1 files/f2
+ --backup=off -n --version files/f1 files/f2
+ --backup=off -P -r files/f1 files/f2
+ --backup=off -P -s files/f1 files/f2
+ --backup=off -P -S x files/f1 files/f2
+ --backup=off -P -t files files/f1 files/f2
+ --backup=off -P -T files/f1 files/f2
+ --backup=off -P -v files/f1 files/f2
+ --backup=off -P --help files/f1 files/f2
+ --backup=off -P --version files/f1 files/f2
+ --backup=off -r -s files/f1 files/f2
+ --backup=off -r -S x files/f1 files/f2
+ --backup=off -r -t files files/f1 files/f2
+ --backup=off -r -T files/f1 files/f2
+ --backup=off -r -v files/f1 files/f2
+ --backup=off -r --help files/f1 files/f2
+ --backup=off -r --version files/f1 files/f2
+ --backup=off -s -S x files/f1 files/f2
+ --backup=off -s -t files files/f1 files/f2
+ --backup=off -s -T files/f1 files/f2
+ --backup=off -s -v files/f1 files/f2
+ --backup=off -s --help files/f1 files/f2
+ --backup=off -s --version files/f1 files/f2
+ --backup=off -S x -t files files/f1 files/f2
+ --backup=off -S x -T files/f1 files/f2
+ --backup=off -S x -v files/f1 files/f2
+ --backup=off -S x --help files/f1 files/f2
+ --backup=off -S x --version files/f1 files/f2
+ --backup=off -t files -T files/f1 files/f2
+ --backup=off -t files -v files/f1 files/f2
+ --backup=off -t files --help files/f1 files/f2
+ --backup=off -t files --version files/f1 files/f2
+ --backup=off -T -v files/f1 files/f2
+ --backup=off -T --help files/f1 files/f2
+ --backup=off -T --version files/f1 files/f2
+ --backup=off -v --help files/f1 files/f2
+ --backup=off -v --version files/f1 files/f2
+ --backup=off --help --version files/f1 files/f2
+ --backup=simple --backup=never --backup=existing files/f1 files/f2
+ --backup=simple --backup=never --backup=nil files/f1 files/f2
+ --backup=simple --backup=never --backup=numbered files/f1 files/f2
+ --backup=simple --backup=never --backup=t files/f1 files/f2
+ --backup=simple --backup=never -b files/f1 files/f2
+ --backup=simple --backup=never -d files/f1 files/f2
+ --backup=simple --backup=never -f files/f1 files/f2
+ --backup=simple --backup=never -i files/f1 files/f2
+ --backup=simple --backup=never -L files/f1 files/f2
+ --backup=simple --backup=never -n files/f1 files/f2
+ --backup=simple --backup=never -P files/f1 files/f2
+ --backup=simple --backup=never -r files/f1 files/f2
+ --backup=simple --backup=never -s files/f1 files/f2
+ --backup=simple --backup=never -S x files/f1 files/f2
+ --backup=simple --backup=never -t files files/f1 files/f2
+ --backup=simple --backup=never -T files/f1 files/f2
+ --backup=simple --backup=never -v files/f1 files/f2
+ --backup=simple --backup=never --help files/f1 files/f2
+ --backup=simple --backup=never --version files/f1 files/f2
+ --backup=simple --backup=existing --backup=nil files/f1 files/f2
+ --backup=simple --backup=existing --backup=numbered files/f1 files/f2
+ --backup=simple --backup=existing --backup=t files/f1 files/f2
+ --backup=simple --backup=existing -b files/f1 files/f2
+ --backup=simple --backup=existing -d files/f1 files/f2
+ --backup=simple --backup=existing -f files/f1 files/f2
+ --backup=simple --backup=existing -i files/f1 files/f2
+ --backup=simple --backup=existing -L files/f1 files/f2
+ --backup=simple --backup=existing -n files/f1 files/f2
+ --backup=simple --backup=existing -P files/f1 files/f2
+ --backup=simple --backup=existing -r files/f1 files/f2
+ --backup=simple --backup=existing -s files/f1 files/f2
+ --backup=simple --backup=existing -S x files/f1 files/f2
+ --backup=simple --backup=existing -t files files/f1 files/f2
+ --backup=simple --backup=existing -T files/f1 files/f2
+ --backup=simple --backup=existing -v files/f1 files/f2
+ --backup=simple --backup=existing --help files/f1 files/f2
+ --backup=simple --backup=existing --version files/f1 files/f2
+ --backup=simple --backup=nil --backup=numbered files/f1 files/f2
+ --backup=simple --backup=nil --backup=t files/f1 files/f2
+ --backup=simple --backup=nil -b files/f1 files/f2
+ --backup=simple --backup=nil -d files/f1 files/f2
+ --backup=simple --backup=nil -f files/f1 files/f2
+ --backup=simple --backup=nil -i files/f1 files/f2
+ --backup=simple --backup=nil -L files/f1 files/f2
+ --backup=simple --backup=nil -n files/f1 files/f2
+ --backup=simple --backup=nil -P files/f1 files/f2
+ --backup=simple --backup=nil -r files/f1 files/f2
+ --backup=simple --backup=nil -s files/f1 files/f2
+ --backup=simple --backup=nil -S x files/f1 files/f2
+ --backup=simple --backup=nil -t files files/f1 files/f2
+ --backup=simple --backup=nil -T files/f1 files/f2
+ --backup=simple --backup=nil -v files/f1 files/f2
+ --backup=simple --backup=nil --help files/f1 files/f2
+ --backup=simple --backup=nil --version files/f1 files/f2
+ --backup=simple --backup=numbered --backup=t files/f1 files/f2
+ --backup=simple --backup=numbered -b files/f1 files/f2
+ --backup=simple --backup=numbered -d files/f1 files/f2
+ --backup=simple --backup=numbered -f files/f1 files/f2
+ --backup=simple --backup=numbered -i files/f1 files/f2
+ --backup=simple --backup=numbered -L files/f1 files/f2
+ --backup=simple --backup=numbered -n files/f1 files/f2
+ --backup=simple --backup=numbered -P files/f1 files/f2
+ --backup=simple --backup=numbered -r files/f1 files/f2
+ --backup=simple --backup=numbered -s files/f1 files/f2
+ --backup=simple --backup=numbered -S x files/f1 files/f2
+ --backup=simple --backup=numbered -t files files/f1 files/f2
+ --backup=simple --backup=numbered -T files/f1 files/f2
+ --backup=simple --backup=numbered -v files/f1 files/f2
+ --backup=simple --backup=numbered --help files/f1 files/f2
+ --backup=simple --backup=numbered --version files/f1 files/f2
+ --backup=simple --backup=t -b files/f1 files/f2
+ --backup=simple --backup=t -d files/f1 files/f2
+ --backup=simple --backup=t -f files/f1 files/f2
+ --backup=simple --backup=t -i files/f1 files/f2
+ --backup=simple --backup=t -L files/f1 files/f2
+ --backup=simple --backup=t -n files/f1 files/f2
+ --backup=simple --backup=t -P files/f1 files/f2
+ --backup=simple --backup=t -r files/f1 files/f2
+ --backup=simple --backup=t -s files/f1 files/f2
+ --backup=simple --backup=t -S x files/f1 files/f2
+ --backup=simple --backup=t -t files files/f1 files/f2
+ --backup=simple --backup=t -T files/f1 files/f2
+ --backup=simple --backup=t -v files/f1 files/f2
+ --backup=simple --backup=t --help files/f1 files/f2
+ --backup=simple --backup=t --version files/f1 files/f2
+ --backup=simple -b -d files/f1 files/f2
+ --backup=simple -b -f files/f1 files/f2
+ --backup=simple -b -i files/f1 files/f2
+ --backup=simple -b -L files/f1 files/f2
+ --backup=simple -b -n files/f1 files/f2
+ --backup=simple -b -P files/f1 files/f2
+ --backup=simple -b -r files/f1 files/f2
+ --backup=simple -b -s files/f1 files/f2
+ --backup=simple -b -S x files/f1 files/f2
+ --backup=simple -b -t files files/f1 files/f2
+ --backup=simple -b -T files/f1 files/f2
+ --backup=simple -b -v files/f1 files/f2
+ --backup=simple -b --help files/f1 files/f2
+ --backup=simple -b --version files/f1 files/f2
+ --backup=simple -d -f files/f1 files/f2
+ --backup=simple -d -i files/f1 files/f2
+ --backup=simple -d -L files/f1 files/f2
+ --backup=simple -d -n files/f1 files/f2
+ --backup=simple -d -P files/f1 files/f2
+ --backup=simple -d -r files/f1 files/f2
+ --backup=simple -d -s files/f1 files/f2
+ --backup=simple -d -S x files/f1 files/f2
+ --backup=simple -d -t files files/f1 files/f2
+ --backup=simple -d -T files/f1 files/f2
+ --backup=simple -d -v files/f1 files/f2
+ --backup=simple -d --help files/f1 files/f2
+ --backup=simple -d --version files/f1 files/f2
+ --backup=simple -f -i files/f1 files/f2
+ --backup=simple -f -L files/f1 files/f2
+ --backup=simple -f -n files/f1 files/f2
+ --backup=simple -f -P files/f1 files/f2
+ --backup=simple -f -r files/f1 files/f2
+ --backup=simple -f -s files/f1 files/f2
+ --backup=simple -f -S x files/f1 files/f2
+ --backup=simple -f -t files files/f1 files/f2
+ --backup=simple -f -T files/f1 files/f2
+ --backup=simple -f -v files/f1 files/f2
+ --backup=simple -f --help files/f1 files/f2
+ --backup=simple -f --version files/f1 files/f2
+ --backup=simple -i -L files/f1 files/f2
+ --backup=simple -i -n files/f1 files/f2
+ --backup=simple -i -P files/f1 files/f2
+ --backup=simple -i -r files/f1 files/f2
+ --backup=simple -i -s files/f1 files/f2
+ --backup=simple -i -S x files/f1 files/f2
+ --backup=simple -i -t files files/f1 files/f2
+ --backup=simple -i -T files/f1 files/f2
+ --backup=simple -i -v files/f1 files/f2
+ --backup=simple -i --help files/f1 files/f2
+ --backup=simple -i --version files/f1 files/f2
+ --backup=simple -L -n files/f1 files/f2
+ --backup=simple -L -P files/f1 files/f2
+ --backup=simple -L -r files/f1 files/f2
+ --backup=simple -L -s files/f1 files/f2
+ --backup=simple -L -S x files/f1 files/f2
+ --backup=simple -L -t files files/f1 files/f2
+ --backup=simple -L -T files/f1 files/f2
+ --backup=simple -L -v files/f1 files/f2
+ --backup=simple -L --help files/f1 files/f2
+ --backup=simple -L --version files/f1 files/f2
+ --backup=simple -n -P files/f1 files/f2
+ --backup=simple -n -r files/f1 files/f2
+ --backup=simple -n -s files/f1 files/f2
+ --backup=simple -n -S x files/f1 files/f2
+ --backup=simple -n -t files files/f1 files/f2
+ --backup=simple -n -T files/f1 files/f2
+ --backup=simple -n -v files/f1 files/f2
+ --backup=simple -n --help files/f1 files/f2
+ --backup=simple -n --version files/f1 files/f2
+ --backup=simple -P -r files/f1 files/f2
+ --backup=simple -P -s files/f1 files/f2
+ --backup=simple -P -S x files/f1 files/f2
+ --backup=simple -P -t files files/f1 files/f2
+ --backup=simple -P -T files/f1 files/f2
+ --backup=simple -P -v files/f1 files/f2
+ --backup=simple -P --help files/f1 files/f2
+ --backup=simple -P --version files/f1 files/f2
+ --backup=simple -r -s files/f1 files/f2
+ --backup=simple -r -S x files/f1 files/f2
+ --backup=simple -r -t files files/f1 files/f2
+ --backup=simple -r -T files/f1 files/f2
+ --backup=simple -r -v files/f1 files/f2
+ --backup=simple -r --help files/f1 files/f2
+ --backup=simple -r --version files/f1 files/f2
+ --backup=simple -s -S x files/f1 files/f2
+ --backup=simple -s -t files files/f1 files/f2
+ --backup=simple -s -T files/f1 files/f2
+ --backup=simple -s -v files/f1 files/f2
+ --backup=simple -s --help files/f1 files/f2
+ --backup=simple -s --version files/f1 files/f2
+ --backup=simple -S x -t files files/f1 files/f2
+ --backup=simple -S x -T files/f1 files/f2
+ --backup=simple -S x -v files/f1 files/f2
+ --backup=simple -S x --help files/f1 files/f2
+ --backup=simple -S x --version files/f1 files/f2
+ --backup=simple -t files -T files/f1 files/f2
+ --backup=simple -t files -v files/f1 files/f2
+ --backup=simple -t files --help files/f1 files/f2
+ --backup=simple -t files --version files/f1 files/f2
+ --backup=simple -T -v files/f1 files/f2
+ --backup=simple -T --help files/f1 files/f2
+ --backup=simple -T --version files/f1 files/f2
+ --backup=simple -v --help files/f1 files/f2
+ --backup=simple -v --version files/f1 files/f2
+ --backup=simple --help --version files/f1 files/f2
+ --backup=never --backup=existing --backup=nil files/f1 files/f2
+ --backup=never --backup=existing --backup=numbered files/f1 files/f2
+ --backup=never --backup=existing --backup=t files/f1 files/f2
+ --backup=never --backup=existing -b files/f1 files/f2
+ --backup=never --backup=existing -d files/f1 files/f2
+ --backup=never --backup=existing -f files/f1 files/f2
+ --backup=never --backup=existing -i files/f1 files/f2
+ --backup=never --backup=existing -L files/f1 files/f2
+ --backup=never --backup=existing -n files/f1 files/f2
+ --backup=never --backup=existing -P files/f1 files/f2
+ --backup=never --backup=existing -r files/f1 files/f2
+ --backup=never --backup=existing -s files/f1 files/f2
+ --backup=never --backup=existing -S x files/f1 files/f2
+ --backup=never --backup=existing -t files files/f1 files/f2
+ --backup=never --backup=existing -T files/f1 files/f2
+ --backup=never --backup=existing -v files/f1 files/f2
+ --backup=never --backup=existing --help files/f1 files/f2
+ --backup=never --backup=existing --version files/f1 files/f2
+ --backup=never --backup=nil --backup=numbered files/f1 files/f2
+ --backup=never --backup=nil --backup=t files/f1 files/f2
+ --backup=never --backup=nil -b files/f1 files/f2
+ --backup=never --backup=nil -d files/f1 files/f2
+ --backup=never --backup=nil -f files/f1 files/f2
+ --backup=never --backup=nil -i files/f1 files/f2
+ --backup=never --backup=nil -L files/f1 files/f2
+ --backup=never --backup=nil -n files/f1 files/f2
+ --backup=never --backup=nil -P files/f1 files/f2
+ --backup=never --backup=nil -r files/f1 files/f2
+ --backup=never --backup=nil -s files/f1 files/f2
+ --backup=never --backup=nil -S x files/f1 files/f2
+ --backup=never --backup=nil -t files files/f1 files/f2
+ --backup=never --backup=nil -T files/f1 files/f2
+ --backup=never --backup=nil -v files/f1 files/f2
+ --backup=never --backup=nil --help files/f1 files/f2
+ --backup=never --backup=nil --version files/f1 files/f2
+ --backup=never --backup=numbered --backup=t files/f1 files/f2
+ --backup=never --backup=numbered -b files/f1 files/f2
+ --backup=never --backup=numbered -d files/f1 files/f2
+ --backup=never --backup=numbered -f files/f1 files/f2
+ --backup=never --backup=numbered -i files/f1 files/f2
+ --backup=never --backup=numbered -L files/f1 files/f2
+ --backup=never --backup=numbered -n files/f1 files/f2
+ --backup=never --backup=numbered -P files/f1 files/f2
+ --backup=never --backup=numbered -r files/f1 files/f2
+ --backup=never --backup=numbered -s files/f1 files/f2
+ --backup=never --backup=numbered -S x files/f1 files/f2
+ --backup=never --backup=numbered -t files files/f1 files/f2
+ --backup=never --backup=numbered -T files/f1 files/f2
+ --backup=never --backup=numbered -v files/f1 files/f2
+ --backup=never --backup=numbered --help files/f1 files/f2
+ --backup=never --backup=numbered --version files/f1 files/f2
+ --backup=never --backup=t -b files/f1 files/f2
+ --backup=never --backup=t -d files/f1 files/f2
+ --backup=never --backup=t -f files/f1 files/f2
+ --backup=never --backup=t -i files/f1 files/f2
+ --backup=never --backup=t -L files/f1 files/f2
+ --backup=never --backup=t -n files/f1 files/f2
+ --backup=never --backup=t -P files/f1 files/f2
+ --backup=never --backup=t -r files/f1 files/f2
+ --backup=never --backup=t -s files/f1 files/f2
+ --backup=never --backup=t -S x files/f1 files/f2
+ --backup=never --backup=t -t files files/f1 files/f2
+ --backup=never --backup=t -T files/f1 files/f2
+ --backup=never --backup=t -v files/f1 files/f2
+ --backup=never --backup=t --help files/f1 files/f2
+ --backup=never --backup=t --version files/f1 files/f2
+ --backup=never -b -d files/f1 files/f2
+ --backup=never -b -f files/f1 files/f2
+ --backup=never -b -i files/f1 files/f2
+ --backup=never -b -L files/f1 files/f2
+ --backup=never -b -n files/f1 files/f2
+ --backup=never -b -P files/f1 files/f2
+ --backup=never -b -r files/f1 files/f2
+ --backup=never -b -s files/f1 files/f2
+ --backup=never -b -S x files/f1 files/f2
+ --backup=never -b -t files files/f1 files/f2
+ --backup=never -b -T files/f1 files/f2
+ --backup=never -b -v files/f1 files/f2
+ --backup=never -b --help files/f1 files/f2
+ --backup=never -b --version files/f1 files/f2
+ --backup=never -d -f files/f1 files/f2
+ --backup=never -d -i files/f1 files/f2
+ --backup=never -d -L files/f1 files/f2
+ --backup=never -d -n files/f1 files/f2
+ --backup=never -d -P files/f1 files/f2
+ --backup=never -d -r files/f1 files/f2
+ --backup=never -d -s files/f1 files/f2
+ --backup=never -d -S x files/f1 files/f2
+ --backup=never -d -t files files/f1 files/f2
+ --backup=never -d -T files/f1 files/f2
+ --backup=never -d -v files/f1 files/f2
+ --backup=never -d --help files/f1 files/f2
+ --backup=never -d --version files/f1 files/f2
+ --backup=never -f -i files/f1 files/f2
+ --backup=never -f -L files/f1 files/f2
+ --backup=never -f -n files/f1 files/f2
+ --backup=never -f -P files/f1 files/f2
+ --backup=never -f -r files/f1 files/f2
+ --backup=never -f -s files/f1 files/f2
+ --backup=never -f -S x files/f1 files/f2
+ --backup=never -f -t files files/f1 files/f2
+ --backup=never -f -T files/f1 files/f2
+ --backup=never -f -v files/f1 files/f2
+ --backup=never -f --help files/f1 files/f2
+ --backup=never -f --version files/f1 files/f2
+ --backup=never -i -L files/f1 files/f2
+ --backup=never -i -n files/f1 files/f2
+ --backup=never -i -P files/f1 files/f2
+ --backup=never -i -r files/f1 files/f2
+ --backup=never -i -s files/f1 files/f2
+ --backup=never -i -S x files/f1 files/f2
+ --backup=never -i -t files files/f1 files/f2
+ --backup=never -i -T files/f1 files/f2
+ --backup=never -i -v files/f1 files/f2
+ --backup=never -i --help files/f1 files/f2
+ --backup=never -i --version files/f1 files/f2
+ --backup=never -L -n files/f1 files/f2
+ --backup=never -L -P files/f1 files/f2
+ --backup=never -L -r files/f1 files/f2
+ --backup=never -L -s files/f1 files/f2
+ --backup=never -L -S x files/f1 files/f2
+ --backup=never -L -t files files/f1 files/f2
+ --backup=never -L -T files/f1 files/f2
+ --backup=never -L -v files/f1 files/f2
+ --backup=never -L --help files/f1 files/f2
+ --backup=never -L --version files/f1 files/f2
+ --backup=never -n -P files/f1 files/f2
+ --backup=never -n -r files/f1 files/f2
+ --backup=never -n -s files/f1 files/f2
+ --backup=never -n -S x files/f1 files/f2
+ --backup=never -n -t files files/f1 files/f2
+ --backup=never -n -T files/f1 files/f2
+ --backup=never -n -v files/f1 files/f2
+ --backup=never -n --help files/f1 files/f2
+ --backup=never -n --version files/f1 files/f2
+ --backup=never -P -r files/f1 files/f2
+ --backup=never -P -s files/f1 files/f2
+ --backup=never -P -S x files/f1 files/f2
+ --backup=never -P -t files files/f1 files/f2
+ --backup=never -P -T files/f1 files/f2
+ --backup=never -P -v files/f1 files/f2
+ --backup=never -P --help files/f1 files/f2
+ --backup=never -P --version files/f1 files/f2
+ --backup=never -r -s files/f1 files/f2
+ --backup=never -r -S x files/f1 files/f2
+ --backup=never -r -t files files/f1 files/f2
+ --backup=never -r -T files/f1 files/f2
+ --backup=never -r -v files/f1 files/f2
+ --backup=never -r --help files/f1 files/f2
+ --backup=never -r --version files/f1 files/f2
+ --backup=never -s -S x files/f1 files/f2
+ --backup=never -s -t files files/f1 files/f2
+ --backup=never -s -T files/f1 files/f2
+ --backup=never -s -v files/f1 files/f2
+ --backup=never -s --help files/f1 files/f2
+ --backup=never -s --version files/f1 files/f2
+ --backup=never -S x -t files files/f1 files/f2
+ --backup=never -S x -T files/f1 files/f2
+ --backup=never -S x -v files/f1 files/f2
+ --backup=never -S x --help files/f1 files/f2
+ --backup=never -S x --version files/f1 files/f2
+ --backup=never -t files -T files/f1 files/f2
+ --backup=never -t files -v files/f1 files/f2
+ --backup=never -t files --help files/f1 files/f2
+ --backup=never -t files --version files/f1 files/f2
+ --backup=never -T -v files/f1 files/f2
+ --backup=never -T --help files/f1 files/f2
+ --backup=never -T --version files/f1 files/f2
+ --backup=never -v --help files/f1 files/f2
+ --backup=never -v --version files/f1 files/f2
+ --backup=never --help --version files/f1 files/f2
+ --backup=existing --backup=nil --backup=numbered files/f1 files/f2
+ --backup=existing --backup=nil --backup=t files/f1 files/f2
+ --backup=existing --backup=nil -b files/f1 files/f2
+ --backup=existing --backup=nil -d files/f1 files/f2
+ --backup=existing --backup=nil -f files/f1 files/f2
+ --backup=existing --backup=nil -i files/f1 files/f2
+ --backup=existing --backup=nil -L files/f1 files/f2
+ --backup=existing --backup=nil -n files/f1 files/f2
+ --backup=existing --backup=nil -P files/f1 files/f2
+ --backup=existing --backup=nil -r files/f1 files/f2
+ --backup=existing --backup=nil -s files/f1 files/f2
+ --backup=existing --backup=nil -S x files/f1 files/f2
+ --backup=existing --backup=nil -t files files/f1 files/f2
+ --backup=existing --backup=nil -T files/f1 files/f2
+ --backup=existing --backup=nil -v files/f1 files/f2
+ --backup=existing --backup=nil --help files/f1 files/f2
+ --backup=existing --backup=nil --version files/f1 files/f2
+ --backup=existing --backup=numbered --backup=t files/f1 files/f2
+ --backup=existing --backup=numbered -b files/f1 files/f2
+ --backup=existing --backup=numbered -d files/f1 files/f2
+ --backup=existing --backup=numbered -f files/f1 files/f2
+ --backup=existing --backup=numbered -i files/f1 files/f2
+ --backup=existing --backup=numbered -L files/f1 files/f2
+ --backup=existing --backup=numbered -n files/f1 files/f2
+ --backup=existing --backup=numbered -P files/f1 files/f2
+ --backup=existing --backup=numbered -r files/f1 files/f2
+ --backup=existing --backup=numbered -s files/f1 files/f2
+ --backup=existing --backup=numbered -S x files/f1 files/f2
+ --backup=existing --backup=numbered -t files files/f1 files/f2
+ --backup=existing --backup=numbered -T files/f1 files/f2
+ --backup=existing --backup=numbered -v files/f1 files/f2
+ --backup=existing --backup=numbered --help files/f1 files/f2
+ --backup=existing --backup=numbered --version files/f1 files/f2
+ --backup=existing --backup=t -b files/f1 files/f2
+ --backup=existing --backup=t -d files/f1 files/f2
+ --backup=existing --backup=t -f files/f1 files/f2
+ --backup=existing --backup=t -i files/f1 files/f2
+ --backup=existing --backup=t -L files/f1 files/f2
+ --backup=existing --backup=t -n files/f1 files/f2
+ --backup=existing --backup=t -P files/f1 files/f2
+ --backup=existing --backup=t -r files/f1 files/f2
+ --backup=existing --backup=t -s files/f1 files/f2
+ --backup=existing --backup=t -S x files/f1 files/f2
+ --backup=existing --backup=t -t files files/f1 files/f2
+ --backup=existing --backup=t -T files/f1 files/f2
+ --backup=existing --backup=t -v files/f1 files/f2
+ --backup=existing --backup=t --help files/f1 files/f2
+ --backup=existing --backup=t --version files/f1 files/f2
+ --backup=existing -b -d files/f1 files/f2
+ --backup=existing -b -f files/f1 files/f2
+ --backup=existing -b -i files/f1 files/f2
+ --backup=existing -b -L files/f1 files/f2
+ --backup=existing -b -n files/f1 files/f2
+ --backup=existing -b -P files/f1 files/f2
+ --backup=existing -b -r files/f1 files/f2
+ --backup=existing -b -s files/f1 files/f2
+ --backup=existing -b -S x files/f1 files/f2
+ --backup=existing -b -t files files/f1 files/f2
+ --backup=existing -b -T files/f1 files/f2
+ --backup=existing -b -v files/f1 files/f2
+ --backup=existing -b --help files/f1 files/f2
+ --backup=existing -b --version files/f1 files/f2
+ --backup=existing -d -f files/f1 files/f2
+ --backup=existing -d -i files/f1 files/f2
+ --backup=existing -d -L files/f1 files/f2
+ --backup=existing -d -n files/f1 files/f2
+ --backup=existing -d -P files/f1 files/f2
+ --backup=existing -d -r files/f1 files/f2
+ --backup=existing -d -s files/f1 files/f2
+ --backup=existing -d -S x files/f1 files/f2
+ --backup=existing -d -t files files/f1 files/f2
+ --backup=existing -d -T files/f1 files/f2
+ --backup=existing -d -v files/f1 files/f2
+ --backup=existing -d --help files/f1 files/f2
+ --backup=existing -d --version files/f1 files/f2
+ --backup=existing -f -i files/f1 files/f2
+ --backup=existing -f -L files/f1 files/f2
+ --backup=existing -f -n files/f1 files/f2
+ --backup=existing -f -P files/f1 files/f2
+ --backup=existing -f -r files/f1 files/f2
+ --backup=existing -f -s files/f1 files/f2
+ --backup=existing -f -S x files/f1 files/f2
+ --backup=existing -f -t files files/f1 files/f2
+ --backup=existing -f -T files/f1 files/f2
+ --backup=existing -f -v files/f1 files/f2
+ --backup=existing -f --help files/f1 files/f2
+ --backup=existing -f --version files/f1 files/f2
+ --backup=existing -i -L files/f1 files/f2
+ --backup=existing -i -n files/f1 files/f2
+ --backup=existing -i -P files/f1 files/f2
+ --backup=existing -i -r files/f1 files/f2
+ --backup=existing -i -s files/f1 files/f2
+ --backup=existing -i -S x files/f1 files/f2
+ --backup=existing -i -t files files/f1 files/f2
+ --backup=existing -i -T files/f1 files/f2
+ --backup=existing -i -v files/f1 files/f2
+ --backup=existing -i --help files/f1 files/f2
+ --backup=existing -i --version files/f1 files/f2
+ --backup=existing -L -n files/f1 files/f2
+ --backup=existing -L -P files/f1 files/f2
+ --backup=existing -L -r files/f1 files/f2
+ --backup=existing -L -s files/f1 files/f2
+ --backup=existing -L -S x files/f1 files/f2
+ --backup=existing -L -t files files/f1 files/f2
+ --backup=existing -L -T files/f1 files/f2
+ --backup=existing -L -v files/f1 files/f2
+ --backup=existing -L --help files/f1 files/f2
+ --backup=existing -L --version files/f1 files/f2
+ --backup=existing -n -P files/f1 files/f2
+ --backup=existing -n -r files/f1 files/f2
+ --backup=existing -n -s files/f1 files/f2
+ --backup=existing -n -S x files/f1 files/f2
+ --backup=existing -n -t files files/f1 files/f2
+ --backup=existing -n -T files/f1 files/f2
+ --backup=existing -n -v files/f1 files/f2
+ --backup=existing -n --help files/f1 files/f2
+ --backup=existing -n --version files/f1 files/f2
+ --backup=existing -P -r files/f1 files/f2
+ --backup=existing -P -s files/f1 files/f2
+ --backup=existing -P -S x files/f1 files/f2
+ --backup=existing -P -t files files/f1 files/f2
+ --backup=existing -P -T files/f1 files/f2
+ --backup=existing -P -v files/f1 files/f2
+ --backup=existing -P --help files/f1 files/f2
+ --backup=existing -P --version files/f1 files/f2
+ --backup=existing -r -s files/f1 files/f2
+ --backup=existing -r -S x files/f1 files/f2
+ --backup=existing -r -t files files/f1 files/f2
+ --backup=existing -r -T files/f1 files/f2
+ --backup=existing -r -v files/f1 files/f2
+ --backup=existing -r --help files/f1 files/f2
+ --backup=existing -r --version files/f1 files/f2
+ --backup=existing -s -S x files/f1 files/f2
+ --backup=existing -s -t files files/f1 files/f2
+ --backup=existing -s -T files/f1 files/f2
+ --backup=existing -s -v files/f1 files/f2
+ --backup=existing -s --help files/f1 files/f2
+ --backup=existing -s --version files/f1 files/f2
+ --backup=existing -S x -t files files/f1 files/f2
+ --backup=existing -S x -T files/f1 files/f2
+ --backup=existing -S x -v files/f1 files/f2
+ --backup=existing -S x --help files/f1 files/f2
+ --backup=existing -S x --version files/f1 files/f2
+ --backup=existing -t files -T files/f1 files/f2
+ --backup=existing -t files -v files/f1 files/f2
+ --backup=existing -t files --help files/f1 files/f2
+ --backup=existing -t files --version files/f1 files/f2
+ --backup=existing -T -v files/f1 files/f2
+ --backup=existing -T --help files/f1 files/f2
+ --backup=existing -T --version files/f1 files/f2
+ --backup=existing -v --help files/f1 files/f2
+ --backup=existing -v --version files/f1 files/f2
+ --backup=existing --help --version files/f1 files/f2
+ --backup=nil --backup=numbered --backup=t files/f1 files/f2
+ --backup=nil --backup=numbered -b files/f1 files/f2
+ --backup=nil --backup=numbered -d files/f1 files/f2
+ --backup=nil --backup=numbered -f files/f1 files/f2
+ --backup=nil --backup=numbered -i files/f1 files/f2
+ --backup=nil --backup=numbered -L files/f1 files/f2
+ --backup=nil --backup=numbered -n files/f1 files/f2
+ --backup=nil --backup=numbered -P files/f1 files/f2
+ --backup=nil --backup=numbered -r files/f1 files/f2
+ --backup=nil --backup=numbered -s files/f1 files/f2
+ --backup=nil --backup=numbered -S x files/f1 files/f2
+ --backup=nil --backup=numbered -t files files/f1 files/f2
+ --backup=nil --backup=numbered -T files/f1 files/f2
+ --backup=nil --backup=numbered -v files/f1 files/f2
+ --backup=nil --backup=numbered --help files/f1 files/f2
+ --backup=nil --backup=numbered --version files/f1 files/f2
+ --backup=nil --backup=t -b files/f1 files/f2
+ --backup=nil --backup=t -d files/f1 files/f2
+ --backup=nil --backup=t -f files/f1 files/f2
+ --backup=nil --backup=t -i files/f1 files/f2
+ --backup=nil --backup=t -L files/f1 files/f2
+ --backup=nil --backup=t -n files/f1 files/f2
+ --backup=nil --backup=t -P files/f1 files/f2
+ --backup=nil --backup=t -r files/f1 files/f2
+ --backup=nil --backup=t -s files/f1 files/f2
+ --backup=nil --backup=t -S x files/f1 files/f2
+ --backup=nil --backup=t -t files files/f1 files/f2
+ --backup=nil --backup=t -T files/f1 files/f2
+ --backup=nil --backup=t -v files/f1 files/f2
+ --backup=nil --backup=t --help files/f1 files/f2
+ --backup=nil --backup=t --version files/f1 files/f2
+ --backup=nil -b -d files/f1 files/f2
+ --backup=nil -b -f files/f1 files/f2
+ --backup=nil -b -i files/f1 files/f2
+ --backup=nil -b -L files/f1 files/f2
+ --backup=nil -b -n files/f1 files/f2
+ --backup=nil -b -P files/f1 files/f2
+ --backup=nil -b -r files/f1 files/f2
+ --backup=nil -b -s files/f1 files/f2
+ --backup=nil -b -S x files/f1 files/f2
+ --backup=nil -b -t files files/f1 files/f2
+ --backup=nil -b -T files/f1 files/f2
+ --backup=nil -b -v files/f1 files/f2
+ --backup=nil -b --help files/f1 files/f2
+ --backup=nil -b --version files/f1 files/f2
+ --backup=nil -d -f files/f1 files/f2
+ --backup=nil -d -i files/f1 files/f2
+ --backup=nil -d -L files/f1 files/f2
+ --backup=nil -d -n files/f1 files/f2
+ --backup=nil -d -P files/f1 files/f2
+ --backup=nil -d -r files/f1 files/f2
+ --backup=nil -d -s files/f1 files/f2
+ --backup=nil -d -S x files/f1 files/f2
+ --backup=nil -d -t files files/f1 files/f2
+ --backup=nil -d -T files/f1 files/f2
+ --backup=nil -d -v files/f1 files/f2
+ --backup=nil -d --help files/f1 files/f2
+ --backup=nil -d --version files/f1 files/f2
+ --backup=nil -f -i files/f1 files/f2
+ --backup=nil -f -L files/f1 files/f2
+ --backup=nil -f -n files/f1 files/f2
+ --backup=nil -f -P files/f1 files/f2
+ --backup=nil -f -r files/f1 files/f2
+ --backup=nil -f -s files/f1 files/f2
+ --backup=nil -f -S x files/f1 files/f2
+ --backup=nil -f -t files files/f1 files/f2
+ --backup=nil -f -T files/f1 files/f2
+ --backup=nil -f -v files/f1 files/f2
+ --backup=nil -f --help files/f1 files/f2
+ --backup=nil -f --version files/f1 files/f2
+ --backup=nil -i -L files/f1 files/f2
+ --backup=nil -i -n files/f1 files/f2
+ --backup=nil -i -P files/f1 files/f2
+ --backup=nil -i -r files/f1 files/f2
+ --backup=nil -i -s files/f1 files/f2
+ --backup=nil -i -S x files/f1 files/f2
+ --backup=nil -i -t files files/f1 files/f2
+ --backup=nil -i -T files/f1 files/f2
+ --backup=nil -i -v files/f1 files/f2
+ --backup=nil -i --help files/f1 files/f2
+ --backup=nil -i --version files/f1 files/f2
+ --backup=nil -L -n files/f1 files/f2
+ --backup=nil -L -P files/f1 files/f2
+ --backup=nil -L -r files/f1 files/f2
+ --backup=nil -L -s files/f1 files/f2
+ --backup=nil -L -S x files/f1 files/f2
+ --backup=nil -L -t files files/f1 files/f2
+ --backup=nil -L -T files/f1 files/f2
+ --backup=nil -L -v files/f1 files/f2
+ --backup=nil -L --help files/f1 files/f2
+ --backup=nil -L --version files/f1 files/f2
+ --backup=nil -n -P files/f1 files/f2
+ --backup=nil -n -r files/f1 files/f2
+ --backup=nil -n -s files/f1 files/f2
+ --backup=nil -n -S x files/f1 files/f2
+ --backup=nil -n -t files files/f1 files/f2
+ --backup=nil -n -T files/f1 files/f2
+ --backup=nil -n -v files/f1 files/f2
+ --backup=nil -n --help files/f1 files/f2
+ --backup=nil -n --version files/f1 files/f2
+ --backup=nil -P -r files/f1 files/f2
+ --backup=nil -P -s files/f1 files/f2
+ --backup=nil -P -S x files/f1 files/f2
+ --backup=nil -P -t files files/f1 files/f2
+ --backup=nil -P -T files/f1 files/f2
+ --backup=nil -P -v files/f1 files/f2
+ --backup=nil -P --help files/f1 files/f2
+ --backup=nil -P --version files/f1 files/f2
+ --backup=nil -r -s files/f1 files/f2
+ --backup=nil -r -S x files/f1 files/f2
+ --backup=nil -r -t files files/f1 files/f2
+ --backup=nil -r -T files/f1 files/f2
+ --backup=nil -r -v files/f1 files/f2
+ --backup=nil -r --help files/f1 files/f2
+ --backup=nil -r --version files/f1 files/f2
+ --backup=nil -s -S x files/f1 files/f2
+ --backup=nil -s -t files files/f1 files/f2
+ --backup=nil -s -T files/f1 files/f2
+ --backup=nil -s -v files/f1 files/f2
+ --backup=nil -s --help files/f1 files/f2
+ --backup=nil -s --version files/f1 files/f2
+ --backup=nil -S x -t files files/f1 files/f2
+ --backup=nil -S x -T files/f1 files/f2
+ --backup=nil -S x -v files/f1 files/f2
+ --backup=nil -S x --help files/f1 files/f2
+ --backup=nil -S x --version files/f1 files/f2
+ --backup=nil -t files -T files/f1 files/f2
+ --backup=nil -t files -v files/f1 files/f2
+ --backup=nil -t files --help files/f1 files/f2
+ --backup=nil -t files --version files/f1 files/f2
+ --backup=nil -T -v files/f1 files/f2
+ --backup=nil -T --help files/f1 files/f2
+ --backup=nil -T --version files/f1 files/f2
+ --backup=nil -v --help files/f1 files/f2
+ --backup=nil -v --version files/f1 files/f2
+ --backup=nil --help --version files/f1 files/f2
+ --backup=numbered --backup=t -b files/f1 files/f2
+ --backup=numbered --backup=t -d files/f1 files/f2
+ --backup=numbered --backup=t -f files/f1 files/f2
+ --backup=numbered --backup=t -i files/f1 files/f2
+ --backup=numbered --backup=t -L files/f1 files/f2
+ --backup=numbered --backup=t -n files/f1 files/f2
+ --backup=numbered --backup=t -P files/f1 files/f2
+ --backup=numbered --backup=t -r files/f1 files/f2
+ --backup=numbered --backup=t -s files/f1 files/f2
+ --backup=numbered --backup=t -S x files/f1 files/f2
+ --backup=numbered --backup=t -t files files/f1 files/f2
+ --backup=numbered --backup=t -T files/f1 files/f2
+ --backup=numbered --backup=t -v files/f1 files/f2
+ --backup=numbered --backup=t --help files/f1 files/f2
+ --backup=numbered --backup=t --version files/f1 files/f2
+ --backup=numbered -b -d files/f1 files/f2
+ --backup=numbered -b -f files/f1 files/f2
+ --backup=numbered -b -i files/f1 files/f2
+ --backup=numbered -b -L files/f1 files/f2
+ --backup=numbered -b -n files/f1 files/f2
+ --backup=numbered -b -P files/f1 files/f2
+ --backup=numbered -b -r files/f1 files/f2
+ --backup=numbered -b -s files/f1 files/f2
+ --backup=numbered -b -S x files/f1 files/f2
+ --backup=numbered -b -t files files/f1 files/f2
+ --backup=numbered -b -T files/f1 files/f2
+ --backup=numbered -b -v files/f1 files/f2
+ --backup=numbered -b --help files/f1 files/f2
+ --backup=numbered -b --version files/f1 files/f2
+ --backup=numbered -d -f files/f1 files/f2
+ --backup=numbered -d -i files/f1 files/f2
+ --backup=numbered -d -L files/f1 files/f2
+ --backup=numbered -d -n files/f1 files/f2
+ --backup=numbered -d -P files/f1 files/f2
+ --backup=numbered -d -r files/f1 files/f2
+ --backup=numbered -d -s files/f1 files/f2
+ --backup=numbered -d -S x files/f1 files/f2
+ --backup=numbered -d -t files files/f1 files/f2
+ --backup=numbered -d -T files/f1 files/f2
+ --backup=numbered -d -v files/f1 files/f2
+ --backup=numbered -d --help files/f1 files/f2
+ --backup=numbered -d --version files/f1 files/f2
+ --backup=numbered -f -i files/f1 files/f2
+ --backup=numbered -f -L files/f1 files/f2
+ --backup=numbered -f -n files/f1 files/f2
+ --backup=numbered -f -P files/f1 files/f2
+ --backup=numbered -f -r files/f1 files/f2
+ --backup=numbered -f -s files/f1 files/f2
+ --backup=numbered -f -S x files/f1 files/f2
+ --backup=numbered -f -t files files/f1 files/f2
+ --backup=numbered -f -T files/f1 files/f2
+ --backup=numbered -f -v files/f1 files/f2
+ --backup=numbered -f --help files/f1 files/f2
+ --backup=numbered -f --version files/f1 files/f2
+ --backup=numbered -i -L files/f1 files/f2
+ --backup=numbered -i -n files/f1 files/f2
+ --backup=numbered -i -P files/f1 files/f2
+ --backup=numbered -i -r files/f1 files/f2
+ --backup=numbered -i -s files/f1 files/f2
+ --backup=numbered -i -S x files/f1 files/f2
+ --backup=numbered -i -t files files/f1 files/f2
+ --backup=numbered -i -T files/f1 files/f2
+ --backup=numbered -i -v files/f1 files/f2
+ --backup=numbered -i --help files/f1 files/f2
+ --backup=numbered -i --version files/f1 files/f2
+ --backup=numbered -L -n files/f1 files/f2
+ --backup=numbered -L -P files/f1 files/f2
+ --backup=numbered -L -r files/f1 files/f2
+ --backup=numbered -L -s files/f1 files/f2
+ --backup=numbered -L -S x files/f1 files/f2
+ --backup=numbered -L -t files files/f1 files/f2
+ --backup=numbered -L -T files/f1 files/f2
+ --backup=numbered -L -v files/f1 files/f2
+ --backup=numbered -L --help files/f1 files/f2
+ --backup=numbered -L --version files/f1 files/f2
+ --backup=numbered -n -P files/f1 files/f2
+ --backup=numbered -n -r files/f1 files/f2
+ --backup=numbered -n -s files/f1 files/f2
+ --backup=numbered -n -S x files/f1 files/f2
+ --backup=numbered -n -t files files/f1 files/f2
+ --backup=numbered -n -T files/f1 files/f2
+ --backup=numbered -n -v files/f1 files/f2
+ --backup=numbered -n --help files/f1 files/f2
+ --backup=numbered -n --version files/f1 files/f2
+ --backup=numbered -P -r files/f1 files/f2
+ --backup=numbered -P -s files/f1 files/f2
+ --backup=numbered -P -S x files/f1 files/f2
+ --backup=numbered -P -t files files/f1 files/f2
+ --backup=numbered -P -T files/f1 files/f2
+ --backup=numbered -P -v files/f1 files/f2
+ --backup=numbered -P --help files/f1 files/f2
+ --backup=numbered -P --version files/f1 files/f2
+ --backup=numbered -r -s files/f1 files/f2
+ --backup=numbered -r -S x files/f1 files/f2
+ --backup=numbered -r -t files files/f1 files/f2
+ --backup=numbered -r -T files/f1 files/f2
+ --backup=numbered -r -v files/f1 files/f2
+ --backup=numbered -r --help files/f1 files/f2
+ --backup=numbered -r --version files/f1 files/f2
+ --backup=numbered -s -S x files/f1 files/f2
+ --backup=numbered -s -t files files/f1 files/f2
+ --backup=numbered -s -T files/f1 files/f2
+ --backup=numbered -s -v files/f1 files/f2
+ --backup=numbered -s --help files/f1 files/f2
+ --backup=numbered -s --version files/f1 files/f2
+ --backup=numbered -S x -t files files/f1 files/f2
+ --backup=numbered -S x -T files/f1 files/f2
+ --backup=numbered -S x -v files/f1 files/f2
+ --backup=numbered -S x --help files/f1 files/f2
+ --backup=numbered -S x --version files/f1 files/f2
+ --backup=numbered -t files -T files/f1 files/f2
+ --backup=numbered -t files -v files/f1 files/f2
+ --backup=numbered -t files --help files/f1 files/f2
+ --backup=numbered -t files --version files/f1 files/f2
+ --backup=numbered -T -v files/f1 files/f2
+ --backup=numbered -T --help files/f1 files/f2
+ --backup=numbered -T --version files/f1 files/f2
+ --backup=numbered -v --help files/f1 files/f2
+ --backup=numbered -v --version files/f1 files/f2
+ --backup=numbered --help --version files/f1 files/f2
+ --backup=t -b -d files/f1 files/f2
+ --backup=t -b -f files/f1 files/f2
+ --backup=t -b -i files/f1 files/f2
+ --backup=t -b -L files/f1 files/f2
+ --backup=t -b -n files/f1 files/f2
+ --backup=t -b -P files/f1 files/f2
+ --backup=t -b -r files/f1 files/f2
+ --backup=t -b -s files/f1 files/f2
+ --backup=t -b -S x files/f1 files/f2
+ --backup=t -b -t files files/f1 files/f2
+ --backup=t -b -T files/f1 files/f2
+ --backup=t -b -v files/f1 files/f2
+ --backup=t -b --help files/f1 files/f2
+ --backup=t -b --version files/f1 files/f2
+ --backup=t -d -f files/f1 files/f2
+ --backup=t -d -i files/f1 files/f2
+ --backup=t -d -L files/f1 files/f2
+ --backup=t -d -n files/f1 files/f2
+ --backup=t -d -P files/f1 files/f2
+ --backup=t -d -r files/f1 files/f2
+ --backup=t -d -s files/f1 files/f2
+ --backup=t -d -S x files/f1 files/f2
+ --backup=t -d -t files files/f1 files/f2
+ --backup=t -d -T files/f1 files/f2
+ --backup=t -d -v files/f1 files/f2
+ --backup=t -d --help files/f1 files/f2
+ --backup=t -d --version files/f1 files/f2
+ --backup=t -f -i files/f1 files/f2
+ --backup=t -f -L files/f1 files/f2
+ --backup=t -f -n files/f1 files/f2
+ --backup=t -f -P files/f1 files/f2
+ --backup=t -f -r files/f1 files/f2
+ --backup=t -f -s files/f1 files/f2
+ --backup=t -f -S x files/f1 files/f2
+ --backup=t -f -t files files/f1 files/f2
+ --backup=t -f -T files/f1 files/f2
+ --backup=t -f -v files/f1 files/f2
+ --backup=t -f --help files/f1 files/f2
+ --backup=t -f --version files/f1 files/f2
+ --backup=t -i -L files/f1 files/f2
+ --backup=t -i -n files/f1 files/f2
+ --backup=t -i -P files/f1 files/f2
+ --backup=t -i -r files/f1 files/f2
+ --backup=t -i -s files/f1 files/f2
+ --backup=t -i -S x files/f1 files/f2
+ --backup=t -i -t files files/f1 files/f2
+ --backup=t -i -T files/f1 files/f2
+ --backup=t -i -v files/f1 files/f2
+ --backup=t -i --help files/f1 files/f2
+ --backup=t -i --version files/f1 files/f2
+ --backup=t -L -n files/f1 files/f2
+ --backup=t -L -P files/f1 files/f2
+ --backup=t -L -r files/f1 files/f2
+ --backup=t -L -s files/f1 files/f2
+ --backup=t -L -S x files/f1 files/f2
+ --backup=t -L -t files files/f1 files/f2
+ --backup=t -L -T files/f1 files/f2
+ --backup=t -L -v files/f1 files/f2
+ --backup=t -L --help files/f1 files/f2
+ --backup=t -L --version files/f1 files/f2
+ --backup=t -n -P files/f1 files/f2
+ --backup=t -n -r files/f1 files/f2
+ --backup=t -n -s files/f1 files/f2
+ --backup=t -n -S x files/f1 files/f2
+ --backup=t -n -t files files/f1 files/f2
+ --backup=t -n -T files/f1 files/f2
+ --backup=t -n -v files/f1 files/f2
+ --backup=t -n --help files/f1 files/f2
+ --backup=t -n --version files/f1 files/f2
+ --backup=t -P -r files/f1 files/f2
+ --backup=t -P -s files/f1 files/f2
+ --backup=t -P -S x files/f1 files/f2
+ --backup=t -P -t files files/f1 files/f2
+ --backup=t -P -T files/f1 files/f2
+ --backup=t -P -v files/f1 files/f2
+ --backup=t -P --help files/f1 files/f2
+ --backup=t -P --version files/f1 files/f2
+ --backup=t -r -s files/f1 files/f2
+ --backup=t -r -S x files/f1 files/f2
+ --backup=t -r -t files files/f1 files/f2
+ --backup=t -r -T files/f1 files/f2
+ --backup=t -r -v files/f1 files/f2
+ --backup=t -r --help files/f1 files/f2
+ --backup=t -r --version files/f1 files/f2
+ --backup=t -s -S x files/f1 files/f2
+ --backup=t -s -t files files/f1 files/f2
+ --backup=t -s -T files/f1 files/f2
+ --backup=t -s -v files/f1 files/f2
+ --backup=t -s --help files/f1 files/f2
+ --backup=t -s --version files/f1 files/f2
+ --backup=t -S x -t files files/f1 files/f2
+ --backup=t -S x -T files/f1 files/f2
+ --backup=t -S x -v files/f1 files/f2
+ --backup=t -S x --help files/f1 files/f2
+ --backup=t -S x --version files/f1 files/f2
+ --backup=t -t files -T files/f1 files/f2
+ --backup=t -t files -v files/f1 files/f2
+ --backup=t -t files --help files/f1 files/f2
+ --backup=t -t files --version files/f1 files/f2
+ --backup=t -T -v files/f1 files/f2
+ --backup=t -T --help files/f1 files/f2
+ --backup=t -T --version files/f1 files/f2
+ --backup=t -v --help files/f1 files/f2
+ --backup=t -v --version files/f1 files/f2
+ --backup=t --help --version files/f1 files/f2
+ -b -d -f files/f1 files/f2
+ -b -d -i files/f1 files/f2
+ -b -d -L files/f1 files/f2
+ -b -d -n files/f1 files/f2
+ -b -d -P files/f1 files/f2
+ -b -d -r files/f1 files/f2
+ -b -d -s files/f1 files/f2
+ -b -d -S x files/f1 files/f2
+ -b -d -t files files/f1 files/f2
+ -b -d -T files/f1 files/f2
+ -b -d -v files/f1 files/f2
+ -b -d --help files/f1 files/f2
+ -b -d --version files/f1 files/f2
+ -b -f -i files/f1 files/f2
+ -b -f -L files/f1 files/f2
+ -b -f -n files/f1 files/f2
+ -b -f -P files/f1 files/f2
+ -b -f -r files/f1 files/f2
+ -b -f -s files/f1 files/f2
+ -b -f -S x files/f1 files/f2
+ -b -f -t files files/f1 files/f2
+ -b -f -T files/f1 files/f2
+ -b -f -v files/f1 files/f2
+ -b -f --help files/f1 files/f2
+ -b -f --version files/f1 files/f2
+ -b -i -L files/f1 files/f2
+ -b -i -n files/f1 files/f2
+ -b -i -P files/f1 files/f2
+ -b -i -r files/f1 files/f2
+ -b -i -s files/f1 files/f2
+ -b -i -S x files/f1 files/f2
+ -b -i -t files files/f1 files/f2
+ -b -i -T files/f1 files/f2
+ -b -i -v files/f1 files/f2
+ -b -i --help files/f1 files/f2
+ -b -i --version files/f1 files/f2
+ -b -L -n files/f1 files/f2
+ -b -L -P files/f1 files/f2
+ -b -L -r files/f1 files/f2
+ -b -L -s files/f1 files/f2
+ -b -L -S x files/f1 files/f2
+ -b -L -t files files/f1 files/f2
+ -b -L -T files/f1 files/f2
+ -b -L -v files/f1 files/f2
+ -b -L --help files/f1 files/f2
+ -b -L --version files/f1 files/f2
+ -b -n -P files/f1 files/f2
+ -b -n -r files/f1 files/f2
+ -b -n -s files/f1 files/f2
+ -b -n -S x files/f1 files/f2
+ -b -n -t files files/f1 files/f2
+ -b -n -T files/f1 files/f2
+ -b -n -v files/f1 files/f2
+ -b -n --help files/f1 files/f2
+ -b -n --version files/f1 files/f2
+ -b -P -r files/f1 files/f2
+ -b -P -s files/f1 files/f2
+ -b -P -S x files/f1 files/f2
+ -b -P -t files files/f1 files/f2
+ -b -P -T files/f1 files/f2
+ -b -P -v files/f1 files/f2
+ -b -P --help files/f1 files/f2
+ -b -P --version files/f1 files/f2
+ -b -r -s files/f1 files/f2
+ -b -r -S x files/f1 files/f2
+ -b -r -t files files/f1 files/f2
+ -b -r -T files/f1 files/f2
+ -b -r -v files/f1 files/f2
+ -b -r --help files/f1 files/f2
+ -b -r --version files/f1 files/f2
+ -b -s -S x files/f1 files/f2
+ -b -s -t files files/f1 files/f2
+ -b -s -T files/f1 files/f2
+ -b -s -v files/f1 files/f2
+ -b -s --help files/f1 files/f2
+ -b -s --version files/f1 files/f2
+ -b -S x -t files files/f1 files/f2
+ -b -S x -T files/f1 files/f2
+ -b -S x -v files/f1 files/f2
+ -b -S x --help files/f1 files/f2
+ -b -S x --version files/f1 files/f2
+ -b -t files -T files/f1 files/f2
+ -b -t files -v files/f1 files/f2
+ -b -t files --help files/f1 files/f2
+ -b -t files --version files/f1 files/f2
+ -b -T -v files/f1 files/f2
+ -b -T --help files/f1 files/f2
+ -b -T --version files/f1 files/f2
+ -b -v --help files/f1 files/f2
+ -b -v --version files/f1 files/f2
+ -b --help --version files/f1 files/f2
+ -d -f -i files/f1 files/f2
+ -d -f -L files/f1 files/f2
+ -d -f -n files/f1 files/f2
+ -d -f -P files/f1 files/f2
+ -d -f -r files/f1 files/f2
+ -d -f -s files/f1 files/f2
+ -d -f -S x files/f1 files/f2
+ -d -f -t files files/f1 files/f2
+ -d -f -T files/f1 files/f2
+ -d -f -v files/f1 files/f2
+ -d -f --help files/f1 files/f2
+ -d -f --version files/f1 files/f2
+ -d -i -L files/f1 files/f2
+ -d -i -n files/f1 files/f2
+ -d -i -P files/f1 files/f2
+ -d -i -r files/f1 files/f2
+ -d -i -s files/f1 files/f2
+ -d -i -S x files/f1 files/f2
+ -d -i -t files files/f1 files/f2
+ -d -i -T files/f1 files/f2
+ -d -i -v files/f1 files/f2
+ -d -i --help files/f1 files/f2
+ -d -i --version files/f1 files/f2
+ -d -L -n files/f1 files/f2
+ -d -L -P files/f1 files/f2
+ -d -L -r files/f1 files/f2
+ -d -L -s files/f1 files/f2
+ -d -L -S x files/f1 files/f2
+ -d -L -t files files/f1 files/f2
+ -d -L -T files/f1 files/f2
+ -d -L -v files/f1 files/f2
+ -d -L --help files/f1 files/f2
+ -d -L --version files/f1 files/f2
+ -d -n -P files/f1 files/f2
+ -d -n -r files/f1 files/f2
+ -d -n -s files/f1 files/f2
+ -d -n -S x files/f1 files/f2
+ -d -n -t files files/f1 files/f2
+ -d -n -T files/f1 files/f2
+ -d -n -v files/f1 files/f2
+ -d -n --help files/f1 files/f2
+ -d -n --version files/f1 files/f2
+ -d -P -r files/f1 files/f2
+ -d -P -s files/f1 files/f2
+ -d -P -S x files/f1 files/f2
+ -d -P -t files files/f1 files/f2
+ -d -P -T files/f1 files/f2
+ -d -P -v files/f1 files/f2
+ -d -P --help files/f1 files/f2
+ -d -P --version files/f1 files/f2
+ -d -r -s files/f1 files/f2
+ -d -r -S x files/f1 files/f2
+ -d -r -t files files/f1 files/f2
+ -d -r -T files/f1 files/f2
+ -d -r -v files/f1 files/f2
+ -d -r --help files/f1 files/f2
+ -d -r --version files/f1 files/f2
+ -d -s -S x files/f1 files/f2
+ -d -s -t files files/f1 files/f2
+ -d -s -T files/f1 files/f2
+ -d -s -v files/f1 files/f2
+ -d -s --help files/f1 files/f2
+ -d -s --version files/f1 files/f2
+ -d -S x -t files files/f1 files/f2
+ -d -S x -T files/f1 files/f2
+ -d -S x -v files/f1 files/f2
+ -d -S x --help files/f1 files/f2
+ -d -S x --version files/f1 files/f2
+ -d -t files -T files/f1 files/f2
+ -d -t files -v files/f1 files/f2
+ -d -t files --help files/f1 files/f2
+ -d -t files --version files/f1 files/f2
+ -d -T -v files/f1 files/f2
+ -d -T --help files/f1 files/f2
+ -d -T --version files/f1 files/f2
+ -d -v --help files/f1 files/f2
+ -d -v --version files/f1 files/f2
+ -d --help --version files/f1 files/f2
+ -f -i -L files/f1 files/f2
+ -f -i -n files/f1 files/f2
+ -f -i -P files/f1 files/f2
+ -f -i -r files/f1 files/f2
+ -f -i -s files/f1 files/f2
+ -f -i -S x files/f1 files/f2
+ -f -i -t files files/f1 files/f2
+ -f -i -T files/f1 files/f2
+ -f -i -v files/f1 files/f2
+ -f -i --help files/f1 files/f2
+ -f -i --version files/f1 files/f2
+ -f -L -n files/f1 files/f2
+ -f -L -P files/f1 files/f2
+ -f -L -r files/f1 files/f2
+ -f -L -s files/f1 files/f2
+ -f -L -S x files/f1 files/f2
+ -f -L -t files files/f1 files/f2
+ -f -L -T files/f1 files/f2
+ -f -L -v files/f1 files/f2
+ -f -L --help files/f1 files/f2
+ -f -L --version files/f1 files/f2
+ -f -n -P files/f1 files/f2
+ -f -n -r files/f1 files/f2
+ -f -n -s files/f1 files/f2
+ -f -n -S x files/f1 files/f2
+ -f -n -t files files/f1 files/f2
+ -f -n -T files/f1 files/f2
+ -f -n -v files/f1 files/f2
+ -f -n --help files/f1 files/f2
+ -f -n --version files/f1 files/f2
+ -f -P -r files/f1 files/f2
+ -f -P -s files/f1 files/f2
+ -f -P -S x files/f1 files/f2
+ -f -P -t files files/f1 files/f2
+ -f -P -T files/f1 files/f2
+ -f -P -v files/f1 files/f2
+ -f -P --help files/f1 files/f2
+ -f -P --version files/f1 files/f2
+ -f -r -s files/f1 files/f2
+ -f -r -S x files/f1 files/f2
+ -f -r -t files files/f1 files/f2
+ -f -r -T files/f1 files/f2
+ -f -r -v files/f1 files/f2
+ -f -r --help files/f1 files/f2
+ -f -r --version files/f1 files/f2
+ -f -s -S x files/f1 files/f2
+ -f -s -t files files/f1 files/f2
+ -f -s -T files/f1 files/f2
+ -f -s -v files/f1 files/f2
+ -f -s --help files/f1 files/f2
+ -f -s --version files/f1 files/f2
+ -f -S x -t files files/f1 files/f2
+ -f -S x -T files/f1 files/f2
+ -f -S x -v files/f1 files/f2
+ -f -S x --help files/f1 files/f2
+ -f -S x --version files/f1 files/f2
+ -f -t files -T files/f1 files/f2
+ -f -t files -v files/f1 files/f2
+ -f -t files --help files/f1 files/f2
+ -f -t files --version files/f1 files/f2
+ -f -T -v files/f1 files/f2
+ -f -T --help files/f1 files/f2
+ -f -T --version files/f1 files/f2
+ -f -v --help files/f1 files/f2
+ -f -v --version files/f1 files/f2
+ -f --help --version files/f1 files/f2
+ -i -L -n files/f1 files/f2
+ -i -L -P files/f1 files/f2
+ -i -L -r files/f1 files/f2
+ -i -L -s files/f1 files/f2
+ -i -L -S x files/f1 files/f2
+ -i -L -t files files/f1 files/f2
+ -i -L -T files/f1 files/f2
+ -i -L -v files/f1 files/f2
+ -i -L --help files/f1 files/f2
+ -i -L --version files/f1 files/f2
+ -i -n -P files/f1 files/f2
+ -i -n -r files/f1 files/f2
+ -i -n -s files/f1 files/f2
+ -i -n -S x files/f1 files/f2
+ -i -n -t files files/f1 files/f2
+ -i -n -T files/f1 files/f2
+ -i -n -v files/f1 files/f2
+ -i -n --help files/f1 files/f2
+ -i -n --version files/f1 files/f2
+ -i -P -r files/f1 files/f2
+ -i -P -s files/f1 files/f2
+ -i -P -S x files/f1 files/f2
+ -i -P -t files files/f1 files/f2
+ -i -P -T files/f1 files/f2
+ -i -P -v files/f1 files/f2
+ -i -P --help files/f1 files/f2
+ -i -P --version files/f1 files/f2
+ -i -r -s files/f1 files/f2
+ -i -r -S x files/f1 files/f2
+ -i -r -t files files/f1 files/f2
+ -i -r -T files/f1 files/f2
+ -i -r -v files/f1 files/f2
+ -i -r --help files/f1 files/f2
+ -i -r --version files/f1 files/f2
+ -i -s -S x files/f1 files/f2
+ -i -s -t files files/f1 files/f2
+ -i -s -T files/f1 files/f2
+ -i -s -v files/f1 files/f2
+ -i -s --help files/f1 files/f2
+ -i -s --version files/f1 files/f2
+ -i -S x -t files files/f1 files/f2
+ -i -S x -T files/f1 files/f2
+ -i -S x -v files/f1 files/f2
+ -i -S x --help files/f1 files/f2
+ -i -S x --version files/f1 files/f2
+ -i -t files -T files/f1 files/f2
+ -i -t files -v files/f1 files/f2
+ -i -t files --help files/f1 files/f2
+ -i -t files --version files/f1 files/f2
+ -i -T -v files/f1 files/f2
+ -i -T --help files/f1 files/f2
+ -i -T --version files/f1 files/f2
+ -i -v --help files/f1 files/f2
+ -i -v --version files/f1 files/f2
+ -i --help --version files/f1 files/f2
+ -L -n -P files/f1 files/f2
+ -L -n -r files/f1 files/f2
+ -L -n -s files/f1 files/f2
+ -L -n -S x files/f1 files/f2
+ -L -n -t files files/f1 files/f2
+ -L -n -T files/f1 files/f2
+ -L -n -v files/f1 files/f2
+ -L -n --help files/f1 files/f2
+ -L -n --version files/f1 files/f2
+ -L -P -r files/f1 files/f2
+ -L -P -s files/f1 files/f2
+ -L -P -S x files/f1 files/f2
+ -L -P -t files files/f1 files/f2
+ -L -P -T files/f1 files/f2
+ -L -P -v files/f1 files/f2
+ -L -P --help files/f1 files/f2
+ -L -P --version files/f1 files/f2
+ -L -r -s files/f1 files/f2
+ -L -r -S x files/f1 files/f2
+ -L -r -t files files/f1 files/f2
+ -L -r -T files/f1 files/f2
+ -L -r -v files/f1 files/f2
+ -L -r --help files/f1 files/f2
+ -L -r --version files/f1 files/f2
+ -L -s -S x files/f1 files/f2
+ -L -s -t files files/f1 files/f2
+ -L -s -T files/f1 files/f2
+ -L -s -v files/f1 files/f2
+ -L -s --help files/f1 files/f2
+ -L -s --version files/f1 files/f2
+ -L -S x -t files files/f1 files/f2
+ -L -S x -T files/f1 files/f2
+ -L -S x -v files/f1 files/f2
+ -L -S x --help files/f1 files/f2
+ -L -S x --version files/f1 files/f2
+ -L -t files -T files/f1 files/f2
+ -L -t files -v files/f1 files/f2
+ -L -t files --help files/f1 files/f2
+ -L -t files --version files/f1 files/f2
+ -L -T -v files/f1 files/f2
+ -L -T --help files/f1 files/f2
+ -L -T --version files/f1 files/f2
+ -L -v --help files/f1 files/f2
+ -L -v --version files/f1 files/f2
+ -L --help --version files/f1 files/f2
+ -n -P -r files/f1 files/f2
+ -n -P -s files/f1 files/f2
+ -n -P -S x files/f1 files/f2
+ -n -P -t files files/f1 files/f2
+ -n -P -T files/f1 files/f2
+ -n -P -v files/f1 files/f2
+ -n -P --help files/f1 files/f2
+ -n -P --version files/f1 files/f2
+ -n -r -s files/f1 files/f2
+ -n -r -S x files/f1 files/f2
+ -n -r -t files files/f1 files/f2
+ -n -r -T files/f1 files/f2
+ -n -r -v files/f1 files/f2
+ -n -r --help files/f1 files/f2
+ -n -r --version files/f1 files/f2
+ -n -s -S x files/f1 files/f2
+ -n -s -t files files/f1 files/f2
+ -n -s -T files/f1 files/f2
+ -n -s -v files/f1 files/f2
+ -n -s --help files/f1 files/f2
+ -n -s --version files/f1 files/f2
+ -n -S x -t files files/f1 files/f2
+ -n -S x -T files/f1 files/f2
+ -n -S x -v files/f1 files/f2
+ -n -S x --help files/f1 files/f2
+ -n -S x --version files/f1 files/f2
+ -n -t files -T files/f1 files/f2
+ -n -t files -v files/f1 files/f2
+ -n -t files --help files/f1 files/f2
+ -n -t files --version files/f1 files/f2
+ -n -T -v files/f1 files/f2
+ -n -T --help files/f1 files/f2
+ -n -T --version files/f1 files/f2
+ -n -v --help files/f1 files/f2
+ -n -v --version files/f1 files/f2
+ -n --help --version files/f1 files/f2
+ -P -r -s files/f1 files/f2
+ -P -r -S x files/f1 files/f2
+ -P -r -t files files/f1 files/f2
+ -P -r -T files/f1 files/f2
+ -P -r -v files/f1 files/f2
+ -P -r --help files/f1 files/f2
+ -P -r --version files/f1 files/f2
+ -P -s -S x files/f1 files/f2
+ -P -s -t files files/f1 files/f2
+ -P -s -T files/f1 files/f2
+ -P -s -v files/f1 files/f2
+ -P -s --help files/f1 files/f2
+ -P -s --version files/f1 files/f2
+ -P -S x -t files files/f1 files/f2
+ -P -S x -T files/f1 files/f2
+ -P -S x -v files/f1 files/f2
+ -P -S x --help files/f1 files/f2
+ -P -S x --version files/f1 files/f2
+ -P -t files -T files/f1 files/f2
+ -P -t files -v files/f1 files/f2
+ -P -t files --help files/f1 files/f2
+ -P -t files --version files/f1 files/f2
+ -P -T -v files/f1 files/f2
+ -P -T --help files/f1 files/f2
+ -P -T --version files/f1 files/f2
+ -P -v --help files/f1 files/f2
+ -P -v --version files/f1 files/f2
+ -P --help --version files/f1 files/f2
+ -r -s -S x files/f1 files/f2
+ -r -s -t files files/f1 files/f2
+ -r -s -T files/f1 files/f2
+ -r -s -v files/f1 files/f2
+ -r -s --help files/f1 files/f2
+ -r -s --version files/f1 files/f2
+ -r -S x -t files files/f1 files/f2
+ -r -S x -T files/f1 files/f2
+ -r -S x -v files/f1 files/f2
+ -r -S x --help files/f1 files/f2
+ -r -S x --version files/f1 files/f2
+ -r -t files -T files/f1 files/f2
+ -r -t files -v files/f1 files/f2
+ -r -t files --help files/f1 files/f2
+ -r -t files --version files/f1 files/f2
+ -r -T -v files/f1 files/f2
+ -r -T --help files/f1 files/f2
+ -r -T --version files/f1 files/f2
+ -r -v --help files/f1 files/f2
+ -r -v --version files/f1 files/f2
+ -r --help --version files/f1 files/f2
+ -s -S x -t files files/f1 files/f2
+ -s -S x -T files/f1 files/f2
+ -s -S x -v files/f1 files/f2
+ -s -S x --help files/f1 files/f2
+ -s -S x --version files/f1 files/f2
+ -s -t files -T files/f1 files/f2
+ -s -t files -v files/f1 files/f2
+ -s -t files --help files/f1 files/f2
+ -s -t files --version files/f1 files/f2
+ -s -T -v files/f1 files/f2
+ -s -T --help files/f1 files/f2
+ -s -T --version files/f1 files/f2
+ -s -v --help files/f1 files/f2
+ -s -v --version files/f1 files/f2
+ -s --help --version files/f1 files/f2
+ -S x -t files -T files/f1 files/f2
+ -S x -t files -v files/f1 files/f2
+ -S x -t files --help files/f1 files/f2
+ -S x -t files --version files/f1 files/f2
+ -S x -T -v files/f1 files/f2
+ -S x -T --help files/f1 files/f2
+ -S x -T --version files/f1 files/f2
+ -S x -v --help files/f1 files/f2
+ -S x -v --version files/f1 files/f2
+ -S x --help --version files/f1 files/f2
+ -t files -T -v files/f1 files/f2
+ -t files -T --help files/f1 files/f2
+ -t files -T --version files/f1 files/f2
+ -t files -v --help files/f1 files/f2
+ -t files -v --version files/f1 files/f2
+ -t files --help --version files/f1 files/f2
+ -T -v --help files/f1 files/f2
+ -T -v --version files/f1 files/f2
+ -T --help --version files/f1 files/f2
+ -v --help --version files/f1 files/f2

@@ -1,0 +1,3683 @@
+ 
+ -a 
+ -B 1G 
+ -h 
+ -H 
+ -i 
+ -k 
+ -l 
+ --no-sync 
+ --output=source 
+ --output=fstype 
+ --output=itotal 
+ --output=iused 
+ --output=iavail 
+ --output=ipcent 
+ --output=size 
+ --output=used 
+ --output=avail 
+ --output=pcent 
+ --output=file 
+ --output=target 
+ -P 
+ --sync 
+ --total 
+ -t tmpfs 
+ -x tmpfs 
+ -v 
+ --help 
+ --version 
+ -a -B 1G 
+ -a -h 
+ -a -H 
+ -a -i 
+ -a -k 
+ -a -l 
+ -a --no-sync 
+ -a --output=source 
+ -a --output=fstype 
+ -a --output=itotal 
+ -a --output=iused 
+ -a --output=iavail 
+ -a --output=ipcent 
+ -a --output=size 
+ -a --output=used 
+ -a --output=avail 
+ -a --output=pcent 
+ -a --output=file 
+ -a --output=target 
+ -a -P 
+ -a --sync 
+ -a --total 
+ -a -t tmpfs 
+ -a -x tmpfs 
+ -a -v 
+ -a --help 
+ -a --version 
+ -B 1G -h 
+ -B 1G -H 
+ -B 1G -i 
+ -B 1G -k 
+ -B 1G -l 
+ -B 1G --no-sync 
+ -B 1G --output=source 
+ -B 1G --output=fstype 
+ -B 1G --output=itotal 
+ -B 1G --output=iused 
+ -B 1G --output=iavail 
+ -B 1G --output=ipcent 
+ -B 1G --output=size 
+ -B 1G --output=used 
+ -B 1G --output=avail 
+ -B 1G --output=pcent 
+ -B 1G --output=file 
+ -B 1G --output=target 
+ -B 1G -P 
+ -B 1G --sync 
+ -B 1G --total 
+ -B 1G -t tmpfs 
+ -B 1G -x tmpfs 
+ -B 1G -v 
+ -B 1G --help 
+ -B 1G --version 
+ -h -H 
+ -h -i 
+ -h -k 
+ -h -l 
+ -h --no-sync 
+ -h --output=source 
+ -h --output=fstype 
+ -h --output=itotal 
+ -h --output=iused 
+ -h --output=iavail 
+ -h --output=ipcent 
+ -h --output=size 
+ -h --output=used 
+ -h --output=avail 
+ -h --output=pcent 
+ -h --output=file 
+ -h --output=target 
+ -h -P 
+ -h --sync 
+ -h --total 
+ -h -t tmpfs 
+ -h -x tmpfs 
+ -h -v 
+ -h --help 
+ -h --version 
+ -H -i 
+ -H -k 
+ -H -l 
+ -H --no-sync 
+ -H --output=source 
+ -H --output=fstype 
+ -H --output=itotal 
+ -H --output=iused 
+ -H --output=iavail 
+ -H --output=ipcent 
+ -H --output=size 
+ -H --output=used 
+ -H --output=avail 
+ -H --output=pcent 
+ -H --output=file 
+ -H --output=target 
+ -H -P 
+ -H --sync 
+ -H --total 
+ -H -t tmpfs 
+ -H -x tmpfs 
+ -H -v 
+ -H --help 
+ -H --version 
+ -i -k 
+ -i -l 
+ -i --no-sync 
+ -i --output=source 
+ -i --output=fstype 
+ -i --output=itotal 
+ -i --output=iused 
+ -i --output=iavail 
+ -i --output=ipcent 
+ -i --output=size 
+ -i --output=used 
+ -i --output=avail 
+ -i --output=pcent 
+ -i --output=file 
+ -i --output=target 
+ -i -P 
+ -i --sync 
+ -i --total 
+ -i -t tmpfs 
+ -i -x tmpfs 
+ -i -v 
+ -i --help 
+ -i --version 
+ -k -l 
+ -k --no-sync 
+ -k --output=source 
+ -k --output=fstype 
+ -k --output=itotal 
+ -k --output=iused 
+ -k --output=iavail 
+ -k --output=ipcent 
+ -k --output=size 
+ -k --output=used 
+ -k --output=avail 
+ -k --output=pcent 
+ -k --output=file 
+ -k --output=target 
+ -k -P 
+ -k --sync 
+ -k --total 
+ -k -t tmpfs 
+ -k -x tmpfs 
+ -k -v 
+ -k --help 
+ -k --version 
+ -l --no-sync 
+ -l --output=source 
+ -l --output=fstype 
+ -l --output=itotal 
+ -l --output=iused 
+ -l --output=iavail 
+ -l --output=ipcent 
+ -l --output=size 
+ -l --output=used 
+ -l --output=avail 
+ -l --output=pcent 
+ -l --output=file 
+ -l --output=target 
+ -l -P 
+ -l --sync 
+ -l --total 
+ -l -t tmpfs 
+ -l -x tmpfs 
+ -l -v 
+ -l --help 
+ -l --version 
+ --no-sync --output=source 
+ --no-sync --output=fstype 
+ --no-sync --output=itotal 
+ --no-sync --output=iused 
+ --no-sync --output=iavail 
+ --no-sync --output=ipcent 
+ --no-sync --output=size 
+ --no-sync --output=used 
+ --no-sync --output=avail 
+ --no-sync --output=pcent 
+ --no-sync --output=file 
+ --no-sync --output=target 
+ --no-sync -P 
+ --no-sync --sync 
+ --no-sync --total 
+ --no-sync -t tmpfs 
+ --no-sync -x tmpfs 
+ --no-sync -v 
+ --no-sync --help 
+ --no-sync --version 
+ --output=source --output=fstype 
+ --output=source --output=itotal 
+ --output=source --output=iused 
+ --output=source --output=iavail 
+ --output=source --output=ipcent 
+ --output=source --output=size 
+ --output=source --output=used 
+ --output=source --output=avail 
+ --output=source --output=pcent 
+ --output=source --output=file 
+ --output=source --output=target 
+ --output=source -P 
+ --output=source --sync 
+ --output=source --total 
+ --output=source -t tmpfs 
+ --output=source -x tmpfs 
+ --output=source -v 
+ --output=source --help 
+ --output=source --version 
+ --output=fstype --output=itotal 
+ --output=fstype --output=iused 
+ --output=fstype --output=iavail 
+ --output=fstype --output=ipcent 
+ --output=fstype --output=size 
+ --output=fstype --output=used 
+ --output=fstype --output=avail 
+ --output=fstype --output=pcent 
+ --output=fstype --output=file 
+ --output=fstype --output=target 
+ --output=fstype -P 
+ --output=fstype --sync 
+ --output=fstype --total 
+ --output=fstype -t tmpfs 
+ --output=fstype -x tmpfs 
+ --output=fstype -v 
+ --output=fstype --help 
+ --output=fstype --version 
+ --output=itotal --output=iused 
+ --output=itotal --output=iavail 
+ --output=itotal --output=ipcent 
+ --output=itotal --output=size 
+ --output=itotal --output=used 
+ --output=itotal --output=avail 
+ --output=itotal --output=pcent 
+ --output=itotal --output=file 
+ --output=itotal --output=target 
+ --output=itotal -P 
+ --output=itotal --sync 
+ --output=itotal --total 
+ --output=itotal -t tmpfs 
+ --output=itotal -x tmpfs 
+ --output=itotal -v 
+ --output=itotal --help 
+ --output=itotal --version 
+ --output=iused --output=iavail 
+ --output=iused --output=ipcent 
+ --output=iused --output=size 
+ --output=iused --output=used 
+ --output=iused --output=avail 
+ --output=iused --output=pcent 
+ --output=iused --output=file 
+ --output=iused --output=target 
+ --output=iused -P 
+ --output=iused --sync 
+ --output=iused --total 
+ --output=iused -t tmpfs 
+ --output=iused -x tmpfs 
+ --output=iused -v 
+ --output=iused --help 
+ --output=iused --version 
+ --output=iavail --output=ipcent 
+ --output=iavail --output=size 
+ --output=iavail --output=used 
+ --output=iavail --output=avail 
+ --output=iavail --output=pcent 
+ --output=iavail --output=file 
+ --output=iavail --output=target 
+ --output=iavail -P 
+ --output=iavail --sync 
+ --output=iavail --total 
+ --output=iavail -t tmpfs 
+ --output=iavail -x tmpfs 
+ --output=iavail -v 
+ --output=iavail --help 
+ --output=iavail --version 
+ --output=ipcent --output=size 
+ --output=ipcent --output=used 
+ --output=ipcent --output=avail 
+ --output=ipcent --output=pcent 
+ --output=ipcent --output=file 
+ --output=ipcent --output=target 
+ --output=ipcent -P 
+ --output=ipcent --sync 
+ --output=ipcent --total 
+ --output=ipcent -t tmpfs 
+ --output=ipcent -x tmpfs 
+ --output=ipcent -v 
+ --output=ipcent --help 
+ --output=ipcent --version 
+ --output=size --output=used 
+ --output=size --output=avail 
+ --output=size --output=pcent 
+ --output=size --output=file 
+ --output=size --output=target 
+ --output=size -P 
+ --output=size --sync 
+ --output=size --total 
+ --output=size -t tmpfs 
+ --output=size -x tmpfs 
+ --output=size -v 
+ --output=size --help 
+ --output=size --version 
+ --output=used --output=avail 
+ --output=used --output=pcent 
+ --output=used --output=file 
+ --output=used --output=target 
+ --output=used -P 
+ --output=used --sync 
+ --output=used --total 
+ --output=used -t tmpfs 
+ --output=used -x tmpfs 
+ --output=used -v 
+ --output=used --help 
+ --output=used --version 
+ --output=avail --output=pcent 
+ --output=avail --output=file 
+ --output=avail --output=target 
+ --output=avail -P 
+ --output=avail --sync 
+ --output=avail --total 
+ --output=avail -t tmpfs 
+ --output=avail -x tmpfs 
+ --output=avail -v 
+ --output=avail --help 
+ --output=avail --version 
+ --output=pcent --output=file 
+ --output=pcent --output=target 
+ --output=pcent -P 
+ --output=pcent --sync 
+ --output=pcent --total 
+ --output=pcent -t tmpfs 
+ --output=pcent -x tmpfs 
+ --output=pcent -v 
+ --output=pcent --help 
+ --output=pcent --version 
+ --output=file --output=target 
+ --output=file -P 
+ --output=file --sync 
+ --output=file --total 
+ --output=file -t tmpfs 
+ --output=file -x tmpfs 
+ --output=file -v 
+ --output=file --help 
+ --output=file --version 
+ --output=target -P 
+ --output=target --sync 
+ --output=target --total 
+ --output=target -t tmpfs 
+ --output=target -x tmpfs 
+ --output=target -v 
+ --output=target --help 
+ --output=target --version 
+ -P --sync 
+ -P --total 
+ -P -t tmpfs 
+ -P -x tmpfs 
+ -P -v 
+ -P --help 
+ -P --version 
+ --sync --total 
+ --sync -t tmpfs 
+ --sync -x tmpfs 
+ --sync -v 
+ --sync --help 
+ --sync --version 
+ --total -t tmpfs 
+ --total -x tmpfs 
+ --total -v 
+ --total --help 
+ --total --version 
+ -t tmpfs -x tmpfs 
+ -t tmpfs -v 
+ -t tmpfs --help 
+ -t tmpfs --version 
+ -x tmpfs -v 
+ -x tmpfs --help 
+ -x tmpfs --version 
+ -v --help 
+ -v --version 
+ --help --version 
+ -a -B 1G -h 
+ -a -B 1G -H 
+ -a -B 1G -i 
+ -a -B 1G -k 
+ -a -B 1G -l 
+ -a -B 1G --no-sync 
+ -a -B 1G --output=source 
+ -a -B 1G --output=fstype 
+ -a -B 1G --output=itotal 
+ -a -B 1G --output=iused 
+ -a -B 1G --output=iavail 
+ -a -B 1G --output=ipcent 
+ -a -B 1G --output=size 
+ -a -B 1G --output=used 
+ -a -B 1G --output=avail 
+ -a -B 1G --output=pcent 
+ -a -B 1G --output=file 
+ -a -B 1G --output=target 
+ -a -B 1G -P 
+ -a -B 1G --sync 
+ -a -B 1G --total 
+ -a -B 1G -t tmpfs 
+ -a -B 1G -x tmpfs 
+ -a -B 1G -v 
+ -a -B 1G --help 
+ -a -B 1G --version 
+ -a -h -H 
+ -a -h -i 
+ -a -h -k 
+ -a -h -l 
+ -a -h --no-sync 
+ -a -h --output=source 
+ -a -h --output=fstype 
+ -a -h --output=itotal 
+ -a -h --output=iused 
+ -a -h --output=iavail 
+ -a -h --output=ipcent 
+ -a -h --output=size 
+ -a -h --output=used 
+ -a -h --output=avail 
+ -a -h --output=pcent 
+ -a -h --output=file 
+ -a -h --output=target 
+ -a -h -P 
+ -a -h --sync 
+ -a -h --total 
+ -a -h -t tmpfs 
+ -a -h -x tmpfs 
+ -a -h -v 
+ -a -h --help 
+ -a -h --version 
+ -a -H -i 
+ -a -H -k 
+ -a -H -l 
+ -a -H --no-sync 
+ -a -H --output=source 
+ -a -H --output=fstype 
+ -a -H --output=itotal 
+ -a -H --output=iused 
+ -a -H --output=iavail 
+ -a -H --output=ipcent 
+ -a -H --output=size 
+ -a -H --output=used 
+ -a -H --output=avail 
+ -a -H --output=pcent 
+ -a -H --output=file 
+ -a -H --output=target 
+ -a -H -P 
+ -a -H --sync 
+ -a -H --total 
+ -a -H -t tmpfs 
+ -a -H -x tmpfs 
+ -a -H -v 
+ -a -H --help 
+ -a -H --version 
+ -a -i -k 
+ -a -i -l 
+ -a -i --no-sync 
+ -a -i --output=source 
+ -a -i --output=fstype 
+ -a -i --output=itotal 
+ -a -i --output=iused 
+ -a -i --output=iavail 
+ -a -i --output=ipcent 
+ -a -i --output=size 
+ -a -i --output=used 
+ -a -i --output=avail 
+ -a -i --output=pcent 
+ -a -i --output=file 
+ -a -i --output=target 
+ -a -i -P 
+ -a -i --sync 
+ -a -i --total 
+ -a -i -t tmpfs 
+ -a -i -x tmpfs 
+ -a -i -v 
+ -a -i --help 
+ -a -i --version 
+ -a -k -l 
+ -a -k --no-sync 
+ -a -k --output=source 
+ -a -k --output=fstype 
+ -a -k --output=itotal 
+ -a -k --output=iused 
+ -a -k --output=iavail 
+ -a -k --output=ipcent 
+ -a -k --output=size 
+ -a -k --output=used 
+ -a -k --output=avail 
+ -a -k --output=pcent 
+ -a -k --output=file 
+ -a -k --output=target 
+ -a -k -P 
+ -a -k --sync 
+ -a -k --total 
+ -a -k -t tmpfs 
+ -a -k -x tmpfs 
+ -a -k -v 
+ -a -k --help 
+ -a -k --version 
+ -a -l --no-sync 
+ -a -l --output=source 
+ -a -l --output=fstype 
+ -a -l --output=itotal 
+ -a -l --output=iused 
+ -a -l --output=iavail 
+ -a -l --output=ipcent 
+ -a -l --output=size 
+ -a -l --output=used 
+ -a -l --output=avail 
+ -a -l --output=pcent 
+ -a -l --output=file 
+ -a -l --output=target 
+ -a -l -P 
+ -a -l --sync 
+ -a -l --total 
+ -a -l -t tmpfs 
+ -a -l -x tmpfs 
+ -a -l -v 
+ -a -l --help 
+ -a -l --version 
+ -a --no-sync --output=source 
+ -a --no-sync --output=fstype 
+ -a --no-sync --output=itotal 
+ -a --no-sync --output=iused 
+ -a --no-sync --output=iavail 
+ -a --no-sync --output=ipcent 
+ -a --no-sync --output=size 
+ -a --no-sync --output=used 
+ -a --no-sync --output=avail 
+ -a --no-sync --output=pcent 
+ -a --no-sync --output=file 
+ -a --no-sync --output=target 
+ -a --no-sync -P 
+ -a --no-sync --sync 
+ -a --no-sync --total 
+ -a --no-sync -t tmpfs 
+ -a --no-sync -x tmpfs 
+ -a --no-sync -v 
+ -a --no-sync --help 
+ -a --no-sync --version 
+ -a --output=source --output=fstype 
+ -a --output=source --output=itotal 
+ -a --output=source --output=iused 
+ -a --output=source --output=iavail 
+ -a --output=source --output=ipcent 
+ -a --output=source --output=size 
+ -a --output=source --output=used 
+ -a --output=source --output=avail 
+ -a --output=source --output=pcent 
+ -a --output=source --output=file 
+ -a --output=source --output=target 
+ -a --output=source -P 
+ -a --output=source --sync 
+ -a --output=source --total 
+ -a --output=source -t tmpfs 
+ -a --output=source -x tmpfs 
+ -a --output=source -v 
+ -a --output=source --help 
+ -a --output=source --version 
+ -a --output=fstype --output=itotal 
+ -a --output=fstype --output=iused 
+ -a --output=fstype --output=iavail 
+ -a --output=fstype --output=ipcent 
+ -a --output=fstype --output=size 
+ -a --output=fstype --output=used 
+ -a --output=fstype --output=avail 
+ -a --output=fstype --output=pcent 
+ -a --output=fstype --output=file 
+ -a --output=fstype --output=target 
+ -a --output=fstype -P 
+ -a --output=fstype --sync 
+ -a --output=fstype --total 
+ -a --output=fstype -t tmpfs 
+ -a --output=fstype -x tmpfs 
+ -a --output=fstype -v 
+ -a --output=fstype --help 
+ -a --output=fstype --version 
+ -a --output=itotal --output=iused 
+ -a --output=itotal --output=iavail 
+ -a --output=itotal --output=ipcent 
+ -a --output=itotal --output=size 
+ -a --output=itotal --output=used 
+ -a --output=itotal --output=avail 
+ -a --output=itotal --output=pcent 
+ -a --output=itotal --output=file 
+ -a --output=itotal --output=target 
+ -a --output=itotal -P 
+ -a --output=itotal --sync 
+ -a --output=itotal --total 
+ -a --output=itotal -t tmpfs 
+ -a --output=itotal -x tmpfs 
+ -a --output=itotal -v 
+ -a --output=itotal --help 
+ -a --output=itotal --version 
+ -a --output=iused --output=iavail 
+ -a --output=iused --output=ipcent 
+ -a --output=iused --output=size 
+ -a --output=iused --output=used 
+ -a --output=iused --output=avail 
+ -a --output=iused --output=pcent 
+ -a --output=iused --output=file 
+ -a --output=iused --output=target 
+ -a --output=iused -P 
+ -a --output=iused --sync 
+ -a --output=iused --total 
+ -a --output=iused -t tmpfs 
+ -a --output=iused -x tmpfs 
+ -a --output=iused -v 
+ -a --output=iused --help 
+ -a --output=iused --version 
+ -a --output=iavail --output=ipcent 
+ -a --output=iavail --output=size 
+ -a --output=iavail --output=used 
+ -a --output=iavail --output=avail 
+ -a --output=iavail --output=pcent 
+ -a --output=iavail --output=file 
+ -a --output=iavail --output=target 
+ -a --output=iavail -P 
+ -a --output=iavail --sync 
+ -a --output=iavail --total 
+ -a --output=iavail -t tmpfs 
+ -a --output=iavail -x tmpfs 
+ -a --output=iavail -v 
+ -a --output=iavail --help 
+ -a --output=iavail --version 
+ -a --output=ipcent --output=size 
+ -a --output=ipcent --output=used 
+ -a --output=ipcent --output=avail 
+ -a --output=ipcent --output=pcent 
+ -a --output=ipcent --output=file 
+ -a --output=ipcent --output=target 
+ -a --output=ipcent -P 
+ -a --output=ipcent --sync 
+ -a --output=ipcent --total 
+ -a --output=ipcent -t tmpfs 
+ -a --output=ipcent -x tmpfs 
+ -a --output=ipcent -v 
+ -a --output=ipcent --help 
+ -a --output=ipcent --version 
+ -a --output=size --output=used 
+ -a --output=size --output=avail 
+ -a --output=size --output=pcent 
+ -a --output=size --output=file 
+ -a --output=size --output=target 
+ -a --output=size -P 
+ -a --output=size --sync 
+ -a --output=size --total 
+ -a --output=size -t tmpfs 
+ -a --output=size -x tmpfs 
+ -a --output=size -v 
+ -a --output=size --help 
+ -a --output=size --version 
+ -a --output=used --output=avail 
+ -a --output=used --output=pcent 
+ -a --output=used --output=file 
+ -a --output=used --output=target 
+ -a --output=used -P 
+ -a --output=used --sync 
+ -a --output=used --total 
+ -a --output=used -t tmpfs 
+ -a --output=used -x tmpfs 
+ -a --output=used -v 
+ -a --output=used --help 
+ -a --output=used --version 
+ -a --output=avail --output=pcent 
+ -a --output=avail --output=file 
+ -a --output=avail --output=target 
+ -a --output=avail -P 
+ -a --output=avail --sync 
+ -a --output=avail --total 
+ -a --output=avail -t tmpfs 
+ -a --output=avail -x tmpfs 
+ -a --output=avail -v 
+ -a --output=avail --help 
+ -a --output=avail --version 
+ -a --output=pcent --output=file 
+ -a --output=pcent --output=target 
+ -a --output=pcent -P 
+ -a --output=pcent --sync 
+ -a --output=pcent --total 
+ -a --output=pcent -t tmpfs 
+ -a --output=pcent -x tmpfs 
+ -a --output=pcent -v 
+ -a --output=pcent --help 
+ -a --output=pcent --version 
+ -a --output=file --output=target 
+ -a --output=file -P 
+ -a --output=file --sync 
+ -a --output=file --total 
+ -a --output=file -t tmpfs 
+ -a --output=file -x tmpfs 
+ -a --output=file -v 
+ -a --output=file --help 
+ -a --output=file --version 
+ -a --output=target -P 
+ -a --output=target --sync 
+ -a --output=target --total 
+ -a --output=target -t tmpfs 
+ -a --output=target -x tmpfs 
+ -a --output=target -v 
+ -a --output=target --help 
+ -a --output=target --version 
+ -a -P --sync 
+ -a -P --total 
+ -a -P -t tmpfs 
+ -a -P -x tmpfs 
+ -a -P -v 
+ -a -P --help 
+ -a -P --version 
+ -a --sync --total 
+ -a --sync -t tmpfs 
+ -a --sync -x tmpfs 
+ -a --sync -v 
+ -a --sync --help 
+ -a --sync --version 
+ -a --total -t tmpfs 
+ -a --total -x tmpfs 
+ -a --total -v 
+ -a --total --help 
+ -a --total --version 
+ -a -t tmpfs -x tmpfs 
+ -a -t tmpfs -v 
+ -a -t tmpfs --help 
+ -a -t tmpfs --version 
+ -a -x tmpfs -v 
+ -a -x tmpfs --help 
+ -a -x tmpfs --version 
+ -a -v --help 
+ -a -v --version 
+ -a --help --version 
+ -B 1G -h -H 
+ -B 1G -h -i 
+ -B 1G -h -k 
+ -B 1G -h -l 
+ -B 1G -h --no-sync 
+ -B 1G -h --output=source 
+ -B 1G -h --output=fstype 
+ -B 1G -h --output=itotal 
+ -B 1G -h --output=iused 
+ -B 1G -h --output=iavail 
+ -B 1G -h --output=ipcent 
+ -B 1G -h --output=size 
+ -B 1G -h --output=used 
+ -B 1G -h --output=avail 
+ -B 1G -h --output=pcent 
+ -B 1G -h --output=file 
+ -B 1G -h --output=target 
+ -B 1G -h -P 
+ -B 1G -h --sync 
+ -B 1G -h --total 
+ -B 1G -h -t tmpfs 
+ -B 1G -h -x tmpfs 
+ -B 1G -h -v 
+ -B 1G -h --help 
+ -B 1G -h --version 
+ -B 1G -H -i 
+ -B 1G -H -k 
+ -B 1G -H -l 
+ -B 1G -H --no-sync 
+ -B 1G -H --output=source 
+ -B 1G -H --output=fstype 
+ -B 1G -H --output=itotal 
+ -B 1G -H --output=iused 
+ -B 1G -H --output=iavail 
+ -B 1G -H --output=ipcent 
+ -B 1G -H --output=size 
+ -B 1G -H --output=used 
+ -B 1G -H --output=avail 
+ -B 1G -H --output=pcent 
+ -B 1G -H --output=file 
+ -B 1G -H --output=target 
+ -B 1G -H -P 
+ -B 1G -H --sync 
+ -B 1G -H --total 
+ -B 1G -H -t tmpfs 
+ -B 1G -H -x tmpfs 
+ -B 1G -H -v 
+ -B 1G -H --help 
+ -B 1G -H --version 
+ -B 1G -i -k 
+ -B 1G -i -l 
+ -B 1G -i --no-sync 
+ -B 1G -i --output=source 
+ -B 1G -i --output=fstype 
+ -B 1G -i --output=itotal 
+ -B 1G -i --output=iused 
+ -B 1G -i --output=iavail 
+ -B 1G -i --output=ipcent 
+ -B 1G -i --output=size 
+ -B 1G -i --output=used 
+ -B 1G -i --output=avail 
+ -B 1G -i --output=pcent 
+ -B 1G -i --output=file 
+ -B 1G -i --output=target 
+ -B 1G -i -P 
+ -B 1G -i --sync 
+ -B 1G -i --total 
+ -B 1G -i -t tmpfs 
+ -B 1G -i -x tmpfs 
+ -B 1G -i -v 
+ -B 1G -i --help 
+ -B 1G -i --version 
+ -B 1G -k -l 
+ -B 1G -k --no-sync 
+ -B 1G -k --output=source 
+ -B 1G -k --output=fstype 
+ -B 1G -k --output=itotal 
+ -B 1G -k --output=iused 
+ -B 1G -k --output=iavail 
+ -B 1G -k --output=ipcent 
+ -B 1G -k --output=size 
+ -B 1G -k --output=used 
+ -B 1G -k --output=avail 
+ -B 1G -k --output=pcent 
+ -B 1G -k --output=file 
+ -B 1G -k --output=target 
+ -B 1G -k -P 
+ -B 1G -k --sync 
+ -B 1G -k --total 
+ -B 1G -k -t tmpfs 
+ -B 1G -k -x tmpfs 
+ -B 1G -k -v 
+ -B 1G -k --help 
+ -B 1G -k --version 
+ -B 1G -l --no-sync 
+ -B 1G -l --output=source 
+ -B 1G -l --output=fstype 
+ -B 1G -l --output=itotal 
+ -B 1G -l --output=iused 
+ -B 1G -l --output=iavail 
+ -B 1G -l --output=ipcent 
+ -B 1G -l --output=size 
+ -B 1G -l --output=used 
+ -B 1G -l --output=avail 
+ -B 1G -l --output=pcent 
+ -B 1G -l --output=file 
+ -B 1G -l --output=target 
+ -B 1G -l -P 
+ -B 1G -l --sync 
+ -B 1G -l --total 
+ -B 1G -l -t tmpfs 
+ -B 1G -l -x tmpfs 
+ -B 1G -l -v 
+ -B 1G -l --help 
+ -B 1G -l --version 
+ -B 1G --no-sync --output=source 
+ -B 1G --no-sync --output=fstype 
+ -B 1G --no-sync --output=itotal 
+ -B 1G --no-sync --output=iused 
+ -B 1G --no-sync --output=iavail 
+ -B 1G --no-sync --output=ipcent 
+ -B 1G --no-sync --output=size 
+ -B 1G --no-sync --output=used 
+ -B 1G --no-sync --output=avail 
+ -B 1G --no-sync --output=pcent 
+ -B 1G --no-sync --output=file 
+ -B 1G --no-sync --output=target 
+ -B 1G --no-sync -P 
+ -B 1G --no-sync --sync 
+ -B 1G --no-sync --total 
+ -B 1G --no-sync -t tmpfs 
+ -B 1G --no-sync -x tmpfs 
+ -B 1G --no-sync -v 
+ -B 1G --no-sync --help 
+ -B 1G --no-sync --version 
+ -B 1G --output=source --output=fstype 
+ -B 1G --output=source --output=itotal 
+ -B 1G --output=source --output=iused 
+ -B 1G --output=source --output=iavail 
+ -B 1G --output=source --output=ipcent 
+ -B 1G --output=source --output=size 
+ -B 1G --output=source --output=used 
+ -B 1G --output=source --output=avail 
+ -B 1G --output=source --output=pcent 
+ -B 1G --output=source --output=file 
+ -B 1G --output=source --output=target 
+ -B 1G --output=source -P 
+ -B 1G --output=source --sync 
+ -B 1G --output=source --total 
+ -B 1G --output=source -t tmpfs 
+ -B 1G --output=source -x tmpfs 
+ -B 1G --output=source -v 
+ -B 1G --output=source --help 
+ -B 1G --output=source --version 
+ -B 1G --output=fstype --output=itotal 
+ -B 1G --output=fstype --output=iused 
+ -B 1G --output=fstype --output=iavail 
+ -B 1G --output=fstype --output=ipcent 
+ -B 1G --output=fstype --output=size 
+ -B 1G --output=fstype --output=used 
+ -B 1G --output=fstype --output=avail 
+ -B 1G --output=fstype --output=pcent 
+ -B 1G --output=fstype --output=file 
+ -B 1G --output=fstype --output=target 
+ -B 1G --output=fstype -P 
+ -B 1G --output=fstype --sync 
+ -B 1G --output=fstype --total 
+ -B 1G --output=fstype -t tmpfs 
+ -B 1G --output=fstype -x tmpfs 
+ -B 1G --output=fstype -v 
+ -B 1G --output=fstype --help 
+ -B 1G --output=fstype --version 
+ -B 1G --output=itotal --output=iused 
+ -B 1G --output=itotal --output=iavail 
+ -B 1G --output=itotal --output=ipcent 
+ -B 1G --output=itotal --output=size 
+ -B 1G --output=itotal --output=used 
+ -B 1G --output=itotal --output=avail 
+ -B 1G --output=itotal --output=pcent 
+ -B 1G --output=itotal --output=file 
+ -B 1G --output=itotal --output=target 
+ -B 1G --output=itotal -P 
+ -B 1G --output=itotal --sync 
+ -B 1G --output=itotal --total 
+ -B 1G --output=itotal -t tmpfs 
+ -B 1G --output=itotal -x tmpfs 
+ -B 1G --output=itotal -v 
+ -B 1G --output=itotal --help 
+ -B 1G --output=itotal --version 
+ -B 1G --output=iused --output=iavail 
+ -B 1G --output=iused --output=ipcent 
+ -B 1G --output=iused --output=size 
+ -B 1G --output=iused --output=used 
+ -B 1G --output=iused --output=avail 
+ -B 1G --output=iused --output=pcent 
+ -B 1G --output=iused --output=file 
+ -B 1G --output=iused --output=target 
+ -B 1G --output=iused -P 
+ -B 1G --output=iused --sync 
+ -B 1G --output=iused --total 
+ -B 1G --output=iused -t tmpfs 
+ -B 1G --output=iused -x tmpfs 
+ -B 1G --output=iused -v 
+ -B 1G --output=iused --help 
+ -B 1G --output=iused --version 
+ -B 1G --output=iavail --output=ipcent 
+ -B 1G --output=iavail --output=size 
+ -B 1G --output=iavail --output=used 
+ -B 1G --output=iavail --output=avail 
+ -B 1G --output=iavail --output=pcent 
+ -B 1G --output=iavail --output=file 
+ -B 1G --output=iavail --output=target 
+ -B 1G --output=iavail -P 
+ -B 1G --output=iavail --sync 
+ -B 1G --output=iavail --total 
+ -B 1G --output=iavail -t tmpfs 
+ -B 1G --output=iavail -x tmpfs 
+ -B 1G --output=iavail -v 
+ -B 1G --output=iavail --help 
+ -B 1G --output=iavail --version 
+ -B 1G --output=ipcent --output=size 
+ -B 1G --output=ipcent --output=used 
+ -B 1G --output=ipcent --output=avail 
+ -B 1G --output=ipcent --output=pcent 
+ -B 1G --output=ipcent --output=file 
+ -B 1G --output=ipcent --output=target 
+ -B 1G --output=ipcent -P 
+ -B 1G --output=ipcent --sync 
+ -B 1G --output=ipcent --total 
+ -B 1G --output=ipcent -t tmpfs 
+ -B 1G --output=ipcent -x tmpfs 
+ -B 1G --output=ipcent -v 
+ -B 1G --output=ipcent --help 
+ -B 1G --output=ipcent --version 
+ -B 1G --output=size --output=used 
+ -B 1G --output=size --output=avail 
+ -B 1G --output=size --output=pcent 
+ -B 1G --output=size --output=file 
+ -B 1G --output=size --output=target 
+ -B 1G --output=size -P 
+ -B 1G --output=size --sync 
+ -B 1G --output=size --total 
+ -B 1G --output=size -t tmpfs 
+ -B 1G --output=size -x tmpfs 
+ -B 1G --output=size -v 
+ -B 1G --output=size --help 
+ -B 1G --output=size --version 
+ -B 1G --output=used --output=avail 
+ -B 1G --output=used --output=pcent 
+ -B 1G --output=used --output=file 
+ -B 1G --output=used --output=target 
+ -B 1G --output=used -P 
+ -B 1G --output=used --sync 
+ -B 1G --output=used --total 
+ -B 1G --output=used -t tmpfs 
+ -B 1G --output=used -x tmpfs 
+ -B 1G --output=used -v 
+ -B 1G --output=used --help 
+ -B 1G --output=used --version 
+ -B 1G --output=avail --output=pcent 
+ -B 1G --output=avail --output=file 
+ -B 1G --output=avail --output=target 
+ -B 1G --output=avail -P 
+ -B 1G --output=avail --sync 
+ -B 1G --output=avail --total 
+ -B 1G --output=avail -t tmpfs 
+ -B 1G --output=avail -x tmpfs 
+ -B 1G --output=avail -v 
+ -B 1G --output=avail --help 
+ -B 1G --output=avail --version 
+ -B 1G --output=pcent --output=file 
+ -B 1G --output=pcent --output=target 
+ -B 1G --output=pcent -P 
+ -B 1G --output=pcent --sync 
+ -B 1G --output=pcent --total 
+ -B 1G --output=pcent -t tmpfs 
+ -B 1G --output=pcent -x tmpfs 
+ -B 1G --output=pcent -v 
+ -B 1G --output=pcent --help 
+ -B 1G --output=pcent --version 
+ -B 1G --output=file --output=target 
+ -B 1G --output=file -P 
+ -B 1G --output=file --sync 
+ -B 1G --output=file --total 
+ -B 1G --output=file -t tmpfs 
+ -B 1G --output=file -x tmpfs 
+ -B 1G --output=file -v 
+ -B 1G --output=file --help 
+ -B 1G --output=file --version 
+ -B 1G --output=target -P 
+ -B 1G --output=target --sync 
+ -B 1G --output=target --total 
+ -B 1G --output=target -t tmpfs 
+ -B 1G --output=target -x tmpfs 
+ -B 1G --output=target -v 
+ -B 1G --output=target --help 
+ -B 1G --output=target --version 
+ -B 1G -P --sync 
+ -B 1G -P --total 
+ -B 1G -P -t tmpfs 
+ -B 1G -P -x tmpfs 
+ -B 1G -P -v 
+ -B 1G -P --help 
+ -B 1G -P --version 
+ -B 1G --sync --total 
+ -B 1G --sync -t tmpfs 
+ -B 1G --sync -x tmpfs 
+ -B 1G --sync -v 
+ -B 1G --sync --help 
+ -B 1G --sync --version 
+ -B 1G --total -t tmpfs 
+ -B 1G --total -x tmpfs 
+ -B 1G --total -v 
+ -B 1G --total --help 
+ -B 1G --total --version 
+ -B 1G -t tmpfs -x tmpfs 
+ -B 1G -t tmpfs -v 
+ -B 1G -t tmpfs --help 
+ -B 1G -t tmpfs --version 
+ -B 1G -x tmpfs -v 
+ -B 1G -x tmpfs --help 
+ -B 1G -x tmpfs --version 
+ -B 1G -v --help 
+ -B 1G -v --version 
+ -B 1G --help --version 
+ -h -H -i 
+ -h -H -k 
+ -h -H -l 
+ -h -H --no-sync 
+ -h -H --output=source 
+ -h -H --output=fstype 
+ -h -H --output=itotal 
+ -h -H --output=iused 
+ -h -H --output=iavail 
+ -h -H --output=ipcent 
+ -h -H --output=size 
+ -h -H --output=used 
+ -h -H --output=avail 
+ -h -H --output=pcent 
+ -h -H --output=file 
+ -h -H --output=target 
+ -h -H -P 
+ -h -H --sync 
+ -h -H --total 
+ -h -H -t tmpfs 
+ -h -H -x tmpfs 
+ -h -H -v 
+ -h -H --help 
+ -h -H --version 
+ -h -i -k 
+ -h -i -l 
+ -h -i --no-sync 
+ -h -i --output=source 
+ -h -i --output=fstype 
+ -h -i --output=itotal 
+ -h -i --output=iused 
+ -h -i --output=iavail 
+ -h -i --output=ipcent 
+ -h -i --output=size 
+ -h -i --output=used 
+ -h -i --output=avail 
+ -h -i --output=pcent 
+ -h -i --output=file 
+ -h -i --output=target 
+ -h -i -P 
+ -h -i --sync 
+ -h -i --total 
+ -h -i -t tmpfs 
+ -h -i -x tmpfs 
+ -h -i -v 
+ -h -i --help 
+ -h -i --version 
+ -h -k -l 
+ -h -k --no-sync 
+ -h -k --output=source 
+ -h -k --output=fstype 
+ -h -k --output=itotal 
+ -h -k --output=iused 
+ -h -k --output=iavail 
+ -h -k --output=ipcent 
+ -h -k --output=size 
+ -h -k --output=used 
+ -h -k --output=avail 
+ -h -k --output=pcent 
+ -h -k --output=file 
+ -h -k --output=target 
+ -h -k -P 
+ -h -k --sync 
+ -h -k --total 
+ -h -k -t tmpfs 
+ -h -k -x tmpfs 
+ -h -k -v 
+ -h -k --help 
+ -h -k --version 
+ -h -l --no-sync 
+ -h -l --output=source 
+ -h -l --output=fstype 
+ -h -l --output=itotal 
+ -h -l --output=iused 
+ -h -l --output=iavail 
+ -h -l --output=ipcent 
+ -h -l --output=size 
+ -h -l --output=used 
+ -h -l --output=avail 
+ -h -l --output=pcent 
+ -h -l --output=file 
+ -h -l --output=target 
+ -h -l -P 
+ -h -l --sync 
+ -h -l --total 
+ -h -l -t tmpfs 
+ -h -l -x tmpfs 
+ -h -l -v 
+ -h -l --help 
+ -h -l --version 
+ -h --no-sync --output=source 
+ -h --no-sync --output=fstype 
+ -h --no-sync --output=itotal 
+ -h --no-sync --output=iused 
+ -h --no-sync --output=iavail 
+ -h --no-sync --output=ipcent 
+ -h --no-sync --output=size 
+ -h --no-sync --output=used 
+ -h --no-sync --output=avail 
+ -h --no-sync --output=pcent 
+ -h --no-sync --output=file 
+ -h --no-sync --output=target 
+ -h --no-sync -P 
+ -h --no-sync --sync 
+ -h --no-sync --total 
+ -h --no-sync -t tmpfs 
+ -h --no-sync -x tmpfs 
+ -h --no-sync -v 
+ -h --no-sync --help 
+ -h --no-sync --version 
+ -h --output=source --output=fstype 
+ -h --output=source --output=itotal 
+ -h --output=source --output=iused 
+ -h --output=source --output=iavail 
+ -h --output=source --output=ipcent 
+ -h --output=source --output=size 
+ -h --output=source --output=used 
+ -h --output=source --output=avail 
+ -h --output=source --output=pcent 
+ -h --output=source --output=file 
+ -h --output=source --output=target 
+ -h --output=source -P 
+ -h --output=source --sync 
+ -h --output=source --total 
+ -h --output=source -t tmpfs 
+ -h --output=source -x tmpfs 
+ -h --output=source -v 
+ -h --output=source --help 
+ -h --output=source --version 
+ -h --output=fstype --output=itotal 
+ -h --output=fstype --output=iused 
+ -h --output=fstype --output=iavail 
+ -h --output=fstype --output=ipcent 
+ -h --output=fstype --output=size 
+ -h --output=fstype --output=used 
+ -h --output=fstype --output=avail 
+ -h --output=fstype --output=pcent 
+ -h --output=fstype --output=file 
+ -h --output=fstype --output=target 
+ -h --output=fstype -P 
+ -h --output=fstype --sync 
+ -h --output=fstype --total 
+ -h --output=fstype -t tmpfs 
+ -h --output=fstype -x tmpfs 
+ -h --output=fstype -v 
+ -h --output=fstype --help 
+ -h --output=fstype --version 
+ -h --output=itotal --output=iused 
+ -h --output=itotal --output=iavail 
+ -h --output=itotal --output=ipcent 
+ -h --output=itotal --output=size 
+ -h --output=itotal --output=used 
+ -h --output=itotal --output=avail 
+ -h --output=itotal --output=pcent 
+ -h --output=itotal --output=file 
+ -h --output=itotal --output=target 
+ -h --output=itotal -P 
+ -h --output=itotal --sync 
+ -h --output=itotal --total 
+ -h --output=itotal -t tmpfs 
+ -h --output=itotal -x tmpfs 
+ -h --output=itotal -v 
+ -h --output=itotal --help 
+ -h --output=itotal --version 
+ -h --output=iused --output=iavail 
+ -h --output=iused --output=ipcent 
+ -h --output=iused --output=size 
+ -h --output=iused --output=used 
+ -h --output=iused --output=avail 
+ -h --output=iused --output=pcent 
+ -h --output=iused --output=file 
+ -h --output=iused --output=target 
+ -h --output=iused -P 
+ -h --output=iused --sync 
+ -h --output=iused --total 
+ -h --output=iused -t tmpfs 
+ -h --output=iused -x tmpfs 
+ -h --output=iused -v 
+ -h --output=iused --help 
+ -h --output=iused --version 
+ -h --output=iavail --output=ipcent 
+ -h --output=iavail --output=size 
+ -h --output=iavail --output=used 
+ -h --output=iavail --output=avail 
+ -h --output=iavail --output=pcent 
+ -h --output=iavail --output=file 
+ -h --output=iavail --output=target 
+ -h --output=iavail -P 
+ -h --output=iavail --sync 
+ -h --output=iavail --total 
+ -h --output=iavail -t tmpfs 
+ -h --output=iavail -x tmpfs 
+ -h --output=iavail -v 
+ -h --output=iavail --help 
+ -h --output=iavail --version 
+ -h --output=ipcent --output=size 
+ -h --output=ipcent --output=used 
+ -h --output=ipcent --output=avail 
+ -h --output=ipcent --output=pcent 
+ -h --output=ipcent --output=file 
+ -h --output=ipcent --output=target 
+ -h --output=ipcent -P 
+ -h --output=ipcent --sync 
+ -h --output=ipcent --total 
+ -h --output=ipcent -t tmpfs 
+ -h --output=ipcent -x tmpfs 
+ -h --output=ipcent -v 
+ -h --output=ipcent --help 
+ -h --output=ipcent --version 
+ -h --output=size --output=used 
+ -h --output=size --output=avail 
+ -h --output=size --output=pcent 
+ -h --output=size --output=file 
+ -h --output=size --output=target 
+ -h --output=size -P 
+ -h --output=size --sync 
+ -h --output=size --total 
+ -h --output=size -t tmpfs 
+ -h --output=size -x tmpfs 
+ -h --output=size -v 
+ -h --output=size --help 
+ -h --output=size --version 
+ -h --output=used --output=avail 
+ -h --output=used --output=pcent 
+ -h --output=used --output=file 
+ -h --output=used --output=target 
+ -h --output=used -P 
+ -h --output=used --sync 
+ -h --output=used --total 
+ -h --output=used -t tmpfs 
+ -h --output=used -x tmpfs 
+ -h --output=used -v 
+ -h --output=used --help 
+ -h --output=used --version 
+ -h --output=avail --output=pcent 
+ -h --output=avail --output=file 
+ -h --output=avail --output=target 
+ -h --output=avail -P 
+ -h --output=avail --sync 
+ -h --output=avail --total 
+ -h --output=avail -t tmpfs 
+ -h --output=avail -x tmpfs 
+ -h --output=avail -v 
+ -h --output=avail --help 
+ -h --output=avail --version 
+ -h --output=pcent --output=file 
+ -h --output=pcent --output=target 
+ -h --output=pcent -P 
+ -h --output=pcent --sync 
+ -h --output=pcent --total 
+ -h --output=pcent -t tmpfs 
+ -h --output=pcent -x tmpfs 
+ -h --output=pcent -v 
+ -h --output=pcent --help 
+ -h --output=pcent --version 
+ -h --output=file --output=target 
+ -h --output=file -P 
+ -h --output=file --sync 
+ -h --output=file --total 
+ -h --output=file -t tmpfs 
+ -h --output=file -x tmpfs 
+ -h --output=file -v 
+ -h --output=file --help 
+ -h --output=file --version 
+ -h --output=target -P 
+ -h --output=target --sync 
+ -h --output=target --total 
+ -h --output=target -t tmpfs 
+ -h --output=target -x tmpfs 
+ -h --output=target -v 
+ -h --output=target --help 
+ -h --output=target --version 
+ -h -P --sync 
+ -h -P --total 
+ -h -P -t tmpfs 
+ -h -P -x tmpfs 
+ -h -P -v 
+ -h -P --help 
+ -h -P --version 
+ -h --sync --total 
+ -h --sync -t tmpfs 
+ -h --sync -x tmpfs 
+ -h --sync -v 
+ -h --sync --help 
+ -h --sync --version 
+ -h --total -t tmpfs 
+ -h --total -x tmpfs 
+ -h --total -v 
+ -h --total --help 
+ -h --total --version 
+ -h -t tmpfs -x tmpfs 
+ -h -t tmpfs -v 
+ -h -t tmpfs --help 
+ -h -t tmpfs --version 
+ -h -x tmpfs -v 
+ -h -x tmpfs --help 
+ -h -x tmpfs --version 
+ -h -v --help 
+ -h -v --version 
+ -h --help --version 
+ -H -i -k 
+ -H -i -l 
+ -H -i --no-sync 
+ -H -i --output=source 
+ -H -i --output=fstype 
+ -H -i --output=itotal 
+ -H -i --output=iused 
+ -H -i --output=iavail 
+ -H -i --output=ipcent 
+ -H -i --output=size 
+ -H -i --output=used 
+ -H -i --output=avail 
+ -H -i --output=pcent 
+ -H -i --output=file 
+ -H -i --output=target 
+ -H -i -P 
+ -H -i --sync 
+ -H -i --total 
+ -H -i -t tmpfs 
+ -H -i -x tmpfs 
+ -H -i -v 
+ -H -i --help 
+ -H -i --version 
+ -H -k -l 
+ -H -k --no-sync 
+ -H -k --output=source 
+ -H -k --output=fstype 
+ -H -k --output=itotal 
+ -H -k --output=iused 
+ -H -k --output=iavail 
+ -H -k --output=ipcent 
+ -H -k --output=size 
+ -H -k --output=used 
+ -H -k --output=avail 
+ -H -k --output=pcent 
+ -H -k --output=file 
+ -H -k --output=target 
+ -H -k -P 
+ -H -k --sync 
+ -H -k --total 
+ -H -k -t tmpfs 
+ -H -k -x tmpfs 
+ -H -k -v 
+ -H -k --help 
+ -H -k --version 
+ -H -l --no-sync 
+ -H -l --output=source 
+ -H -l --output=fstype 
+ -H -l --output=itotal 
+ -H -l --output=iused 
+ -H -l --output=iavail 
+ -H -l --output=ipcent 
+ -H -l --output=size 
+ -H -l --output=used 
+ -H -l --output=avail 
+ -H -l --output=pcent 
+ -H -l --output=file 
+ -H -l --output=target 
+ -H -l -P 
+ -H -l --sync 
+ -H -l --total 
+ -H -l -t tmpfs 
+ -H -l -x tmpfs 
+ -H -l -v 
+ -H -l --help 
+ -H -l --version 
+ -H --no-sync --output=source 
+ -H --no-sync --output=fstype 
+ -H --no-sync --output=itotal 
+ -H --no-sync --output=iused 
+ -H --no-sync --output=iavail 
+ -H --no-sync --output=ipcent 
+ -H --no-sync --output=size 
+ -H --no-sync --output=used 
+ -H --no-sync --output=avail 
+ -H --no-sync --output=pcent 
+ -H --no-sync --output=file 
+ -H --no-sync --output=target 
+ -H --no-sync -P 
+ -H --no-sync --sync 
+ -H --no-sync --total 
+ -H --no-sync -t tmpfs 
+ -H --no-sync -x tmpfs 
+ -H --no-sync -v 
+ -H --no-sync --help 
+ -H --no-sync --version 
+ -H --output=source --output=fstype 
+ -H --output=source --output=itotal 
+ -H --output=source --output=iused 
+ -H --output=source --output=iavail 
+ -H --output=source --output=ipcent 
+ -H --output=source --output=size 
+ -H --output=source --output=used 
+ -H --output=source --output=avail 
+ -H --output=source --output=pcent 
+ -H --output=source --output=file 
+ -H --output=source --output=target 
+ -H --output=source -P 
+ -H --output=source --sync 
+ -H --output=source --total 
+ -H --output=source -t tmpfs 
+ -H --output=source -x tmpfs 
+ -H --output=source -v 
+ -H --output=source --help 
+ -H --output=source --version 
+ -H --output=fstype --output=itotal 
+ -H --output=fstype --output=iused 
+ -H --output=fstype --output=iavail 
+ -H --output=fstype --output=ipcent 
+ -H --output=fstype --output=size 
+ -H --output=fstype --output=used 
+ -H --output=fstype --output=avail 
+ -H --output=fstype --output=pcent 
+ -H --output=fstype --output=file 
+ -H --output=fstype --output=target 
+ -H --output=fstype -P 
+ -H --output=fstype --sync 
+ -H --output=fstype --total 
+ -H --output=fstype -t tmpfs 
+ -H --output=fstype -x tmpfs 
+ -H --output=fstype -v 
+ -H --output=fstype --help 
+ -H --output=fstype --version 
+ -H --output=itotal --output=iused 
+ -H --output=itotal --output=iavail 
+ -H --output=itotal --output=ipcent 
+ -H --output=itotal --output=size 
+ -H --output=itotal --output=used 
+ -H --output=itotal --output=avail 
+ -H --output=itotal --output=pcent 
+ -H --output=itotal --output=file 
+ -H --output=itotal --output=target 
+ -H --output=itotal -P 
+ -H --output=itotal --sync 
+ -H --output=itotal --total 
+ -H --output=itotal -t tmpfs 
+ -H --output=itotal -x tmpfs 
+ -H --output=itotal -v 
+ -H --output=itotal --help 
+ -H --output=itotal --version 
+ -H --output=iused --output=iavail 
+ -H --output=iused --output=ipcent 
+ -H --output=iused --output=size 
+ -H --output=iused --output=used 
+ -H --output=iused --output=avail 
+ -H --output=iused --output=pcent 
+ -H --output=iused --output=file 
+ -H --output=iused --output=target 
+ -H --output=iused -P 
+ -H --output=iused --sync 
+ -H --output=iused --total 
+ -H --output=iused -t tmpfs 
+ -H --output=iused -x tmpfs 
+ -H --output=iused -v 
+ -H --output=iused --help 
+ -H --output=iused --version 
+ -H --output=iavail --output=ipcent 
+ -H --output=iavail --output=size 
+ -H --output=iavail --output=used 
+ -H --output=iavail --output=avail 
+ -H --output=iavail --output=pcent 
+ -H --output=iavail --output=file 
+ -H --output=iavail --output=target 
+ -H --output=iavail -P 
+ -H --output=iavail --sync 
+ -H --output=iavail --total 
+ -H --output=iavail -t tmpfs 
+ -H --output=iavail -x tmpfs 
+ -H --output=iavail -v 
+ -H --output=iavail --help 
+ -H --output=iavail --version 
+ -H --output=ipcent --output=size 
+ -H --output=ipcent --output=used 
+ -H --output=ipcent --output=avail 
+ -H --output=ipcent --output=pcent 
+ -H --output=ipcent --output=file 
+ -H --output=ipcent --output=target 
+ -H --output=ipcent -P 
+ -H --output=ipcent --sync 
+ -H --output=ipcent --total 
+ -H --output=ipcent -t tmpfs 
+ -H --output=ipcent -x tmpfs 
+ -H --output=ipcent -v 
+ -H --output=ipcent --help 
+ -H --output=ipcent --version 
+ -H --output=size --output=used 
+ -H --output=size --output=avail 
+ -H --output=size --output=pcent 
+ -H --output=size --output=file 
+ -H --output=size --output=target 
+ -H --output=size -P 
+ -H --output=size --sync 
+ -H --output=size --total 
+ -H --output=size -t tmpfs 
+ -H --output=size -x tmpfs 
+ -H --output=size -v 
+ -H --output=size --help 
+ -H --output=size --version 
+ -H --output=used --output=avail 
+ -H --output=used --output=pcent 
+ -H --output=used --output=file 
+ -H --output=used --output=target 
+ -H --output=used -P 
+ -H --output=used --sync 
+ -H --output=used --total 
+ -H --output=used -t tmpfs 
+ -H --output=used -x tmpfs 
+ -H --output=used -v 
+ -H --output=used --help 
+ -H --output=used --version 
+ -H --output=avail --output=pcent 
+ -H --output=avail --output=file 
+ -H --output=avail --output=target 
+ -H --output=avail -P 
+ -H --output=avail --sync 
+ -H --output=avail --total 
+ -H --output=avail -t tmpfs 
+ -H --output=avail -x tmpfs 
+ -H --output=avail -v 
+ -H --output=avail --help 
+ -H --output=avail --version 
+ -H --output=pcent --output=file 
+ -H --output=pcent --output=target 
+ -H --output=pcent -P 
+ -H --output=pcent --sync 
+ -H --output=pcent --total 
+ -H --output=pcent -t tmpfs 
+ -H --output=pcent -x tmpfs 
+ -H --output=pcent -v 
+ -H --output=pcent --help 
+ -H --output=pcent --version 
+ -H --output=file --output=target 
+ -H --output=file -P 
+ -H --output=file --sync 
+ -H --output=file --total 
+ -H --output=file -t tmpfs 
+ -H --output=file -x tmpfs 
+ -H --output=file -v 
+ -H --output=file --help 
+ -H --output=file --version 
+ -H --output=target -P 
+ -H --output=target --sync 
+ -H --output=target --total 
+ -H --output=target -t tmpfs 
+ -H --output=target -x tmpfs 
+ -H --output=target -v 
+ -H --output=target --help 
+ -H --output=target --version 
+ -H -P --sync 
+ -H -P --total 
+ -H -P -t tmpfs 
+ -H -P -x tmpfs 
+ -H -P -v 
+ -H -P --help 
+ -H -P --version 
+ -H --sync --total 
+ -H --sync -t tmpfs 
+ -H --sync -x tmpfs 
+ -H --sync -v 
+ -H --sync --help 
+ -H --sync --version 
+ -H --total -t tmpfs 
+ -H --total -x tmpfs 
+ -H --total -v 
+ -H --total --help 
+ -H --total --version 
+ -H -t tmpfs -x tmpfs 
+ -H -t tmpfs -v 
+ -H -t tmpfs --help 
+ -H -t tmpfs --version 
+ -H -x tmpfs -v 
+ -H -x tmpfs --help 
+ -H -x tmpfs --version 
+ -H -v --help 
+ -H -v --version 
+ -H --help --version 
+ -i -k -l 
+ -i -k --no-sync 
+ -i -k --output=source 
+ -i -k --output=fstype 
+ -i -k --output=itotal 
+ -i -k --output=iused 
+ -i -k --output=iavail 
+ -i -k --output=ipcent 
+ -i -k --output=size 
+ -i -k --output=used 
+ -i -k --output=avail 
+ -i -k --output=pcent 
+ -i -k --output=file 
+ -i -k --output=target 
+ -i -k -P 
+ -i -k --sync 
+ -i -k --total 
+ -i -k -t tmpfs 
+ -i -k -x tmpfs 
+ -i -k -v 
+ -i -k --help 
+ -i -k --version 
+ -i -l --no-sync 
+ -i -l --output=source 
+ -i -l --output=fstype 
+ -i -l --output=itotal 
+ -i -l --output=iused 
+ -i -l --output=iavail 
+ -i -l --output=ipcent 
+ -i -l --output=size 
+ -i -l --output=used 
+ -i -l --output=avail 
+ -i -l --output=pcent 
+ -i -l --output=file 
+ -i -l --output=target 
+ -i -l -P 
+ -i -l --sync 
+ -i -l --total 
+ -i -l -t tmpfs 
+ -i -l -x tmpfs 
+ -i -l -v 
+ -i -l --help 
+ -i -l --version 
+ -i --no-sync --output=source 
+ -i --no-sync --output=fstype 
+ -i --no-sync --output=itotal 
+ -i --no-sync --output=iused 
+ -i --no-sync --output=iavail 
+ -i --no-sync --output=ipcent 
+ -i --no-sync --output=size 
+ -i --no-sync --output=used 
+ -i --no-sync --output=avail 
+ -i --no-sync --output=pcent 
+ -i --no-sync --output=file 
+ -i --no-sync --output=target 
+ -i --no-sync -P 
+ -i --no-sync --sync 
+ -i --no-sync --total 
+ -i --no-sync -t tmpfs 
+ -i --no-sync -x tmpfs 
+ -i --no-sync -v 
+ -i --no-sync --help 
+ -i --no-sync --version 
+ -i --output=source --output=fstype 
+ -i --output=source --output=itotal 
+ -i --output=source --output=iused 
+ -i --output=source --output=iavail 
+ -i --output=source --output=ipcent 
+ -i --output=source --output=size 
+ -i --output=source --output=used 
+ -i --output=source --output=avail 
+ -i --output=source --output=pcent 
+ -i --output=source --output=file 
+ -i --output=source --output=target 
+ -i --output=source -P 
+ -i --output=source --sync 
+ -i --output=source --total 
+ -i --output=source -t tmpfs 
+ -i --output=source -x tmpfs 
+ -i --output=source -v 
+ -i --output=source --help 
+ -i --output=source --version 
+ -i --output=fstype --output=itotal 
+ -i --output=fstype --output=iused 
+ -i --output=fstype --output=iavail 
+ -i --output=fstype --output=ipcent 
+ -i --output=fstype --output=size 
+ -i --output=fstype --output=used 
+ -i --output=fstype --output=avail 
+ -i --output=fstype --output=pcent 
+ -i --output=fstype --output=file 
+ -i --output=fstype --output=target 
+ -i --output=fstype -P 
+ -i --output=fstype --sync 
+ -i --output=fstype --total 
+ -i --output=fstype -t tmpfs 
+ -i --output=fstype -x tmpfs 
+ -i --output=fstype -v 
+ -i --output=fstype --help 
+ -i --output=fstype --version 
+ -i --output=itotal --output=iused 
+ -i --output=itotal --output=iavail 
+ -i --output=itotal --output=ipcent 
+ -i --output=itotal --output=size 
+ -i --output=itotal --output=used 
+ -i --output=itotal --output=avail 
+ -i --output=itotal --output=pcent 
+ -i --output=itotal --output=file 
+ -i --output=itotal --output=target 
+ -i --output=itotal -P 
+ -i --output=itotal --sync 
+ -i --output=itotal --total 
+ -i --output=itotal -t tmpfs 
+ -i --output=itotal -x tmpfs 
+ -i --output=itotal -v 
+ -i --output=itotal --help 
+ -i --output=itotal --version 
+ -i --output=iused --output=iavail 
+ -i --output=iused --output=ipcent 
+ -i --output=iused --output=size 
+ -i --output=iused --output=used 
+ -i --output=iused --output=avail 
+ -i --output=iused --output=pcent 
+ -i --output=iused --output=file 
+ -i --output=iused --output=target 
+ -i --output=iused -P 
+ -i --output=iused --sync 
+ -i --output=iused --total 
+ -i --output=iused -t tmpfs 
+ -i --output=iused -x tmpfs 
+ -i --output=iused -v 
+ -i --output=iused --help 
+ -i --output=iused --version 
+ -i --output=iavail --output=ipcent 
+ -i --output=iavail --output=size 
+ -i --output=iavail --output=used 
+ -i --output=iavail --output=avail 
+ -i --output=iavail --output=pcent 
+ -i --output=iavail --output=file 
+ -i --output=iavail --output=target 
+ -i --output=iavail -P 
+ -i --output=iavail --sync 
+ -i --output=iavail --total 
+ -i --output=iavail -t tmpfs 
+ -i --output=iavail -x tmpfs 
+ -i --output=iavail -v 
+ -i --output=iavail --help 
+ -i --output=iavail --version 
+ -i --output=ipcent --output=size 
+ -i --output=ipcent --output=used 
+ -i --output=ipcent --output=avail 
+ -i --output=ipcent --output=pcent 
+ -i --output=ipcent --output=file 
+ -i --output=ipcent --output=target 
+ -i --output=ipcent -P 
+ -i --output=ipcent --sync 
+ -i --output=ipcent --total 
+ -i --output=ipcent -t tmpfs 
+ -i --output=ipcent -x tmpfs 
+ -i --output=ipcent -v 
+ -i --output=ipcent --help 
+ -i --output=ipcent --version 
+ -i --output=size --output=used 
+ -i --output=size --output=avail 
+ -i --output=size --output=pcent 
+ -i --output=size --output=file 
+ -i --output=size --output=target 
+ -i --output=size -P 
+ -i --output=size --sync 
+ -i --output=size --total 
+ -i --output=size -t tmpfs 
+ -i --output=size -x tmpfs 
+ -i --output=size -v 
+ -i --output=size --help 
+ -i --output=size --version 
+ -i --output=used --output=avail 
+ -i --output=used --output=pcent 
+ -i --output=used --output=file 
+ -i --output=used --output=target 
+ -i --output=used -P 
+ -i --output=used --sync 
+ -i --output=used --total 
+ -i --output=used -t tmpfs 
+ -i --output=used -x tmpfs 
+ -i --output=used -v 
+ -i --output=used --help 
+ -i --output=used --version 
+ -i --output=avail --output=pcent 
+ -i --output=avail --output=file 
+ -i --output=avail --output=target 
+ -i --output=avail -P 
+ -i --output=avail --sync 
+ -i --output=avail --total 
+ -i --output=avail -t tmpfs 
+ -i --output=avail -x tmpfs 
+ -i --output=avail -v 
+ -i --output=avail --help 
+ -i --output=avail --version 
+ -i --output=pcent --output=file 
+ -i --output=pcent --output=target 
+ -i --output=pcent -P 
+ -i --output=pcent --sync 
+ -i --output=pcent --total 
+ -i --output=pcent -t tmpfs 
+ -i --output=pcent -x tmpfs 
+ -i --output=pcent -v 
+ -i --output=pcent --help 
+ -i --output=pcent --version 
+ -i --output=file --output=target 
+ -i --output=file -P 
+ -i --output=file --sync 
+ -i --output=file --total 
+ -i --output=file -t tmpfs 
+ -i --output=file -x tmpfs 
+ -i --output=file -v 
+ -i --output=file --help 
+ -i --output=file --version 
+ -i --output=target -P 
+ -i --output=target --sync 
+ -i --output=target --total 
+ -i --output=target -t tmpfs 
+ -i --output=target -x tmpfs 
+ -i --output=target -v 
+ -i --output=target --help 
+ -i --output=target --version 
+ -i -P --sync 
+ -i -P --total 
+ -i -P -t tmpfs 
+ -i -P -x tmpfs 
+ -i -P -v 
+ -i -P --help 
+ -i -P --version 
+ -i --sync --total 
+ -i --sync -t tmpfs 
+ -i --sync -x tmpfs 
+ -i --sync -v 
+ -i --sync --help 
+ -i --sync --version 
+ -i --total -t tmpfs 
+ -i --total -x tmpfs 
+ -i --total -v 
+ -i --total --help 
+ -i --total --version 
+ -i -t tmpfs -x tmpfs 
+ -i -t tmpfs -v 
+ -i -t tmpfs --help 
+ -i -t tmpfs --version 
+ -i -x tmpfs -v 
+ -i -x tmpfs --help 
+ -i -x tmpfs --version 
+ -i -v --help 
+ -i -v --version 
+ -i --help --version 
+ -k -l --no-sync 
+ -k -l --output=source 
+ -k -l --output=fstype 
+ -k -l --output=itotal 
+ -k -l --output=iused 
+ -k -l --output=iavail 
+ -k -l --output=ipcent 
+ -k -l --output=size 
+ -k -l --output=used 
+ -k -l --output=avail 
+ -k -l --output=pcent 
+ -k -l --output=file 
+ -k -l --output=target 
+ -k -l -P 
+ -k -l --sync 
+ -k -l --total 
+ -k -l -t tmpfs 
+ -k -l -x tmpfs 
+ -k -l -v 
+ -k -l --help 
+ -k -l --version 
+ -k --no-sync --output=source 
+ -k --no-sync --output=fstype 
+ -k --no-sync --output=itotal 
+ -k --no-sync --output=iused 
+ -k --no-sync --output=iavail 
+ -k --no-sync --output=ipcent 
+ -k --no-sync --output=size 
+ -k --no-sync --output=used 
+ -k --no-sync --output=avail 
+ -k --no-sync --output=pcent 
+ -k --no-sync --output=file 
+ -k --no-sync --output=target 
+ -k --no-sync -P 
+ -k --no-sync --sync 
+ -k --no-sync --total 
+ -k --no-sync -t tmpfs 
+ -k --no-sync -x tmpfs 
+ -k --no-sync -v 
+ -k --no-sync --help 
+ -k --no-sync --version 
+ -k --output=source --output=fstype 
+ -k --output=source --output=itotal 
+ -k --output=source --output=iused 
+ -k --output=source --output=iavail 
+ -k --output=source --output=ipcent 
+ -k --output=source --output=size 
+ -k --output=source --output=used 
+ -k --output=source --output=avail 
+ -k --output=source --output=pcent 
+ -k --output=source --output=file 
+ -k --output=source --output=target 
+ -k --output=source -P 
+ -k --output=source --sync 
+ -k --output=source --total 
+ -k --output=source -t tmpfs 
+ -k --output=source -x tmpfs 
+ -k --output=source -v 
+ -k --output=source --help 
+ -k --output=source --version 
+ -k --output=fstype --output=itotal 
+ -k --output=fstype --output=iused 
+ -k --output=fstype --output=iavail 
+ -k --output=fstype --output=ipcent 
+ -k --output=fstype --output=size 
+ -k --output=fstype --output=used 
+ -k --output=fstype --output=avail 
+ -k --output=fstype --output=pcent 
+ -k --output=fstype --output=file 
+ -k --output=fstype --output=target 
+ -k --output=fstype -P 
+ -k --output=fstype --sync 
+ -k --output=fstype --total 
+ -k --output=fstype -t tmpfs 
+ -k --output=fstype -x tmpfs 
+ -k --output=fstype -v 
+ -k --output=fstype --help 
+ -k --output=fstype --version 
+ -k --output=itotal --output=iused 
+ -k --output=itotal --output=iavail 
+ -k --output=itotal --output=ipcent 
+ -k --output=itotal --output=size 
+ -k --output=itotal --output=used 
+ -k --output=itotal --output=avail 
+ -k --output=itotal --output=pcent 
+ -k --output=itotal --output=file 
+ -k --output=itotal --output=target 
+ -k --output=itotal -P 
+ -k --output=itotal --sync 
+ -k --output=itotal --total 
+ -k --output=itotal -t tmpfs 
+ -k --output=itotal -x tmpfs 
+ -k --output=itotal -v 
+ -k --output=itotal --help 
+ -k --output=itotal --version 
+ -k --output=iused --output=iavail 
+ -k --output=iused --output=ipcent 
+ -k --output=iused --output=size 
+ -k --output=iused --output=used 
+ -k --output=iused --output=avail 
+ -k --output=iused --output=pcent 
+ -k --output=iused --output=file 
+ -k --output=iused --output=target 
+ -k --output=iused -P 
+ -k --output=iused --sync 
+ -k --output=iused --total 
+ -k --output=iused -t tmpfs 
+ -k --output=iused -x tmpfs 
+ -k --output=iused -v 
+ -k --output=iused --help 
+ -k --output=iused --version 
+ -k --output=iavail --output=ipcent 
+ -k --output=iavail --output=size 
+ -k --output=iavail --output=used 
+ -k --output=iavail --output=avail 
+ -k --output=iavail --output=pcent 
+ -k --output=iavail --output=file 
+ -k --output=iavail --output=target 
+ -k --output=iavail -P 
+ -k --output=iavail --sync 
+ -k --output=iavail --total 
+ -k --output=iavail -t tmpfs 
+ -k --output=iavail -x tmpfs 
+ -k --output=iavail -v 
+ -k --output=iavail --help 
+ -k --output=iavail --version 
+ -k --output=ipcent --output=size 
+ -k --output=ipcent --output=used 
+ -k --output=ipcent --output=avail 
+ -k --output=ipcent --output=pcent 
+ -k --output=ipcent --output=file 
+ -k --output=ipcent --output=target 
+ -k --output=ipcent -P 
+ -k --output=ipcent --sync 
+ -k --output=ipcent --total 
+ -k --output=ipcent -t tmpfs 
+ -k --output=ipcent -x tmpfs 
+ -k --output=ipcent -v 
+ -k --output=ipcent --help 
+ -k --output=ipcent --version 
+ -k --output=size --output=used 
+ -k --output=size --output=avail 
+ -k --output=size --output=pcent 
+ -k --output=size --output=file 
+ -k --output=size --output=target 
+ -k --output=size -P 
+ -k --output=size --sync 
+ -k --output=size --total 
+ -k --output=size -t tmpfs 
+ -k --output=size -x tmpfs 
+ -k --output=size -v 
+ -k --output=size --help 
+ -k --output=size --version 
+ -k --output=used --output=avail 
+ -k --output=used --output=pcent 
+ -k --output=used --output=file 
+ -k --output=used --output=target 
+ -k --output=used -P 
+ -k --output=used --sync 
+ -k --output=used --total 
+ -k --output=used -t tmpfs 
+ -k --output=used -x tmpfs 
+ -k --output=used -v 
+ -k --output=used --help 
+ -k --output=used --version 
+ -k --output=avail --output=pcent 
+ -k --output=avail --output=file 
+ -k --output=avail --output=target 
+ -k --output=avail -P 
+ -k --output=avail --sync 
+ -k --output=avail --total 
+ -k --output=avail -t tmpfs 
+ -k --output=avail -x tmpfs 
+ -k --output=avail -v 
+ -k --output=avail --help 
+ -k --output=avail --version 
+ -k --output=pcent --output=file 
+ -k --output=pcent --output=target 
+ -k --output=pcent -P 
+ -k --output=pcent --sync 
+ -k --output=pcent --total 
+ -k --output=pcent -t tmpfs 
+ -k --output=pcent -x tmpfs 
+ -k --output=pcent -v 
+ -k --output=pcent --help 
+ -k --output=pcent --version 
+ -k --output=file --output=target 
+ -k --output=file -P 
+ -k --output=file --sync 
+ -k --output=file --total 
+ -k --output=file -t tmpfs 
+ -k --output=file -x tmpfs 
+ -k --output=file -v 
+ -k --output=file --help 
+ -k --output=file --version 
+ -k --output=target -P 
+ -k --output=target --sync 
+ -k --output=target --total 
+ -k --output=target -t tmpfs 
+ -k --output=target -x tmpfs 
+ -k --output=target -v 
+ -k --output=target --help 
+ -k --output=target --version 
+ -k -P --sync 
+ -k -P --total 
+ -k -P -t tmpfs 
+ -k -P -x tmpfs 
+ -k -P -v 
+ -k -P --help 
+ -k -P --version 
+ -k --sync --total 
+ -k --sync -t tmpfs 
+ -k --sync -x tmpfs 
+ -k --sync -v 
+ -k --sync --help 
+ -k --sync --version 
+ -k --total -t tmpfs 
+ -k --total -x tmpfs 
+ -k --total -v 
+ -k --total --help 
+ -k --total --version 
+ -k -t tmpfs -x tmpfs 
+ -k -t tmpfs -v 
+ -k -t tmpfs --help 
+ -k -t tmpfs --version 
+ -k -x tmpfs -v 
+ -k -x tmpfs --help 
+ -k -x tmpfs --version 
+ -k -v --help 
+ -k -v --version 
+ -k --help --version 
+ -l --no-sync --output=source 
+ -l --no-sync --output=fstype 
+ -l --no-sync --output=itotal 
+ -l --no-sync --output=iused 
+ -l --no-sync --output=iavail 
+ -l --no-sync --output=ipcent 
+ -l --no-sync --output=size 
+ -l --no-sync --output=used 
+ -l --no-sync --output=avail 
+ -l --no-sync --output=pcent 
+ -l --no-sync --output=file 
+ -l --no-sync --output=target 
+ -l --no-sync -P 
+ -l --no-sync --sync 
+ -l --no-sync --total 
+ -l --no-sync -t tmpfs 
+ -l --no-sync -x tmpfs 
+ -l --no-sync -v 
+ -l --no-sync --help 
+ -l --no-sync --version 
+ -l --output=source --output=fstype 
+ -l --output=source --output=itotal 
+ -l --output=source --output=iused 
+ -l --output=source --output=iavail 
+ -l --output=source --output=ipcent 
+ -l --output=source --output=size 
+ -l --output=source --output=used 
+ -l --output=source --output=avail 
+ -l --output=source --output=pcent 
+ -l --output=source --output=file 
+ -l --output=source --output=target 
+ -l --output=source -P 
+ -l --output=source --sync 
+ -l --output=source --total 
+ -l --output=source -t tmpfs 
+ -l --output=source -x tmpfs 
+ -l --output=source -v 
+ -l --output=source --help 
+ -l --output=source --version 
+ -l --output=fstype --output=itotal 
+ -l --output=fstype --output=iused 
+ -l --output=fstype --output=iavail 
+ -l --output=fstype --output=ipcent 
+ -l --output=fstype --output=size 
+ -l --output=fstype --output=used 
+ -l --output=fstype --output=avail 
+ -l --output=fstype --output=pcent 
+ -l --output=fstype --output=file 
+ -l --output=fstype --output=target 
+ -l --output=fstype -P 
+ -l --output=fstype --sync 
+ -l --output=fstype --total 
+ -l --output=fstype -t tmpfs 
+ -l --output=fstype -x tmpfs 
+ -l --output=fstype -v 
+ -l --output=fstype --help 
+ -l --output=fstype --version 
+ -l --output=itotal --output=iused 
+ -l --output=itotal --output=iavail 
+ -l --output=itotal --output=ipcent 
+ -l --output=itotal --output=size 
+ -l --output=itotal --output=used 
+ -l --output=itotal --output=avail 
+ -l --output=itotal --output=pcent 
+ -l --output=itotal --output=file 
+ -l --output=itotal --output=target 
+ -l --output=itotal -P 
+ -l --output=itotal --sync 
+ -l --output=itotal --total 
+ -l --output=itotal -t tmpfs 
+ -l --output=itotal -x tmpfs 
+ -l --output=itotal -v 
+ -l --output=itotal --help 
+ -l --output=itotal --version 
+ -l --output=iused --output=iavail 
+ -l --output=iused --output=ipcent 
+ -l --output=iused --output=size 
+ -l --output=iused --output=used 
+ -l --output=iused --output=avail 
+ -l --output=iused --output=pcent 
+ -l --output=iused --output=file 
+ -l --output=iused --output=target 
+ -l --output=iused -P 
+ -l --output=iused --sync 
+ -l --output=iused --total 
+ -l --output=iused -t tmpfs 
+ -l --output=iused -x tmpfs 
+ -l --output=iused -v 
+ -l --output=iused --help 
+ -l --output=iused --version 
+ -l --output=iavail --output=ipcent 
+ -l --output=iavail --output=size 
+ -l --output=iavail --output=used 
+ -l --output=iavail --output=avail 
+ -l --output=iavail --output=pcent 
+ -l --output=iavail --output=file 
+ -l --output=iavail --output=target 
+ -l --output=iavail -P 
+ -l --output=iavail --sync 
+ -l --output=iavail --total 
+ -l --output=iavail -t tmpfs 
+ -l --output=iavail -x tmpfs 
+ -l --output=iavail -v 
+ -l --output=iavail --help 
+ -l --output=iavail --version 
+ -l --output=ipcent --output=size 
+ -l --output=ipcent --output=used 
+ -l --output=ipcent --output=avail 
+ -l --output=ipcent --output=pcent 
+ -l --output=ipcent --output=file 
+ -l --output=ipcent --output=target 
+ -l --output=ipcent -P 
+ -l --output=ipcent --sync 
+ -l --output=ipcent --total 
+ -l --output=ipcent -t tmpfs 
+ -l --output=ipcent -x tmpfs 
+ -l --output=ipcent -v 
+ -l --output=ipcent --help 
+ -l --output=ipcent --version 
+ -l --output=size --output=used 
+ -l --output=size --output=avail 
+ -l --output=size --output=pcent 
+ -l --output=size --output=file 
+ -l --output=size --output=target 
+ -l --output=size -P 
+ -l --output=size --sync 
+ -l --output=size --total 
+ -l --output=size -t tmpfs 
+ -l --output=size -x tmpfs 
+ -l --output=size -v 
+ -l --output=size --help 
+ -l --output=size --version 
+ -l --output=used --output=avail 
+ -l --output=used --output=pcent 
+ -l --output=used --output=file 
+ -l --output=used --output=target 
+ -l --output=used -P 
+ -l --output=used --sync 
+ -l --output=used --total 
+ -l --output=used -t tmpfs 
+ -l --output=used -x tmpfs 
+ -l --output=used -v 
+ -l --output=used --help 
+ -l --output=used --version 
+ -l --output=avail --output=pcent 
+ -l --output=avail --output=file 
+ -l --output=avail --output=target 
+ -l --output=avail -P 
+ -l --output=avail --sync 
+ -l --output=avail --total 
+ -l --output=avail -t tmpfs 
+ -l --output=avail -x tmpfs 
+ -l --output=avail -v 
+ -l --output=avail --help 
+ -l --output=avail --version 
+ -l --output=pcent --output=file 
+ -l --output=pcent --output=target 
+ -l --output=pcent -P 
+ -l --output=pcent --sync 
+ -l --output=pcent --total 
+ -l --output=pcent -t tmpfs 
+ -l --output=pcent -x tmpfs 
+ -l --output=pcent -v 
+ -l --output=pcent --help 
+ -l --output=pcent --version 
+ -l --output=file --output=target 
+ -l --output=file -P 
+ -l --output=file --sync 
+ -l --output=file --total 
+ -l --output=file -t tmpfs 
+ -l --output=file -x tmpfs 
+ -l --output=file -v 
+ -l --output=file --help 
+ -l --output=file --version 
+ -l --output=target -P 
+ -l --output=target --sync 
+ -l --output=target --total 
+ -l --output=target -t tmpfs 
+ -l --output=target -x tmpfs 
+ -l --output=target -v 
+ -l --output=target --help 
+ -l --output=target --version 
+ -l -P --sync 
+ -l -P --total 
+ -l -P -t tmpfs 
+ -l -P -x tmpfs 
+ -l -P -v 
+ -l -P --help 
+ -l -P --version 
+ -l --sync --total 
+ -l --sync -t tmpfs 
+ -l --sync -x tmpfs 
+ -l --sync -v 
+ -l --sync --help 
+ -l --sync --version 
+ -l --total -t tmpfs 
+ -l --total -x tmpfs 
+ -l --total -v 
+ -l --total --help 
+ -l --total --version 
+ -l -t tmpfs -x tmpfs 
+ -l -t tmpfs -v 
+ -l -t tmpfs --help 
+ -l -t tmpfs --version 
+ -l -x tmpfs -v 
+ -l -x tmpfs --help 
+ -l -x tmpfs --version 
+ -l -v --help 
+ -l -v --version 
+ -l --help --version 
+ --no-sync --output=source --output=fstype 
+ --no-sync --output=source --output=itotal 
+ --no-sync --output=source --output=iused 
+ --no-sync --output=source --output=iavail 
+ --no-sync --output=source --output=ipcent 
+ --no-sync --output=source --output=size 
+ --no-sync --output=source --output=used 
+ --no-sync --output=source --output=avail 
+ --no-sync --output=source --output=pcent 
+ --no-sync --output=source --output=file 
+ --no-sync --output=source --output=target 
+ --no-sync --output=source -P 
+ --no-sync --output=source --sync 
+ --no-sync --output=source --total 
+ --no-sync --output=source -t tmpfs 
+ --no-sync --output=source -x tmpfs 
+ --no-sync --output=source -v 
+ --no-sync --output=source --help 
+ --no-sync --output=source --version 
+ --no-sync --output=fstype --output=itotal 
+ --no-sync --output=fstype --output=iused 
+ --no-sync --output=fstype --output=iavail 
+ --no-sync --output=fstype --output=ipcent 
+ --no-sync --output=fstype --output=size 
+ --no-sync --output=fstype --output=used 
+ --no-sync --output=fstype --output=avail 
+ --no-sync --output=fstype --output=pcent 
+ --no-sync --output=fstype --output=file 
+ --no-sync --output=fstype --output=target 
+ --no-sync --output=fstype -P 
+ --no-sync --output=fstype --sync 
+ --no-sync --output=fstype --total 
+ --no-sync --output=fstype -t tmpfs 
+ --no-sync --output=fstype -x tmpfs 
+ --no-sync --output=fstype -v 
+ --no-sync --output=fstype --help 
+ --no-sync --output=fstype --version 
+ --no-sync --output=itotal --output=iused 
+ --no-sync --output=itotal --output=iavail 
+ --no-sync --output=itotal --output=ipcent 
+ --no-sync --output=itotal --output=size 
+ --no-sync --output=itotal --output=used 
+ --no-sync --output=itotal --output=avail 
+ --no-sync --output=itotal --output=pcent 
+ --no-sync --output=itotal --output=file 
+ --no-sync --output=itotal --output=target 
+ --no-sync --output=itotal -P 
+ --no-sync --output=itotal --sync 
+ --no-sync --output=itotal --total 
+ --no-sync --output=itotal -t tmpfs 
+ --no-sync --output=itotal -x tmpfs 
+ --no-sync --output=itotal -v 
+ --no-sync --output=itotal --help 
+ --no-sync --output=itotal --version 
+ --no-sync --output=iused --output=iavail 
+ --no-sync --output=iused --output=ipcent 
+ --no-sync --output=iused --output=size 
+ --no-sync --output=iused --output=used 
+ --no-sync --output=iused --output=avail 
+ --no-sync --output=iused --output=pcent 
+ --no-sync --output=iused --output=file 
+ --no-sync --output=iused --output=target 
+ --no-sync --output=iused -P 
+ --no-sync --output=iused --sync 
+ --no-sync --output=iused --total 
+ --no-sync --output=iused -t tmpfs 
+ --no-sync --output=iused -x tmpfs 
+ --no-sync --output=iused -v 
+ --no-sync --output=iused --help 
+ --no-sync --output=iused --version 
+ --no-sync --output=iavail --output=ipcent 
+ --no-sync --output=iavail --output=size 
+ --no-sync --output=iavail --output=used 
+ --no-sync --output=iavail --output=avail 
+ --no-sync --output=iavail --output=pcent 
+ --no-sync --output=iavail --output=file 
+ --no-sync --output=iavail --output=target 
+ --no-sync --output=iavail -P 
+ --no-sync --output=iavail --sync 
+ --no-sync --output=iavail --total 
+ --no-sync --output=iavail -t tmpfs 
+ --no-sync --output=iavail -x tmpfs 
+ --no-sync --output=iavail -v 
+ --no-sync --output=iavail --help 
+ --no-sync --output=iavail --version 
+ --no-sync --output=ipcent --output=size 
+ --no-sync --output=ipcent --output=used 
+ --no-sync --output=ipcent --output=avail 
+ --no-sync --output=ipcent --output=pcent 
+ --no-sync --output=ipcent --output=file 
+ --no-sync --output=ipcent --output=target 
+ --no-sync --output=ipcent -P 
+ --no-sync --output=ipcent --sync 
+ --no-sync --output=ipcent --total 
+ --no-sync --output=ipcent -t tmpfs 
+ --no-sync --output=ipcent -x tmpfs 
+ --no-sync --output=ipcent -v 
+ --no-sync --output=ipcent --help 
+ --no-sync --output=ipcent --version 
+ --no-sync --output=size --output=used 
+ --no-sync --output=size --output=avail 
+ --no-sync --output=size --output=pcent 
+ --no-sync --output=size --output=file 
+ --no-sync --output=size --output=target 
+ --no-sync --output=size -P 
+ --no-sync --output=size --sync 
+ --no-sync --output=size --total 
+ --no-sync --output=size -t tmpfs 
+ --no-sync --output=size -x tmpfs 
+ --no-sync --output=size -v 
+ --no-sync --output=size --help 
+ --no-sync --output=size --version 
+ --no-sync --output=used --output=avail 
+ --no-sync --output=used --output=pcent 
+ --no-sync --output=used --output=file 
+ --no-sync --output=used --output=target 
+ --no-sync --output=used -P 
+ --no-sync --output=used --sync 
+ --no-sync --output=used --total 
+ --no-sync --output=used -t tmpfs 
+ --no-sync --output=used -x tmpfs 
+ --no-sync --output=used -v 
+ --no-sync --output=used --help 
+ --no-sync --output=used --version 
+ --no-sync --output=avail --output=pcent 
+ --no-sync --output=avail --output=file 
+ --no-sync --output=avail --output=target 
+ --no-sync --output=avail -P 
+ --no-sync --output=avail --sync 
+ --no-sync --output=avail --total 
+ --no-sync --output=avail -t tmpfs 
+ --no-sync --output=avail -x tmpfs 
+ --no-sync --output=avail -v 
+ --no-sync --output=avail --help 
+ --no-sync --output=avail --version 
+ --no-sync --output=pcent --output=file 
+ --no-sync --output=pcent --output=target 
+ --no-sync --output=pcent -P 
+ --no-sync --output=pcent --sync 
+ --no-sync --output=pcent --total 
+ --no-sync --output=pcent -t tmpfs 
+ --no-sync --output=pcent -x tmpfs 
+ --no-sync --output=pcent -v 
+ --no-sync --output=pcent --help 
+ --no-sync --output=pcent --version 
+ --no-sync --output=file --output=target 
+ --no-sync --output=file -P 
+ --no-sync --output=file --sync 
+ --no-sync --output=file --total 
+ --no-sync --output=file -t tmpfs 
+ --no-sync --output=file -x tmpfs 
+ --no-sync --output=file -v 
+ --no-sync --output=file --help 
+ --no-sync --output=file --version 
+ --no-sync --output=target -P 
+ --no-sync --output=target --sync 
+ --no-sync --output=target --total 
+ --no-sync --output=target -t tmpfs 
+ --no-sync --output=target -x tmpfs 
+ --no-sync --output=target -v 
+ --no-sync --output=target --help 
+ --no-sync --output=target --version 
+ --no-sync -P --sync 
+ --no-sync -P --total 
+ --no-sync -P -t tmpfs 
+ --no-sync -P -x tmpfs 
+ --no-sync -P -v 
+ --no-sync -P --help 
+ --no-sync -P --version 
+ --no-sync --sync --total 
+ --no-sync --sync -t tmpfs 
+ --no-sync --sync -x tmpfs 
+ --no-sync --sync -v 
+ --no-sync --sync --help 
+ --no-sync --sync --version 
+ --no-sync --total -t tmpfs 
+ --no-sync --total -x tmpfs 
+ --no-sync --total -v 
+ --no-sync --total --help 
+ --no-sync --total --version 
+ --no-sync -t tmpfs -x tmpfs 
+ --no-sync -t tmpfs -v 
+ --no-sync -t tmpfs --help 
+ --no-sync -t tmpfs --version 
+ --no-sync -x tmpfs -v 
+ --no-sync -x tmpfs --help 
+ --no-sync -x tmpfs --version 
+ --no-sync -v --help 
+ --no-sync -v --version 
+ --no-sync --help --version 
+ --output=source --output=fstype --output=itotal 
+ --output=source --output=fstype --output=iused 
+ --output=source --output=fstype --output=iavail 
+ --output=source --output=fstype --output=ipcent 
+ --output=source --output=fstype --output=size 
+ --output=source --output=fstype --output=used 
+ --output=source --output=fstype --output=avail 
+ --output=source --output=fstype --output=pcent 
+ --output=source --output=fstype --output=file 
+ --output=source --output=fstype --output=target 
+ --output=source --output=fstype -P 
+ --output=source --output=fstype --sync 
+ --output=source --output=fstype --total 
+ --output=source --output=fstype -t tmpfs 
+ --output=source --output=fstype -x tmpfs 
+ --output=source --output=fstype -v 
+ --output=source --output=fstype --help 
+ --output=source --output=fstype --version 
+ --output=source --output=itotal --output=iused 
+ --output=source --output=itotal --output=iavail 
+ --output=source --output=itotal --output=ipcent 
+ --output=source --output=itotal --output=size 
+ --output=source --output=itotal --output=used 
+ --output=source --output=itotal --output=avail 
+ --output=source --output=itotal --output=pcent 
+ --output=source --output=itotal --output=file 
+ --output=source --output=itotal --output=target 
+ --output=source --output=itotal -P 
+ --output=source --output=itotal --sync 
+ --output=source --output=itotal --total 
+ --output=source --output=itotal -t tmpfs 
+ --output=source --output=itotal -x tmpfs 
+ --output=source --output=itotal -v 
+ --output=source --output=itotal --help 
+ --output=source --output=itotal --version 
+ --output=source --output=iused --output=iavail 
+ --output=source --output=iused --output=ipcent 
+ --output=source --output=iused --output=size 
+ --output=source --output=iused --output=used 
+ --output=source --output=iused --output=avail 
+ --output=source --output=iused --output=pcent 
+ --output=source --output=iused --output=file 
+ --output=source --output=iused --output=target 
+ --output=source --output=iused -P 
+ --output=source --output=iused --sync 
+ --output=source --output=iused --total 
+ --output=source --output=iused -t tmpfs 
+ --output=source --output=iused -x tmpfs 
+ --output=source --output=iused -v 
+ --output=source --output=iused --help 
+ --output=source --output=iused --version 
+ --output=source --output=iavail --output=ipcent 
+ --output=source --output=iavail --output=size 
+ --output=source --output=iavail --output=used 
+ --output=source --output=iavail --output=avail 
+ --output=source --output=iavail --output=pcent 
+ --output=source --output=iavail --output=file 
+ --output=source --output=iavail --output=target 
+ --output=source --output=iavail -P 
+ --output=source --output=iavail --sync 
+ --output=source --output=iavail --total 
+ --output=source --output=iavail -t tmpfs 
+ --output=source --output=iavail -x tmpfs 
+ --output=source --output=iavail -v 
+ --output=source --output=iavail --help 
+ --output=source --output=iavail --version 
+ --output=source --output=ipcent --output=size 
+ --output=source --output=ipcent --output=used 
+ --output=source --output=ipcent --output=avail 
+ --output=source --output=ipcent --output=pcent 
+ --output=source --output=ipcent --output=file 
+ --output=source --output=ipcent --output=target 
+ --output=source --output=ipcent -P 
+ --output=source --output=ipcent --sync 
+ --output=source --output=ipcent --total 
+ --output=source --output=ipcent -t tmpfs 
+ --output=source --output=ipcent -x tmpfs 
+ --output=source --output=ipcent -v 
+ --output=source --output=ipcent --help 
+ --output=source --output=ipcent --version 
+ --output=source --output=size --output=used 
+ --output=source --output=size --output=avail 
+ --output=source --output=size --output=pcent 
+ --output=source --output=size --output=file 
+ --output=source --output=size --output=target 
+ --output=source --output=size -P 
+ --output=source --output=size --sync 
+ --output=source --output=size --total 
+ --output=source --output=size -t tmpfs 
+ --output=source --output=size -x tmpfs 
+ --output=source --output=size -v 
+ --output=source --output=size --help 
+ --output=source --output=size --version 
+ --output=source --output=used --output=avail 
+ --output=source --output=used --output=pcent 
+ --output=source --output=used --output=file 
+ --output=source --output=used --output=target 
+ --output=source --output=used -P 
+ --output=source --output=used --sync 
+ --output=source --output=used --total 
+ --output=source --output=used -t tmpfs 
+ --output=source --output=used -x tmpfs 
+ --output=source --output=used -v 
+ --output=source --output=used --help 
+ --output=source --output=used --version 
+ --output=source --output=avail --output=pcent 
+ --output=source --output=avail --output=file 
+ --output=source --output=avail --output=target 
+ --output=source --output=avail -P 
+ --output=source --output=avail --sync 
+ --output=source --output=avail --total 
+ --output=source --output=avail -t tmpfs 
+ --output=source --output=avail -x tmpfs 
+ --output=source --output=avail -v 
+ --output=source --output=avail --help 
+ --output=source --output=avail --version 
+ --output=source --output=pcent --output=file 
+ --output=source --output=pcent --output=target 
+ --output=source --output=pcent -P 
+ --output=source --output=pcent --sync 
+ --output=source --output=pcent --total 
+ --output=source --output=pcent -t tmpfs 
+ --output=source --output=pcent -x tmpfs 
+ --output=source --output=pcent -v 
+ --output=source --output=pcent --help 
+ --output=source --output=pcent --version 
+ --output=source --output=file --output=target 
+ --output=source --output=file -P 
+ --output=source --output=file --sync 
+ --output=source --output=file --total 
+ --output=source --output=file -t tmpfs 
+ --output=source --output=file -x tmpfs 
+ --output=source --output=file -v 
+ --output=source --output=file --help 
+ --output=source --output=file --version 
+ --output=source --output=target -P 
+ --output=source --output=target --sync 
+ --output=source --output=target --total 
+ --output=source --output=target -t tmpfs 
+ --output=source --output=target -x tmpfs 
+ --output=source --output=target -v 
+ --output=source --output=target --help 
+ --output=source --output=target --version 
+ --output=source -P --sync 
+ --output=source -P --total 
+ --output=source -P -t tmpfs 
+ --output=source -P -x tmpfs 
+ --output=source -P -v 
+ --output=source -P --help 
+ --output=source -P --version 
+ --output=source --sync --total 
+ --output=source --sync -t tmpfs 
+ --output=source --sync -x tmpfs 
+ --output=source --sync -v 
+ --output=source --sync --help 
+ --output=source --sync --version 
+ --output=source --total -t tmpfs 
+ --output=source --total -x tmpfs 
+ --output=source --total -v 
+ --output=source --total --help 
+ --output=source --total --version 
+ --output=source -t tmpfs -x tmpfs 
+ --output=source -t tmpfs -v 
+ --output=source -t tmpfs --help 
+ --output=source -t tmpfs --version 
+ --output=source -x tmpfs -v 
+ --output=source -x tmpfs --help 
+ --output=source -x tmpfs --version 
+ --output=source -v --help 
+ --output=source -v --version 
+ --output=source --help --version 
+ --output=fstype --output=itotal --output=iused 
+ --output=fstype --output=itotal --output=iavail 
+ --output=fstype --output=itotal --output=ipcent 
+ --output=fstype --output=itotal --output=size 
+ --output=fstype --output=itotal --output=used 
+ --output=fstype --output=itotal --output=avail 
+ --output=fstype --output=itotal --output=pcent 
+ --output=fstype --output=itotal --output=file 
+ --output=fstype --output=itotal --output=target 
+ --output=fstype --output=itotal -P 
+ --output=fstype --output=itotal --sync 
+ --output=fstype --output=itotal --total 
+ --output=fstype --output=itotal -t tmpfs 
+ --output=fstype --output=itotal -x tmpfs 
+ --output=fstype --output=itotal -v 
+ --output=fstype --output=itotal --help 
+ --output=fstype --output=itotal --version 
+ --output=fstype --output=iused --output=iavail 
+ --output=fstype --output=iused --output=ipcent 
+ --output=fstype --output=iused --output=size 
+ --output=fstype --output=iused --output=used 
+ --output=fstype --output=iused --output=avail 
+ --output=fstype --output=iused --output=pcent 
+ --output=fstype --output=iused --output=file 
+ --output=fstype --output=iused --output=target 
+ --output=fstype --output=iused -P 
+ --output=fstype --output=iused --sync 
+ --output=fstype --output=iused --total 
+ --output=fstype --output=iused -t tmpfs 
+ --output=fstype --output=iused -x tmpfs 
+ --output=fstype --output=iused -v 
+ --output=fstype --output=iused --help 
+ --output=fstype --output=iused --version 
+ --output=fstype --output=iavail --output=ipcent 
+ --output=fstype --output=iavail --output=size 
+ --output=fstype --output=iavail --output=used 
+ --output=fstype --output=iavail --output=avail 
+ --output=fstype --output=iavail --output=pcent 
+ --output=fstype --output=iavail --output=file 
+ --output=fstype --output=iavail --output=target 
+ --output=fstype --output=iavail -P 
+ --output=fstype --output=iavail --sync 
+ --output=fstype --output=iavail --total 
+ --output=fstype --output=iavail -t tmpfs 
+ --output=fstype --output=iavail -x tmpfs 
+ --output=fstype --output=iavail -v 
+ --output=fstype --output=iavail --help 
+ --output=fstype --output=iavail --version 
+ --output=fstype --output=ipcent --output=size 
+ --output=fstype --output=ipcent --output=used 
+ --output=fstype --output=ipcent --output=avail 
+ --output=fstype --output=ipcent --output=pcent 
+ --output=fstype --output=ipcent --output=file 
+ --output=fstype --output=ipcent --output=target 
+ --output=fstype --output=ipcent -P 
+ --output=fstype --output=ipcent --sync 
+ --output=fstype --output=ipcent --total 
+ --output=fstype --output=ipcent -t tmpfs 
+ --output=fstype --output=ipcent -x tmpfs 
+ --output=fstype --output=ipcent -v 
+ --output=fstype --output=ipcent --help 
+ --output=fstype --output=ipcent --version 
+ --output=fstype --output=size --output=used 
+ --output=fstype --output=size --output=avail 
+ --output=fstype --output=size --output=pcent 
+ --output=fstype --output=size --output=file 
+ --output=fstype --output=size --output=target 
+ --output=fstype --output=size -P 
+ --output=fstype --output=size --sync 
+ --output=fstype --output=size --total 
+ --output=fstype --output=size -t tmpfs 
+ --output=fstype --output=size -x tmpfs 
+ --output=fstype --output=size -v 
+ --output=fstype --output=size --help 
+ --output=fstype --output=size --version 
+ --output=fstype --output=used --output=avail 
+ --output=fstype --output=used --output=pcent 
+ --output=fstype --output=used --output=file 
+ --output=fstype --output=used --output=target 
+ --output=fstype --output=used -P 
+ --output=fstype --output=used --sync 
+ --output=fstype --output=used --total 
+ --output=fstype --output=used -t tmpfs 
+ --output=fstype --output=used -x tmpfs 
+ --output=fstype --output=used -v 
+ --output=fstype --output=used --help 
+ --output=fstype --output=used --version 
+ --output=fstype --output=avail --output=pcent 
+ --output=fstype --output=avail --output=file 
+ --output=fstype --output=avail --output=target 
+ --output=fstype --output=avail -P 
+ --output=fstype --output=avail --sync 
+ --output=fstype --output=avail --total 
+ --output=fstype --output=avail -t tmpfs 
+ --output=fstype --output=avail -x tmpfs 
+ --output=fstype --output=avail -v 
+ --output=fstype --output=avail --help 
+ --output=fstype --output=avail --version 
+ --output=fstype --output=pcent --output=file 
+ --output=fstype --output=pcent --output=target 
+ --output=fstype --output=pcent -P 
+ --output=fstype --output=pcent --sync 
+ --output=fstype --output=pcent --total 
+ --output=fstype --output=pcent -t tmpfs 
+ --output=fstype --output=pcent -x tmpfs 
+ --output=fstype --output=pcent -v 
+ --output=fstype --output=pcent --help 
+ --output=fstype --output=pcent --version 
+ --output=fstype --output=file --output=target 
+ --output=fstype --output=file -P 
+ --output=fstype --output=file --sync 
+ --output=fstype --output=file --total 
+ --output=fstype --output=file -t tmpfs 
+ --output=fstype --output=file -x tmpfs 
+ --output=fstype --output=file -v 
+ --output=fstype --output=file --help 
+ --output=fstype --output=file --version 
+ --output=fstype --output=target -P 
+ --output=fstype --output=target --sync 
+ --output=fstype --output=target --total 
+ --output=fstype --output=target -t tmpfs 
+ --output=fstype --output=target -x tmpfs 
+ --output=fstype --output=target -v 
+ --output=fstype --output=target --help 
+ --output=fstype --output=target --version 
+ --output=fstype -P --sync 
+ --output=fstype -P --total 
+ --output=fstype -P -t tmpfs 
+ --output=fstype -P -x tmpfs 
+ --output=fstype -P -v 
+ --output=fstype -P --help 
+ --output=fstype -P --version 
+ --output=fstype --sync --total 
+ --output=fstype --sync -t tmpfs 
+ --output=fstype --sync -x tmpfs 
+ --output=fstype --sync -v 
+ --output=fstype --sync --help 
+ --output=fstype --sync --version 
+ --output=fstype --total -t tmpfs 
+ --output=fstype --total -x tmpfs 
+ --output=fstype --total -v 
+ --output=fstype --total --help 
+ --output=fstype --total --version 
+ --output=fstype -t tmpfs -x tmpfs 
+ --output=fstype -t tmpfs -v 
+ --output=fstype -t tmpfs --help 
+ --output=fstype -t tmpfs --version 
+ --output=fstype -x tmpfs -v 
+ --output=fstype -x tmpfs --help 
+ --output=fstype -x tmpfs --version 
+ --output=fstype -v --help 
+ --output=fstype -v --version 
+ --output=fstype --help --version 
+ --output=itotal --output=iused --output=iavail 
+ --output=itotal --output=iused --output=ipcent 
+ --output=itotal --output=iused --output=size 
+ --output=itotal --output=iused --output=used 
+ --output=itotal --output=iused --output=avail 
+ --output=itotal --output=iused --output=pcent 
+ --output=itotal --output=iused --output=file 
+ --output=itotal --output=iused --output=target 
+ --output=itotal --output=iused -P 
+ --output=itotal --output=iused --sync 
+ --output=itotal --output=iused --total 
+ --output=itotal --output=iused -t tmpfs 
+ --output=itotal --output=iused -x tmpfs 
+ --output=itotal --output=iused -v 
+ --output=itotal --output=iused --help 
+ --output=itotal --output=iused --version 
+ --output=itotal --output=iavail --output=ipcent 
+ --output=itotal --output=iavail --output=size 
+ --output=itotal --output=iavail --output=used 
+ --output=itotal --output=iavail --output=avail 
+ --output=itotal --output=iavail --output=pcent 
+ --output=itotal --output=iavail --output=file 
+ --output=itotal --output=iavail --output=target 
+ --output=itotal --output=iavail -P 
+ --output=itotal --output=iavail --sync 
+ --output=itotal --output=iavail --total 
+ --output=itotal --output=iavail -t tmpfs 
+ --output=itotal --output=iavail -x tmpfs 
+ --output=itotal --output=iavail -v 
+ --output=itotal --output=iavail --help 
+ --output=itotal --output=iavail --version 
+ --output=itotal --output=ipcent --output=size 
+ --output=itotal --output=ipcent --output=used 
+ --output=itotal --output=ipcent --output=avail 
+ --output=itotal --output=ipcent --output=pcent 
+ --output=itotal --output=ipcent --output=file 
+ --output=itotal --output=ipcent --output=target 
+ --output=itotal --output=ipcent -P 
+ --output=itotal --output=ipcent --sync 
+ --output=itotal --output=ipcent --total 
+ --output=itotal --output=ipcent -t tmpfs 
+ --output=itotal --output=ipcent -x tmpfs 
+ --output=itotal --output=ipcent -v 
+ --output=itotal --output=ipcent --help 
+ --output=itotal --output=ipcent --version 
+ --output=itotal --output=size --output=used 
+ --output=itotal --output=size --output=avail 
+ --output=itotal --output=size --output=pcent 
+ --output=itotal --output=size --output=file 
+ --output=itotal --output=size --output=target 
+ --output=itotal --output=size -P 
+ --output=itotal --output=size --sync 
+ --output=itotal --output=size --total 
+ --output=itotal --output=size -t tmpfs 
+ --output=itotal --output=size -x tmpfs 
+ --output=itotal --output=size -v 
+ --output=itotal --output=size --help 
+ --output=itotal --output=size --version 
+ --output=itotal --output=used --output=avail 
+ --output=itotal --output=used --output=pcent 
+ --output=itotal --output=used --output=file 
+ --output=itotal --output=used --output=target 
+ --output=itotal --output=used -P 
+ --output=itotal --output=used --sync 
+ --output=itotal --output=used --total 
+ --output=itotal --output=used -t tmpfs 
+ --output=itotal --output=used -x tmpfs 
+ --output=itotal --output=used -v 
+ --output=itotal --output=used --help 
+ --output=itotal --output=used --version 
+ --output=itotal --output=avail --output=pcent 
+ --output=itotal --output=avail --output=file 
+ --output=itotal --output=avail --output=target 
+ --output=itotal --output=avail -P 
+ --output=itotal --output=avail --sync 
+ --output=itotal --output=avail --total 
+ --output=itotal --output=avail -t tmpfs 
+ --output=itotal --output=avail -x tmpfs 
+ --output=itotal --output=avail -v 
+ --output=itotal --output=avail --help 
+ --output=itotal --output=avail --version 
+ --output=itotal --output=pcent --output=file 
+ --output=itotal --output=pcent --output=target 
+ --output=itotal --output=pcent -P 
+ --output=itotal --output=pcent --sync 
+ --output=itotal --output=pcent --total 
+ --output=itotal --output=pcent -t tmpfs 
+ --output=itotal --output=pcent -x tmpfs 
+ --output=itotal --output=pcent -v 
+ --output=itotal --output=pcent --help 
+ --output=itotal --output=pcent --version 
+ --output=itotal --output=file --output=target 
+ --output=itotal --output=file -P 
+ --output=itotal --output=file --sync 
+ --output=itotal --output=file --total 
+ --output=itotal --output=file -t tmpfs 
+ --output=itotal --output=file -x tmpfs 
+ --output=itotal --output=file -v 
+ --output=itotal --output=file --help 
+ --output=itotal --output=file --version 
+ --output=itotal --output=target -P 
+ --output=itotal --output=target --sync 
+ --output=itotal --output=target --total 
+ --output=itotal --output=target -t tmpfs 
+ --output=itotal --output=target -x tmpfs 
+ --output=itotal --output=target -v 
+ --output=itotal --output=target --help 
+ --output=itotal --output=target --version 
+ --output=itotal -P --sync 
+ --output=itotal -P --total 
+ --output=itotal -P -t tmpfs 
+ --output=itotal -P -x tmpfs 
+ --output=itotal -P -v 
+ --output=itotal -P --help 
+ --output=itotal -P --version 
+ --output=itotal --sync --total 
+ --output=itotal --sync -t tmpfs 
+ --output=itotal --sync -x tmpfs 
+ --output=itotal --sync -v 
+ --output=itotal --sync --help 
+ --output=itotal --sync --version 
+ --output=itotal --total -t tmpfs 
+ --output=itotal --total -x tmpfs 
+ --output=itotal --total -v 
+ --output=itotal --total --help 
+ --output=itotal --total --version 
+ --output=itotal -t tmpfs -x tmpfs 
+ --output=itotal -t tmpfs -v 
+ --output=itotal -t tmpfs --help 
+ --output=itotal -t tmpfs --version 
+ --output=itotal -x tmpfs -v 
+ --output=itotal -x tmpfs --help 
+ --output=itotal -x tmpfs --version 
+ --output=itotal -v --help 
+ --output=itotal -v --version 
+ --output=itotal --help --version 
+ --output=iused --output=iavail --output=ipcent 
+ --output=iused --output=iavail --output=size 
+ --output=iused --output=iavail --output=used 
+ --output=iused --output=iavail --output=avail 
+ --output=iused --output=iavail --output=pcent 
+ --output=iused --output=iavail --output=file 
+ --output=iused --output=iavail --output=target 
+ --output=iused --output=iavail -P 
+ --output=iused --output=iavail --sync 
+ --output=iused --output=iavail --total 
+ --output=iused --output=iavail -t tmpfs 
+ --output=iused --output=iavail -x tmpfs 
+ --output=iused --output=iavail -v 
+ --output=iused --output=iavail --help 
+ --output=iused --output=iavail --version 
+ --output=iused --output=ipcent --output=size 
+ --output=iused --output=ipcent --output=used 
+ --output=iused --output=ipcent --output=avail 
+ --output=iused --output=ipcent --output=pcent 
+ --output=iused --output=ipcent --output=file 
+ --output=iused --output=ipcent --output=target 
+ --output=iused --output=ipcent -P 
+ --output=iused --output=ipcent --sync 
+ --output=iused --output=ipcent --total 
+ --output=iused --output=ipcent -t tmpfs 
+ --output=iused --output=ipcent -x tmpfs 
+ --output=iused --output=ipcent -v 
+ --output=iused --output=ipcent --help 
+ --output=iused --output=ipcent --version 
+ --output=iused --output=size --output=used 
+ --output=iused --output=size --output=avail 
+ --output=iused --output=size --output=pcent 
+ --output=iused --output=size --output=file 
+ --output=iused --output=size --output=target 
+ --output=iused --output=size -P 
+ --output=iused --output=size --sync 
+ --output=iused --output=size --total 
+ --output=iused --output=size -t tmpfs 
+ --output=iused --output=size -x tmpfs 
+ --output=iused --output=size -v 
+ --output=iused --output=size --help 
+ --output=iused --output=size --version 
+ --output=iused --output=used --output=avail 
+ --output=iused --output=used --output=pcent 
+ --output=iused --output=used --output=file 
+ --output=iused --output=used --output=target 
+ --output=iused --output=used -P 
+ --output=iused --output=used --sync 
+ --output=iused --output=used --total 
+ --output=iused --output=used -t tmpfs 
+ --output=iused --output=used -x tmpfs 
+ --output=iused --output=used -v 
+ --output=iused --output=used --help 
+ --output=iused --output=used --version 
+ --output=iused --output=avail --output=pcent 
+ --output=iused --output=avail --output=file 
+ --output=iused --output=avail --output=target 
+ --output=iused --output=avail -P 
+ --output=iused --output=avail --sync 
+ --output=iused --output=avail --total 
+ --output=iused --output=avail -t tmpfs 
+ --output=iused --output=avail -x tmpfs 
+ --output=iused --output=avail -v 
+ --output=iused --output=avail --help 
+ --output=iused --output=avail --version 
+ --output=iused --output=pcent --output=file 
+ --output=iused --output=pcent --output=target 
+ --output=iused --output=pcent -P 
+ --output=iused --output=pcent --sync 
+ --output=iused --output=pcent --total 
+ --output=iused --output=pcent -t tmpfs 
+ --output=iused --output=pcent -x tmpfs 
+ --output=iused --output=pcent -v 
+ --output=iused --output=pcent --help 
+ --output=iused --output=pcent --version 
+ --output=iused --output=file --output=target 
+ --output=iused --output=file -P 
+ --output=iused --output=file --sync 
+ --output=iused --output=file --total 
+ --output=iused --output=file -t tmpfs 
+ --output=iused --output=file -x tmpfs 
+ --output=iused --output=file -v 
+ --output=iused --output=file --help 
+ --output=iused --output=file --version 
+ --output=iused --output=target -P 
+ --output=iused --output=target --sync 
+ --output=iused --output=target --total 
+ --output=iused --output=target -t tmpfs 
+ --output=iused --output=target -x tmpfs 
+ --output=iused --output=target -v 
+ --output=iused --output=target --help 
+ --output=iused --output=target --version 
+ --output=iused -P --sync 
+ --output=iused -P --total 
+ --output=iused -P -t tmpfs 
+ --output=iused -P -x tmpfs 
+ --output=iused -P -v 
+ --output=iused -P --help 
+ --output=iused -P --version 
+ --output=iused --sync --total 
+ --output=iused --sync -t tmpfs 
+ --output=iused --sync -x tmpfs 
+ --output=iused --sync -v 
+ --output=iused --sync --help 
+ --output=iused --sync --version 
+ --output=iused --total -t tmpfs 
+ --output=iused --total -x tmpfs 
+ --output=iused --total -v 
+ --output=iused --total --help 
+ --output=iused --total --version 
+ --output=iused -t tmpfs -x tmpfs 
+ --output=iused -t tmpfs -v 
+ --output=iused -t tmpfs --help 
+ --output=iused -t tmpfs --version 
+ --output=iused -x tmpfs -v 
+ --output=iused -x tmpfs --help 
+ --output=iused -x tmpfs --version 
+ --output=iused -v --help 
+ --output=iused -v --version 
+ --output=iused --help --version 
+ --output=iavail --output=ipcent --output=size 
+ --output=iavail --output=ipcent --output=used 
+ --output=iavail --output=ipcent --output=avail 
+ --output=iavail --output=ipcent --output=pcent 
+ --output=iavail --output=ipcent --output=file 
+ --output=iavail --output=ipcent --output=target 
+ --output=iavail --output=ipcent -P 
+ --output=iavail --output=ipcent --sync 
+ --output=iavail --output=ipcent --total 
+ --output=iavail --output=ipcent -t tmpfs 
+ --output=iavail --output=ipcent -x tmpfs 
+ --output=iavail --output=ipcent -v 
+ --output=iavail --output=ipcent --help 
+ --output=iavail --output=ipcent --version 
+ --output=iavail --output=size --output=used 
+ --output=iavail --output=size --output=avail 
+ --output=iavail --output=size --output=pcent 
+ --output=iavail --output=size --output=file 
+ --output=iavail --output=size --output=target 
+ --output=iavail --output=size -P 
+ --output=iavail --output=size --sync 
+ --output=iavail --output=size --total 
+ --output=iavail --output=size -t tmpfs 
+ --output=iavail --output=size -x tmpfs 
+ --output=iavail --output=size -v 
+ --output=iavail --output=size --help 
+ --output=iavail --output=size --version 
+ --output=iavail --output=used --output=avail 
+ --output=iavail --output=used --output=pcent 
+ --output=iavail --output=used --output=file 
+ --output=iavail --output=used --output=target 
+ --output=iavail --output=used -P 
+ --output=iavail --output=used --sync 
+ --output=iavail --output=used --total 
+ --output=iavail --output=used -t tmpfs 
+ --output=iavail --output=used -x tmpfs 
+ --output=iavail --output=used -v 
+ --output=iavail --output=used --help 
+ --output=iavail --output=used --version 
+ --output=iavail --output=avail --output=pcent 
+ --output=iavail --output=avail --output=file 
+ --output=iavail --output=avail --output=target 
+ --output=iavail --output=avail -P 
+ --output=iavail --output=avail --sync 
+ --output=iavail --output=avail --total 
+ --output=iavail --output=avail -t tmpfs 
+ --output=iavail --output=avail -x tmpfs 
+ --output=iavail --output=avail -v 
+ --output=iavail --output=avail --help 
+ --output=iavail --output=avail --version 
+ --output=iavail --output=pcent --output=file 
+ --output=iavail --output=pcent --output=target 
+ --output=iavail --output=pcent -P 
+ --output=iavail --output=pcent --sync 
+ --output=iavail --output=pcent --total 
+ --output=iavail --output=pcent -t tmpfs 
+ --output=iavail --output=pcent -x tmpfs 
+ --output=iavail --output=pcent -v 
+ --output=iavail --output=pcent --help 
+ --output=iavail --output=pcent --version 
+ --output=iavail --output=file --output=target 
+ --output=iavail --output=file -P 
+ --output=iavail --output=file --sync 
+ --output=iavail --output=file --total 
+ --output=iavail --output=file -t tmpfs 
+ --output=iavail --output=file -x tmpfs 
+ --output=iavail --output=file -v 
+ --output=iavail --output=file --help 
+ --output=iavail --output=file --version 
+ --output=iavail --output=target -P 
+ --output=iavail --output=target --sync 
+ --output=iavail --output=target --total 
+ --output=iavail --output=target -t tmpfs 
+ --output=iavail --output=target -x tmpfs 
+ --output=iavail --output=target -v 
+ --output=iavail --output=target --help 
+ --output=iavail --output=target --version 
+ --output=iavail -P --sync 
+ --output=iavail -P --total 
+ --output=iavail -P -t tmpfs 
+ --output=iavail -P -x tmpfs 
+ --output=iavail -P -v 
+ --output=iavail -P --help 
+ --output=iavail -P --version 
+ --output=iavail --sync --total 
+ --output=iavail --sync -t tmpfs 
+ --output=iavail --sync -x tmpfs 
+ --output=iavail --sync -v 
+ --output=iavail --sync --help 
+ --output=iavail --sync --version 
+ --output=iavail --total -t tmpfs 
+ --output=iavail --total -x tmpfs 
+ --output=iavail --total -v 
+ --output=iavail --total --help 
+ --output=iavail --total --version 
+ --output=iavail -t tmpfs -x tmpfs 
+ --output=iavail -t tmpfs -v 
+ --output=iavail -t tmpfs --help 
+ --output=iavail -t tmpfs --version 
+ --output=iavail -x tmpfs -v 
+ --output=iavail -x tmpfs --help 
+ --output=iavail -x tmpfs --version 
+ --output=iavail -v --help 
+ --output=iavail -v --version 
+ --output=iavail --help --version 
+ --output=ipcent --output=size --output=used 
+ --output=ipcent --output=size --output=avail 
+ --output=ipcent --output=size --output=pcent 
+ --output=ipcent --output=size --output=file 
+ --output=ipcent --output=size --output=target 
+ --output=ipcent --output=size -P 
+ --output=ipcent --output=size --sync 
+ --output=ipcent --output=size --total 
+ --output=ipcent --output=size -t tmpfs 
+ --output=ipcent --output=size -x tmpfs 
+ --output=ipcent --output=size -v 
+ --output=ipcent --output=size --help 
+ --output=ipcent --output=size --version 
+ --output=ipcent --output=used --output=avail 
+ --output=ipcent --output=used --output=pcent 
+ --output=ipcent --output=used --output=file 
+ --output=ipcent --output=used --output=target 
+ --output=ipcent --output=used -P 
+ --output=ipcent --output=used --sync 
+ --output=ipcent --output=used --total 
+ --output=ipcent --output=used -t tmpfs 
+ --output=ipcent --output=used -x tmpfs 
+ --output=ipcent --output=used -v 
+ --output=ipcent --output=used --help 
+ --output=ipcent --output=used --version 
+ --output=ipcent --output=avail --output=pcent 
+ --output=ipcent --output=avail --output=file 
+ --output=ipcent --output=avail --output=target 
+ --output=ipcent --output=avail -P 
+ --output=ipcent --output=avail --sync 
+ --output=ipcent --output=avail --total 
+ --output=ipcent --output=avail -t tmpfs 
+ --output=ipcent --output=avail -x tmpfs 
+ --output=ipcent --output=avail -v 
+ --output=ipcent --output=avail --help 
+ --output=ipcent --output=avail --version 
+ --output=ipcent --output=pcent --output=file 
+ --output=ipcent --output=pcent --output=target 
+ --output=ipcent --output=pcent -P 
+ --output=ipcent --output=pcent --sync 
+ --output=ipcent --output=pcent --total 
+ --output=ipcent --output=pcent -t tmpfs 
+ --output=ipcent --output=pcent -x tmpfs 
+ --output=ipcent --output=pcent -v 
+ --output=ipcent --output=pcent --help 
+ --output=ipcent --output=pcent --version 
+ --output=ipcent --output=file --output=target 
+ --output=ipcent --output=file -P 
+ --output=ipcent --output=file --sync 
+ --output=ipcent --output=file --total 
+ --output=ipcent --output=file -t tmpfs 
+ --output=ipcent --output=file -x tmpfs 
+ --output=ipcent --output=file -v 
+ --output=ipcent --output=file --help 
+ --output=ipcent --output=file --version 
+ --output=ipcent --output=target -P 
+ --output=ipcent --output=target --sync 
+ --output=ipcent --output=target --total 
+ --output=ipcent --output=target -t tmpfs 
+ --output=ipcent --output=target -x tmpfs 
+ --output=ipcent --output=target -v 
+ --output=ipcent --output=target --help 
+ --output=ipcent --output=target --version 
+ --output=ipcent -P --sync 
+ --output=ipcent -P --total 
+ --output=ipcent -P -t tmpfs 
+ --output=ipcent -P -x tmpfs 
+ --output=ipcent -P -v 
+ --output=ipcent -P --help 
+ --output=ipcent -P --version 
+ --output=ipcent --sync --total 
+ --output=ipcent --sync -t tmpfs 
+ --output=ipcent --sync -x tmpfs 
+ --output=ipcent --sync -v 
+ --output=ipcent --sync --help 
+ --output=ipcent --sync --version 
+ --output=ipcent --total -t tmpfs 
+ --output=ipcent --total -x tmpfs 
+ --output=ipcent --total -v 
+ --output=ipcent --total --help 
+ --output=ipcent --total --version 
+ --output=ipcent -t tmpfs -x tmpfs 
+ --output=ipcent -t tmpfs -v 
+ --output=ipcent -t tmpfs --help 
+ --output=ipcent -t tmpfs --version 
+ --output=ipcent -x tmpfs -v 
+ --output=ipcent -x tmpfs --help 
+ --output=ipcent -x tmpfs --version 
+ --output=ipcent -v --help 
+ --output=ipcent -v --version 
+ --output=ipcent --help --version 
+ --output=size --output=used --output=avail 
+ --output=size --output=used --output=pcent 
+ --output=size --output=used --output=file 
+ --output=size --output=used --output=target 
+ --output=size --output=used -P 
+ --output=size --output=used --sync 
+ --output=size --output=used --total 
+ --output=size --output=used -t tmpfs 
+ --output=size --output=used -x tmpfs 
+ --output=size --output=used -v 
+ --output=size --output=used --help 
+ --output=size --output=used --version 
+ --output=size --output=avail --output=pcent 
+ --output=size --output=avail --output=file 
+ --output=size --output=avail --output=target 
+ --output=size --output=avail -P 
+ --output=size --output=avail --sync 
+ --output=size --output=avail --total 
+ --output=size --output=avail -t tmpfs 
+ --output=size --output=avail -x tmpfs 
+ --output=size --output=avail -v 
+ --output=size --output=avail --help 
+ --output=size --output=avail --version 
+ --output=size --output=pcent --output=file 
+ --output=size --output=pcent --output=target 
+ --output=size --output=pcent -P 
+ --output=size --output=pcent --sync 
+ --output=size --output=pcent --total 
+ --output=size --output=pcent -t tmpfs 
+ --output=size --output=pcent -x tmpfs 
+ --output=size --output=pcent -v 
+ --output=size --output=pcent --help 
+ --output=size --output=pcent --version 
+ --output=size --output=file --output=target 
+ --output=size --output=file -P 
+ --output=size --output=file --sync 
+ --output=size --output=file --total 
+ --output=size --output=file -t tmpfs 
+ --output=size --output=file -x tmpfs 
+ --output=size --output=file -v 
+ --output=size --output=file --help 
+ --output=size --output=file --version 
+ --output=size --output=target -P 
+ --output=size --output=target --sync 
+ --output=size --output=target --total 
+ --output=size --output=target -t tmpfs 
+ --output=size --output=target -x tmpfs 
+ --output=size --output=target -v 
+ --output=size --output=target --help 
+ --output=size --output=target --version 
+ --output=size -P --sync 
+ --output=size -P --total 
+ --output=size -P -t tmpfs 
+ --output=size -P -x tmpfs 
+ --output=size -P -v 
+ --output=size -P --help 
+ --output=size -P --version 
+ --output=size --sync --total 
+ --output=size --sync -t tmpfs 
+ --output=size --sync -x tmpfs 
+ --output=size --sync -v 
+ --output=size --sync --help 
+ --output=size --sync --version 
+ --output=size --total -t tmpfs 
+ --output=size --total -x tmpfs 
+ --output=size --total -v 
+ --output=size --total --help 
+ --output=size --total --version 
+ --output=size -t tmpfs -x tmpfs 
+ --output=size -t tmpfs -v 
+ --output=size -t tmpfs --help 
+ --output=size -t tmpfs --version 
+ --output=size -x tmpfs -v 
+ --output=size -x tmpfs --help 
+ --output=size -x tmpfs --version 
+ --output=size -v --help 
+ --output=size -v --version 
+ --output=size --help --version 
+ --output=used --output=avail --output=pcent 
+ --output=used --output=avail --output=file 
+ --output=used --output=avail --output=target 
+ --output=used --output=avail -P 
+ --output=used --output=avail --sync 
+ --output=used --output=avail --total 
+ --output=used --output=avail -t tmpfs 
+ --output=used --output=avail -x tmpfs 
+ --output=used --output=avail -v 
+ --output=used --output=avail --help 
+ --output=used --output=avail --version 
+ --output=used --output=pcent --output=file 
+ --output=used --output=pcent --output=target 
+ --output=used --output=pcent -P 
+ --output=used --output=pcent --sync 
+ --output=used --output=pcent --total 
+ --output=used --output=pcent -t tmpfs 
+ --output=used --output=pcent -x tmpfs 
+ --output=used --output=pcent -v 
+ --output=used --output=pcent --help 
+ --output=used --output=pcent --version 
+ --output=used --output=file --output=target 
+ --output=used --output=file -P 
+ --output=used --output=file --sync 
+ --output=used --output=file --total 
+ --output=used --output=file -t tmpfs 
+ --output=used --output=file -x tmpfs 
+ --output=used --output=file -v 
+ --output=used --output=file --help 
+ --output=used --output=file --version 
+ --output=used --output=target -P 
+ --output=used --output=target --sync 
+ --output=used --output=target --total 
+ --output=used --output=target -t tmpfs 
+ --output=used --output=target -x tmpfs 
+ --output=used --output=target -v 
+ --output=used --output=target --help 
+ --output=used --output=target --version 
+ --output=used -P --sync 
+ --output=used -P --total 
+ --output=used -P -t tmpfs 
+ --output=used -P -x tmpfs 
+ --output=used -P -v 
+ --output=used -P --help 
+ --output=used -P --version 
+ --output=used --sync --total 
+ --output=used --sync -t tmpfs 
+ --output=used --sync -x tmpfs 
+ --output=used --sync -v 
+ --output=used --sync --help 
+ --output=used --sync --version 
+ --output=used --total -t tmpfs 
+ --output=used --total -x tmpfs 
+ --output=used --total -v 
+ --output=used --total --help 
+ --output=used --total --version 
+ --output=used -t tmpfs -x tmpfs 
+ --output=used -t tmpfs -v 
+ --output=used -t tmpfs --help 
+ --output=used -t tmpfs --version 
+ --output=used -x tmpfs -v 
+ --output=used -x tmpfs --help 
+ --output=used -x tmpfs --version 
+ --output=used -v --help 
+ --output=used -v --version 
+ --output=used --help --version 
+ --output=avail --output=pcent --output=file 
+ --output=avail --output=pcent --output=target 
+ --output=avail --output=pcent -P 
+ --output=avail --output=pcent --sync 
+ --output=avail --output=pcent --total 
+ --output=avail --output=pcent -t tmpfs 
+ --output=avail --output=pcent -x tmpfs 
+ --output=avail --output=pcent -v 
+ --output=avail --output=pcent --help 
+ --output=avail --output=pcent --version 
+ --output=avail --output=file --output=target 
+ --output=avail --output=file -P 
+ --output=avail --output=file --sync 
+ --output=avail --output=file --total 
+ --output=avail --output=file -t tmpfs 
+ --output=avail --output=file -x tmpfs 
+ --output=avail --output=file -v 
+ --output=avail --output=file --help 
+ --output=avail --output=file --version 
+ --output=avail --output=target -P 
+ --output=avail --output=target --sync 
+ --output=avail --output=target --total 
+ --output=avail --output=target -t tmpfs 
+ --output=avail --output=target -x tmpfs 
+ --output=avail --output=target -v 
+ --output=avail --output=target --help 
+ --output=avail --output=target --version 
+ --output=avail -P --sync 
+ --output=avail -P --total 
+ --output=avail -P -t tmpfs 
+ --output=avail -P -x tmpfs 
+ --output=avail -P -v 
+ --output=avail -P --help 
+ --output=avail -P --version 
+ --output=avail --sync --total 
+ --output=avail --sync -t tmpfs 
+ --output=avail --sync -x tmpfs 
+ --output=avail --sync -v 
+ --output=avail --sync --help 
+ --output=avail --sync --version 
+ --output=avail --total -t tmpfs 
+ --output=avail --total -x tmpfs 
+ --output=avail --total -v 
+ --output=avail --total --help 
+ --output=avail --total --version 
+ --output=avail -t tmpfs -x tmpfs 
+ --output=avail -t tmpfs -v 
+ --output=avail -t tmpfs --help 
+ --output=avail -t tmpfs --version 
+ --output=avail -x tmpfs -v 
+ --output=avail -x tmpfs --help 
+ --output=avail -x tmpfs --version 
+ --output=avail -v --help 
+ --output=avail -v --version 
+ --output=avail --help --version 
+ --output=pcent --output=file --output=target 
+ --output=pcent --output=file -P 
+ --output=pcent --output=file --sync 
+ --output=pcent --output=file --total 
+ --output=pcent --output=file -t tmpfs 
+ --output=pcent --output=file -x tmpfs 
+ --output=pcent --output=file -v 
+ --output=pcent --output=file --help 
+ --output=pcent --output=file --version 
+ --output=pcent --output=target -P 
+ --output=pcent --output=target --sync 
+ --output=pcent --output=target --total 
+ --output=pcent --output=target -t tmpfs 
+ --output=pcent --output=target -x tmpfs 
+ --output=pcent --output=target -v 
+ --output=pcent --output=target --help 
+ --output=pcent --output=target --version 
+ --output=pcent -P --sync 
+ --output=pcent -P --total 
+ --output=pcent -P -t tmpfs 
+ --output=pcent -P -x tmpfs 
+ --output=pcent -P -v 
+ --output=pcent -P --help 
+ --output=pcent -P --version 
+ --output=pcent --sync --total 
+ --output=pcent --sync -t tmpfs 
+ --output=pcent --sync -x tmpfs 
+ --output=pcent --sync -v 
+ --output=pcent --sync --help 
+ --output=pcent --sync --version 
+ --output=pcent --total -t tmpfs 
+ --output=pcent --total -x tmpfs 
+ --output=pcent --total -v 
+ --output=pcent --total --help 
+ --output=pcent --total --version 
+ --output=pcent -t tmpfs -x tmpfs 
+ --output=pcent -t tmpfs -v 
+ --output=pcent -t tmpfs --help 
+ --output=pcent -t tmpfs --version 
+ --output=pcent -x tmpfs -v 
+ --output=pcent -x tmpfs --help 
+ --output=pcent -x tmpfs --version 
+ --output=pcent -v --help 
+ --output=pcent -v --version 
+ --output=pcent --help --version 
+ --output=file --output=target -P 
+ --output=file --output=target --sync 
+ --output=file --output=target --total 
+ --output=file --output=target -t tmpfs 
+ --output=file --output=target -x tmpfs 
+ --output=file --output=target -v 
+ --output=file --output=target --help 
+ --output=file --output=target --version 
+ --output=file -P --sync 
+ --output=file -P --total 
+ --output=file -P -t tmpfs 
+ --output=file -P -x tmpfs 
+ --output=file -P -v 
+ --output=file -P --help 
+ --output=file -P --version 
+ --output=file --sync --total 
+ --output=file --sync -t tmpfs 
+ --output=file --sync -x tmpfs 
+ --output=file --sync -v 
+ --output=file --sync --help 
+ --output=file --sync --version 
+ --output=file --total -t tmpfs 
+ --output=file --total -x tmpfs 
+ --output=file --total -v 
+ --output=file --total --help 
+ --output=file --total --version 
+ --output=file -t tmpfs -x tmpfs 
+ --output=file -t tmpfs -v 
+ --output=file -t tmpfs --help 
+ --output=file -t tmpfs --version 
+ --output=file -x tmpfs -v 
+ --output=file -x tmpfs --help 
+ --output=file -x tmpfs --version 
+ --output=file -v --help 
+ --output=file -v --version 
+ --output=file --help --version 
+ --output=target -P --sync 
+ --output=target -P --total 
+ --output=target -P -t tmpfs 
+ --output=target -P -x tmpfs 
+ --output=target -P -v 
+ --output=target -P --help 
+ --output=target -P --version 
+ --output=target --sync --total 
+ --output=target --sync -t tmpfs 
+ --output=target --sync -x tmpfs 
+ --output=target --sync -v 
+ --output=target --sync --help 
+ --output=target --sync --version 
+ --output=target --total -t tmpfs 
+ --output=target --total -x tmpfs 
+ --output=target --total -v 
+ --output=target --total --help 
+ --output=target --total --version 
+ --output=target -t tmpfs -x tmpfs 
+ --output=target -t tmpfs -v 
+ --output=target -t tmpfs --help 
+ --output=target -t tmpfs --version 
+ --output=target -x tmpfs -v 
+ --output=target -x tmpfs --help 
+ --output=target -x tmpfs --version 
+ --output=target -v --help 
+ --output=target -v --version 
+ --output=target --help --version 
+ -P --sync --total 
+ -P --sync -t tmpfs 
+ -P --sync -x tmpfs 
+ -P --sync -v 
+ -P --sync --help 
+ -P --sync --version 
+ -P --total -t tmpfs 
+ -P --total -x tmpfs 
+ -P --total -v 
+ -P --total --help 
+ -P --total --version 
+ -P -t tmpfs -x tmpfs 
+ -P -t tmpfs -v 
+ -P -t tmpfs --help 
+ -P -t tmpfs --version 
+ -P -x tmpfs -v 
+ -P -x tmpfs --help 
+ -P -x tmpfs --version 
+ -P -v --help 
+ -P -v --version 
+ -P --help --version 
+ --sync --total -t tmpfs 
+ --sync --total -x tmpfs 
+ --sync --total -v 
+ --sync --total --help 
+ --sync --total --version 
+ --sync -t tmpfs -x tmpfs 
+ --sync -t tmpfs -v 
+ --sync -t tmpfs --help 
+ --sync -t tmpfs --version 
+ --sync -x tmpfs -v 
+ --sync -x tmpfs --help 
+ --sync -x tmpfs --version 
+ --sync -v --help 
+ --sync -v --version 
+ --sync --help --version 
+ --total -t tmpfs -x tmpfs 
+ --total -t tmpfs -v 
+ --total -t tmpfs --help 
+ --total -t tmpfs --version 
+ --total -x tmpfs -v 
+ --total -x tmpfs --help 
+ --total -x tmpfs --version 
+ --total -v --help 
+ --total -v --version 
+ --total --help --version 
+ -t tmpfs -x tmpfs -v 
+ -t tmpfs -x tmpfs --help 
+ -t tmpfs -x tmpfs --version 
+ -t tmpfs -v --help 
+ -t tmpfs -v --version 
+ -t tmpfs --help --version 
+ -x tmpfs -v --help 
+ -x tmpfs -v --version 
+ -x tmpfs --help --version 
+ -v --help --version 

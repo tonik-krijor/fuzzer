@@ -1,0 +1,52 @@
+ 
+ -n 
+ -e 
+ -E 
+ --help 
+ --version 
+ -n -e 
+ -n -E 
+ -n --help 
+ -n --version 
+ -e -E 
+ -e --help 
+ -e --version 
+ -E --help 
+ -E --version 
+ --help --version 
+ -n -e -E 
+ -n -e --help 
+ -n -e --version 
+ -n -E --help 
+ -n -E --version 
+ -n --help --version 
+ -e -E --help 
+ -e -E --version 
+ -e --help --version 
+ -E --help --version 
+ files
+ -n files
+ -e files
+ -E files
+ --help files
+ --version files
+ -n -e files
+ -n -E files
+ -n --help files
+ -n --version files
+ -e -E files
+ -e --help files
+ -e --version files
+ -E --help files
+ -E --version files
+ --help --version files
+ -n -e -E files
+ -n -e --help files
+ -n -e --version files
+ -n -E --help files
+ -n -E --version files
+ -n --help --version files
+ -e -E --help files
+ -e -E --version files
+ -e --help --version files
+ -E --help --version files

@@ -1,0 +1,988 @@
+ 
+ -d 2000-01-01 
+ --debug 
+ -f files/df 
+ -I 
+ -Ihours 
+ -Iminutes 
+ -Idate 
+ -Iseconds 
+ -Ins 
+ -R 
+ --rfc-3339=date 
+ --rfc-3339=seconds 
+ --rfc-3339=ns 
+ -r files/df 
+ -s 2000-01-01 
+ -u 
+ --help 
+ --version 
+ -d 2000-01-01 --debug 
+ -d 2000-01-01 -f files/df 
+ -d 2000-01-01 -I 
+ -d 2000-01-01 -Ihours 
+ -d 2000-01-01 -Iminutes 
+ -d 2000-01-01 -Idate 
+ -d 2000-01-01 -Iseconds 
+ -d 2000-01-01 -Ins 
+ -d 2000-01-01 -R 
+ -d 2000-01-01 --rfc-3339=date 
+ -d 2000-01-01 --rfc-3339=seconds 
+ -d 2000-01-01 --rfc-3339=ns 
+ -d 2000-01-01 -r files/df 
+ -d 2000-01-01 -s 2000-01-01 
+ -d 2000-01-01 -u 
+ -d 2000-01-01 --help 
+ -d 2000-01-01 --version 
+ --debug -f files/df 
+ --debug -I 
+ --debug -Ihours 
+ --debug -Iminutes 
+ --debug -Idate 
+ --debug -Iseconds 
+ --debug -Ins 
+ --debug -R 
+ --debug --rfc-3339=date 
+ --debug --rfc-3339=seconds 
+ --debug --rfc-3339=ns 
+ --debug -r files/df 
+ --debug -s 2000-01-01 
+ --debug -u 
+ --debug --help 
+ --debug --version 
+ -f files/df -I 
+ -f files/df -Ihours 
+ -f files/df -Iminutes 
+ -f files/df -Idate 
+ -f files/df -Iseconds 
+ -f files/df -Ins 
+ -f files/df -R 
+ -f files/df --rfc-3339=date 
+ -f files/df --rfc-3339=seconds 
+ -f files/df --rfc-3339=ns 
+ -f files/df -r files/df 
+ -f files/df -s 2000-01-01 
+ -f files/df -u 
+ -f files/df --help 
+ -f files/df --version 
+ -I -Ihours 
+ -I -Iminutes 
+ -I -Idate 
+ -I -Iseconds 
+ -I -Ins 
+ -I -R 
+ -I --rfc-3339=date 
+ -I --rfc-3339=seconds 
+ -I --rfc-3339=ns 
+ -I -r files/df 
+ -I -s 2000-01-01 
+ -I -u 
+ -I --help 
+ -I --version 
+ -Ihours -Iminutes 
+ -Ihours -Idate 
+ -Ihours -Iseconds 
+ -Ihours -Ins 
+ -Ihours -R 
+ -Ihours --rfc-3339=date 
+ -Ihours --rfc-3339=seconds 
+ -Ihours --rfc-3339=ns 
+ -Ihours -r files/df 
+ -Ihours -s 2000-01-01 
+ -Ihours -u 
+ -Ihours --help 
+ -Ihours --version 
+ -Iminutes -Idate 
+ -Iminutes -Iseconds 
+ -Iminutes -Ins 
+ -Iminutes -R 
+ -Iminutes --rfc-3339=date 
+ -Iminutes --rfc-3339=seconds 
+ -Iminutes --rfc-3339=ns 
+ -Iminutes -r files/df 
+ -Iminutes -s 2000-01-01 
+ -Iminutes -u 
+ -Iminutes --help 
+ -Iminutes --version 
+ -Idate -Iseconds 
+ -Idate -Ins 
+ -Idate -R 
+ -Idate --rfc-3339=date 
+ -Idate --rfc-3339=seconds 
+ -Idate --rfc-3339=ns 
+ -Idate -r files/df 
+ -Idate -s 2000-01-01 
+ -Idate -u 
+ -Idate --help 
+ -Idate --version 
+ -Iseconds -Ins 
+ -Iseconds -R 
+ -Iseconds --rfc-3339=date 
+ -Iseconds --rfc-3339=seconds 
+ -Iseconds --rfc-3339=ns 
+ -Iseconds -r files/df 
+ -Iseconds -s 2000-01-01 
+ -Iseconds -u 
+ -Iseconds --help 
+ -Iseconds --version 
+ -Ins -R 
+ -Ins --rfc-3339=date 
+ -Ins --rfc-3339=seconds 
+ -Ins --rfc-3339=ns 
+ -Ins -r files/df 
+ -Ins -s 2000-01-01 
+ -Ins -u 
+ -Ins --help 
+ -Ins --version 
+ -R --rfc-3339=date 
+ -R --rfc-3339=seconds 
+ -R --rfc-3339=ns 
+ -R -r files/df 
+ -R -s 2000-01-01 
+ -R -u 
+ -R --help 
+ -R --version 
+ --rfc-3339=date --rfc-3339=seconds 
+ --rfc-3339=date --rfc-3339=ns 
+ --rfc-3339=date -r files/df 
+ --rfc-3339=date -s 2000-01-01 
+ --rfc-3339=date -u 
+ --rfc-3339=date --help 
+ --rfc-3339=date --version 
+ --rfc-3339=seconds --rfc-3339=ns 
+ --rfc-3339=seconds -r files/df 
+ --rfc-3339=seconds -s 2000-01-01 
+ --rfc-3339=seconds -u 
+ --rfc-3339=seconds --help 
+ --rfc-3339=seconds --version 
+ --rfc-3339=ns -r files/df 
+ --rfc-3339=ns -s 2000-01-01 
+ --rfc-3339=ns -u 
+ --rfc-3339=ns --help 
+ --rfc-3339=ns --version 
+ -r files/df -s 2000-01-01 
+ -r files/df -u 
+ -r files/df --help 
+ -r files/df --version 
+ -s 2000-01-01 -u 
+ -s 2000-01-01 --help 
+ -s 2000-01-01 --version 
+ -u --help 
+ -u --version 
+ --help --version 
+ -d 2000-01-01 --debug -f files/df 
+ -d 2000-01-01 --debug -I 
+ -d 2000-01-01 --debug -Ihours 
+ -d 2000-01-01 --debug -Iminutes 
+ -d 2000-01-01 --debug -Idate 
+ -d 2000-01-01 --debug -Iseconds 
+ -d 2000-01-01 --debug -Ins 
+ -d 2000-01-01 --debug -R 
+ -d 2000-01-01 --debug --rfc-3339=date 
+ -d 2000-01-01 --debug --rfc-3339=seconds 
+ -d 2000-01-01 --debug --rfc-3339=ns 
+ -d 2000-01-01 --debug -r files/df 
+ -d 2000-01-01 --debug -s 2000-01-01 
+ -d 2000-01-01 --debug -u 
+ -d 2000-01-01 --debug --help 
+ -d 2000-01-01 --debug --version 
+ -d 2000-01-01 -f files/df -I 
+ -d 2000-01-01 -f files/df -Ihours 
+ -d 2000-01-01 -f files/df -Iminutes 
+ -d 2000-01-01 -f files/df -Idate 
+ -d 2000-01-01 -f files/df -Iseconds 
+ -d 2000-01-01 -f files/df -Ins 
+ -d 2000-01-01 -f files/df -R 
+ -d 2000-01-01 -f files/df --rfc-3339=date 
+ -d 2000-01-01 -f files/df --rfc-3339=seconds 
+ -d 2000-01-01 -f files/df --rfc-3339=ns 
+ -d 2000-01-01 -f files/df -r files/df 
+ -d 2000-01-01 -f files/df -s 2000-01-01 
+ -d 2000-01-01 -f files/df -u 
+ -d 2000-01-01 -f files/df --help 
+ -d 2000-01-01 -f files/df --version 
+ -d 2000-01-01 -I -Ihours 
+ -d 2000-01-01 -I -Iminutes 
+ -d 2000-01-01 -I -Idate 
+ -d 2000-01-01 -I -Iseconds 
+ -d 2000-01-01 -I -Ins 
+ -d 2000-01-01 -I -R 
+ -d 2000-01-01 -I --rfc-3339=date 
+ -d 2000-01-01 -I --rfc-3339=seconds 
+ -d 2000-01-01 -I --rfc-3339=ns 
+ -d 2000-01-01 -I -r files/df 
+ -d 2000-01-01 -I -s 2000-01-01 
+ -d 2000-01-01 -I -u 
+ -d 2000-01-01 -I --help 
+ -d 2000-01-01 -I --version 
+ -d 2000-01-01 -Ihours -Iminutes 
+ -d 2000-01-01 -Ihours -Idate 
+ -d 2000-01-01 -Ihours -Iseconds 
+ -d 2000-01-01 -Ihours -Ins 
+ -d 2000-01-01 -Ihours -R 
+ -d 2000-01-01 -Ihours --rfc-3339=date 
+ -d 2000-01-01 -Ihours --rfc-3339=seconds 
+ -d 2000-01-01 -Ihours --rfc-3339=ns 
+ -d 2000-01-01 -Ihours -r files/df 
+ -d 2000-01-01 -Ihours -s 2000-01-01 
+ -d 2000-01-01 -Ihours -u 
+ -d 2000-01-01 -Ihours --help 
+ -d 2000-01-01 -Ihours --version 
+ -d 2000-01-01 -Iminutes -Idate 
+ -d 2000-01-01 -Iminutes -Iseconds 
+ -d 2000-01-01 -Iminutes -Ins 
+ -d 2000-01-01 -Iminutes -R 
+ -d 2000-01-01 -Iminutes --rfc-3339=date 
+ -d 2000-01-01 -Iminutes --rfc-3339=seconds 
+ -d 2000-01-01 -Iminutes --rfc-3339=ns 
+ -d 2000-01-01 -Iminutes -r files/df 
+ -d 2000-01-01 -Iminutes -s 2000-01-01 
+ -d 2000-01-01 -Iminutes -u 
+ -d 2000-01-01 -Iminutes --help 
+ -d 2000-01-01 -Iminutes --version 
+ -d 2000-01-01 -Idate -Iseconds 
+ -d 2000-01-01 -Idate -Ins 
+ -d 2000-01-01 -Idate -R 
+ -d 2000-01-01 -Idate --rfc-3339=date 
+ -d 2000-01-01 -Idate --rfc-3339=seconds 
+ -d 2000-01-01 -Idate --rfc-3339=ns 
+ -d 2000-01-01 -Idate -r files/df 
+ -d 2000-01-01 -Idate -s 2000-01-01 
+ -d 2000-01-01 -Idate -u 
+ -d 2000-01-01 -Idate --help 
+ -d 2000-01-01 -Idate --version 
+ -d 2000-01-01 -Iseconds -Ins 
+ -d 2000-01-01 -Iseconds -R 
+ -d 2000-01-01 -Iseconds --rfc-3339=date 
+ -d 2000-01-01 -Iseconds --rfc-3339=seconds 
+ -d 2000-01-01 -Iseconds --rfc-3339=ns 
+ -d 2000-01-01 -Iseconds -r files/df 
+ -d 2000-01-01 -Iseconds -s 2000-01-01 
+ -d 2000-01-01 -Iseconds -u 
+ -d 2000-01-01 -Iseconds --help 
+ -d 2000-01-01 -Iseconds --version 
+ -d 2000-01-01 -Ins -R 
+ -d 2000-01-01 -Ins --rfc-3339=date 
+ -d 2000-01-01 -Ins --rfc-3339=seconds 
+ -d 2000-01-01 -Ins --rfc-3339=ns 
+ -d 2000-01-01 -Ins -r files/df 
+ -d 2000-01-01 -Ins -s 2000-01-01 
+ -d 2000-01-01 -Ins -u 
+ -d 2000-01-01 -Ins --help 
+ -d 2000-01-01 -Ins --version 
+ -d 2000-01-01 -R --rfc-3339=date 
+ -d 2000-01-01 -R --rfc-3339=seconds 
+ -d 2000-01-01 -R --rfc-3339=ns 
+ -d 2000-01-01 -R -r files/df 
+ -d 2000-01-01 -R -s 2000-01-01 
+ -d 2000-01-01 -R -u 
+ -d 2000-01-01 -R --help 
+ -d 2000-01-01 -R --version 
+ -d 2000-01-01 --rfc-3339=date --rfc-3339=seconds 
+ -d 2000-01-01 --rfc-3339=date --rfc-3339=ns 
+ -d 2000-01-01 --rfc-3339=date -r files/df 
+ -d 2000-01-01 --rfc-3339=date -s 2000-01-01 
+ -d 2000-01-01 --rfc-3339=date -u 
+ -d 2000-01-01 --rfc-3339=date --help 
+ -d 2000-01-01 --rfc-3339=date --version 
+ -d 2000-01-01 --rfc-3339=seconds --rfc-3339=ns 
+ -d 2000-01-01 --rfc-3339=seconds -r files/df 
+ -d 2000-01-01 --rfc-3339=seconds -s 2000-01-01 
+ -d 2000-01-01 --rfc-3339=seconds -u 
+ -d 2000-01-01 --rfc-3339=seconds --help 
+ -d 2000-01-01 --rfc-3339=seconds --version 
+ -d 2000-01-01 --rfc-3339=ns -r files/df 
+ -d 2000-01-01 --rfc-3339=ns -s 2000-01-01 
+ -d 2000-01-01 --rfc-3339=ns -u 
+ -d 2000-01-01 --rfc-3339=ns --help 
+ -d 2000-01-01 --rfc-3339=ns --version 
+ -d 2000-01-01 -r files/df -s 2000-01-01 
+ -d 2000-01-01 -r files/df -u 
+ -d 2000-01-01 -r files/df --help 
+ -d 2000-01-01 -r files/df --version 
+ -d 2000-01-01 -s 2000-01-01 -u 
+ -d 2000-01-01 -s 2000-01-01 --help 
+ -d 2000-01-01 -s 2000-01-01 --version 
+ -d 2000-01-01 -u --help 
+ -d 2000-01-01 -u --version 
+ -d 2000-01-01 --help --version 
+ --debug -f files/df -I 
+ --debug -f files/df -Ihours 
+ --debug -f files/df -Iminutes 
+ --debug -f files/df -Idate 
+ --debug -f files/df -Iseconds 
+ --debug -f files/df -Ins 
+ --debug -f files/df -R 
+ --debug -f files/df --rfc-3339=date 
+ --debug -f files/df --rfc-3339=seconds 
+ --debug -f files/df --rfc-3339=ns 
+ --debug -f files/df -r files/df 
+ --debug -f files/df -s 2000-01-01 
+ --debug -f files/df -u 
+ --debug -f files/df --help 
+ --debug -f files/df --version 
+ --debug -I -Ihours 
+ --debug -I -Iminutes 
+ --debug -I -Idate 
+ --debug -I -Iseconds 
+ --debug -I -Ins 
+ --debug -I -R 
+ --debug -I --rfc-3339=date 
+ --debug -I --rfc-3339=seconds 
+ --debug -I --rfc-3339=ns 
+ --debug -I -r files/df 
+ --debug -I -s 2000-01-01 
+ --debug -I -u 
+ --debug -I --help 
+ --debug -I --version 
+ --debug -Ihours -Iminutes 
+ --debug -Ihours -Idate 
+ --debug -Ihours -Iseconds 
+ --debug -Ihours -Ins 
+ --debug -Ihours -R 
+ --debug -Ihours --rfc-3339=date 
+ --debug -Ihours --rfc-3339=seconds 
+ --debug -Ihours --rfc-3339=ns 
+ --debug -Ihours -r files/df 
+ --debug -Ihours -s 2000-01-01 
+ --debug -Ihours -u 
+ --debug -Ihours --help 
+ --debug -Ihours --version 
+ --debug -Iminutes -Idate 
+ --debug -Iminutes -Iseconds 
+ --debug -Iminutes -Ins 
+ --debug -Iminutes -R 
+ --debug -Iminutes --rfc-3339=date 
+ --debug -Iminutes --rfc-3339=seconds 
+ --debug -Iminutes --rfc-3339=ns 
+ --debug -Iminutes -r files/df 
+ --debug -Iminutes -s 2000-01-01 
+ --debug -Iminutes -u 
+ --debug -Iminutes --help 
+ --debug -Iminutes --version 
+ --debug -Idate -Iseconds 
+ --debug -Idate -Ins 
+ --debug -Idate -R 
+ --debug -Idate --rfc-3339=date 
+ --debug -Idate --rfc-3339=seconds 
+ --debug -Idate --rfc-3339=ns 
+ --debug -Idate -r files/df 
+ --debug -Idate -s 2000-01-01 
+ --debug -Idate -u 
+ --debug -Idate --help 
+ --debug -Idate --version 
+ --debug -Iseconds -Ins 
+ --debug -Iseconds -R 
+ --debug -Iseconds --rfc-3339=date 
+ --debug -Iseconds --rfc-3339=seconds 
+ --debug -Iseconds --rfc-3339=ns 
+ --debug -Iseconds -r files/df 
+ --debug -Iseconds -s 2000-01-01 
+ --debug -Iseconds -u 
+ --debug -Iseconds --help 
+ --debug -Iseconds --version 
+ --debug -Ins -R 
+ --debug -Ins --rfc-3339=date 
+ --debug -Ins --rfc-3339=seconds 
+ --debug -Ins --rfc-3339=ns 
+ --debug -Ins -r files/df 
+ --debug -Ins -s 2000-01-01 
+ --debug -Ins -u 
+ --debug -Ins --help 
+ --debug -Ins --version 
+ --debug -R --rfc-3339=date 
+ --debug -R --rfc-3339=seconds 
+ --debug -R --rfc-3339=ns 
+ --debug -R -r files/df 
+ --debug -R -s 2000-01-01 
+ --debug -R -u 
+ --debug -R --help 
+ --debug -R --version 
+ --debug --rfc-3339=date --rfc-3339=seconds 
+ --debug --rfc-3339=date --rfc-3339=ns 
+ --debug --rfc-3339=date -r files/df 
+ --debug --rfc-3339=date -s 2000-01-01 
+ --debug --rfc-3339=date -u 
+ --debug --rfc-3339=date --help 
+ --debug --rfc-3339=date --version 
+ --debug --rfc-3339=seconds --rfc-3339=ns 
+ --debug --rfc-3339=seconds -r files/df 
+ --debug --rfc-3339=seconds -s 2000-01-01 
+ --debug --rfc-3339=seconds -u 
+ --debug --rfc-3339=seconds --help 
+ --debug --rfc-3339=seconds --version 
+ --debug --rfc-3339=ns -r files/df 
+ --debug --rfc-3339=ns -s 2000-01-01 
+ --debug --rfc-3339=ns -u 
+ --debug --rfc-3339=ns --help 
+ --debug --rfc-3339=ns --version 
+ --debug -r files/df -s 2000-01-01 
+ --debug -r files/df -u 
+ --debug -r files/df --help 
+ --debug -r files/df --version 
+ --debug -s 2000-01-01 -u 
+ --debug -s 2000-01-01 --help 
+ --debug -s 2000-01-01 --version 
+ --debug -u --help 
+ --debug -u --version 
+ --debug --help --version 
+ -f files/df -I -Ihours 
+ -f files/df -I -Iminutes 
+ -f files/df -I -Idate 
+ -f files/df -I -Iseconds 
+ -f files/df -I -Ins 
+ -f files/df -I -R 
+ -f files/df -I --rfc-3339=date 
+ -f files/df -I --rfc-3339=seconds 
+ -f files/df -I --rfc-3339=ns 
+ -f files/df -I -r files/df 
+ -f files/df -I -s 2000-01-01 
+ -f files/df -I -u 
+ -f files/df -I --help 
+ -f files/df -I --version 
+ -f files/df -Ihours -Iminutes 
+ -f files/df -Ihours -Idate 
+ -f files/df -Ihours -Iseconds 
+ -f files/df -Ihours -Ins 
+ -f files/df -Ihours -R 
+ -f files/df -Ihours --rfc-3339=date 
+ -f files/df -Ihours --rfc-3339=seconds 
+ -f files/df -Ihours --rfc-3339=ns 
+ -f files/df -Ihours -r files/df 
+ -f files/df -Ihours -s 2000-01-01 
+ -f files/df -Ihours -u 
+ -f files/df -Ihours --help 
+ -f files/df -Ihours --version 
+ -f files/df -Iminutes -Idate 
+ -f files/df -Iminutes -Iseconds 
+ -f files/df -Iminutes -Ins 
+ -f files/df -Iminutes -R 
+ -f files/df -Iminutes --rfc-3339=date 
+ -f files/df -Iminutes --rfc-3339=seconds 
+ -f files/df -Iminutes --rfc-3339=ns 
+ -f files/df -Iminutes -r files/df 
+ -f files/df -Iminutes -s 2000-01-01 
+ -f files/df -Iminutes -u 
+ -f files/df -Iminutes --help 
+ -f files/df -Iminutes --version 
+ -f files/df -Idate -Iseconds 
+ -f files/df -Idate -Ins 
+ -f files/df -Idate -R 
+ -f files/df -Idate --rfc-3339=date 
+ -f files/df -Idate --rfc-3339=seconds 
+ -f files/df -Idate --rfc-3339=ns 
+ -f files/df -Idate -r files/df 
+ -f files/df -Idate -s 2000-01-01 
+ -f files/df -Idate -u 
+ -f files/df -Idate --help 
+ -f files/df -Idate --version 
+ -f files/df -Iseconds -Ins 
+ -f files/df -Iseconds -R 
+ -f files/df -Iseconds --rfc-3339=date 
+ -f files/df -Iseconds --rfc-3339=seconds 
+ -f files/df -Iseconds --rfc-3339=ns 
+ -f files/df -Iseconds -r files/df 
+ -f files/df -Iseconds -s 2000-01-01 
+ -f files/df -Iseconds -u 
+ -f files/df -Iseconds --help 
+ -f files/df -Iseconds --version 
+ -f files/df -Ins -R 
+ -f files/df -Ins --rfc-3339=date 
+ -f files/df -Ins --rfc-3339=seconds 
+ -f files/df -Ins --rfc-3339=ns 
+ -f files/df -Ins -r files/df 
+ -f files/df -Ins -s 2000-01-01 
+ -f files/df -Ins -u 
+ -f files/df -Ins --help 
+ -f files/df -Ins --version 
+ -f files/df -R --rfc-3339=date 
+ -f files/df -R --rfc-3339=seconds 
+ -f files/df -R --rfc-3339=ns 
+ -f files/df -R -r files/df 
+ -f files/df -R -s 2000-01-01 
+ -f files/df -R -u 
+ -f files/df -R --help 
+ -f files/df -R --version 
+ -f files/df --rfc-3339=date --rfc-3339=seconds 
+ -f files/df --rfc-3339=date --rfc-3339=ns 
+ -f files/df --rfc-3339=date -r files/df 
+ -f files/df --rfc-3339=date -s 2000-01-01 
+ -f files/df --rfc-3339=date -u 
+ -f files/df --rfc-3339=date --help 
+ -f files/df --rfc-3339=date --version 
+ -f files/df --rfc-3339=seconds --rfc-3339=ns 
+ -f files/df --rfc-3339=seconds -r files/df 
+ -f files/df --rfc-3339=seconds -s 2000-01-01 
+ -f files/df --rfc-3339=seconds -u 
+ -f files/df --rfc-3339=seconds --help 
+ -f files/df --rfc-3339=seconds --version 
+ -f files/df --rfc-3339=ns -r files/df 
+ -f files/df --rfc-3339=ns -s 2000-01-01 
+ -f files/df --rfc-3339=ns -u 
+ -f files/df --rfc-3339=ns --help 
+ -f files/df --rfc-3339=ns --version 
+ -f files/df -r files/df -s 2000-01-01 
+ -f files/df -r files/df -u 
+ -f files/df -r files/df --help 
+ -f files/df -r files/df --version 
+ -f files/df -s 2000-01-01 -u 
+ -f files/df -s 2000-01-01 --help 
+ -f files/df -s 2000-01-01 --version 
+ -f files/df -u --help 
+ -f files/df -u --version 
+ -f files/df --help --version 
+ -I -Ihours -Iminutes 
+ -I -Ihours -Idate 
+ -I -Ihours -Iseconds 
+ -I -Ihours -Ins 
+ -I -Ihours -R 
+ -I -Ihours --rfc-3339=date 
+ -I -Ihours --rfc-3339=seconds 
+ -I -Ihours --rfc-3339=ns 
+ -I -Ihours -r files/df 
+ -I -Ihours -s 2000-01-01 
+ -I -Ihours -u 
+ -I -Ihours --help 
+ -I -Ihours --version 
+ -I -Iminutes -Idate 
+ -I -Iminutes -Iseconds 
+ -I -Iminutes -Ins 
+ -I -Iminutes -R 
+ -I -Iminutes --rfc-3339=date 
+ -I -Iminutes --rfc-3339=seconds 
+ -I -Iminutes --rfc-3339=ns 
+ -I -Iminutes -r files/df 
+ -I -Iminutes -s 2000-01-01 
+ -I -Iminutes -u 
+ -I -Iminutes --help 
+ -I -Iminutes --version 
+ -I -Idate -Iseconds 
+ -I -Idate -Ins 
+ -I -Idate -R 
+ -I -Idate --rfc-3339=date 
+ -I -Idate --rfc-3339=seconds 
+ -I -Idate --rfc-3339=ns 
+ -I -Idate -r files/df 
+ -I -Idate -s 2000-01-01 
+ -I -Idate -u 
+ -I -Idate --help 
+ -I -Idate --version 
+ -I -Iseconds -Ins 
+ -I -Iseconds -R 
+ -I -Iseconds --rfc-3339=date 
+ -I -Iseconds --rfc-3339=seconds 
+ -I -Iseconds --rfc-3339=ns 
+ -I -Iseconds -r files/df 
+ -I -Iseconds -s 2000-01-01 
+ -I -Iseconds -u 
+ -I -Iseconds --help 
+ -I -Iseconds --version 
+ -I -Ins -R 
+ -I -Ins --rfc-3339=date 
+ -I -Ins --rfc-3339=seconds 
+ -I -Ins --rfc-3339=ns 
+ -I -Ins -r files/df 
+ -I -Ins -s 2000-01-01 
+ -I -Ins -u 
+ -I -Ins --help 
+ -I -Ins --version 
+ -I -R --rfc-3339=date 
+ -I -R --rfc-3339=seconds 
+ -I -R --rfc-3339=ns 
+ -I -R -r files/df 
+ -I -R -s 2000-01-01 
+ -I -R -u 
+ -I -R --help 
+ -I -R --version 
+ -I --rfc-3339=date --rfc-3339=seconds 
+ -I --rfc-3339=date --rfc-3339=ns 
+ -I --rfc-3339=date -r files/df 
+ -I --rfc-3339=date -s 2000-01-01 
+ -I --rfc-3339=date -u 
+ -I --rfc-3339=date --help 
+ -I --rfc-3339=date --version 
+ -I --rfc-3339=seconds --rfc-3339=ns 
+ -I --rfc-3339=seconds -r files/df 
+ -I --rfc-3339=seconds -s 2000-01-01 
+ -I --rfc-3339=seconds -u 
+ -I --rfc-3339=seconds --help 
+ -I --rfc-3339=seconds --version 
+ -I --rfc-3339=ns -r files/df 
+ -I --rfc-3339=ns -s 2000-01-01 
+ -I --rfc-3339=ns -u 
+ -I --rfc-3339=ns --help 
+ -I --rfc-3339=ns --version 
+ -I -r files/df -s 2000-01-01 
+ -I -r files/df -u 
+ -I -r files/df --help 
+ -I -r files/df --version 
+ -I -s 2000-01-01 -u 
+ -I -s 2000-01-01 --help 
+ -I -s 2000-01-01 --version 
+ -I -u --help 
+ -I -u --version 
+ -I --help --version 
+ -Ihours -Iminutes -Idate 
+ -Ihours -Iminutes -Iseconds 
+ -Ihours -Iminutes -Ins 
+ -Ihours -Iminutes -R 
+ -Ihours -Iminutes --rfc-3339=date 
+ -Ihours -Iminutes --rfc-3339=seconds 
+ -Ihours -Iminutes --rfc-3339=ns 
+ -Ihours -Iminutes -r files/df 
+ -Ihours -Iminutes -s 2000-01-01 
+ -Ihours -Iminutes -u 
+ -Ihours -Iminutes --help 
+ -Ihours -Iminutes --version 
+ -Ihours -Idate -Iseconds 
+ -Ihours -Idate -Ins 
+ -Ihours -Idate -R 
+ -Ihours -Idate --rfc-3339=date 
+ -Ihours -Idate --rfc-3339=seconds 
+ -Ihours -Idate --rfc-3339=ns 
+ -Ihours -Idate -r files/df 
+ -Ihours -Idate -s 2000-01-01 
+ -Ihours -Idate -u 
+ -Ihours -Idate --help 
+ -Ihours -Idate --version 
+ -Ihours -Iseconds -Ins 
+ -Ihours -Iseconds -R 
+ -Ihours -Iseconds --rfc-3339=date 
+ -Ihours -Iseconds --rfc-3339=seconds 
+ -Ihours -Iseconds --rfc-3339=ns 
+ -Ihours -Iseconds -r files/df 
+ -Ihours -Iseconds -s 2000-01-01 
+ -Ihours -Iseconds -u 
+ -Ihours -Iseconds --help 
+ -Ihours -Iseconds --version 
+ -Ihours -Ins -R 
+ -Ihours -Ins --rfc-3339=date 
+ -Ihours -Ins --rfc-3339=seconds 
+ -Ihours -Ins --rfc-3339=ns 
+ -Ihours -Ins -r files/df 
+ -Ihours -Ins -s 2000-01-01 
+ -Ihours -Ins -u 
+ -Ihours -Ins --help 
+ -Ihours -Ins --version 
+ -Ihours -R --rfc-3339=date 
+ -Ihours -R --rfc-3339=seconds 
+ -Ihours -R --rfc-3339=ns 
+ -Ihours -R -r files/df 
+ -Ihours -R -s 2000-01-01 
+ -Ihours -R -u 
+ -Ihours -R --help 
+ -Ihours -R --version 
+ -Ihours --rfc-3339=date --rfc-3339=seconds 
+ -Ihours --rfc-3339=date --rfc-3339=ns 
+ -Ihours --rfc-3339=date -r files/df 
+ -Ihours --rfc-3339=date -s 2000-01-01 
+ -Ihours --rfc-3339=date -u 
+ -Ihours --rfc-3339=date --help 
+ -Ihours --rfc-3339=date --version 
+ -Ihours --rfc-3339=seconds --rfc-3339=ns 
+ -Ihours --rfc-3339=seconds -r files/df 
+ -Ihours --rfc-3339=seconds -s 2000-01-01 
+ -Ihours --rfc-3339=seconds -u 
+ -Ihours --rfc-3339=seconds --help 
+ -Ihours --rfc-3339=seconds --version 
+ -Ihours --rfc-3339=ns -r files/df 
+ -Ihours --rfc-3339=ns -s 2000-01-01 
+ -Ihours --rfc-3339=ns -u 
+ -Ihours --rfc-3339=ns --help 
+ -Ihours --rfc-3339=ns --version 
+ -Ihours -r files/df -s 2000-01-01 
+ -Ihours -r files/df -u 
+ -Ihours -r files/df --help 
+ -Ihours -r files/df --version 
+ -Ihours -s 2000-01-01 -u 
+ -Ihours -s 2000-01-01 --help 
+ -Ihours -s 2000-01-01 --version 
+ -Ihours -u --help 
+ -Ihours -u --version 
+ -Ihours --help --version 
+ -Iminutes -Idate -Iseconds 
+ -Iminutes -Idate -Ins 
+ -Iminutes -Idate -R 
+ -Iminutes -Idate --rfc-3339=date 
+ -Iminutes -Idate --rfc-3339=seconds 
+ -Iminutes -Idate --rfc-3339=ns 
+ -Iminutes -Idate -r files/df 
+ -Iminutes -Idate -s 2000-01-01 
+ -Iminutes -Idate -u 
+ -Iminutes -Idate --help 
+ -Iminutes -Idate --version 
+ -Iminutes -Iseconds -Ins 
+ -Iminutes -Iseconds -R 
+ -Iminutes -Iseconds --rfc-3339=date 
+ -Iminutes -Iseconds --rfc-3339=seconds 
+ -Iminutes -Iseconds --rfc-3339=ns 
+ -Iminutes -Iseconds -r files/df 
+ -Iminutes -Iseconds -s 2000-01-01 
+ -Iminutes -Iseconds -u 
+ -Iminutes -Iseconds --help 
+ -Iminutes -Iseconds --version 
+ -Iminutes -Ins -R 
+ -Iminutes -Ins --rfc-3339=date 
+ -Iminutes -Ins --rfc-3339=seconds 
+ -Iminutes -Ins --rfc-3339=ns 
+ -Iminutes -Ins -r files/df 
+ -Iminutes -Ins -s 2000-01-01 
+ -Iminutes -Ins -u 
+ -Iminutes -Ins --help 
+ -Iminutes -Ins --version 
+ -Iminutes -R --rfc-3339=date 
+ -Iminutes -R --rfc-3339=seconds 
+ -Iminutes -R --rfc-3339=ns 
+ -Iminutes -R -r files/df 
+ -Iminutes -R -s 2000-01-01 
+ -Iminutes -R -u 
+ -Iminutes -R --help 
+ -Iminutes -R --version 
+ -Iminutes --rfc-3339=date --rfc-3339=seconds 
+ -Iminutes --rfc-3339=date --rfc-3339=ns 
+ -Iminutes --rfc-3339=date -r files/df 
+ -Iminutes --rfc-3339=date -s 2000-01-01 
+ -Iminutes --rfc-3339=date -u 
+ -Iminutes --rfc-3339=date --help 
+ -Iminutes --rfc-3339=date --version 
+ -Iminutes --rfc-3339=seconds --rfc-3339=ns 
+ -Iminutes --rfc-3339=seconds -r files/df 
+ -Iminutes --rfc-3339=seconds -s 2000-01-01 
+ -Iminutes --rfc-3339=seconds -u 
+ -Iminutes --rfc-3339=seconds --help 
+ -Iminutes --rfc-3339=seconds --version 
+ -Iminutes --rfc-3339=ns -r files/df 
+ -Iminutes --rfc-3339=ns -s 2000-01-01 
+ -Iminutes --rfc-3339=ns -u 
+ -Iminutes --rfc-3339=ns --help 
+ -Iminutes --rfc-3339=ns --version 
+ -Iminutes -r files/df -s 2000-01-01 
+ -Iminutes -r files/df -u 
+ -Iminutes -r files/df --help 
+ -Iminutes -r files/df --version 
+ -Iminutes -s 2000-01-01 -u 
+ -Iminutes -s 2000-01-01 --help 
+ -Iminutes -s 2000-01-01 --version 
+ -Iminutes -u --help 
+ -Iminutes -u --version 
+ -Iminutes --help --version 
+ -Idate -Iseconds -Ins 
+ -Idate -Iseconds -R 
+ -Idate -Iseconds --rfc-3339=date 
+ -Idate -Iseconds --rfc-3339=seconds 
+ -Idate -Iseconds --rfc-3339=ns 
+ -Idate -Iseconds -r files/df 
+ -Idate -Iseconds -s 2000-01-01 
+ -Idate -Iseconds -u 
+ -Idate -Iseconds --help 
+ -Idate -Iseconds --version 
+ -Idate -Ins -R 
+ -Idate -Ins --rfc-3339=date 
+ -Idate -Ins --rfc-3339=seconds 
+ -Idate -Ins --rfc-3339=ns 
+ -Idate -Ins -r files/df 
+ -Idate -Ins -s 2000-01-01 
+ -Idate -Ins -u 
+ -Idate -Ins --help 
+ -Idate -Ins --version 
+ -Idate -R --rfc-3339=date 
+ -Idate -R --rfc-3339=seconds 
+ -Idate -R --rfc-3339=ns 
+ -Idate -R -r files/df 
+ -Idate -R -s 2000-01-01 
+ -Idate -R -u 
+ -Idate -R --help 
+ -Idate -R --version 
+ -Idate --rfc-3339=date --rfc-3339=seconds 
+ -Idate --rfc-3339=date --rfc-3339=ns 
+ -Idate --rfc-3339=date -r files/df 
+ -Idate --rfc-3339=date -s 2000-01-01 
+ -Idate --rfc-3339=date -u 
+ -Idate --rfc-3339=date --help 
+ -Idate --rfc-3339=date --version 
+ -Idate --rfc-3339=seconds --rfc-3339=ns 
+ -Idate --rfc-3339=seconds -r files/df 
+ -Idate --rfc-3339=seconds -s 2000-01-01 
+ -Idate --rfc-3339=seconds -u 
+ -Idate --rfc-3339=seconds --help 
+ -Idate --rfc-3339=seconds --version 
+ -Idate --rfc-3339=ns -r files/df 
+ -Idate --rfc-3339=ns -s 2000-01-01 
+ -Idate --rfc-3339=ns -u 
+ -Idate --rfc-3339=ns --help 
+ -Idate --rfc-3339=ns --version 
+ -Idate -r files/df -s 2000-01-01 
+ -Idate -r files/df -u 
+ -Idate -r files/df --help 
+ -Idate -r files/df --version 
+ -Idate -s 2000-01-01 -u 
+ -Idate -s 2000-01-01 --help 
+ -Idate -s 2000-01-01 --version 
+ -Idate -u --help 
+ -Idate -u --version 
+ -Idate --help --version 
+ -Iseconds -Ins -R 
+ -Iseconds -Ins --rfc-3339=date 
+ -Iseconds -Ins --rfc-3339=seconds 
+ -Iseconds -Ins --rfc-3339=ns 
+ -Iseconds -Ins -r files/df 
+ -Iseconds -Ins -s 2000-01-01 
+ -Iseconds -Ins -u 
+ -Iseconds -Ins --help 
+ -Iseconds -Ins --version 
+ -Iseconds -R --rfc-3339=date 
+ -Iseconds -R --rfc-3339=seconds 
+ -Iseconds -R --rfc-3339=ns 
+ -Iseconds -R -r files/df 
+ -Iseconds -R -s 2000-01-01 
+ -Iseconds -R -u 
+ -Iseconds -R --help 
+ -Iseconds -R --version 
+ -Iseconds --rfc-3339=date --rfc-3339=seconds 
+ -Iseconds --rfc-3339=date --rfc-3339=ns 
+ -Iseconds --rfc-3339=date -r files/df 
+ -Iseconds --rfc-3339=date -s 2000-01-01 
+ -Iseconds --rfc-3339=date -u 
+ -Iseconds --rfc-3339=date --help 
+ -Iseconds --rfc-3339=date --version 
+ -Iseconds --rfc-3339=seconds --rfc-3339=ns 
+ -Iseconds --rfc-3339=seconds -r files/df 
+ -Iseconds --rfc-3339=seconds -s 2000-01-01 
+ -Iseconds --rfc-3339=seconds -u 
+ -Iseconds --rfc-3339=seconds --help 
+ -Iseconds --rfc-3339=seconds --version 
+ -Iseconds --rfc-3339=ns -r files/df 
+ -Iseconds --rfc-3339=ns -s 2000-01-01 
+ -Iseconds --rfc-3339=ns -u 
+ -Iseconds --rfc-3339=ns --help 
+ -Iseconds --rfc-3339=ns --version 
+ -Iseconds -r files/df -s 2000-01-01 
+ -Iseconds -r files/df -u 
+ -Iseconds -r files/df --help 
+ -Iseconds -r files/df --version 
+ -Iseconds -s 2000-01-01 -u 
+ -Iseconds -s 2000-01-01 --help 
+ -Iseconds -s 2000-01-01 --version 
+ -Iseconds -u --help 
+ -Iseconds -u --version 
+ -Iseconds --help --version 
+ -Ins -R --rfc-3339=date 
+ -Ins -R --rfc-3339=seconds 
+ -Ins -R --rfc-3339=ns 
+ -Ins -R -r files/df 
+ -Ins -R -s 2000-01-01 
+ -Ins -R -u 
+ -Ins -R --help 
+ -Ins -R --version 
+ -Ins --rfc-3339=date --rfc-3339=seconds 
+ -Ins --rfc-3339=date --rfc-3339=ns 
+ -Ins --rfc-3339=date -r files/df 
+ -Ins --rfc-3339=date -s 2000-01-01 
+ -Ins --rfc-3339=date -u 
+ -Ins --rfc-3339=date --help 
+ -Ins --rfc-3339=date --version 
+ -Ins --rfc-3339=seconds --rfc-3339=ns 
+ -Ins --rfc-3339=seconds -r files/df 
+ -Ins --rfc-3339=seconds -s 2000-01-01 
+ -Ins --rfc-3339=seconds -u 
+ -Ins --rfc-3339=seconds --help 
+ -Ins --rfc-3339=seconds --version 
+ -Ins --rfc-3339=ns -r files/df 
+ -Ins --rfc-3339=ns -s 2000-01-01 
+ -Ins --rfc-3339=ns -u 
+ -Ins --rfc-3339=ns --help 
+ -Ins --rfc-3339=ns --version 
+ -Ins -r files/df -s 2000-01-01 
+ -Ins -r files/df -u 
+ -Ins -r files/df --help 
+ -Ins -r files/df --version 
+ -Ins -s 2000-01-01 -u 
+ -Ins -s 2000-01-01 --help 
+ -Ins -s 2000-01-01 --version 
+ -Ins -u --help 
+ -Ins -u --version 
+ -Ins --help --version 
+ -R --rfc-3339=date --rfc-3339=seconds 
+ -R --rfc-3339=date --rfc-3339=ns 
+ -R --rfc-3339=date -r files/df 
+ -R --rfc-3339=date -s 2000-01-01 
+ -R --rfc-3339=date -u 
+ -R --rfc-3339=date --help 
+ -R --rfc-3339=date --version 
+ -R --rfc-3339=seconds --rfc-3339=ns 
+ -R --rfc-3339=seconds -r files/df 
+ -R --rfc-3339=seconds -s 2000-01-01 
+ -R --rfc-3339=seconds -u 
+ -R --rfc-3339=seconds --help 
+ -R --rfc-3339=seconds --version 
+ -R --rfc-3339=ns -r files/df 
+ -R --rfc-3339=ns -s 2000-01-01 
+ -R --rfc-3339=ns -u 
+ -R --rfc-3339=ns --help 
+ -R --rfc-3339=ns --version 
+ -R -r files/df -s 2000-01-01 
+ -R -r files/df -u 
+ -R -r files/df --help 
+ -R -r files/df --version 
+ -R -s 2000-01-01 -u 
+ -R -s 2000-01-01 --help 
+ -R -s 2000-01-01 --version 
+ -R -u --help 
+ -R -u --version 
+ -R --help --version 
+ --rfc-3339=date --rfc-3339=seconds --rfc-3339=ns 
+ --rfc-3339=date --rfc-3339=seconds -r files/df 
+ --rfc-3339=date --rfc-3339=seconds -s 2000-01-01 
+ --rfc-3339=date --rfc-3339=seconds -u 
+ --rfc-3339=date --rfc-3339=seconds --help 
+ --rfc-3339=date --rfc-3339=seconds --version 
+ --rfc-3339=date --rfc-3339=ns -r files/df 
+ --rfc-3339=date --rfc-3339=ns -s 2000-01-01 
+ --rfc-3339=date --rfc-3339=ns -u 
+ --rfc-3339=date --rfc-3339=ns --help 
+ --rfc-3339=date --rfc-3339=ns --version 
+ --rfc-3339=date -r files/df -s 2000-01-01 
+ --rfc-3339=date -r files/df -u 
+ --rfc-3339=date -r files/df --help 
+ --rfc-3339=date -r files/df --version 
+ --rfc-3339=date -s 2000-01-01 -u 
+ --rfc-3339=date -s 2000-01-01 --help 
+ --rfc-3339=date -s 2000-01-01 --version 
+ --rfc-3339=date -u --help 
+ --rfc-3339=date -u --version 
+ --rfc-3339=date --help --version 
+ --rfc-3339=seconds --rfc-3339=ns -r files/df 
+ --rfc-3339=seconds --rfc-3339=ns -s 2000-01-01 
+ --rfc-3339=seconds --rfc-3339=ns -u 
+ --rfc-3339=seconds --rfc-3339=ns --help 
+ --rfc-3339=seconds --rfc-3339=ns --version 
+ --rfc-3339=seconds -r files/df -s 2000-01-01 
+ --rfc-3339=seconds -r files/df -u 
+ --rfc-3339=seconds -r files/df --help 
+ --rfc-3339=seconds -r files/df --version 
+ --rfc-3339=seconds -s 2000-01-01 -u 
+ --rfc-3339=seconds -s 2000-01-01 --help 
+ --rfc-3339=seconds -s 2000-01-01 --version 
+ --rfc-3339=seconds -u --help 
+ --rfc-3339=seconds -u --version 
+ --rfc-3339=seconds --help --version 
+ --rfc-3339=ns -r files/df -s 2000-01-01 
+ --rfc-3339=ns -r files/df -u 
+ --rfc-3339=ns -r files/df --help 
+ --rfc-3339=ns -r files/df --version 
+ --rfc-3339=ns -s 2000-01-01 -u 
+ --rfc-3339=ns -s 2000-01-01 --help 
+ --rfc-3339=ns -s 2000-01-01 --version 
+ --rfc-3339=ns -u --help 
+ --rfc-3339=ns -u --version 
+ --rfc-3339=ns --help --version 
+ -r files/df -s 2000-01-01 -u 
+ -r files/df -s 2000-01-01 --help 
+ -r files/df -s 2000-01-01 --version 
+ -r files/df -u --help 
+ -r files/df -u --version 
+ -r files/df --help --version 
+ -s 2000-01-01 -u --help 
+ -s 2000-01-01 -u --version 
+ -s 2000-01-01 --help --version 
+ -u --help --version 

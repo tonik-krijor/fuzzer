@@ -1,21 +1,23 @@
-FROM debian as builder
+FROM alpine
 
 # Install required packages
-RUN apt-get update && apt-get install -y \
-    wget \
-    build-essential \
-    vim \
-    git
+RUN apk add --no-cache \
+  wget \
+  build-base \
+  acl-dev \
+  attr-dev \ 
+  gmp-dev \ 
+  libcap-dev \ 
+  perl \
+  bash \
+  vim
 
 # Setup working directory
 WORKDIR /app
 
-# Download & build radamsa
-RUN git clone https://gitlab.com/akihe/radamsa.git && cd radamsa && make && make install
-
 # Setup user
-RUN useradd -ms /bin/bash appuser
-RUN chown -R appuser:appuser /app
+RUN adduser -D appuser
+RUN chown appuser:appuser /app
 USER appuser
 
 # Download coreutils
@@ -23,13 +25,20 @@ RUN mkdir coreutils
 RUN wget -qO- https://ftp.gnu.org/gnu/coreutils/coreutils-8.25.tar.xz | tar --strip-components 1 -C $PWD/coreutils -xJf -
 
 # Build coreutils
-RUN cd coreutils && ./configure CC="gcc" CXX="g++" CFLAGS=--coverage
+RUN cd coreutils && ./configure CFLAGS=--coverage
 RUN make -C coreutils 
 
-# Copy over local files
-COPY files/* ./files/
-COPY *.sh ./
-COPY *.txt ./
+# Download radamsa
+RUN mkdir radamsa
+RUN wget -qO- https://gitlab.com/akihe/radamsa/-/archive/develop/radamsa-develop.tar.gz | tar --strip-components 1 -C $PWD/radamsa -xzf -
 
-# Create empty directories
-RUN mkdir in out
+# Build radamsa
+RUN make -C radamsa
+ENV PATH /app/radamsa/bin:$PATH
+
+# Copy over local files
+COPY --chown=appuser files files
+COPY --chown=appuser *.sh ./
+COPY --chown=appuser pre pre
+
+ENTRYPOINT [ "/bin/bash" ]

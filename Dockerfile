@@ -11,6 +11,10 @@ RUN apk add --no-cache \
   bash \
   vim
 
+# Setup default compilers
+ENV CC gcc
+ENV CXX g++
+
 # Setup working directory
 WORKDIR /app
 

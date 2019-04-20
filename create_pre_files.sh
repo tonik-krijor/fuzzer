@@ -1,5 +1,90 @@
 #!/bin/bash
 
+# Creates pre-files for the `cat` command.
+cat_in_dir="args/cat.txt"
+cat_out_dir="pre/cat.txt"
+{
+  mixemup $cat_in_dir --max-args 3 &&
+  mixemup $cat_in_dir --postfix files/f1 --max-args 3;
+} > $cat_out_dir
+
+# Creates pre-files for the `cp` command.
+cp_in_dir="args/cp.txt"
+cp_out_dir="pre/cp.txt"
+{
+  mixemup $cp_in_dir --max-args 3 &&
+  mixemup $cp_in_dir --postfix "files/f1 files/f2" --max-args 3;
+} > $cp_out_dir
+
+# Creates pre-files for the `date` command.
+date_in_dir="args/date.txt"
+date_out_dir="pre/date.txt"
+{
+  mixemup $date_in_dir --max-args 3;
+} > $date_out_dir
+
+# Creates pre-files for the `dd` command.
+dd_in_dir="args/dd.txt"
+dd_out_dir="pre/dd.txt"
+{ 
+  mixemup $dd_in_dir --max-args 3 --postfix "if=files/f1 of=files/f2";
+} > $dd_out_dir
+
+# Creates pre-files for the `df` command.
+df_in_dir="args/df.txt"
+df_out_dir="pre/df.txt"
+{ 
+  mixemup $df_in_dir --max-args 3;
+} > $df_out_dir
+
+# Creates pre-files for the `dir` command.
+dir_in_dir="args/dir.txt"
+dir_out_dir="pre/dir.txt"
+{ 
+  mixemup $dir_in_dir --max-args 3 &&
+  mixemup $dir_in_dir --max-args 3 --postfix files;
+} > $dir_out_dir
+
+# Creates pre-files for the `echo` command.
+echo_in_dir="args/echo.txt"
+echo_out_dir="pre/echo.txt"
+{ 
+  mixemup $echo_in_dir --max-args 3 &&
+  mixemup $echo_in_dir --max-args 3 --postfix files;
+} > $echo_out_dir
+
+# Creates pre-files for the `false` command.
+false_in_dir="args/false.txt"
+false_out_dir="pre/false.txt"
+{ 
+  mixemup $false_in_dir --max-args 3 &&
+  mixemup $false_in_dir --max-args 3 --postfix files;
+} > $false_out_dir
+
+# Creates pre-files for the `ln` command.
+ln_in_dir="args/ln.txt"
+ln_out_dir="pre/ln.txt"
+{ 
+  mixemup $ln_in_dir --max-args 3 &&
+  mixemup $ln_in_dir --max-args 3 --postfix "files/f1 files/f2";
+} > $ln_out_dir
+
+# Creates pre-files for the `ls` command.
+ls_in_dir="args/ls.txt"
+ls_out_dir="pre/ls.txt"
+{ 
+  mixemup $ls_in_dir --max-args 3 &&
+  mixemup $ls_in_dir --max-args 3 --postfix files;
+} > $ls_out_dir
+
+# Creates pre-files for the `mkdir` command.
+mkdir_in_dir="args/cat.txt"
+mkdir_out_dir="pre/cat.txt"
+{
+  mixemup $mkdir_in_dir --max-args 3 &&
+  mixemup $mkdir_in_dir --postfix files/d1 --max-args 3;
+} > $mkdir_out_dir
+
 # Creates pre-files for the `mkdir` command.
 mkdir_in_dir="args/mkdir.txt"
 mkdir_out_dir="pre/mkdir.txt"

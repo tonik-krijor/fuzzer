@@ -98,7 +98,8 @@ vdir_out="pre/vdir.txt"
 # ls
 { 
   mixemup $ls_in --max-args 3 &&
-  mixemup $ls_in --max-args 3 --postfix files;
+  mixemup $ls_in --max-args 3 --postfix files/d1;
+  mixemup $ls_in --max-args 3 --postfix "files/d1 files/d2";
 } > $ls_out
 
 # mkdir

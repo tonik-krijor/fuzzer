@@ -1,0 +1,28 @@
+-a
+-B 1G
+-h
+-H
+-i
+-k
+-l
+--no-sync
+--output=source
+--output=fstype
+--output=itotal
+--output=iused
+--output=iavail
+--output=ipcent
+--output=size
+--output=used
+--output=avail
+--output=pcent
+--output=file
+--output=target
+-P
+--sync
+--total
+-t tmpfs
+-x tmpfs
+-v
+--help
+--version

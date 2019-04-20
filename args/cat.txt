@@ -1,0 +1,12 @@
+-A
+-b
+-e
+-E
+-n
+-s
+-t
+-T
+-u
+-v
+--help
+--version

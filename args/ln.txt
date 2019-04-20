@@ -1,0 +1,23 @@
+--backup=none
+--backup=off
+--backup=simple
+--backup=never
+--backup=existing
+--backup=nil
+--backup=numbered
+--backup=t
+-b
+-d
+-f
+-i
+-L
+-n
+-P
+-r
+-s
+-S x
+-t files
+-T
+-v
+--help
+--version

@@ -8,17 +8,22 @@ else
     K=${5-5}
     SEED=${6-234}
 
-    tmp_location=/tmp/tmp.txt
     tmp_diff=/tmp/tmp_diff.txt
-    cat $3 > $tmp_location
     cat $3 > $tmp_diff
+    output=`cat $3`
+
+    # Dry run with original file
+    while read line
+    do
+        $1 $line >/dev/null 2>&1
+    done < "$3"
 
     for ((i=0; i< $K; i++))
     do
-        output=`./fuzz.sh $1 $tmp_diff $N $SEED | ./prune.sh $1 $2`
-        echo "$output" > $tmp_diff
-        echo "$output"
+        diff=`./fuzz.sh $1 $tmp_diff $N $SEED | ./prune.sh $1 $2`
+        output+=$diff
+        echo "$diff" > $tmp_diff
 
-    done >> $tmp_location
-    cat $tmp_location
+    done
+    echo "$output"
 fi

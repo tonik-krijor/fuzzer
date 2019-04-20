@@ -27,10 +27,9 @@ RUN cd coreutils && ./configure CC="gcc" CXX="g++" CFLAGS=--coverage
 RUN make -C coreutils 
 
 # Copy over local files
-COPY fuzz.sh fuzz.sh
-COPY prune.sh prune.sh
-COPY fzpr.sh fzpr.sh
-COPY ls.txt ls.txt
+COPY files/* ./files/
+COPY *.sh ./
+COPY *.txt ./
 
 # Create empty directories
 RUN mkdir in out

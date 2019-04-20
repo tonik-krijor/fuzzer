@@ -4,7 +4,7 @@ if (( $# < 2 )); then
     echo "Usage: $0 exec_path exec_name [file]"
 else
     PRG=$2
-    cov_max=0
+    cov_max=`gcov $1 2>/dev/null | grep $PRG -A 1 | grep -Eo '[0-9]+\.[0-9]+'`
     while read line
     do
         # Prune the results - remove stuff that doesn't increase coverage

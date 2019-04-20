@@ -45,4 +45,4 @@ COPY --chown=appuser files files
 COPY --chown=appuser *.sh ./
 COPY --chown=appuser pre pre
 
-ENTRYPOINT [ "/bin/bash" ]
+CMD [ "/bin/bash" ]

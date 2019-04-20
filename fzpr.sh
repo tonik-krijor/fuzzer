@@ -8,7 +8,7 @@ else
     K=${5-5}
     SEED=${6-234}
 
-    tmp_diff=/tmp/tmp_diff.txt
+    tmp_diff=tmp_diff.txt
     cat $3 > $tmp_diff
     output=`cat $3`
 

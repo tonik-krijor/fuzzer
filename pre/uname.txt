@@ -230,235 +230,235 @@
  -i -o --version 
  -i --help --version 
  -o --help --version 
- helloworld
- -a helloworld
- -s helloworld
- -n helloworld
- -r helloworld
- -v helloworld
- -m helloworld
- -p helloworld
- -i helloworld
- -o helloworld
- --help helloworld
- --version helloworld
- -a -s helloworld
- -a -n helloworld
- -a -r helloworld
- -a -v helloworld
- -a -m helloworld
- -a -p helloworld
- -a -i helloworld
- -a -o helloworld
- -a --help helloworld
- -a --version helloworld
- -s -n helloworld
- -s -r helloworld
- -s -v helloworld
- -s -m helloworld
- -s -p helloworld
- -s -i helloworld
- -s -o helloworld
- -s --help helloworld
- -s --version helloworld
- -n -r helloworld
- -n -v helloworld
- -n -m helloworld
- -n -p helloworld
- -n -i helloworld
- -n -o helloworld
- -n --help helloworld
- -n --version helloworld
- -r -v helloworld
- -r -m helloworld
- -r -p helloworld
- -r -i helloworld
- -r -o helloworld
- -r --help helloworld
- -r --version helloworld
- -v -m helloworld
- -v -p helloworld
- -v -i helloworld
- -v -o helloworld
- -v --help helloworld
- -v --version helloworld
- -m -p helloworld
- -m -i helloworld
- -m -o helloworld
- -m --help helloworld
- -m --version helloworld
- -p -i helloworld
- -p -o helloworld
- -p --help helloworld
- -p --version helloworld
- -i -o helloworld
- -i --help helloworld
- -i --version helloworld
- -o --help helloworld
- -o --version helloworld
- --help --version helloworld
- -a -s -n helloworld
- -a -s -r helloworld
- -a -s -v helloworld
- -a -s -m helloworld
- -a -s -p helloworld
- -a -s -i helloworld
- -a -s -o helloworld
- -a -s --help helloworld
- -a -s --version helloworld
- -a -n -r helloworld
- -a -n -v helloworld
- -a -n -m helloworld
- -a -n -p helloworld
- -a -n -i helloworld
- -a -n -o helloworld
- -a -n --help helloworld
- -a -n --version helloworld
- -a -r -v helloworld
- -a -r -m helloworld
- -a -r -p helloworld
- -a -r -i helloworld
- -a -r -o helloworld
- -a -r --help helloworld
- -a -r --version helloworld
- -a -v -m helloworld
- -a -v -p helloworld
- -a -v -i helloworld
- -a -v -o helloworld
- -a -v --help helloworld
- -a -v --version helloworld
- -a -m -p helloworld
- -a -m -i helloworld
- -a -m -o helloworld
- -a -m --help helloworld
- -a -m --version helloworld
- -a -p -i helloworld
- -a -p -o helloworld
- -a -p --help helloworld
- -a -p --version helloworld
- -a -i -o helloworld
- -a -i --help helloworld
- -a -i --version helloworld
- -a -o --help helloworld
- -a -o --version helloworld
- -a --help --version helloworld
- -s -n -r helloworld
- -s -n -v helloworld
- -s -n -m helloworld
- -s -n -p helloworld
- -s -n -i helloworld
- -s -n -o helloworld
- -s -n --help helloworld
- -s -n --version helloworld
- -s -r -v helloworld
- -s -r -m helloworld
- -s -r -p helloworld
- -s -r -i helloworld
- -s -r -o helloworld
- -s -r --help helloworld
- -s -r --version helloworld
- -s -v -m helloworld
- -s -v -p helloworld
- -s -v -i helloworld
- -s -v -o helloworld
- -s -v --help helloworld
- -s -v --version helloworld
- -s -m -p helloworld
- -s -m -i helloworld
- -s -m -o helloworld
- -s -m --help helloworld
- -s -m --version helloworld
- -s -p -i helloworld
- -s -p -o helloworld
- -s -p --help helloworld
- -s -p --version helloworld
- -s -i -o helloworld
- -s -i --help helloworld
- -s -i --version helloworld
- -s -o --help helloworld
- -s -o --version helloworld
- -s --help --version helloworld
- -n -r -v helloworld
- -n -r -m helloworld
- -n -r -p helloworld
- -n -r -i helloworld
- -n -r -o helloworld
- -n -r --help helloworld
- -n -r --version helloworld
- -n -v -m helloworld
- -n -v -p helloworld
- -n -v -i helloworld
- -n -v -o helloworld
- -n -v --help helloworld
- -n -v --version helloworld
- -n -m -p helloworld
- -n -m -i helloworld
- -n -m -o helloworld
- -n -m --help helloworld
- -n -m --version helloworld
- -n -p -i helloworld
- -n -p -o helloworld
- -n -p --help helloworld
- -n -p --version helloworld
- -n -i -o helloworld
- -n -i --help helloworld
- -n -i --version helloworld
- -n -o --help helloworld
- -n -o --version helloworld
- -n --help --version helloworld
- -r -v -m helloworld
- -r -v -p helloworld
- -r -v -i helloworld
- -r -v -o helloworld
- -r -v --help helloworld
- -r -v --version helloworld
- -r -m -p helloworld
- -r -m -i helloworld
- -r -m -o helloworld
- -r -m --help helloworld
- -r -m --version helloworld
- -r -p -i helloworld
- -r -p -o helloworld
- -r -p --help helloworld
- -r -p --version helloworld
- -r -i -o helloworld
- -r -i --help helloworld
- -r -i --version helloworld
- -r -o --help helloworld
- -r -o --version helloworld
- -r --help --version helloworld
- -v -m -p helloworld
- -v -m -i helloworld
- -v -m -o helloworld
- -v -m --help helloworld
- -v -m --version helloworld
- -v -p -i helloworld
- -v -p -o helloworld
- -v -p --help helloworld
- -v -p --version helloworld
- -v -i -o helloworld
- -v -i --help helloworld
- -v -i --version helloworld
- -v -o --help helloworld
- -v -o --version helloworld
- -v --help --version helloworld
- -m -p -i helloworld
- -m -p -o helloworld
- -m -p --help helloworld
- -m -p --version helloworld
- -m -i -o helloworld
- -m -i --help helloworld
- -m -i --version helloworld
- -m -o --help helloworld
- -m -o --version helloworld
- -m --help --version helloworld
- -p -i -o helloworld
- -p -i --help helloworld
- -p -i --version helloworld
- -p -o --help helloworld
- -p -o --version helloworld
- -p --help --version helloworld
- -i -o --help helloworld
- -i -o --version helloworld
- -i --help --version helloworld
- -o --help --version helloworld
+ a
+ -a a
+ -s a
+ -n a
+ -r a
+ -v a
+ -m a
+ -p a
+ -i a
+ -o a
+ --help a
+ --version a
+ -a -s a
+ -a -n a
+ -a -r a
+ -a -v a
+ -a -m a
+ -a -p a
+ -a -i a
+ -a -o a
+ -a --help a
+ -a --version a
+ -s -n a
+ -s -r a
+ -s -v a
+ -s -m a
+ -s -p a
+ -s -i a
+ -s -o a
+ -s --help a
+ -s --version a
+ -n -r a
+ -n -v a
+ -n -m a
+ -n -p a
+ -n -i a
+ -n -o a
+ -n --help a
+ -n --version a
+ -r -v a
+ -r -m a
+ -r -p a
+ -r -i a
+ -r -o a
+ -r --help a
+ -r --version a
+ -v -m a
+ -v -p a
+ -v -i a
+ -v -o a
+ -v --help a
+ -v --version a
+ -m -p a
+ -m -i a
+ -m -o a
+ -m --help a
+ -m --version a
+ -p -i a
+ -p -o a
+ -p --help a
+ -p --version a
+ -i -o a
+ -i --help a
+ -i --version a
+ -o --help a
+ -o --version a
+ --help --version a
+ -a -s -n a
+ -a -s -r a
+ -a -s -v a
+ -a -s -m a
+ -a -s -p a
+ -a -s -i a
+ -a -s -o a
+ -a -s --help a
+ -a -s --version a
+ -a -n -r a
+ -a -n -v a
+ -a -n -m a
+ -a -n -p a
+ -a -n -i a
+ -a -n -o a
+ -a -n --help a
+ -a -n --version a
+ -a -r -v a
+ -a -r -m a
+ -a -r -p a
+ -a -r -i a
+ -a -r -o a
+ -a -r --help a
+ -a -r --version a
+ -a -v -m a
+ -a -v -p a
+ -a -v -i a
+ -a -v -o a
+ -a -v --help a
+ -a -v --version a
+ -a -m -p a
+ -a -m -i a
+ -a -m -o a
+ -a -m --help a
+ -a -m --version a
+ -a -p -i a
+ -a -p -o a
+ -a -p --help a
+ -a -p --version a
+ -a -i -o a
+ -a -i --help a
+ -a -i --version a
+ -a -o --help a
+ -a -o --version a
+ -a --help --version a
+ -s -n -r a
+ -s -n -v a
+ -s -n -m a
+ -s -n -p a
+ -s -n -i a
+ -s -n -o a
+ -s -n --help a
+ -s -n --version a
+ -s -r -v a
+ -s -r -m a
+ -s -r -p a
+ -s -r -i a
+ -s -r -o a
+ -s -r --help a
+ -s -r --version a
+ -s -v -m a
+ -s -v -p a
+ -s -v -i a
+ -s -v -o a
+ -s -v --help a
+ -s -v --version a
+ -s -m -p a
+ -s -m -i a
+ -s -m -o a
+ -s -m --help a
+ -s -m --version a
+ -s -p -i a
+ -s -p -o a
+ -s -p --help a
+ -s -p --version a
+ -s -i -o a
+ -s -i --help a
+ -s -i --version a
+ -s -o --help a
+ -s -o --version a
+ -s --help --version a
+ -n -r -v a
+ -n -r -m a
+ -n -r -p a
+ -n -r -i a
+ -n -r -o a
+ -n -r --help a
+ -n -r --version a
+ -n -v -m a
+ -n -v -p a
+ -n -v -i a
+ -n -v -o a
+ -n -v --help a
+ -n -v --version a
+ -n -m -p a
+ -n -m -i a
+ -n -m -o a
+ -n -m --help a
+ -n -m --version a
+ -n -p -i a
+ -n -p -o a
+ -n -p --help a
+ -n -p --version a
+ -n -i -o a
+ -n -i --help a
+ -n -i --version a
+ -n -o --help a
+ -n -o --version a
+ -n --help --version a
+ -r -v -m a
+ -r -v -p a
+ -r -v -i a
+ -r -v -o a
+ -r -v --help a
+ -r -v --version a
+ -r -m -p a
+ -r -m -i a
+ -r -m -o a
+ -r -m --help a
+ -r -m --version a
+ -r -p -i a
+ -r -p -o a
+ -r -p --help a
+ -r -p --version a
+ -r -i -o a
+ -r -i --help a
+ -r -i --version a
+ -r -o --help a
+ -r -o --version a
+ -r --help --version a
+ -v -m -p a
+ -v -m -i a
+ -v -m -o a
+ -v -m --help a
+ -v -m --version a
+ -v -p -i a
+ -v -p -o a
+ -v -p --help a
+ -v -p --version a
+ -v -i -o a
+ -v -i --help a
+ -v -i --version a
+ -v -o --help a
+ -v -o --version a
+ -v --help --version a
+ -m -p -i a
+ -m -p -o a
+ -m -p --help a
+ -m -p --version a
+ -m -i -o a
+ -m -i --help a
+ -m -i --version a
+ -m -o --help a
+ -m -o --version a
+ -m --help --version a
+ -p -i -o a
+ -p -i --help a
+ -p -i --version a
+ -p -o --help a
+ -p -o --version a
+ -p --help --version a
+ -i -o --help a
+ -i -o --version a
+ -i --help --version a
+ -o --help --version a

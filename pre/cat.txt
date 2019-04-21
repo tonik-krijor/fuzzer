@@ -297,6 +297,305 @@
  -u -v --version 
  -u --help --version 
  -v --help --version 
+ files
+ -A files
+ -b files
+ -e files
+ -E files
+ -n files
+ -s files
+ -t files
+ -T files
+ -u files
+ -v files
+ --help files
+ --version files
+ -A -b files
+ -A -e files
+ -A -E files
+ -A -n files
+ -A -s files
+ -A -t files
+ -A -T files
+ -A -u files
+ -A -v files
+ -A --help files
+ -A --version files
+ -b -e files
+ -b -E files
+ -b -n files
+ -b -s files
+ -b -t files
+ -b -T files
+ -b -u files
+ -b -v files
+ -b --help files
+ -b --version files
+ -e -E files
+ -e -n files
+ -e -s files
+ -e -t files
+ -e -T files
+ -e -u files
+ -e -v files
+ -e --help files
+ -e --version files
+ -E -n files
+ -E -s files
+ -E -t files
+ -E -T files
+ -E -u files
+ -E -v files
+ -E --help files
+ -E --version files
+ -n -s files
+ -n -t files
+ -n -T files
+ -n -u files
+ -n -v files
+ -n --help files
+ -n --version files
+ -s -t files
+ -s -T files
+ -s -u files
+ -s -v files
+ -s --help files
+ -s --version files
+ -t -T files
+ -t -u files
+ -t -v files
+ -t --help files
+ -t --version files
+ -T -u files
+ -T -v files
+ -T --help files
+ -T --version files
+ -u -v files
+ -u --help files
+ -u --version files
+ -v --help files
+ -v --version files
+ --help --version files
+ -A -b -e files
+ -A -b -E files
+ -A -b -n files
+ -A -b -s files
+ -A -b -t files
+ -A -b -T files
+ -A -b -u files
+ -A -b -v files
+ -A -b --help files
+ -A -b --version files
+ -A -e -E files
+ -A -e -n files
+ -A -e -s files
+ -A -e -t files
+ -A -e -T files
+ -A -e -u files
+ -A -e -v files
+ -A -e --help files
+ -A -e --version files
+ -A -E -n files
+ -A -E -s files
+ -A -E -t files
+ -A -E -T files
+ -A -E -u files
+ -A -E -v files
+ -A -E --help files
+ -A -E --version files
+ -A -n -s files
+ -A -n -t files
+ -A -n -T files
+ -A -n -u files
+ -A -n -v files
+ -A -n --help files
+ -A -n --version files
+ -A -s -t files
+ -A -s -T files
+ -A -s -u files
+ -A -s -v files
+ -A -s --help files
+ -A -s --version files
+ -A -t -T files
+ -A -t -u files
+ -A -t -v files
+ -A -t --help files
+ -A -t --version files
+ -A -T -u files
+ -A -T -v files
+ -A -T --help files
+ -A -T --version files
+ -A -u -v files
+ -A -u --help files
+ -A -u --version files
+ -A -v --help files
+ -A -v --version files
+ -A --help --version files
+ -b -e -E files
+ -b -e -n files
+ -b -e -s files
+ -b -e -t files
+ -b -e -T files
+ -b -e -u files
+ -b -e -v files
+ -b -e --help files
+ -b -e --version files
+ -b -E -n files
+ -b -E -s files
+ -b -E -t files
+ -b -E -T files
+ -b -E -u files
+ -b -E -v files
+ -b -E --help files
+ -b -E --version files
+ -b -n -s files
+ -b -n -t files
+ -b -n -T files
+ -b -n -u files
+ -b -n -v files
+ -b -n --help files
+ -b -n --version files
+ -b -s -t files
+ -b -s -T files
+ -b -s -u files
+ -b -s -v files
+ -b -s --help files
+ -b -s --version files
+ -b -t -T files
+ -b -t -u files
+ -b -t -v files
+ -b -t --help files
+ -b -t --version files
+ -b -T -u files
+ -b -T -v files
+ -b -T --help files
+ -b -T --version files
+ -b -u -v files
+ -b -u --help files
+ -b -u --version files
+ -b -v --help files
+ -b -v --version files
+ -b --help --version files
+ -e -E -n files
+ -e -E -s files
+ -e -E -t files
+ -e -E -T files
+ -e -E -u files
+ -e -E -v files
+ -e -E --help files
+ -e -E --version files
+ -e -n -s files
+ -e -n -t files
+ -e -n -T files
+ -e -n -u files
+ -e -n -v files
+ -e -n --help files
+ -e -n --version files
+ -e -s -t files
+ -e -s -T files
+ -e -s -u files
+ -e -s -v files
+ -e -s --help files
+ -e -s --version files
+ -e -t -T files
+ -e -t -u files
+ -e -t -v files
+ -e -t --help files
+ -e -t --version files
+ -e -T -u files
+ -e -T -v files
+ -e -T --help files
+ -e -T --version files
+ -e -u -v files
+ -e -u --help files
+ -e -u --version files
+ -e -v --help files
+ -e -v --version files
+ -e --help --version files
+ -E -n -s files
+ -E -n -t files
+ -E -n -T files
+ -E -n -u files
+ -E -n -v files
+ -E -n --help files
+ -E -n --version files
+ -E -s -t files
+ -E -s -T files
+ -E -s -u files
+ -E -s -v files
+ -E -s --help files
+ -E -s --version files
+ -E -t -T files
+ -E -t -u files
+ -E -t -v files
+ -E -t --help files
+ -E -t --version files
+ -E -T -u files
+ -E -T -v files
+ -E -T --help files
+ -E -T --version files
+ -E -u -v files
+ -E -u --help files
+ -E -u --version files
+ -E -v --help files
+ -E -v --version files
+ -E --help --version files
+ -n -s -t files
+ -n -s -T files
+ -n -s -u files
+ -n -s -v files
+ -n -s --help files
+ -n -s --version files
+ -n -t -T files
+ -n -t -u files
+ -n -t -v files
+ -n -t --help files
+ -n -t --version files
+ -n -T -u files
+ -n -T -v files
+ -n -T --help files
+ -n -T --version files
+ -n -u -v files
+ -n -u --help files
+ -n -u --version files
+ -n -v --help files
+ -n -v --version files
+ -n --help --version files
+ -s -t -T files
+ -s -t -u files
+ -s -t -v files
+ -s -t --help files
+ -s -t --version files
+ -s -T -u files
+ -s -T -v files
+ -s -T --help files
+ -s -T --version files
+ -s -u -v files
+ -s -u --help files
+ -s -u --version files
+ -s -v --help files
+ -s -v --version files
+ -s --help --version files
+ -t -T -u files
+ -t -T -v files
+ -t -T --help files
+ -t -T --version files
+ -t -u -v files
+ -t -u --help files
+ -t -u --version files
+ -t -v --help files
+ -t -v --version files
+ -t --help --version files
+ -T -u -v files
+ -T -u --help files
+ -T -u --version files
+ -T -v --help files
+ -T -v --version files
+ -T --help --version files
+ -u -v --help files
+ -u -v --version files
+ -u --help --version files
+ -v --help --version files
  files/f1
  -A files/f1
  -b files/f1
@@ -596,3 +895,302 @@
  -u -v --version files/f1
  -u --help --version files/f1
  -v --help --version files/f1
+ files/f1 files/f2
+ -A files/f1 files/f2
+ -b files/f1 files/f2
+ -e files/f1 files/f2
+ -E files/f1 files/f2
+ -n files/f1 files/f2
+ -s files/f1 files/f2
+ -t files/f1 files/f2
+ -T files/f1 files/f2
+ -u files/f1 files/f2
+ -v files/f1 files/f2
+ --help files/f1 files/f2
+ --version files/f1 files/f2
+ -A -b files/f1 files/f2
+ -A -e files/f1 files/f2
+ -A -E files/f1 files/f2
+ -A -n files/f1 files/f2
+ -A -s files/f1 files/f2
+ -A -t files/f1 files/f2
+ -A -T files/f1 files/f2
+ -A -u files/f1 files/f2
+ -A -v files/f1 files/f2
+ -A --help files/f1 files/f2
+ -A --version files/f1 files/f2
+ -b -e files/f1 files/f2
+ -b -E files/f1 files/f2
+ -b -n files/f1 files/f2
+ -b -s files/f1 files/f2
+ -b -t files/f1 files/f2
+ -b -T files/f1 files/f2
+ -b -u files/f1 files/f2
+ -b -v files/f1 files/f2
+ -b --help files/f1 files/f2
+ -b --version files/f1 files/f2
+ -e -E files/f1 files/f2
+ -e -n files/f1 files/f2
+ -e -s files/f1 files/f2
+ -e -t files/f1 files/f2
+ -e -T files/f1 files/f2
+ -e -u files/f1 files/f2
+ -e -v files/f1 files/f2
+ -e --help files/f1 files/f2
+ -e --version files/f1 files/f2
+ -E -n files/f1 files/f2
+ -E -s files/f1 files/f2
+ -E -t files/f1 files/f2
+ -E -T files/f1 files/f2
+ -E -u files/f1 files/f2
+ -E -v files/f1 files/f2
+ -E --help files/f1 files/f2
+ -E --version files/f1 files/f2
+ -n -s files/f1 files/f2
+ -n -t files/f1 files/f2
+ -n -T files/f1 files/f2
+ -n -u files/f1 files/f2
+ -n -v files/f1 files/f2
+ -n --help files/f1 files/f2
+ -n --version files/f1 files/f2
+ -s -t files/f1 files/f2
+ -s -T files/f1 files/f2
+ -s -u files/f1 files/f2
+ -s -v files/f1 files/f2
+ -s --help files/f1 files/f2
+ -s --version files/f1 files/f2
+ -t -T files/f1 files/f2
+ -t -u files/f1 files/f2
+ -t -v files/f1 files/f2
+ -t --help files/f1 files/f2
+ -t --version files/f1 files/f2
+ -T -u files/f1 files/f2
+ -T -v files/f1 files/f2
+ -T --help files/f1 files/f2
+ -T --version files/f1 files/f2
+ -u -v files/f1 files/f2
+ -u --help files/f1 files/f2
+ -u --version files/f1 files/f2
+ -v --help files/f1 files/f2
+ -v --version files/f1 files/f2
+ --help --version files/f1 files/f2
+ -A -b -e files/f1 files/f2
+ -A -b -E files/f1 files/f2
+ -A -b -n files/f1 files/f2
+ -A -b -s files/f1 files/f2
+ -A -b -t files/f1 files/f2
+ -A -b -T files/f1 files/f2
+ -A -b -u files/f1 files/f2
+ -A -b -v files/f1 files/f2
+ -A -b --help files/f1 files/f2
+ -A -b --version files/f1 files/f2
+ -A -e -E files/f1 files/f2
+ -A -e -n files/f1 files/f2
+ -A -e -s files/f1 files/f2
+ -A -e -t files/f1 files/f2
+ -A -e -T files/f1 files/f2
+ -A -e -u files/f1 files/f2
+ -A -e -v files/f1 files/f2
+ -A -e --help files/f1 files/f2
+ -A -e --version files/f1 files/f2
+ -A -E -n files/f1 files/f2
+ -A -E -s files/f1 files/f2
+ -A -E -t files/f1 files/f2
+ -A -E -T files/f1 files/f2
+ -A -E -u files/f1 files/f2
+ -A -E -v files/f1 files/f2
+ -A -E --help files/f1 files/f2
+ -A -E --version files/f1 files/f2
+ -A -n -s files/f1 files/f2
+ -A -n -t files/f1 files/f2
+ -A -n -T files/f1 files/f2
+ -A -n -u files/f1 files/f2
+ -A -n -v files/f1 files/f2
+ -A -n --help files/f1 files/f2
+ -A -n --version files/f1 files/f2
+ -A -s -t files/f1 files/f2
+ -A -s -T files/f1 files/f2
+ -A -s -u files/f1 files/f2
+ -A -s -v files/f1 files/f2
+ -A -s --help files/f1 files/f2
+ -A -s --version files/f1 files/f2
+ -A -t -T files/f1 files/f2
+ -A -t -u files/f1 files/f2
+ -A -t -v files/f1 files/f2
+ -A -t --help files/f1 files/f2
+ -A -t --version files/f1 files/f2
+ -A -T -u files/f1 files/f2
+ -A -T -v files/f1 files/f2
+ -A -T --help files/f1 files/f2
+ -A -T --version files/f1 files/f2
+ -A -u -v files/f1 files/f2
+ -A -u --help files/f1 files/f2
+ -A -u --version files/f1 files/f2
+ -A -v --help files/f1 files/f2
+ -A -v --version files/f1 files/f2
+ -A --help --version files/f1 files/f2
+ -b -e -E files/f1 files/f2
+ -b -e -n files/f1 files/f2
+ -b -e -s files/f1 files/f2
+ -b -e -t files/f1 files/f2
+ -b -e -T files/f1 files/f2
+ -b -e -u files/f1 files/f2
+ -b -e -v files/f1 files/f2
+ -b -e --help files/f1 files/f2
+ -b -e --version files/f1 files/f2
+ -b -E -n files/f1 files/f2
+ -b -E -s files/f1 files/f2
+ -b -E -t files/f1 files/f2
+ -b -E -T files/f1 files/f2
+ -b -E -u files/f1 files/f2
+ -b -E -v files/f1 files/f2
+ -b -E --help files/f1 files/f2
+ -b -E --version files/f1 files/f2
+ -b -n -s files/f1 files/f2
+ -b -n -t files/f1 files/f2
+ -b -n -T files/f1 files/f2
+ -b -n -u files/f1 files/f2
+ -b -n -v files/f1 files/f2
+ -b -n --help files/f1 files/f2
+ -b -n --version files/f1 files/f2
+ -b -s -t files/f1 files/f2
+ -b -s -T files/f1 files/f2
+ -b -s -u files/f1 files/f2
+ -b -s -v files/f1 files/f2
+ -b -s --help files/f1 files/f2
+ -b -s --version files/f1 files/f2
+ -b -t -T files/f1 files/f2
+ -b -t -u files/f1 files/f2
+ -b -t -v files/f1 files/f2
+ -b -t --help files/f1 files/f2
+ -b -t --version files/f1 files/f2
+ -b -T -u files/f1 files/f2
+ -b -T -v files/f1 files/f2
+ -b -T --help files/f1 files/f2
+ -b -T --version files/f1 files/f2
+ -b -u -v files/f1 files/f2
+ -b -u --help files/f1 files/f2
+ -b -u --version files/f1 files/f2
+ -b -v --help files/f1 files/f2
+ -b -v --version files/f1 files/f2
+ -b --help --version files/f1 files/f2
+ -e -E -n files/f1 files/f2
+ -e -E -s files/f1 files/f2
+ -e -E -t files/f1 files/f2
+ -e -E -T files/f1 files/f2
+ -e -E -u files/f1 files/f2
+ -e -E -v files/f1 files/f2
+ -e -E --help files/f1 files/f2
+ -e -E --version files/f1 files/f2
+ -e -n -s files/f1 files/f2
+ -e -n -t files/f1 files/f2
+ -e -n -T files/f1 files/f2
+ -e -n -u files/f1 files/f2
+ -e -n -v files/f1 files/f2
+ -e -n --help files/f1 files/f2
+ -e -n --version files/f1 files/f2
+ -e -s -t files/f1 files/f2
+ -e -s -T files/f1 files/f2
+ -e -s -u files/f1 files/f2
+ -e -s -v files/f1 files/f2
+ -e -s --help files/f1 files/f2
+ -e -s --version files/f1 files/f2
+ -e -t -T files/f1 files/f2
+ -e -t -u files/f1 files/f2
+ -e -t -v files/f1 files/f2
+ -e -t --help files/f1 files/f2
+ -e -t --version files/f1 files/f2
+ -e -T -u files/f1 files/f2
+ -e -T -v files/f1 files/f2
+ -e -T --help files/f1 files/f2
+ -e -T --version files/f1 files/f2
+ -e -u -v files/f1 files/f2
+ -e -u --help files/f1 files/f2
+ -e -u --version files/f1 files/f2
+ -e -v --help files/f1 files/f2
+ -e -v --version files/f1 files/f2
+ -e --help --version files/f1 files/f2
+ -E -n -s files/f1 files/f2
+ -E -n -t files/f1 files/f2
+ -E -n -T files/f1 files/f2
+ -E -n -u files/f1 files/f2
+ -E -n -v files/f1 files/f2
+ -E -n --help files/f1 files/f2
+ -E -n --version files/f1 files/f2
+ -E -s -t files/f1 files/f2
+ -E -s -T files/f1 files/f2
+ -E -s -u files/f1 files/f2
+ -E -s -v files/f1 files/f2
+ -E -s --help files/f1 files/f2
+ -E -s --version files/f1 files/f2
+ -E -t -T files/f1 files/f2
+ -E -t -u files/f1 files/f2
+ -E -t -v files/f1 files/f2
+ -E -t --help files/f1 files/f2
+ -E -t --version files/f1 files/f2
+ -E -T -u files/f1 files/f2
+ -E -T -v files/f1 files/f2
+ -E -T --help files/f1 files/f2
+ -E -T --version files/f1 files/f2
+ -E -u -v files/f1 files/f2
+ -E -u --help files/f1 files/f2
+ -E -u --version files/f1 files/f2
+ -E -v --help files/f1 files/f2
+ -E -v --version files/f1 files/f2
+ -E --help --version files/f1 files/f2
+ -n -s -t files/f1 files/f2
+ -n -s -T files/f1 files/f2
+ -n -s -u files/f1 files/f2
+ -n -s -v files/f1 files/f2
+ -n -s --help files/f1 files/f2
+ -n -s --version files/f1 files/f2
+ -n -t -T files/f1 files/f2
+ -n -t -u files/f1 files/f2
+ -n -t -v files/f1 files/f2
+ -n -t --help files/f1 files/f2
+ -n -t --version files/f1 files/f2
+ -n -T -u files/f1 files/f2
+ -n -T -v files/f1 files/f2
+ -n -T --help files/f1 files/f2
+ -n -T --version files/f1 files/f2
+ -n -u -v files/f1 files/f2
+ -n -u --help files/f1 files/f2
+ -n -u --version files/f1 files/f2
+ -n -v --help files/f1 files/f2
+ -n -v --version files/f1 files/f2
+ -n --help --version files/f1 files/f2
+ -s -t -T files/f1 files/f2
+ -s -t -u files/f1 files/f2
+ -s -t -v files/f1 files/f2
+ -s -t --help files/f1 files/f2
+ -s -t --version files/f1 files/f2
+ -s -T -u files/f1 files/f2
+ -s -T -v files/f1 files/f2
+ -s -T --help files/f1 files/f2
+ -s -T --version files/f1 files/f2
+ -s -u -v files/f1 files/f2
+ -s -u --help files/f1 files/f2
+ -s -u --version files/f1 files/f2
+ -s -v --help files/f1 files/f2
+ -s -v --version files/f1 files/f2
+ -s --help --version files/f1 files/f2
+ -t -T -u files/f1 files/f2
+ -t -T -v files/f1 files/f2
+ -t -T --help files/f1 files/f2
+ -t -T --version files/f1 files/f2
+ -t -u -v files/f1 files/f2
+ -t -u --help files/f1 files/f2
+ -t -u --version files/f1 files/f2
+ -t -v --help files/f1 files/f2
+ -t -v --version files/f1 files/f2
+ -t --help --version files/f1 files/f2
+ -T -u -v files/f1 files/f2
+ -T -u --help files/f1 files/f2
+ -T -u --version files/f1 files/f2
+ -T -v --help files/f1 files/f2
+ -T -v --version files/f1 files/f2
+ -T --help --version files/f1 files/f2
+ -u -v --help files/f1 files/f2
+ -u -v --version files/f1 files/f2
+ -u --help --version files/f1 files/f2
+ -v --help --version files/f1 files/f2

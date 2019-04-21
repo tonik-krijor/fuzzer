@@ -2,7 +2,7 @@
  --help 
  --version 
  --help --version 
- files
- --help files
- --version files
- --help --version files
+ a
+ --help a
+ --version a
+ --help --version a

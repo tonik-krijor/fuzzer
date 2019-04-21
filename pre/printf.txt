@@ -2,7 +2,7 @@
  --help 
  --version 
  --help --version 
- helloworld
- --help helloworld
- --version helloworld
- --help --version helloworld
+ a
+ --help a
+ --version a
+ --help --version a

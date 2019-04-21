@@ -13,18 +13,18 @@
  -L -P --version 
  -L --help --version 
  -P --help --version 
- helloworld
- -L helloworld
- -P helloworld
- --help helloworld
- --version helloworld
- -L -P helloworld
- -L --help helloworld
- -L --version helloworld
- -P --help helloworld
- -P --version helloworld
- --help --version helloworld
- -L -P --help helloworld
- -L -P --version helloworld
- -L --help --version helloworld
- -P --help --version helloworld
+ a
+ -L a
+ -P a
+ --help a
+ --version a
+ -L -P a
+ -L --help a
+ -L --version a
+ -P --help a
+ -P --version a
+ --help --version a
+ -L -P --help a
+ -L -P --version a
+ -L --help --version a
+ -P --help --version a

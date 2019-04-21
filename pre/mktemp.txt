@@ -297,302 +297,601 @@
  --backup=none --backup=simple --backup=numbered 
  --backup=none --backup=existing --backup=numbered 
  --backup=simple --backup=existing --backup=numbered 
- helloXXXXXX
- -d helloXXXXXX
- -u helloXXXXXX
- -q helloXXXXXX
- --suffix 1337 helloXXXXXX
- -p helloXXXXXX
- -t helloXXXXXX
- --help helloXXXXXX
- --version helloXXXXXX
- --backup=none helloXXXXXX
- --backup=simple helloXXXXXX
- --backup=existing helloXXXXXX
- --backup=numbered helloXXXXXX
- -d -u helloXXXXXX
- -d -q helloXXXXXX
- -d --suffix 1337 helloXXXXXX
- -d -p helloXXXXXX
- -d -t helloXXXXXX
- -d --help helloXXXXXX
- -d --version helloXXXXXX
- -d --backup=none helloXXXXXX
- -d --backup=simple helloXXXXXX
- -d --backup=existing helloXXXXXX
- -d --backup=numbered helloXXXXXX
- -u -q helloXXXXXX
- -u --suffix 1337 helloXXXXXX
- -u -p helloXXXXXX
- -u -t helloXXXXXX
- -u --help helloXXXXXX
- -u --version helloXXXXXX
- -u --backup=none helloXXXXXX
- -u --backup=simple helloXXXXXX
- -u --backup=existing helloXXXXXX
- -u --backup=numbered helloXXXXXX
- -q --suffix 1337 helloXXXXXX
- -q -p helloXXXXXX
- -q -t helloXXXXXX
- -q --help helloXXXXXX
- -q --version helloXXXXXX
- -q --backup=none helloXXXXXX
- -q --backup=simple helloXXXXXX
- -q --backup=existing helloXXXXXX
- -q --backup=numbered helloXXXXXX
- --suffix 1337 -p helloXXXXXX
- --suffix 1337 -t helloXXXXXX
- --suffix 1337 --help helloXXXXXX
- --suffix 1337 --version helloXXXXXX
- --suffix 1337 --backup=none helloXXXXXX
- --suffix 1337 --backup=simple helloXXXXXX
- --suffix 1337 --backup=existing helloXXXXXX
- --suffix 1337 --backup=numbered helloXXXXXX
- -p -t helloXXXXXX
- -p --help helloXXXXXX
- -p --version helloXXXXXX
- -p --backup=none helloXXXXXX
- -p --backup=simple helloXXXXXX
- -p --backup=existing helloXXXXXX
- -p --backup=numbered helloXXXXXX
- -t --help helloXXXXXX
- -t --version helloXXXXXX
- -t --backup=none helloXXXXXX
- -t --backup=simple helloXXXXXX
- -t --backup=existing helloXXXXXX
- -t --backup=numbered helloXXXXXX
- --help --version helloXXXXXX
- --help --backup=none helloXXXXXX
- --help --backup=simple helloXXXXXX
- --help --backup=existing helloXXXXXX
- --help --backup=numbered helloXXXXXX
- --version --backup=none helloXXXXXX
- --version --backup=simple helloXXXXXX
- --version --backup=existing helloXXXXXX
- --version --backup=numbered helloXXXXXX
- --backup=none --backup=simple helloXXXXXX
- --backup=none --backup=existing helloXXXXXX
- --backup=none --backup=numbered helloXXXXXX
- --backup=simple --backup=existing helloXXXXXX
- --backup=simple --backup=numbered helloXXXXXX
- --backup=existing --backup=numbered helloXXXXXX
- -d -u -q helloXXXXXX
- -d -u --suffix 1337 helloXXXXXX
- -d -u -p helloXXXXXX
- -d -u -t helloXXXXXX
- -d -u --help helloXXXXXX
- -d -u --version helloXXXXXX
- -d -u --backup=none helloXXXXXX
- -d -u --backup=simple helloXXXXXX
- -d -u --backup=existing helloXXXXXX
- -d -u --backup=numbered helloXXXXXX
- -d -q --suffix 1337 helloXXXXXX
- -d -q -p helloXXXXXX
- -d -q -t helloXXXXXX
- -d -q --help helloXXXXXX
- -d -q --version helloXXXXXX
- -d -q --backup=none helloXXXXXX
- -d -q --backup=simple helloXXXXXX
- -d -q --backup=existing helloXXXXXX
- -d -q --backup=numbered helloXXXXXX
- -d --suffix 1337 -p helloXXXXXX
- -d --suffix 1337 -t helloXXXXXX
- -d --suffix 1337 --help helloXXXXXX
- -d --suffix 1337 --version helloXXXXXX
- -d --suffix 1337 --backup=none helloXXXXXX
- -d --suffix 1337 --backup=simple helloXXXXXX
- -d --suffix 1337 --backup=existing helloXXXXXX
- -d --suffix 1337 --backup=numbered helloXXXXXX
- -d -p -t helloXXXXXX
- -d -p --help helloXXXXXX
- -d -p --version helloXXXXXX
- -d -p --backup=none helloXXXXXX
- -d -p --backup=simple helloXXXXXX
- -d -p --backup=existing helloXXXXXX
- -d -p --backup=numbered helloXXXXXX
- -d -t --help helloXXXXXX
- -d -t --version helloXXXXXX
- -d -t --backup=none helloXXXXXX
- -d -t --backup=simple helloXXXXXX
- -d -t --backup=existing helloXXXXXX
- -d -t --backup=numbered helloXXXXXX
- -d --help --version helloXXXXXX
- -d --help --backup=none helloXXXXXX
- -d --help --backup=simple helloXXXXXX
- -d --help --backup=existing helloXXXXXX
- -d --help --backup=numbered helloXXXXXX
- -d --version --backup=none helloXXXXXX
- -d --version --backup=simple helloXXXXXX
- -d --version --backup=existing helloXXXXXX
- -d --version --backup=numbered helloXXXXXX
- -d --backup=none --backup=simple helloXXXXXX
- -d --backup=none --backup=existing helloXXXXXX
- -d --backup=none --backup=numbered helloXXXXXX
- -d --backup=simple --backup=existing helloXXXXXX
- -d --backup=simple --backup=numbered helloXXXXXX
- -d --backup=existing --backup=numbered helloXXXXXX
- -u -q --suffix 1337 helloXXXXXX
- -u -q -p helloXXXXXX
- -u -q -t helloXXXXXX
- -u -q --help helloXXXXXX
- -u -q --version helloXXXXXX
- -u -q --backup=none helloXXXXXX
- -u -q --backup=simple helloXXXXXX
- -u -q --backup=existing helloXXXXXX
- -u -q --backup=numbered helloXXXXXX
- -u --suffix 1337 -p helloXXXXXX
- -u --suffix 1337 -t helloXXXXXX
- -u --suffix 1337 --help helloXXXXXX
- -u --suffix 1337 --version helloXXXXXX
- -u --suffix 1337 --backup=none helloXXXXXX
- -u --suffix 1337 --backup=simple helloXXXXXX
- -u --suffix 1337 --backup=existing helloXXXXXX
- -u --suffix 1337 --backup=numbered helloXXXXXX
- -u -p -t helloXXXXXX
- -u -p --help helloXXXXXX
- -u -p --version helloXXXXXX
- -u -p --backup=none helloXXXXXX
- -u -p --backup=simple helloXXXXXX
- -u -p --backup=existing helloXXXXXX
- -u -p --backup=numbered helloXXXXXX
- -u -t --help helloXXXXXX
- -u -t --version helloXXXXXX
- -u -t --backup=none helloXXXXXX
- -u -t --backup=simple helloXXXXXX
- -u -t --backup=existing helloXXXXXX
- -u -t --backup=numbered helloXXXXXX
- -u --help --version helloXXXXXX
- -u --help --backup=none helloXXXXXX
- -u --help --backup=simple helloXXXXXX
- -u --help --backup=existing helloXXXXXX
- -u --help --backup=numbered helloXXXXXX
- -u --version --backup=none helloXXXXXX
- -u --version --backup=simple helloXXXXXX
- -u --version --backup=existing helloXXXXXX
- -u --version --backup=numbered helloXXXXXX
- -u --backup=none --backup=simple helloXXXXXX
- -u --backup=none --backup=existing helloXXXXXX
- -u --backup=none --backup=numbered helloXXXXXX
- -u --backup=simple --backup=existing helloXXXXXX
- -u --backup=simple --backup=numbered helloXXXXXX
- -u --backup=existing --backup=numbered helloXXXXXX
- -q --suffix 1337 -p helloXXXXXX
- -q --suffix 1337 -t helloXXXXXX
- -q --suffix 1337 --help helloXXXXXX
- -q --suffix 1337 --version helloXXXXXX
- -q --suffix 1337 --backup=none helloXXXXXX
- -q --suffix 1337 --backup=simple helloXXXXXX
- -q --suffix 1337 --backup=existing helloXXXXXX
- -q --suffix 1337 --backup=numbered helloXXXXXX
- -q -p -t helloXXXXXX
- -q -p --help helloXXXXXX
- -q -p --version helloXXXXXX
- -q -p --backup=none helloXXXXXX
- -q -p --backup=simple helloXXXXXX
- -q -p --backup=existing helloXXXXXX
- -q -p --backup=numbered helloXXXXXX
- -q -t --help helloXXXXXX
- -q -t --version helloXXXXXX
- -q -t --backup=none helloXXXXXX
- -q -t --backup=simple helloXXXXXX
- -q -t --backup=existing helloXXXXXX
- -q -t --backup=numbered helloXXXXXX
- -q --help --version helloXXXXXX
- -q --help --backup=none helloXXXXXX
- -q --help --backup=simple helloXXXXXX
- -q --help --backup=existing helloXXXXXX
- -q --help --backup=numbered helloXXXXXX
- -q --version --backup=none helloXXXXXX
- -q --version --backup=simple helloXXXXXX
- -q --version --backup=existing helloXXXXXX
- -q --version --backup=numbered helloXXXXXX
- -q --backup=none --backup=simple helloXXXXXX
- -q --backup=none --backup=existing helloXXXXXX
- -q --backup=none --backup=numbered helloXXXXXX
- -q --backup=simple --backup=existing helloXXXXXX
- -q --backup=simple --backup=numbered helloXXXXXX
- -q --backup=existing --backup=numbered helloXXXXXX
- --suffix 1337 -p -t helloXXXXXX
- --suffix 1337 -p --help helloXXXXXX
- --suffix 1337 -p --version helloXXXXXX
- --suffix 1337 -p --backup=none helloXXXXXX
- --suffix 1337 -p --backup=simple helloXXXXXX
- --suffix 1337 -p --backup=existing helloXXXXXX
- --suffix 1337 -p --backup=numbered helloXXXXXX
- --suffix 1337 -t --help helloXXXXXX
- --suffix 1337 -t --version helloXXXXXX
- --suffix 1337 -t --backup=none helloXXXXXX
- --suffix 1337 -t --backup=simple helloXXXXXX
- --suffix 1337 -t --backup=existing helloXXXXXX
- --suffix 1337 -t --backup=numbered helloXXXXXX
- --suffix 1337 --help --version helloXXXXXX
- --suffix 1337 --help --backup=none helloXXXXXX
- --suffix 1337 --help --backup=simple helloXXXXXX
- --suffix 1337 --help --backup=existing helloXXXXXX
- --suffix 1337 --help --backup=numbered helloXXXXXX
- --suffix 1337 --version --backup=none helloXXXXXX
- --suffix 1337 --version --backup=simple helloXXXXXX
- --suffix 1337 --version --backup=existing helloXXXXXX
- --suffix 1337 --version --backup=numbered helloXXXXXX
- --suffix 1337 --backup=none --backup=simple helloXXXXXX
- --suffix 1337 --backup=none --backup=existing helloXXXXXX
- --suffix 1337 --backup=none --backup=numbered helloXXXXXX
- --suffix 1337 --backup=simple --backup=existing helloXXXXXX
- --suffix 1337 --backup=simple --backup=numbered helloXXXXXX
- --suffix 1337 --backup=existing --backup=numbered helloXXXXXX
- -p -t --help helloXXXXXX
- -p -t --version helloXXXXXX
- -p -t --backup=none helloXXXXXX
- -p -t --backup=simple helloXXXXXX
- -p -t --backup=existing helloXXXXXX
- -p -t --backup=numbered helloXXXXXX
- -p --help --version helloXXXXXX
- -p --help --backup=none helloXXXXXX
- -p --help --backup=simple helloXXXXXX
- -p --help --backup=existing helloXXXXXX
- -p --help --backup=numbered helloXXXXXX
- -p --version --backup=none helloXXXXXX
- -p --version --backup=simple helloXXXXXX
- -p --version --backup=existing helloXXXXXX
- -p --version --backup=numbered helloXXXXXX
- -p --backup=none --backup=simple helloXXXXXX
- -p --backup=none --backup=existing helloXXXXXX
- -p --backup=none --backup=numbered helloXXXXXX
- -p --backup=simple --backup=existing helloXXXXXX
- -p --backup=simple --backup=numbered helloXXXXXX
- -p --backup=existing --backup=numbered helloXXXXXX
- -t --help --version helloXXXXXX
- -t --help --backup=none helloXXXXXX
- -t --help --backup=simple helloXXXXXX
- -t --help --backup=existing helloXXXXXX
- -t --help --backup=numbered helloXXXXXX
- -t --version --backup=none helloXXXXXX
- -t --version --backup=simple helloXXXXXX
- -t --version --backup=existing helloXXXXXX
- -t --version --backup=numbered helloXXXXXX
- -t --backup=none --backup=simple helloXXXXXX
- -t --backup=none --backup=existing helloXXXXXX
- -t --backup=none --backup=numbered helloXXXXXX
- -t --backup=simple --backup=existing helloXXXXXX
- -t --backup=simple --backup=numbered helloXXXXXX
- -t --backup=existing --backup=numbered helloXXXXXX
- --help --version --backup=none helloXXXXXX
- --help --version --backup=simple helloXXXXXX
- --help --version --backup=existing helloXXXXXX
- --help --version --backup=numbered helloXXXXXX
- --help --backup=none --backup=simple helloXXXXXX
- --help --backup=none --backup=existing helloXXXXXX
- --help --backup=none --backup=numbered helloXXXXXX
- --help --backup=simple --backup=existing helloXXXXXX
- --help --backup=simple --backup=numbered helloXXXXXX
- --help --backup=existing --backup=numbered helloXXXXXX
- --version --backup=none --backup=simple helloXXXXXX
- --version --backup=none --backup=existing helloXXXXXX
- --version --backup=none --backup=numbered helloXXXXXX
- --version --backup=simple --backup=existing helloXXXXXX
- --version --backup=simple --backup=numbered helloXXXXXX
- --version --backup=existing --backup=numbered helloXXXXXX
- --backup=none --backup=simple --backup=existing helloXXXXXX
- --backup=none --backup=simple --backup=numbered helloXXXXXX
- --backup=none --backup=existing --backup=numbered helloXXXXXX
- --backup=simple --backup=existing --backup=numbered helloXXXXXX
+ files/a
+ -d files/a
+ -u files/a
+ -q files/a
+ --suffix 1337 files/a
+ -p files/a
+ -t files/a
+ --help files/a
+ --version files/a
+ --backup=none files/a
+ --backup=simple files/a
+ --backup=existing files/a
+ --backup=numbered files/a
+ -d -u files/a
+ -d -q files/a
+ -d --suffix 1337 files/a
+ -d -p files/a
+ -d -t files/a
+ -d --help files/a
+ -d --version files/a
+ -d --backup=none files/a
+ -d --backup=simple files/a
+ -d --backup=existing files/a
+ -d --backup=numbered files/a
+ -u -q files/a
+ -u --suffix 1337 files/a
+ -u -p files/a
+ -u -t files/a
+ -u --help files/a
+ -u --version files/a
+ -u --backup=none files/a
+ -u --backup=simple files/a
+ -u --backup=existing files/a
+ -u --backup=numbered files/a
+ -q --suffix 1337 files/a
+ -q -p files/a
+ -q -t files/a
+ -q --help files/a
+ -q --version files/a
+ -q --backup=none files/a
+ -q --backup=simple files/a
+ -q --backup=existing files/a
+ -q --backup=numbered files/a
+ --suffix 1337 -p files/a
+ --suffix 1337 -t files/a
+ --suffix 1337 --help files/a
+ --suffix 1337 --version files/a
+ --suffix 1337 --backup=none files/a
+ --suffix 1337 --backup=simple files/a
+ --suffix 1337 --backup=existing files/a
+ --suffix 1337 --backup=numbered files/a
+ -p -t files/a
+ -p --help files/a
+ -p --version files/a
+ -p --backup=none files/a
+ -p --backup=simple files/a
+ -p --backup=existing files/a
+ -p --backup=numbered files/a
+ -t --help files/a
+ -t --version files/a
+ -t --backup=none files/a
+ -t --backup=simple files/a
+ -t --backup=existing files/a
+ -t --backup=numbered files/a
+ --help --version files/a
+ --help --backup=none files/a
+ --help --backup=simple files/a
+ --help --backup=existing files/a
+ --help --backup=numbered files/a
+ --version --backup=none files/a
+ --version --backup=simple files/a
+ --version --backup=existing files/a
+ --version --backup=numbered files/a
+ --backup=none --backup=simple files/a
+ --backup=none --backup=existing files/a
+ --backup=none --backup=numbered files/a
+ --backup=simple --backup=existing files/a
+ --backup=simple --backup=numbered files/a
+ --backup=existing --backup=numbered files/a
+ -d -u -q files/a
+ -d -u --suffix 1337 files/a
+ -d -u -p files/a
+ -d -u -t files/a
+ -d -u --help files/a
+ -d -u --version files/a
+ -d -u --backup=none files/a
+ -d -u --backup=simple files/a
+ -d -u --backup=existing files/a
+ -d -u --backup=numbered files/a
+ -d -q --suffix 1337 files/a
+ -d -q -p files/a
+ -d -q -t files/a
+ -d -q --help files/a
+ -d -q --version files/a
+ -d -q --backup=none files/a
+ -d -q --backup=simple files/a
+ -d -q --backup=existing files/a
+ -d -q --backup=numbered files/a
+ -d --suffix 1337 -p files/a
+ -d --suffix 1337 -t files/a
+ -d --suffix 1337 --help files/a
+ -d --suffix 1337 --version files/a
+ -d --suffix 1337 --backup=none files/a
+ -d --suffix 1337 --backup=simple files/a
+ -d --suffix 1337 --backup=existing files/a
+ -d --suffix 1337 --backup=numbered files/a
+ -d -p -t files/a
+ -d -p --help files/a
+ -d -p --version files/a
+ -d -p --backup=none files/a
+ -d -p --backup=simple files/a
+ -d -p --backup=existing files/a
+ -d -p --backup=numbered files/a
+ -d -t --help files/a
+ -d -t --version files/a
+ -d -t --backup=none files/a
+ -d -t --backup=simple files/a
+ -d -t --backup=existing files/a
+ -d -t --backup=numbered files/a
+ -d --help --version files/a
+ -d --help --backup=none files/a
+ -d --help --backup=simple files/a
+ -d --help --backup=existing files/a
+ -d --help --backup=numbered files/a
+ -d --version --backup=none files/a
+ -d --version --backup=simple files/a
+ -d --version --backup=existing files/a
+ -d --version --backup=numbered files/a
+ -d --backup=none --backup=simple files/a
+ -d --backup=none --backup=existing files/a
+ -d --backup=none --backup=numbered files/a
+ -d --backup=simple --backup=existing files/a
+ -d --backup=simple --backup=numbered files/a
+ -d --backup=existing --backup=numbered files/a
+ -u -q --suffix 1337 files/a
+ -u -q -p files/a
+ -u -q -t files/a
+ -u -q --help files/a
+ -u -q --version files/a
+ -u -q --backup=none files/a
+ -u -q --backup=simple files/a
+ -u -q --backup=existing files/a
+ -u -q --backup=numbered files/a
+ -u --suffix 1337 -p files/a
+ -u --suffix 1337 -t files/a
+ -u --suffix 1337 --help files/a
+ -u --suffix 1337 --version files/a
+ -u --suffix 1337 --backup=none files/a
+ -u --suffix 1337 --backup=simple files/a
+ -u --suffix 1337 --backup=existing files/a
+ -u --suffix 1337 --backup=numbered files/a
+ -u -p -t files/a
+ -u -p --help files/a
+ -u -p --version files/a
+ -u -p --backup=none files/a
+ -u -p --backup=simple files/a
+ -u -p --backup=existing files/a
+ -u -p --backup=numbered files/a
+ -u -t --help files/a
+ -u -t --version files/a
+ -u -t --backup=none files/a
+ -u -t --backup=simple files/a
+ -u -t --backup=existing files/a
+ -u -t --backup=numbered files/a
+ -u --help --version files/a
+ -u --help --backup=none files/a
+ -u --help --backup=simple files/a
+ -u --help --backup=existing files/a
+ -u --help --backup=numbered files/a
+ -u --version --backup=none files/a
+ -u --version --backup=simple files/a
+ -u --version --backup=existing files/a
+ -u --version --backup=numbered files/a
+ -u --backup=none --backup=simple files/a
+ -u --backup=none --backup=existing files/a
+ -u --backup=none --backup=numbered files/a
+ -u --backup=simple --backup=existing files/a
+ -u --backup=simple --backup=numbered files/a
+ -u --backup=existing --backup=numbered files/a
+ -q --suffix 1337 -p files/a
+ -q --suffix 1337 -t files/a
+ -q --suffix 1337 --help files/a
+ -q --suffix 1337 --version files/a
+ -q --suffix 1337 --backup=none files/a
+ -q --suffix 1337 --backup=simple files/a
+ -q --suffix 1337 --backup=existing files/a
+ -q --suffix 1337 --backup=numbered files/a
+ -q -p -t files/a
+ -q -p --help files/a
+ -q -p --version files/a
+ -q -p --backup=none files/a
+ -q -p --backup=simple files/a
+ -q -p --backup=existing files/a
+ -q -p --backup=numbered files/a
+ -q -t --help files/a
+ -q -t --version files/a
+ -q -t --backup=none files/a
+ -q -t --backup=simple files/a
+ -q -t --backup=existing files/a
+ -q -t --backup=numbered files/a
+ -q --help --version files/a
+ -q --help --backup=none files/a
+ -q --help --backup=simple files/a
+ -q --help --backup=existing files/a
+ -q --help --backup=numbered files/a
+ -q --version --backup=none files/a
+ -q --version --backup=simple files/a
+ -q --version --backup=existing files/a
+ -q --version --backup=numbered files/a
+ -q --backup=none --backup=simple files/a
+ -q --backup=none --backup=existing files/a
+ -q --backup=none --backup=numbered files/a
+ -q --backup=simple --backup=existing files/a
+ -q --backup=simple --backup=numbered files/a
+ -q --backup=existing --backup=numbered files/a
+ --suffix 1337 -p -t files/a
+ --suffix 1337 -p --help files/a
+ --suffix 1337 -p --version files/a
+ --suffix 1337 -p --backup=none files/a
+ --suffix 1337 -p --backup=simple files/a
+ --suffix 1337 -p --backup=existing files/a
+ --suffix 1337 -p --backup=numbered files/a
+ --suffix 1337 -t --help files/a
+ --suffix 1337 -t --version files/a
+ --suffix 1337 -t --backup=none files/a
+ --suffix 1337 -t --backup=simple files/a
+ --suffix 1337 -t --backup=existing files/a
+ --suffix 1337 -t --backup=numbered files/a
+ --suffix 1337 --help --version files/a
+ --suffix 1337 --help --backup=none files/a
+ --suffix 1337 --help --backup=simple files/a
+ --suffix 1337 --help --backup=existing files/a
+ --suffix 1337 --help --backup=numbered files/a
+ --suffix 1337 --version --backup=none files/a
+ --suffix 1337 --version --backup=simple files/a
+ --suffix 1337 --version --backup=existing files/a
+ --suffix 1337 --version --backup=numbered files/a
+ --suffix 1337 --backup=none --backup=simple files/a
+ --suffix 1337 --backup=none --backup=existing files/a
+ --suffix 1337 --backup=none --backup=numbered files/a
+ --suffix 1337 --backup=simple --backup=existing files/a
+ --suffix 1337 --backup=simple --backup=numbered files/a
+ --suffix 1337 --backup=existing --backup=numbered files/a
+ -p -t --help files/a
+ -p -t --version files/a
+ -p -t --backup=none files/a
+ -p -t --backup=simple files/a
+ -p -t --backup=existing files/a
+ -p -t --backup=numbered files/a
+ -p --help --version files/a
+ -p --help --backup=none files/a
+ -p --help --backup=simple files/a
+ -p --help --backup=existing files/a
+ -p --help --backup=numbered files/a
+ -p --version --backup=none files/a
+ -p --version --backup=simple files/a
+ -p --version --backup=existing files/a
+ -p --version --backup=numbered files/a
+ -p --backup=none --backup=simple files/a
+ -p --backup=none --backup=existing files/a
+ -p --backup=none --backup=numbered files/a
+ -p --backup=simple --backup=existing files/a
+ -p --backup=simple --backup=numbered files/a
+ -p --backup=existing --backup=numbered files/a
+ -t --help --version files/a
+ -t --help --backup=none files/a
+ -t --help --backup=simple files/a
+ -t --help --backup=existing files/a
+ -t --help --backup=numbered files/a
+ -t --version --backup=none files/a
+ -t --version --backup=simple files/a
+ -t --version --backup=existing files/a
+ -t --version --backup=numbered files/a
+ -t --backup=none --backup=simple files/a
+ -t --backup=none --backup=existing files/a
+ -t --backup=none --backup=numbered files/a
+ -t --backup=simple --backup=existing files/a
+ -t --backup=simple --backup=numbered files/a
+ -t --backup=existing --backup=numbered files/a
+ --help --version --backup=none files/a
+ --help --version --backup=simple files/a
+ --help --version --backup=existing files/a
+ --help --version --backup=numbered files/a
+ --help --backup=none --backup=simple files/a
+ --help --backup=none --backup=existing files/a
+ --help --backup=none --backup=numbered files/a
+ --help --backup=simple --backup=existing files/a
+ --help --backup=simple --backup=numbered files/a
+ --help --backup=existing --backup=numbered files/a
+ --version --backup=none --backup=simple files/a
+ --version --backup=none --backup=existing files/a
+ --version --backup=none --backup=numbered files/a
+ --version --backup=simple --backup=existing files/a
+ --version --backup=simple --backup=numbered files/a
+ --version --backup=existing --backup=numbered files/a
+ --backup=none --backup=simple --backup=existing files/a
+ --backup=none --backup=simple --backup=numbered files/a
+ --backup=none --backup=existing --backup=numbered files/a
+ --backup=simple --backup=existing --backup=numbered files/a
+ files/aXXX
+ -d files/aXXX
+ -u files/aXXX
+ -q files/aXXX
+ --suffix 1337 files/aXXX
+ -p files/aXXX
+ -t files/aXXX
+ --help files/aXXX
+ --version files/aXXX
+ --backup=none files/aXXX
+ --backup=simple files/aXXX
+ --backup=existing files/aXXX
+ --backup=numbered files/aXXX
+ -d -u files/aXXX
+ -d -q files/aXXX
+ -d --suffix 1337 files/aXXX
+ -d -p files/aXXX
+ -d -t files/aXXX
+ -d --help files/aXXX
+ -d --version files/aXXX
+ -d --backup=none files/aXXX
+ -d --backup=simple files/aXXX
+ -d --backup=existing files/aXXX
+ -d --backup=numbered files/aXXX
+ -u -q files/aXXX
+ -u --suffix 1337 files/aXXX
+ -u -p files/aXXX
+ -u -t files/aXXX
+ -u --help files/aXXX
+ -u --version files/aXXX
+ -u --backup=none files/aXXX
+ -u --backup=simple files/aXXX
+ -u --backup=existing files/aXXX
+ -u --backup=numbered files/aXXX
+ -q --suffix 1337 files/aXXX
+ -q -p files/aXXX
+ -q -t files/aXXX
+ -q --help files/aXXX
+ -q --version files/aXXX
+ -q --backup=none files/aXXX
+ -q --backup=simple files/aXXX
+ -q --backup=existing files/aXXX
+ -q --backup=numbered files/aXXX
+ --suffix 1337 -p files/aXXX
+ --suffix 1337 -t files/aXXX
+ --suffix 1337 --help files/aXXX
+ --suffix 1337 --version files/aXXX
+ --suffix 1337 --backup=none files/aXXX
+ --suffix 1337 --backup=simple files/aXXX
+ --suffix 1337 --backup=existing files/aXXX
+ --suffix 1337 --backup=numbered files/aXXX
+ -p -t files/aXXX
+ -p --help files/aXXX
+ -p --version files/aXXX
+ -p --backup=none files/aXXX
+ -p --backup=simple files/aXXX
+ -p --backup=existing files/aXXX
+ -p --backup=numbered files/aXXX
+ -t --help files/aXXX
+ -t --version files/aXXX
+ -t --backup=none files/aXXX
+ -t --backup=simple files/aXXX
+ -t --backup=existing files/aXXX
+ -t --backup=numbered files/aXXX
+ --help --version files/aXXX
+ --help --backup=none files/aXXX
+ --help --backup=simple files/aXXX
+ --help --backup=existing files/aXXX
+ --help --backup=numbered files/aXXX
+ --version --backup=none files/aXXX
+ --version --backup=simple files/aXXX
+ --version --backup=existing files/aXXX
+ --version --backup=numbered files/aXXX
+ --backup=none --backup=simple files/aXXX
+ --backup=none --backup=existing files/aXXX
+ --backup=none --backup=numbered files/aXXX
+ --backup=simple --backup=existing files/aXXX
+ --backup=simple --backup=numbered files/aXXX
+ --backup=existing --backup=numbered files/aXXX
+ -d -u -q files/aXXX
+ -d -u --suffix 1337 files/aXXX
+ -d -u -p files/aXXX
+ -d -u -t files/aXXX
+ -d -u --help files/aXXX
+ -d -u --version files/aXXX
+ -d -u --backup=none files/aXXX
+ -d -u --backup=simple files/aXXX
+ -d -u --backup=existing files/aXXX
+ -d -u --backup=numbered files/aXXX
+ -d -q --suffix 1337 files/aXXX
+ -d -q -p files/aXXX
+ -d -q -t files/aXXX
+ -d -q --help files/aXXX
+ -d -q --version files/aXXX
+ -d -q --backup=none files/aXXX
+ -d -q --backup=simple files/aXXX
+ -d -q --backup=existing files/aXXX
+ -d -q --backup=numbered files/aXXX
+ -d --suffix 1337 -p files/aXXX
+ -d --suffix 1337 -t files/aXXX
+ -d --suffix 1337 --help files/aXXX
+ -d --suffix 1337 --version files/aXXX
+ -d --suffix 1337 --backup=none files/aXXX
+ -d --suffix 1337 --backup=simple files/aXXX
+ -d --suffix 1337 --backup=existing files/aXXX
+ -d --suffix 1337 --backup=numbered files/aXXX
+ -d -p -t files/aXXX
+ -d -p --help files/aXXX
+ -d -p --version files/aXXX
+ -d -p --backup=none files/aXXX
+ -d -p --backup=simple files/aXXX
+ -d -p --backup=existing files/aXXX
+ -d -p --backup=numbered files/aXXX
+ -d -t --help files/aXXX
+ -d -t --version files/aXXX
+ -d -t --backup=none files/aXXX
+ -d -t --backup=simple files/aXXX
+ -d -t --backup=existing files/aXXX
+ -d -t --backup=numbered files/aXXX
+ -d --help --version files/aXXX
+ -d --help --backup=none files/aXXX
+ -d --help --backup=simple files/aXXX
+ -d --help --backup=existing files/aXXX
+ -d --help --backup=numbered files/aXXX
+ -d --version --backup=none files/aXXX
+ -d --version --backup=simple files/aXXX
+ -d --version --backup=existing files/aXXX
+ -d --version --backup=numbered files/aXXX
+ -d --backup=none --backup=simple files/aXXX
+ -d --backup=none --backup=existing files/aXXX
+ -d --backup=none --backup=numbered files/aXXX
+ -d --backup=simple --backup=existing files/aXXX
+ -d --backup=simple --backup=numbered files/aXXX
+ -d --backup=existing --backup=numbered files/aXXX
+ -u -q --suffix 1337 files/aXXX
+ -u -q -p files/aXXX
+ -u -q -t files/aXXX
+ -u -q --help files/aXXX
+ -u -q --version files/aXXX
+ -u -q --backup=none files/aXXX
+ -u -q --backup=simple files/aXXX
+ -u -q --backup=existing files/aXXX
+ -u -q --backup=numbered files/aXXX
+ -u --suffix 1337 -p files/aXXX
+ -u --suffix 1337 -t files/aXXX
+ -u --suffix 1337 --help files/aXXX
+ -u --suffix 1337 --version files/aXXX
+ -u --suffix 1337 --backup=none files/aXXX
+ -u --suffix 1337 --backup=simple files/aXXX
+ -u --suffix 1337 --backup=existing files/aXXX
+ -u --suffix 1337 --backup=numbered files/aXXX
+ -u -p -t files/aXXX
+ -u -p --help files/aXXX
+ -u -p --version files/aXXX
+ -u -p --backup=none files/aXXX
+ -u -p --backup=simple files/aXXX
+ -u -p --backup=existing files/aXXX
+ -u -p --backup=numbered files/aXXX
+ -u -t --help files/aXXX
+ -u -t --version files/aXXX
+ -u -t --backup=none files/aXXX
+ -u -t --backup=simple files/aXXX
+ -u -t --backup=existing files/aXXX
+ -u -t --backup=numbered files/aXXX
+ -u --help --version files/aXXX
+ -u --help --backup=none files/aXXX
+ -u --help --backup=simple files/aXXX
+ -u --help --backup=existing files/aXXX
+ -u --help --backup=numbered files/aXXX
+ -u --version --backup=none files/aXXX
+ -u --version --backup=simple files/aXXX
+ -u --version --backup=existing files/aXXX
+ -u --version --backup=numbered files/aXXX
+ -u --backup=none --backup=simple files/aXXX
+ -u --backup=none --backup=existing files/aXXX
+ -u --backup=none --backup=numbered files/aXXX
+ -u --backup=simple --backup=existing files/aXXX
+ -u --backup=simple --backup=numbered files/aXXX
+ -u --backup=existing --backup=numbered files/aXXX
+ -q --suffix 1337 -p files/aXXX
+ -q --suffix 1337 -t files/aXXX
+ -q --suffix 1337 --help files/aXXX
+ -q --suffix 1337 --version files/aXXX
+ -q --suffix 1337 --backup=none files/aXXX
+ -q --suffix 1337 --backup=simple files/aXXX
+ -q --suffix 1337 --backup=existing files/aXXX
+ -q --suffix 1337 --backup=numbered files/aXXX
+ -q -p -t files/aXXX
+ -q -p --help files/aXXX
+ -q -p --version files/aXXX
+ -q -p --backup=none files/aXXX
+ -q -p --backup=simple files/aXXX
+ -q -p --backup=existing files/aXXX
+ -q -p --backup=numbered files/aXXX
+ -q -t --help files/aXXX
+ -q -t --version files/aXXX
+ -q -t --backup=none files/aXXX
+ -q -t --backup=simple files/aXXX
+ -q -t --backup=existing files/aXXX
+ -q -t --backup=numbered files/aXXX
+ -q --help --version files/aXXX
+ -q --help --backup=none files/aXXX
+ -q --help --backup=simple files/aXXX
+ -q --help --backup=existing files/aXXX
+ -q --help --backup=numbered files/aXXX
+ -q --version --backup=none files/aXXX
+ -q --version --backup=simple files/aXXX
+ -q --version --backup=existing files/aXXX
+ -q --version --backup=numbered files/aXXX
+ -q --backup=none --backup=simple files/aXXX
+ -q --backup=none --backup=existing files/aXXX
+ -q --backup=none --backup=numbered files/aXXX
+ -q --backup=simple --backup=existing files/aXXX
+ -q --backup=simple --backup=numbered files/aXXX
+ -q --backup=existing --backup=numbered files/aXXX
+ --suffix 1337 -p -t files/aXXX
+ --suffix 1337 -p --help files/aXXX
+ --suffix 1337 -p --version files/aXXX
+ --suffix 1337 -p --backup=none files/aXXX
+ --suffix 1337 -p --backup=simple files/aXXX
+ --suffix 1337 -p --backup=existing files/aXXX
+ --suffix 1337 -p --backup=numbered files/aXXX
+ --suffix 1337 -t --help files/aXXX
+ --suffix 1337 -t --version files/aXXX
+ --suffix 1337 -t --backup=none files/aXXX
+ --suffix 1337 -t --backup=simple files/aXXX
+ --suffix 1337 -t --backup=existing files/aXXX
+ --suffix 1337 -t --backup=numbered files/aXXX
+ --suffix 1337 --help --version files/aXXX
+ --suffix 1337 --help --backup=none files/aXXX
+ --suffix 1337 --help --backup=simple files/aXXX
+ --suffix 1337 --help --backup=existing files/aXXX
+ --suffix 1337 --help --backup=numbered files/aXXX
+ --suffix 1337 --version --backup=none files/aXXX
+ --suffix 1337 --version --backup=simple files/aXXX
+ --suffix 1337 --version --backup=existing files/aXXX
+ --suffix 1337 --version --backup=numbered files/aXXX
+ --suffix 1337 --backup=none --backup=simple files/aXXX
+ --suffix 1337 --backup=none --backup=existing files/aXXX
+ --suffix 1337 --backup=none --backup=numbered files/aXXX
+ --suffix 1337 --backup=simple --backup=existing files/aXXX
+ --suffix 1337 --backup=simple --backup=numbered files/aXXX
+ --suffix 1337 --backup=existing --backup=numbered files/aXXX
+ -p -t --help files/aXXX
+ -p -t --version files/aXXX
+ -p -t --backup=none files/aXXX
+ -p -t --backup=simple files/aXXX
+ -p -t --backup=existing files/aXXX
+ -p -t --backup=numbered files/aXXX
+ -p --help --version files/aXXX
+ -p --help --backup=none files/aXXX
+ -p --help --backup=simple files/aXXX
+ -p --help --backup=existing files/aXXX
+ -p --help --backup=numbered files/aXXX
+ -p --version --backup=none files/aXXX
+ -p --version --backup=simple files/aXXX
+ -p --version --backup=existing files/aXXX
+ -p --version --backup=numbered files/aXXX
+ -p --backup=none --backup=simple files/aXXX
+ -p --backup=none --backup=existing files/aXXX
+ -p --backup=none --backup=numbered files/aXXX
+ -p --backup=simple --backup=existing files/aXXX
+ -p --backup=simple --backup=numbered files/aXXX
+ -p --backup=existing --backup=numbered files/aXXX
+ -t --help --version files/aXXX
+ -t --help --backup=none files/aXXX
+ -t --help --backup=simple files/aXXX
+ -t --help --backup=existing files/aXXX
+ -t --help --backup=numbered files/aXXX
+ -t --version --backup=none files/aXXX
+ -t --version --backup=simple files/aXXX
+ -t --version --backup=existing files/aXXX
+ -t --version --backup=numbered files/aXXX
+ -t --backup=none --backup=simple files/aXXX
+ -t --backup=none --backup=existing files/aXXX
+ -t --backup=none --backup=numbered files/aXXX
+ -t --backup=simple --backup=existing files/aXXX
+ -t --backup=simple --backup=numbered files/aXXX
+ -t --backup=existing --backup=numbered files/aXXX
+ --help --version --backup=none files/aXXX
+ --help --version --backup=simple files/aXXX
+ --help --version --backup=existing files/aXXX
+ --help --version --backup=numbered files/aXXX
+ --help --backup=none --backup=simple files/aXXX
+ --help --backup=none --backup=existing files/aXXX
+ --help --backup=none --backup=numbered files/aXXX
+ --help --backup=simple --backup=existing files/aXXX
+ --help --backup=simple --backup=numbered files/aXXX
+ --help --backup=existing --backup=numbered files/aXXX
+ --version --backup=none --backup=simple files/aXXX
+ --version --backup=none --backup=existing files/aXXX
+ --version --backup=none --backup=numbered files/aXXX
+ --version --backup=simple --backup=existing files/aXXX
+ --version --backup=simple --backup=numbered files/aXXX
+ --version --backup=existing --backup=numbered files/aXXX
+ --backup=none --backup=simple --backup=existing files/aXXX
+ --backup=none --backup=simple --backup=numbered files/aXXX
+ --backup=none --backup=existing --backup=numbered files/aXXX
+ --backup=simple --backup=existing --backup=numbered files/aXXX

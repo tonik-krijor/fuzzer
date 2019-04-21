@@ -24,29 +24,29 @@
  -e -E --version 
  -e --help --version 
  -E --help --version 
- files
- -n files
- -e files
- -E files
- --help files
- --version files
- -n -e files
- -n -E files
- -n --help files
- -n --version files
- -e -E files
- -e --help files
- -e --version files
- -E --help files
- -E --version files
- --help --version files
- -n -e -E files
- -n -e --help files
- -n -e --version files
- -n -E --help files
- -n -E --version files
- -n --help --version files
- -e -E --help files
- -e -E --version files
- -e --help --version files
- -E --help --version files
+ a
+ -n a
+ -e a
+ -E a
+ --help a
+ --version a
+ -n -e a
+ -n -E a
+ -n --help a
+ -n --version a
+ -e -E a
+ -e --help a
+ -e --version a
+ -E --help a
+ -E --version a
+ --help --version a
+ -n -e -E a
+ -n -e --help a
+ -n -e --version a
+ -n -E --help a
+ -n -E --version a
+ -n --help --version a
+ -e -E --help a
+ -e -E --version a
+ -e --help --version a
+ -E --help --version a

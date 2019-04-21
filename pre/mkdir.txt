@@ -62,67 +62,131 @@
  -Z --context CTX --version 
  -Z --help --version 
  --context CTX --help --version 
- files/d1
- -m 666 files/d1
- -p files/d1
- -v files/d1
- -Z files/d1
- --context CTX files/d1
- --help files/d1
- --version files/d1
- -m 666 -p files/d1
- -m 666 -v files/d1
- -m 666 -Z files/d1
- -m 666 --context CTX files/d1
- -m 666 --help files/d1
- -m 666 --version files/d1
- -p -v files/d1
- -p -Z files/d1
- -p --context CTX files/d1
- -p --help files/d1
- -p --version files/d1
- -v -Z files/d1
- -v --context CTX files/d1
- -v --help files/d1
- -v --version files/d1
- -Z --context CTX files/d1
- -Z --help files/d1
- -Z --version files/d1
- --context CTX --help files/d1
- --context CTX --version files/d1
- --help --version files/d1
- -m 666 -p -v files/d1
- -m 666 -p -Z files/d1
- -m 666 -p --context CTX files/d1
- -m 666 -p --help files/d1
- -m 666 -p --version files/d1
- -m 666 -v -Z files/d1
- -m 666 -v --context CTX files/d1
- -m 666 -v --help files/d1
- -m 666 -v --version files/d1
- -m 666 -Z --context CTX files/d1
- -m 666 -Z --help files/d1
- -m 666 -Z --version files/d1
- -m 666 --context CTX --help files/d1
- -m 666 --context CTX --version files/d1
- -m 666 --help --version files/d1
- -p -v -Z files/d1
- -p -v --context CTX files/d1
- -p -v --help files/d1
- -p -v --version files/d1
- -p -Z --context CTX files/d1
- -p -Z --help files/d1
- -p -Z --version files/d1
- -p --context CTX --help files/d1
- -p --context CTX --version files/d1
- -p --help --version files/d1
- -v -Z --context CTX files/d1
- -v -Z --help files/d1
- -v -Z --version files/d1
- -v --context CTX --help files/d1
- -v --context CTX --version files/d1
- -v --help --version files/d1
- -Z --context CTX --help files/d1
- -Z --context CTX --version files/d1
- -Z --help --version files/d1
- --context CTX --help --version files/d1
+ files/d3
+ -m 666 files/d3
+ -p files/d3
+ -v files/d3
+ -Z files/d3
+ --context CTX files/d3
+ --help files/d3
+ --version files/d3
+ -m 666 -p files/d3
+ -m 666 -v files/d3
+ -m 666 -Z files/d3
+ -m 666 --context CTX files/d3
+ -m 666 --help files/d3
+ -m 666 --version files/d3
+ -p -v files/d3
+ -p -Z files/d3
+ -p --context CTX files/d3
+ -p --help files/d3
+ -p --version files/d3
+ -v -Z files/d3
+ -v --context CTX files/d3
+ -v --help files/d3
+ -v --version files/d3
+ -Z --context CTX files/d3
+ -Z --help files/d3
+ -Z --version files/d3
+ --context CTX --help files/d3
+ --context CTX --version files/d3
+ --help --version files/d3
+ -m 666 -p -v files/d3
+ -m 666 -p -Z files/d3
+ -m 666 -p --context CTX files/d3
+ -m 666 -p --help files/d3
+ -m 666 -p --version files/d3
+ -m 666 -v -Z files/d3
+ -m 666 -v --context CTX files/d3
+ -m 666 -v --help files/d3
+ -m 666 -v --version files/d3
+ -m 666 -Z --context CTX files/d3
+ -m 666 -Z --help files/d3
+ -m 666 -Z --version files/d3
+ -m 666 --context CTX --help files/d3
+ -m 666 --context CTX --version files/d3
+ -m 666 --help --version files/d3
+ -p -v -Z files/d3
+ -p -v --context CTX files/d3
+ -p -v --help files/d3
+ -p -v --version files/d3
+ -p -Z --context CTX files/d3
+ -p -Z --help files/d3
+ -p -Z --version files/d3
+ -p --context CTX --help files/d3
+ -p --context CTX --version files/d3
+ -p --help --version files/d3
+ -v -Z --context CTX files/d3
+ -v -Z --help files/d3
+ -v -Z --version files/d3
+ -v --context CTX --help files/d3
+ -v --context CTX --version files/d3
+ -v --help --version files/d3
+ -Z --context CTX --help files/d3
+ -Z --context CTX --version files/d3
+ -Z --help --version files/d3
+ --context CTX --help --version files/d3
+ files/d3 files/d4
+ -m 666 files/d3 files/d4
+ -p files/d3 files/d4
+ -v files/d3 files/d4
+ -Z files/d3 files/d4
+ --context CTX files/d3 files/d4
+ --help files/d3 files/d4
+ --version files/d3 files/d4
+ -m 666 -p files/d3 files/d4
+ -m 666 -v files/d3 files/d4
+ -m 666 -Z files/d3 files/d4
+ -m 666 --context CTX files/d3 files/d4
+ -m 666 --help files/d3 files/d4
+ -m 666 --version files/d3 files/d4
+ -p -v files/d3 files/d4
+ -p -Z files/d3 files/d4
+ -p --context CTX files/d3 files/d4
+ -p --help files/d3 files/d4
+ -p --version files/d3 files/d4
+ -v -Z files/d3 files/d4
+ -v --context CTX files/d3 files/d4
+ -v --help files/d3 files/d4
+ -v --version files/d3 files/d4
+ -Z --context CTX files/d3 files/d4
+ -Z --help files/d3 files/d4
+ -Z --version files/d3 files/d4
+ --context CTX --help files/d3 files/d4
+ --context CTX --version files/d3 files/d4
+ --help --version files/d3 files/d4
+ -m 666 -p -v files/d3 files/d4
+ -m 666 -p -Z files/d3 files/d4
+ -m 666 -p --context CTX files/d3 files/d4
+ -m 666 -p --help files/d3 files/d4
+ -m 666 -p --version files/d3 files/d4
+ -m 666 -v -Z files/d3 files/d4
+ -m 666 -v --context CTX files/d3 files/d4
+ -m 666 -v --help files/d3 files/d4
+ -m 666 -v --version files/d3 files/d4
+ -m 666 -Z --context CTX files/d3 files/d4
+ -m 666 -Z --help files/d3 files/d4
+ -m 666 -Z --version files/d3 files/d4
+ -m 666 --context CTX --help files/d3 files/d4
+ -m 666 --context CTX --version files/d3 files/d4
+ -m 666 --help --version files/d3 files/d4
+ -p -v -Z files/d3 files/d4
+ -p -v --context CTX files/d3 files/d4
+ -p -v --help files/d3 files/d4
+ -p -v --version files/d3 files/d4
+ -p -Z --context CTX files/d3 files/d4
+ -p -Z --help files/d3 files/d4
+ -p -Z --version files/d3 files/d4
+ -p --context CTX --help files/d3 files/d4
+ -p --context CTX --version files/d3 files/d4
+ -p --help --version files/d3 files/d4
+ -v -Z --context CTX files/d3 files/d4
+ -v -Z --help files/d3 files/d4
+ -v -Z --version files/d3 files/d4
+ -v --context CTX --help files/d3 files/d4
+ -v --context CTX --version files/d3 files/d4
+ -v --help --version files/d3 files/d4
+ -Z --context CTX --help files/d3 files/d4
+ -Z --context CTX --version files/d3 files/d4
+ -Z --help --version files/d3 files/d4
+ --context CTX --help --version files/d3 files/d4

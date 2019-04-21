@@ -1,5 +1,4 @@
-
---backup=none
+--backup=numbered
 -f
 -i
 --strip-trailing-slashes

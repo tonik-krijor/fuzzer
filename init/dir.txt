@@ -1,0 +1,92 @@
+
+-a
+-A
+--author
+-b
+--block-size=K
+-B
+-c
+-C
+--color=never
+--color=auto
+--color=always
+-d
+-D
+-f
+-F
+--file-type
+--format=verbose
+--format=commas
+--format=horizontal
+--format=single-column
+--full-time
+-g
+--group-directories-first
+-G
+-h
+--si
+-H
+--dereference-command-line-symlink-to-dir
+--hide=a
+--hyperlink=always
+--indicator-style=none
+-i
+-I a
+-k
+-l
+-L
+-m
+-N
+-o
+-p
+-q
+--show-control-chars
+-Q
+--quoting-style=literal
+-r
+-R
+-s
+-S
+--sort=none
+--sort=time
+--sort=extension
+--sort=version
+--time=atime
+--time-style=full-iso
+-t
+-T 1
+-u
+-U
+-v
+-w 1
+-x
+-X
+-Z
+-1
+--author --format=verbose
+-c --format=verbose
+-c -L
+-c -R
+-d -H
+-d --dereference-command-line-symlink-to-dir
+-D --format=verbose
+-f --format=single-column
+-F --format=verbose
+-F -R
+--format=verbose -i
+--format=verbose -L
+--format=verbose -R
+--format=verbose -s
+--format=verbose --time=atime
+--format=verbose -Z
+--format=commas -i
+--format=commas -s
+--group-directories-first --sort=version
+--indicator-style=slash -R
+-N -q
+-r --sort=version
+-F --format=verbose -R
+--format=verbose -R -s
+--group-directories-first -r --sort=version
+-N -q -R
+files/d1

@@ -75,16 +75,20 @@
 -d --dereference-command-line-symlink-to-dir
 -D --format=verbose
 -F --format=verbose
+-F -R
 --format=verbose -i
 --format=verbose -L
+--format=verbose -R
 --format=verbose -s
 --format=verbose --time=atime
 --format=verbose -Z
 --format=commas -i
 --format=commas -s
 --group-directories-first --sort=version
+--indicator-style=slash -R
 -q -R
 -r --sort=version
+-F --format=verbose -R
 --format=verbose -R -s
 --group-directories-first -r --sort=version
 files/d1

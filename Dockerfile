@@ -6,7 +6,8 @@ RUN apk add --no-cache \
   acl-dev \
   attr-dev \ 
   gmp-dev \ 
-  libcap-dev \ 
+  libcap-dev \
+  bc \
   perl \
   bash \
   vim

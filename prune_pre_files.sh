@@ -18,5 +18,9 @@ do
     cov_target="ls"
   fi
 
+  if [[ "$binary" == "false" ]]; then
+    cov_target="true"
+  fi
+
   docker run --rm fuzz ./prune.sh coreutils/src/$binary $cov_target pre/$binary.txt > init/$binary.txt
 done

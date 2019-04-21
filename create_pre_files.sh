@@ -47,23 +47,26 @@ vdir_out="pre/vdir.txt"
 # cat
 {
   mixemup $cat_in --max-args 3 &&
-  mixemup $cat_in --postfix files/f1 --max-args 3;
+  mixemup $cat_in --postfix files --max-args 3  &&
+  mixemup $cat_in --postfix files/f1 --max-args 3 &&
+  mixemup $cat_in --postfix "files/f1 files/f2"  --max-args 3;
 } > $cat_out
 
 # cp
 {
   mixemup $cp_in --max-args 3 &&
-  mixemup $cp_in --postfix "files/f1 files/f2" --max-args 3;
+  mixemup $cp_in --postfix files/f1 --max-args 3 &&
+  mixemup $cp_in --postfix "files/f1 files/f3" --max-args 3;
 } > $cp_out
 
 # date
 {
-  mixemup $date_in --max-args 3;
+  mixemup $date_in --max-args 3
 } > $date_out
 
 # dd
 { 
-  mixemup $dd_in --max-args 3 --postfix "if=files/f1 of=files/f2";
+  mixemup $dd_in --max-args 3 --postfix "if=files/f1 of=files/f3";
 } > $dd_out
 
 # df
@@ -74,62 +77,66 @@ vdir_out="pre/vdir.txt"
 # dir
 { 
   mixemup $dir_in --max-args 3 &&
-  mixemup $dir_in --max-args 3 --postfix files;
+  mixemup $dir_in --max-args 3 --postfix files/d1;
+  mixemup $dir_in --max-args 3 --postfix "files/d1 files/d2";
 } > $dir_out
 
 # echo
 { 
   mixemup $echo_in --max-args 3 &&
-  mixemup $echo_in --max-args 3 --postfix files;
+  mixemup $echo_in --max-args 3 --postfix a;
 } > $echo_out
 
 # false
 { 
   mixemup $false_in --max-args 3 &&
-  mixemup $false_in --max-args 3 --postfix files;
+  mixemup $false_in --max-args 3 --postfix a;
 } > $false_out
 
 # ln
 { 
   mixemup $ln_in --max-args 3 &&
-  mixemup $ln_in --max-args 3 --postfix "files/f1 files/f2";
+  mixemup $ln_in --max-args 3 --postfix "files/f1 files/f3";
 } > $ln_out
 
 # ls
 { 
   mixemup $ls_in --max-args 3 &&
-  mixemup $ls_in --max-args 3 --postfix files/d1;
+  mixemup $ls_in --max-args 3 --postfix files/d1 &&
   mixemup $ls_in --max-args 3 --postfix "files/d1 files/d2";
 } > $ls_out
 
 # mkdir
 {
   mixemup $mkdir_in --max-args 3 &&
-  mixemup $mkdir_in --postfix files/d1 --max-args 3; 
+  mixemup $mkdir_in --postfix files/d3 --max-args 3 &&
+  mixemup $mkdir_in --postfix "files/d3 files/d4" --max-args 3; 
 } > $mkdir_out
 
 # mktemp
 { 
   mixemup $mktemp_in --max-args 3 &&
-  mixemup $mktemp_in --postfix helloXXXXXX --max-args 3;
+  mixemup $mktemp_in --postfix files/a --max-args 3 &&
+  mixemup $mktemp_in --postfix files/aXXX --max-args 3;
 } > $mktemp_out
 
 # mv
 {
   mixemup $mv_in --max-args 3 &&
-  mixemup $mv_in --postfix files/d3 --max-args 3;
+  mixemup $mv_in --postfix files/d1 --max-args 3 &&
+  mixemup $mv_in --postfix "files/d1 files/d3" --max-args 3;
 } > $mv_out
 
 # printf
 {
   mixemup $printf_in --max-args 3 &&
-  mixemup $printf_in --postfix helloworld --max-args 3;
+  mixemup $printf_in --postfix a --max-args 3;
 } > $printf_out
 
 # pwd
 {
   mixemup $pwd_in --max-args 3 &&
-  mixemup $pwd_in --postfix helloworld --max-args 3;
+  mixemup $pwd_in --postfix a --max-args 3;
 } > $pwd_out
 
 # sleep
@@ -148,17 +155,18 @@ vdir_out="pre/vdir.txt"
 # true
 {
   mixemup $true_in --max-args 3 &&
-  mixemup $true_in --postfix helloworld --max-args 3;
+  mixemup $true_in --postfix a --max-args 3;
 } > $true_out
 
 # uname
 {
   mixemup $uname_in --max-args 3 &&
-  mixemup $uname_in --postfix helloworld --max-args 3;
+  mixemup $uname_in --postfix a --max-args 3;
 } > $uname_out
 
 # vdir
 {
   mixemup $vdir_in --max-args 3 &&
-  mixemup $vdir_in --postfix helloworld --max-args 3;
+  mixemup $vdir_in --postfix files/d1 --max-args 3 &&
+  mixemup $vdir_in --postfix "files/d1 files/d2" --max-args 3;
 } > $vdir_out

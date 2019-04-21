@@ -53,5 +53,6 @@ ENV PATH /app/radamsa/bin:$PATH
 COPY --chown=appuser files files
 COPY --chown=appuser *.sh ./
 COPY --chown=appuser pre pre
+COPY --chown=appuser init init
 
 CMD [ "/bin/bash" ]

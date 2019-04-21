@@ -10,5 +10,13 @@ declare -a binaries=("cat" "cp" "date" "dd" "df" "dir" "echo"
 for binary in "${binaries[@]}"
 do
   echo "Pruning $binary"
-  docker run --rm fuzz ./prune.sh coreutils/src/$binary $binary pre/$binary.txt > init/$binary.txt
+
+  cov_target=$binary
+
+  # dir and vdir are aliases for ls
+  if [[ "$binary" == "dir" ]] || [ "$binary" == "vdir" ]; then
+    cov_target="ls"
+  fi
+
+  docker run --rm fuzz ./prune.sh coreutils/src/$binary $cov_target pre/$binary.txt > init/$binary.txt
 done

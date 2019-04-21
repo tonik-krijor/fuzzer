@@ -33,6 +33,14 @@ RUN cd coreutils && ./configure CFLAGS=--coverage
 RUN make -C coreutils
 ENV SRC /app/coreutils/src
 
+# Create coverage links for `dir` command.
+RUN ln -s $SRC/ls.gcno $SRC/dir.gcno
+RUN ln -s $SRC/ls.gcda $SRC/dir.gcda
+
+# Create coverage links for `vdir` command.
+RUN ln -s $SRC/ls.gcno $SRC/vdir.gcno
+RUN ln -s $SRC/ls.gcda $SRC/vdir.gcda
+
 # Download radamsa
 RUN mkdir radamsa
 RUN wget -qO- https://gitlab.com/akihe/radamsa/-/archive/develop/radamsa-develop.tar.gz | tar --strip-components 1 -C $PWD/radamsa -xzf -

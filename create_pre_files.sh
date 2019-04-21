@@ -46,7 +46,6 @@ vdir_out="pre/vdir.txt"
 
 # cat
 {
-  mixemup $cat_in --max-args 3 &&
   mixemup $cat_in --postfix files --max-args 3  &&
   mixemup $cat_in --postfix files/f1 --max-args 3 &&
   mixemup $cat_in --postfix "files/f1 files/f2"  --max-args 3;

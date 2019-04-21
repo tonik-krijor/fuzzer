@@ -10,5 +10,5 @@ declare -a binaries=("cat" "cp" "date" "dd" "df" "dir" "echo"
 for binary in "${binaries[@]}"
 do
   echo "Pruning $binary"
-  docker run fuzz ./prune.sh coreutils/src/$binary $binary pre/$binary.txt > init/$binary.txt
+  docker run --rm fuzz ./prune.sh coreutils/src/$binary $binary pre/$binary.txt > init/$binary.txt
 done

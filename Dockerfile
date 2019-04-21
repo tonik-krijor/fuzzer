@@ -54,5 +54,6 @@ COPY --chown=appuser files files
 COPY --chown=appuser *.sh ./
 COPY --chown=appuser pre pre
 COPY --chown=appuser init init
+COPY --chown=appuser final final
 
 CMD [ "/bin/bash" ]

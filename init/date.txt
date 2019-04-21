@@ -1,0 +1,14 @@
+
+-d 2000-01-01
+--debug
+-f files/df
+-I
+-Ihours
+-R
+--rfc-3339=date
+-r files/df
+-s 2000-01-01
+-u
+-d 2000-01-01 -f files/df
+-d 2000-01-01 -s 2000-01-01
+-I -Ihours

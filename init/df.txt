@@ -1,0 +1,23 @@
+
+-a
+-B 1G
+-h
+-H
+-i
+-k
+-l
+--no-sync
+--output=source
+--output=fstype
+--output=size
+--output=avail
+--output=file
+-P
+--sync
+--total
+-t tmpfs
+-x tmpfs
+-v
+-i --output=source
+--output=source -P
+-t tmpfs -x tmpfs

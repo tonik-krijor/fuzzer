@@ -1,0 +1,13 @@
+
+-d
+-u
+-q
+--suffix 1337
+-p
+-t
+-p -t
+-d -p -t
+files/a
+--suffix 1337 files/a
+-t files/aXXX-p-t- -t
+- t

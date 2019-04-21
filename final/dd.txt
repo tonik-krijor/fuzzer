@@ -1,0 +1,62 @@
+if=files/f1 of=files/f3
+bs=512 if=files/f1 of=files/f3
+cbs=10 if=files/f1 of=files/f3
+conv=ascii if=files/f1 of=files/f3
+conv=ebcdic if=files/f1 of=files/f3
+conv=ibm if=files/f1 of=files/f3
+conv=lcase if=files/f1 of=files/f3
+conv=ucase if=files/f1 of=files/f3
+conv=swab if=files/f1 of=files/f3
+conv=sync if=files/f1 of=files/f3
+conv=excl if=files/f1 of=files/f3
+conv=fsync if=files/f1 of=files/f3
+count=10 if=files/f1 of=files/f3
+iflag=append if=files/f1 of=files/f3
+iflag=cio if=files/f1 of=files/f3
+iflag=direct if=files/f1 of=files/f3
+iflag=directory if=files/f1 of=files/f3
+iflag=dsync if=files/f1 of=files/f3
+iflag=nocache if=files/f1 of=files/f3
+iflag=fullblock if=files/f1 of=files/f3
+iflag=seek_bytes if=files/f1 of=files/f3
+obs=512 if=files/f1 of=files/f3
+oflag=append if=files/f1 of=files/f3
+oflag=direct if=files/f1 of=files/f3
+oflag=nocache if=files/f1 of=files/f3
+oflag=fullblock if=files/f1 of=files/f3
+oflag=count_bytes if=files/f1 of=files/f3
+seek=1 if=files/f1 of=files/f3
+skip=1 if=files/f1 of=files/f3
+status=none if=files/f1 of=files/f3
+status=noxfer if=files/f1 of=files/f3
+status=progress if=files/f1 of=files/f3
+--help if=files/f1 of=files/f3
+bs=512 conv=sync if=files/f1 of=files/f3
+bs=512 count=10 if=files/f1 of=files/f3
+cbs=10 conv=ascii if=files/f1 of=files/f3
+cbs=10 conv=ebcdic if=files/f1 of=files/f3
+cbs=10 conv=unblock if=files/f1 of=files/f3
+conv=ascii conv=ebcdic if=files/f1 of=files/f3
+conv=lcase conv=ucase if=files/f1 of=files/f3
+conv=sync conv=noerror if=files/f1 of=files/f3
+conv=excl conv=nocreat if=files/f1 of=files/f3
+conv=noerror iflag=direct if=files/f1 of=files/f3
+count=10 iflag=nocache if=files/f1 of=files/f3
+count=10 iflag=count_bytes if=files/f1 of=files/f3
+count=10 oflag=nocache if=files/f1 of=files/f3
+iflag=direct iflag=nocache if=files/f1 of=files/f3
+iflag=direct iflag=fullblock if=files/f1 of=files/f3
+iflag=skip_bytes skip=1 if=files/f1 of=files/f3
+oflag=seek_bytes seek=1 if=files/f1 of=files/f3
+cbs=10 conv=ascii conv=block if=files/f1 of=files/f3
+cbs=10 conv=ascii conv=swab if=files/f1 of=files/f3
+cbs=10 conv=ebcdic conv=swab if=files/f1 of=files/f3i᠎f=files/f1 of=files/f3
+bs=-2147483647 if=files/f32768󠁃 of=files/f587640654
+bs=376595527780693384 if=files/f0 of=files/f2
+cbs=4294967297 if=files/f0 offiles/f2147483648
+obs=376595527780693384 if=files/f0 of=files/f2
+seek=256 if=files/f1 of=files/f0
+seek=1 if=files/f0 of=files/f4
+seek=9223372036854775808 if=files/f1 of=files/f5
+skip=9223372036854775808 if=files/f1 of=files/f5
+bs=9223372036854775810 count=2147483648 if=files/f2147483647 of=files/f1048458656845ᅠ6794721

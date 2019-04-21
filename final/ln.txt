@@ -1,0 +1,36 @@
+
+--backup=none
+-d
+-f
+-i
+-L
+-P
+-r
+-s
+-S x
+-t files
+-T
+-v
+files/f1 files/f3
+--backup=none files/f1 files/f3
+--backup=simple files/f1 files/f3
+--backup=never files/f1 files/f3
+-i files/f1 files/f3
+-r files/f1 files/f3
+-s files/f1 files/f3
+-S x files/f1 files/f3
+-t files files/f1 files/f3
+-T files/f1 files/f3
+--backup=simple -t files files/f1 files/f3
+--backup=simple -v files/f1 files/f3
+-f -t files files/f1 files/f3
+-r -s files/f1 files/f3
+-t files -T files/f1 files/f3
+--backup=never -i -L files/f1 files/f3Ôª
+--bacÔªøkuone
+Û†Å≥‚ÄÖ -r
+- x- x
+-t Ôªøfes
+ÌÛ†Åù∫≠‡‚Å¶ø≠-‚Ä≠t files
+Û†Å≥‚ÄÖ -T
+files/f1 files/f+/v94

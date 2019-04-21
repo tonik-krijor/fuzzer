@@ -1,0 +1,19 @@
+-a
+-c
+-d 2000-01-01
+-f
+-h
+-m
+-r file/file1
+-t 201901010000.00
+--time=access
+-d 2000-01-01 -t 201901010000.00
+files/f1
+-a files/f1
+-c files/f1
+-m files/f1-ï»a
+-
+-d 2000-01--123554
+-t 2147483776.00
+file/f255
+-c fis/f255

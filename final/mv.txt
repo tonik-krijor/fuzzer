@@ -1,0 +1,18 @@
+--backup=numbered
+-f
+-i
+--strip-trailing-slashes
+-S=q
+-t=files
+-T
+-u
+-v
+-Z
+files/d1
+files/d1 files/d3
+--backup=none files/d1 files/d3
+--strip-trailing-slashes files/d1 files/d3
+-S=q files/d1 files/d3
+-T files/d1 files/d3
+--backup=none -n files/d1 files/d3--backu﻿p=nred
+᠎-T files/d1 files/d3᠎-T file󠁝s/d1󠁝  �‎�files/󠁻d2

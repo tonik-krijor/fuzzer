@@ -1,0 +1,99 @@
+
+-a
+-A
+--author
+-b
+--block-size=1024
+-B
+-c
+-C
+--color=alway
+--color=auto
+-d
+-D
+-f
+-F
+--file-type
+--format=verbose
+--format=commas
+--format=horizontal
+--full-time
+-g
+--group-directories-first
+-G
+-h
+--si
+-H
+--dereference-command-line-symlink-to-dir
+--hide=a
+--hyperlink=always
+--indicator-style=none
+-i
+-I a
+-k
+-l
+-L
+-m
+-N
+-o
+-p
+-q
+--show-control-chars
+-Q
+--quoting-style=literal
+-r
+-R
+-s
+-S
+--sort=none
+--sort=time
+--sort=extension
+--sort=version
+--time=atime
+--time-style=full-iso
+--time-style=posix-full-iso
+--time-style=long-iso
+--time-style=iso
+-t
+-T 2
+-u
+-U
+-v
+-w 0
+-x
+-X
+-Z
+-1
+-c -C
+-C -d
+-C -D
+-C -F
+-C --file-type
+-C -i
+-C -R
+-C -s
+-C --time=atime
+-C -w 0
+-C -Z
+-C -1
+-d -H
+-d --dereference-command-line-symlink-to-dir
+-F -R
+--format=commas -i
+--format=commas -s
+--format=horizontal -w 0
+--group-directories-first --sort=version
+--indicator-style=slash -R
+-N -q
+-r --sort=version
+-R -s
+-C -F -R
+--group-directories-first -r --sort=version
+-N -q -R
+files/d1�
+--block-size=-122531
+󠁳  -C
+-indicato-stylenone
+-show-cotrol-hars
+--time-style=ull-iso
+-w 18446744073709551616

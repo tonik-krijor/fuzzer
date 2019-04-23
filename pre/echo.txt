@@ -1,29 +1,31 @@
- 
- -n 
- -e 
- -E 
- --help 
- --version 
- -n -e 
- -n -E 
- -n --help 
- -n --version 
- -e -E 
- -e --help 
- -e --version 
- -E --help 
- -E --version 
- --help --version 
- -n -e -E 
- -n -e --help 
- -n -e --version 
- -n -E --help 
- -n -E --version 
- -n --help --version 
- -e -E --help 
- -e -E --version 
- -e --help --version 
- -E --help --version 
+ -e "\\ \a \b \c \e \f \c \n \r \t \v"
+ -n
+ -e
+ -E
+ -e "\0345"
+ -e "\xAB"
+ --help
+ --version
+ -n -e
+ -n -E
+ -n --help
+ -n --version
+ -e -E
+ -e --help
+ -e --version
+ -E --help
+ -E --version
+ --help --version
+ -n -e -E
+ -n -e --help
+ -n -e --version
+ -n -E --help
+ -n -E --version
+ -n --help --version
+ -e -E --help
+ -e -E --version
+ -e --help --version
+ -E --help --version
  a
  -n a
  -e a

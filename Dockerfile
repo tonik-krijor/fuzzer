@@ -7,6 +7,7 @@ RUN apk add --no-cache \
   attr-dev \ 
   gmp-dev \ 
   libcap-dev \
+  gawk \
   bc \
   perl \
   bash \

@@ -1,8 +1,17 @@
- 
- --help 
- --version 
- --help --version 
- a
- --help a
- --version a
- --help --version a
+
+"%s\n" "Hello, World!"
+"%10s -10s\n" "Hello" "World!"
+"%10s " "Hello" "World!"
+"%b" "Hello, World\n"
+"%b" "Hello, World!\n"
+"%q" "Hello, World!\n"
+"%c,%d,%e,%f,%i,%o,%u,%x\n" "a" "4" "0.67" "7.4444" "5" "100" "100" "100"
+"%-03c %03d  %03e  %-03.2f  %-+03i  %03o  %03u  %03x \n" "a" "4" "0.67" "7.4444" "5" "100" "100" "100"
+"\123 \x45 \u1234 \U12234" \" \\ \a \b \c \e \f \n \r \t \v %%"
+--help
+--version
+--help --version
+a
+--help a
+--version a
+--help --version a

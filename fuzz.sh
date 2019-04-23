@@ -7,9 +7,9 @@ else
     # Set dafualt values
     N=${3-3}
     SEED=${4-234}
-    cat $2 | while read line
+    cat $2 | while read -r line
     do
-        echo $line | radamsa -n $N --seed $SEED
+        echo "$line" | radamsa -n $N --seed $SEED
     done
 fi
 

@@ -1,6 +1,7 @@
+-e "\\ \a \b \c \e \f \c \n \r \t \v"
 
 
-
---help--help
---help --version
+-e "\0345"
+-e "\xAB"
+-n --help
 --help --version

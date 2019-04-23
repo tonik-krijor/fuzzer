@@ -1,6 +1,12 @@
+-e "\\ \a \b \c \e \f \c \n \r \t \v"
 
 
-
---help--help
---help --version
---help --version
+-e "\0345"
+-e "\xAB"
+-n --help
+--help --version-e "\\ \a \b \cï»¿ \e \f \c \n \r \t \v"
+-e "\2147483776"
+-e "\-123210"
+-e "\0"
+-e "\xAB"
+- --elp-e "\\ \a \b \„1•3cï»¿ \e \f \c \n \r \t ó €¶\v"
